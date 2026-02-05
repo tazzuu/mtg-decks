@@ -1,0 +1,119 @@
+[metadata]
+Name=Sid Meier's Magic: The Gathering
+Description={"ops":[{"insert":"This is a theme deck that's supposed to feel like playing a game of Civilization. We've got plenty of iconic Civ elements: barbarians, nuclear war, monuments, but most importantly we have multiple ways to win! If one doesn't work out for us, we can swap to the next, but the main goal is to ramp and bide our time into the late game. A "},{"attributes":{"color":"#e60000"},"insert":"Domination"},{"insert":" victory is easy to explain, that's just a normal life damage win. We can put tons of research points (mana) into our "},{"attributes":{"color":"#0066cc"},"insert":"Science "},{"insert":"victory ("},{"insert":{"card-link":"Helix Pinnacle"}},{"insert":") through the use of our space elevator ("},{"insert":{"card-link":"The Eternity Elevator"}},{"insert":") or we can go for a "},{"attributes":{"color":"#008a00"},"insert":"Diplomacy "},{"insert":"solution with "},{"insert":{"card-link":"Azor's Elocutors"}},{"insert":". "},{"insert":{"card-link":"Mechanized Production"}},{"insert":" serves as an "},{"attributes":{"color":"#ffff00"},"insert":"Economic"},{"insert":" victory (thanks Civ 7!), with "},{"insert":{"card-link":"Approach of the Second Sun"}},{"insert":" serving as that out-of-nowhere "},{"attributes":{"color":"#9933ff"},"insert":"Culture"},{"insert":" victory that can happen in many Civ 6 games. "},{"insert":{"card-link":"Maze's End"}},{"insert":" is our equivalent of a "},{"attributes":{"color":"#bbbbbb"},"insert":"Religious"},{"insert":" victory, building up enough temples (gates) to convert the table. Finally rounding us out we have "},{"insert":{"card-link":"Test of Endurance"}},{"insert":" to serve as our final, time's-up Score-based victory condition. We just need to outlast everyone else until we eventually can secure a win.\n\nMost of our gameplay will revolve around building monuments, creating armies through "},{"insert":{"card-link":"The Council of Four"}},{"insert":" and "},{"insert":{"card-link":"Alistair, the Brigadier"}},{"insert":", and drawing/discarding cards to fuel our various engines and little fiddly bits while gaining as much life as we can. I've done my best to ensure each card has a Civ inspiration or counterpart, which isn't making us the scariest deck in the world, but I think this is a huge flavor win. As far as I can tell, my only flavor fails are "},{"insert":{"card-link":"Surly Badgersaur"}},{"insert":" and "},{"insert":{"card-link":"Horizon Chimera"}},{"insert":"? They're helpful to the deck's strategies, and I'll take a hit there for a little bit more survivability.\n"}]}
+Format=commander
+Bracket=0
+Author=BanRE3
+Version=0
+URL=https://archidekt.com/decks/15287133
+Date=2025-12-25
+Created=2025-08-14
+Updated=2025-12-25
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Kynaios and Tiro of Meletis
+
+
+[Main]
+1 Alistair, the Brigadier|WHO|112
+1 Apothecary White|CLU|1
+1 Approach of the Second Sun|Q06|1
+1 Arcane Signet|CLB|298
+1 Archivist of Oghma
+1 Artist's Talent|BLB|124
+1 Authority of the Consuls|FDN|137
+1 Azor's Elocutors|RTR|210
+1 Azorius Guildgate|CLU|230
+1 Baldur's Gate|CLB|345
+1 Basilisk Gate|M3C|320
+1 Boros Guildgate|CLU|232
+1 Burgeoning|C16|143
+1 Buried Ruin|EOC|150
+1 Capital City|FIN|274
+1 Circuitous Route|GRN|125
+1 Citadel Gate|CLB|349
+1 City of Brass|MMA|221
+1 Cleric Class|AFR|6
+1 Cliffgate|CLB|350
+1 Coastal Bulwark|BRO|76
+1 Command Tower|TDC|107
+1 Commercial District|MKM|259
+1 Conqueror's Galleon|XLN|234
+1 Curator's Ward|DOM|49
+1 Curse of the Swine|TDC|149
+1 Damage Control Crew|SPM|99
+1 Detention Chariot|DFT|12
+1 Doomed Artisan|C19|3
+1 Edric, Spymaster of Trest|OTC|221
+1 Elixir of Immortality|M13|204
+1 Exotic Orchard|BLC|131
+1 Exploration Broodship|EOC|14
+1 Explore the Underdark|CLB|232
+1 Fodder Tosser|MH2|226
+5 Forest|INR|297
+1 Gateway Plaza
+1 Gemstone Mine|DMR|247
+1 Generous Gift|CMM|624
+1 Glittering Massif|EOC|22
+1 Gond Gate|CLB|353
+1 Gruul Guildgate|FDN|690
+1 Guild Summit|GRN|41
+1 Hazoret's Monument|DMC|183
+1 Heap Gate|CLB|354
+1 Heartwarming Redemption|WAR|199
+1 Helix Pinnacle
+1 Horizon Chimera|C16|204
+1 Irrigated Farmland|EOC|162
+1 Island|DMR|404
+1 Izzet Guildgate|CLU|240
+1 Jhoira's Familiar|2XM|265
+1 Leonardo da Vinci|ACR|20
+1 Lush Portico|MKM|263
+1 Mangara, the Diplomat|BLC|145
+1 Manor Gate|CLB|356
+1 Maze's End|FDN|727
+1 Mechanized Production|PIP|178
+1 Megaton's Fate|PIP|61
+1 Merchant of the Vale|ELD|131
+1 Metalwork Colossus|CMM|960
+1 Monument to Endurance|DFT|394
+1 Monumental Henge|MH3|222
+1 Mountain|INR|294
+1 Oketra's Monument|DMC|188
+1 Orcish Lumberjack|DDL|44
+1 Plains|INR|288
+1 Plundering Barbarian|AFR|158
+1 Propaganda|OTC|108
+1 Realm Seekers|J25|705
+1 Reconstruct History|ACR|97
+1 Relic of Legends|DMU|236
+1 Reliquary Tower
+1 Scattered Groves|PIP|286
+1 Sea Gate|CLB|359
+1 Selesnya Guildgate|CLU|245
+1 Selvala, Explorer Returned|BLC|259
+1 Simic Guildgate|CLU|248
+1 Sokrates, Athenian Teacher|ACR|67
+1 Sol Ring|SLD|249
+1 Star of Extinction|XLN|161
+1 Surly Badgersaur|C20|57
+1 Swords to Plowshares|40K|190
+1 Talon Gates of Madara|M3C|134
+1 Tempt with Discovery|C19|183
+1 Test of Endurance|DMR|32
+1 The Archimandrite|BRC|46
+1 The Council of Four|CLB|530
+1 The Eternity Elevator|EOE|241
+1 Thought Vessel|PIP|251
+1 Throne of the High City|MKC|307
+1 Trade Routes
+1 Trading Post
+1 Urban Evolution|NCC|355
+1 Veteran Explorer|2XM|186
+
+
+[Sideboard]
+
+

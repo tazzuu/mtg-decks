@@ -1,0 +1,126 @@
+[metadata]
+Name=Celes: 𝕎𝕚𝕟𝕕𝕠𝕨 ℕ𝕒𝕦𝕤 [cEDH]
+Description=Celes is a powerful Mardu commander whose ETB functions as a converter rather than a long-term value engine. This deck is built around Ad Nauseam as its primary explosive engine, supported by a low mana value curve, fast mana, and strong protection. Instead of racing the table, the strategy focuses on preparing for a window after interaction-heavy turns and punishing exhausted opponents, usually around turns 3–4. Flicker effects are used to reuse Celes’ ETB and protection. Underworld Breach serves as a support engine, replaying tutors, rituals, and protection to extend explosive turns. Dualcaster Mage combo lines act as compact, efficient closers, while the core focus remains on protected win turns. PRIMER UPDATE IP. Discord: https://discord.gg/h2T666jN9r
+Format=commander
+Bracket=5
+Author=MarkgoesCompetitive
+Version=57
+URL=https://moxfield.com/decks/bh40TYVQ2UWWHBcoF7pn6w
+Date=2026-02-03T11:54:13.06Z
+Created=2025-03-10T12:48:26.937Z
+Updated=2026-02-03T11:54:13.06Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Celes, Rune Knight|FIC|201
+
+
+[Main]
+1 Ad Nauseam|2XM|76
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|FIC|332
+1 Archivist of Oghma|CLB|4
+1 Arid Mesa|ZEN|211
+1 Badlands|3ED|282
+1 Beseech the Mirror|WOE|82
+1 Birgi, God of Storytelling|KHM|311
+1 Blood Crypt|RTR|238
+1 Bloodstained Mire|KTK|230
+1 Cabal Ritual|TOR|51
+1 Cavern of Souls|AVR|226
+1 Chrome Mox|MRD|152
+1 City of Brass|CHR|112
+1 City of Traitors|EXO|143
+1 Cloudshift|AVR|12
+1 Command Tower|FIC|485
+1 Culling the Weak|EXO|55
+1 Dark Ritual|FCA|8
+1 Defense Grid|BRR|13
+1 Deflecting Swat|C20|50
+1 Demonic Tutor|3ED|105
+1 Diabolic Intent|FCA|34
+1 Dualcaster Mage|2XM|124
+1 Emergence Zone|WAR|245
+1 Enlightened Tutor|MIR|14
+1 Entomb|PD3|14
+1 Ephemerate|H1R|1
+1 Esper Sentinel|MH2|328
+1 Exotic Orchard|FIC|390
+1 Fellwar Stone|SLD|708
+1 Final Fortune|6ED|175
+1 Flare of Duplication|MH3|416
+1 Flooded Strand|ONS|316
+1 Gamble|DMR|433
+1 Gemstone Caverns|TSP|274
+1 Goblin Bombardment|TMP|179
+1 Godless Shrine
+1 Grand Abolisher|M12|19
+1 Grim Monolith|ULG|126
+1 Grinding Station|5DN|127
+1 Hexing Squelcher|ECL|317
+1 Imperial Seal|2X2|354
+1 Jeska's Will|CMR|187
+1 Lesser Masticore|MH1|225
+1 Lion's Eye Diamond|MIR|307
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Lotus Petal|TMP|294
+1 Mana Confluence|JOU|163
+1 Mana Vault|4ED|334
+1 Marsh Flats|ZEN|219
+1 Molten Duplication|BIG|79
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|275
+1 Necropotence|5ED|182
+1 Personify|ECL|402
+1 Plateau|3ED|284
+1 Polluted Delta|ONS|321
+1 Praetor's Grasp|SLD|1861
+1 Pyroblast
+1 Ragavan, Nimble Pilferer|FCA|43
+1 Rain of Filth|USG|151
+1 Ranger-Captain of Eos|FCA|2
+1 Raucous Theater|MKM|266
+1 Reanimate|FIC|282
+1 Red Elemental Blast|4ED|218
+1 Redirect Lightning|TLA|151
+1 Rite of Flame|SS3|7
+1 Rograkh, Son of Rohgahh|CMR|197
+1 Sacred Foundry|RAV|280
+1 Saw in Half|UNF|374
+1 Scalding Tarn|ZEN|223
+1 Scheming Symmetry
+1 Scrubland|SUM|286
+1 Sevinne's Reclamation|DMR|273
+1 Silence|SLD|7003
+1 Simian Spirit Guide
+1 Smothering Tithe
+1 Sol Ring|FIC|358
+1 Soul Partition|BRO|307
+1 Spire of Industry|FIC|426
+1 Springleaf Drum|LRW|261
+1 Starting Town|FIN|289
+1 Strike It Rich|H2R|12
+1 Swords to Plowshares|V13|2
+1 Tainted Pact|ODY|164
+1 Talisman of Hierarchy|H1R|36
+1 Talisman of Indulgence|FIC|366
+1 Tataru Taru|FIC|30
+1 Underworld Breach|THB|161
+1 Vampiric Tutor|VIS|72
+1 Verdant Catacombs|ZEN|229
+1 Vexing Bauble|MH3|212
+1 Voice of Victory|TDM|331
+1 Wheel of Fortune|3ED|185
+1 Windswept Heath|ONS|328
+1 Wishclaw Talisman
+1 Wooded Foothills|ONS|330
+
+
+[Sideboard]
+1 Jolted Awake|MH3|509
+1 Orcish Bowmasters|LTR|554
+1 Orim's Chant|PLS|11
+
+

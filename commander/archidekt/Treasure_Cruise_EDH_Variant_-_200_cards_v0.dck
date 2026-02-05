@@ -1,0 +1,171 @@
+[metadata]
+Name=Treasure Cruise (EDH Variant - 200 cards)
+Description={"ops":[{"insert":"Treasure Cruise is a multiplayer variant rule, especially for groups playing casual Commander/EDH, where players may pay mana to take cards from a shared deck.\n\nThe game starts with a Treasure Deck in the center of the table that contains a number of artifact and enchantment cards (including curses!).\n\nDuring a player’s main phase, and only once per turn, that player may pay ( 1 ) to roll a Treasure Cruise die, which is a d6. Each time a player chooses to do so, the cost they must pay increases by ( 1 ).\n\nOn a roll of 1-5, take the top card from the Treasure Deck and put it into play.\n\nOn a roll of 6, reveal the top 3 cards of the Treasure Deck and choose one to put into play. Exile the rest.\n\nOptional Rules:\nFIRST ONE IS FREE - The initial cost of rolling a Treasure Cruise die is ( 0 ) and then increases normally.\nPIRACY - Once per turn, if you would deal combat damage to a player, you may instead deal no damage and gain control of a non-equipped Treasure Cruise artifact if the damage you would have dealt is greater than or equal to the artifact’s converted mana cost.\nLIFT CURSES - When you roll a Treasure Cruise die, instead of taking a card from the Treasure Deck, you may destroy a Treasure Cruise curse if your roll is greater than or equal to the curse’s converted mana cost.\n\nRule Clarifications:\n- You may pay to roll a Treasure Cruise die at sorcery speed during your turn.\n- Taking cards from the top of the Treasure Deck does not count as drawing a card.\n- Rolling a Treasure Cruise die is not affected by any effect that would interact with a die roll.\n- The Treasure Deck cannot be interacted with outside of paying to roll a Treasure Cruise die.\n- Permanents from the Treasure Deck are not cast when they come into play.\n- When a permanent from the Treasure Deck is destroyed, it is exiled and cannot return to play.\n- Artifacts and non-curse enchantments enter the battlefield under your control.\n- Curses enter the battlefield attached to you but have no controller, although they remain in play until destroyed or otherwise removed.\n\nIn the spirit of the treasure cruise variant, any artifacts or enchantments could be used to construct the \"Treasure Deck\". This oversized list is just my personal creation which includes:\n\nx50 Ramp Artifacts (25%)\nx50 Equipment (25%)\nx34 Misc Beneficial Artifacts/Enchantments (17%)\nx66 Curses (33%)\n\nI use a fully proxied version of this deck for casual play. Functionally it is unrealistic to use this list to construct a deck using real cards.\n"}]}
+Format=commander
+Bracket=0
+Author=sourbyte
+Version=0
+URL=https://archidekt.com/decks/4763156
+Date=2025-08-19
+Created=2023-06-22
+Updated=2025-08-19
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+
+
+[Main]
+1 +2 Mace|AFR|1
+1 Adventuring Gear|J22|751
+1 Amulet of Vigor
+1 Angel's Feather|DVD|23
+1 Arcane Signet|MOC|348
+1 Avarice Totem|5DN|104
+1 Azorius Signet|SCD|259
+1 Basilisk Collar|CLB|300
+1 Belt of Giant Strength|AFC|38
+1 Black Lotus|2ED|233
+1 Blackblade Reforged|DMC|178
+1 Boots of Speed|AFR|133
+1 Boros Signet|ONC|126
+1 Charcoal Diamond|CLB|305
+1 Chromatic Lantern
+1 Cloak of the Bat|CLB|307
+1 Cloud Key|TSR|265
+1 Colossus Hammer|AFC|202
+1 Commander's Plate
+1 Commander's Sphere
+1 Coveted Jewel|MOC|353
+4 Curse of Bloodletting|DKA|85
+5 Curse of Bounty|SCD|178
+4 Curse of Death's Hold|ISD|94
+5 Curse of Disturbance|SCD|74
+4 Curse of Echoes
+4 Curse of Exhaustion|DKA|5
+5 Curse of Opulence|MOC|274
+5 Curse of Predation|IMA|159
+5 Curse of Shallow Graves|C13|71
+5 Curse of Stalked Prey|ISD|136
+5 Curse of Verbosity|CLB|717
+5 Curse of Vitality|C17|3
+5 Curse of the Bloody Tome|ISD|50
+5 Curse of the Forsaken|CMA|8
+1 Dancing Sword|AFR|8
+1 Darksteel Ingot|CM2|184
+1 Decanter of Endless Water|CLB|309
+1 Demon's Horn|DVD|57
+1 Dimir Signet|SCD|263
+1 Dragon's Claw|M12|206
+1 Dueling Rapier|AFR|140
+1 Dwarven Hammer|KHM|133
+1 Elven Bow|J22|653
+1 Exploration|DMR|159
+1 Eye of Vecna|AFR|243
+1 Fellwar Stone
+1 Fervor|M13|129
+1 Fire Diamond|CLB|313
+1 Fireshrieker|NEC|151
+1 Font of Mythos
+1 Ghostly Prison|ONC|71
+1 Gilded Lotus|DOM|215
+1 Goggles of Night|CLB|74
+1 Golem's Heart
+1 Golgari Signet|ONC|131
+1 Greataxe|AFR|245
+1 Gruul Signet|MOC|358
+1 Guardian Idol|JMP|467
+1 Hand of Vecna|AFR|246
+1 Herald's Horn|MOC|360
+1 Horn of Greed|CN2|211
+1 Howling Mine
+1 Impact Tremors|MOC|285
+1 Izzet Signet|MOC|362
+1 Javelin of Lightning|CLB|185
+1 Jeweled Lotus|CMM|396
+1 Kraken's Eye|M12|211
+1 Leather Armor|AFR|248
+1 Lens of Clarity|KTK|223
+1 Leyline of Anticipation|CLB|726
+1 Leyline of Combustion|M20|148
+1 Leyline of Sanctity|M20|26
+1 Leyline of Vitality|M11|183
+1 Leyline of the Void|M20|107
+1 Lightning Greaves|SCD|269
+1 Mana Geode|JMP|472
+1 Mana Prism|VMA|273
+1 Manalith|M19|239
+1 Marble Diamond|CLB|320
+1 Mind Stone|MOC|364
+1 Mirage Mirror|NEC|154
+1 Moss Diamond|CLB|327
+1 Mox Emerald|2ED|262
+1 Mox Jet|2ED|263
+1 Mox Pearl|2ED|264
+1 Mox Ruby|2ED|265
+1 Mox Sapphire|2ED|266
+1 Mystery Key|CLB|85
+1 Orzhov Signet|MOC|369
+1 Pact Weapon|CLB|139
+1 Paladin's Shield|AFR|30
+1 Phyrexian Arena|ONE|104
+1 Plate Armor|AFR|32
+1 Prism Ring|ORI|235
+1 Pristine Talisman|C21|258
+1 Propaganda|CLB|730
+1 Rakdos Signet|SCD|272
+1 Ranger's Longbow|AFR|203
+1 Reaper's Talisman|AFR|117
+1 Revenge of Ravens|ELD|104
+1 Rhystic Study|J22|114
+1 Robe of the Archmagi|CLB|91
+1 Saddle of the Cavalier|CLB|251
+1 Selesnya Signet|CMA|228
+1 Shadowspear
+1 Short Sword|M21|236
+1 Simic Signet|MOC|378
+1 Skeleton Key|SOI|263
+1 Sky Diamond|SCD|273
+1 Smothering Tithe|2X2|31
+1 Sol Ring
+1 Spare Dagger|AFR|250
+1 Swiftfoot Boots|SCD|279
+1 Sword of Body and Mind|2XM|295
+1 Sword of Dungeons & Dragons|ULST|61
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice|2XM|297
+1 Sword of Forge and Frontier|ONE|244
+1 Sword of Hearth and Home|MH2|238
+1 Sword of Light and Shadow|2XM|298
+1 Sword of Once and Future|MOM|265
+1 Sword of Sinew and Steel|MH1|228
+1 Sword of Truth and Justice|MH1|229
+1 Sword of War and Peace
+1 Sword of the Animist|AFC|218
+1 Sylvan Library|DMR|179
+1 Talisman of Conviction|ONC|143
+1 Talisman of Creativity|CLB|876
+1 Talisman of Curiosity|MH1|232
+1 Talisman of Dominance|SCD|280
+1 Talisman of Hierarchy|MOC|385
+1 Talisman of Impulse|SCD|281
+1 Talisman of Indulgence|SCD|282
+1 Talisman of Progress|SCD|283
+1 Talisman of Resilience|C21|270
+1 Talisman of Unity|SCD|284
+1 Temple Bell|C16|277
+1 Thieves' Tools|CLB|152
+1 Thought Vessel|SCD|285
+1 Unstable Obelisk|SCD|286
+1 Vedalken Orrery|2X2|317
+1 Vexing Puzzlebox|CLB|343
+1 Vorpal Sword|AFR|124
+1 Whispersilk Cloak
+1 Winged Boots|AFC|20
+1 Wurm's Tooth|M12|223
+1 Zephyr Boots|STX|261
+
+
+[Sideboard]
+
+

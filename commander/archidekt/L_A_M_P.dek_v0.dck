@@ -1,0 +1,169 @@
+[metadata]
+Name=L A M P.dek
+Description={"ops":[{"insert":"Welcome to L A M P.dek\n\nHere I have come to show you the primal allure of the lamp and it's devilish pull in all of it's glory.\n\nAt the head of the deck is "},{"insert":{"card-link":"The Wise Mothman"}},{"insert":" and wise he is for he will guide us to the light of the great L A M P.\n\nEvery card in the deck some form of\n1. Lamp in the art\n2. Moth in the art\n3. Exhibits Moth behavior\n4. Represents the temptation of the L A M P\n\nWhen playing this deck, the creatures cannot help but follow their primal urges. It is not a matter of me piloting the deck, but rather me guiding the light where it needs to go and enabling my creatures to follow suit. \n\nMoths in this deck (mostly just my commander) may not attack a player unless they are lured there by the temptation of the lamp. When they are lured, the urge to follow it is irresistible and all moths MUST attack that player.\n\nTo be lured by the temptation of the L A M P (Shine a light in a sense) you must be affected by a lamp or a card with a lamp in the art in the following ways.\n1. Have a card enchanted by a card with a lamp. \nEnchant opponent's creature with "},{"insert":{"card-link":"Leshrac's Rite"}},{"insert":", means we are now lured to that opponent.\n2. Control a card with a lamp.\n"},{"insert":{"card-link":"Captivating Glance"}},{"insert":", donates your creatures that have lamps and "},{"insert":{"card-link":"Slaughter Specialist"}},{"insert":" donates human tokens with lamps in the art. (Or if they are unlucky enough to just happen to have lamps in their arts already. Like the specific printing of basics or of the "},{"insert":{"card-link":"Overgrown Tomb"}},{"insert":" in this deck.)\n3. Commit a crime with a lamp. "},{"attributes":{"italic":true},"insert":"(Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"},{"insert":"\n"},{"insert":{"card-link":"Reito Lantern"}},{"insert":" Reito lantern can shine a light on any specific opponent, by targeting a card in their graveyard. Luring my moths to that opponent. Meaning this is one of very few decks where reito lantern is actually pretty good. \n4. Affected by Outlier cards\n-Targeted by "},{"insert":{"card-link":"Deadly Allure"}},{"insert":" Deadly allure or "},{"insert":{"card-link":"Dazzling Lights"}},{"insert":" Dazzling lights.\n-"},{"insert":{"card-link":"Lantern of Insight"}},{"insert":" Lantern of insight is always shining on all opponents by revealing the top of everyone's libraries.\n-Similarly effects like "},{"insert":{"card-link":"Soul-Guide Lantern"}},{"insert":" Soul-guide lantern or "},{"insert":{"card-link":"Arcane Lighthouse"}},{"insert":" shine a light on each opponent when they activate their effects that effect each opponent. This isn't committing a crime but similar.\n\nWhich leads to the question, what happens if we are being lured to multiple opponents? Simple, a roll of the dice. Equally divided. The allure of the L A M P is strong no matter where it shines and the wills of the M O T H cannot be predicted by mere mortal men. Let them go where they must. \n\nBut what about our non-moth creatures?\n\nAmong the many lamps in this deck are many spirits (mostly of innistrad) who wield them, often as identifying features of their character. Like the one and only "},{"insert":{"card-link":"Lantern Spirit"}},{"insert":" itself.\n\nThese are my Spirits of the L A M P and just like the moths of this deck I don't get to order them around willy nilly.\n\nThey are not empowered to attack unless I control a lamp. As they are simply empty vessels until their lamps are illuminated by one of my lamp's lights. Luckily for me they aren't forced to attack and don't have to attack anyone in specific, the way my moths do.\n\nSome highlights of the deck\n- "},{"insert":{"card-link":"Trinket Mage"}},{"insert":", he has L A M P and he seeks L A M P from the depths of your deck. A Lamp connoisseur who tutors for lamps, truly an admirable man.\n- "},{"insert":{"card-link":"Daring Sleuth // Bearer of Overwhelming Truths"}},{"insert":", on his front side, a man with a lamp in his possession. On his back side A MAN WHO HAS BECOME ONE WITH L A M P AND LEADS AN ARMY OF L A M P!\n- "},{"insert":{"card-link":"Duskshell Crawler"}},{"insert":", though not a moth itself, it so clearly exhibits M O T H behavior I think it qualifies. Determined to perch itself upon street lamps night after night despite them buckling under it's pressure, surging with the green energy of the L A M P. I think it well earns the title of M O T H alongside it's lepidopteran cousins.\n- Similarly "},{"insert":{"card-link":"Mothdust Changeling"}},{"insert":" is a changeling who has longed to be and to live as a moth would, the flavor text even explicitly stating their desire for L A M P.\n- What is notable about "},{"insert":{"card-link":"Chillerpillar"}},{"insert":" is that he cannot become monstrous because there are no snow lands with lamps in the art. I still wanted him in this deck and we are still accepting him as a moth even in his larval form, because look at hiiiiiiim. What a good little (massive) goi. Also look at all the moths in the background, that's sick.\n\nFinal little note, valgavoth and a whole Lotta duskmourn stuff should probably be in here huh. Sort of half his aesthetic is moth, lol. Missed out on updating the moth part when updating this deck for the contest cause I was focused on updating the lamp part.\n\nAnyways, hope you enjoyed. Since I forgot to do this description until after I was already chosen as a finalist I can say my competitors have really great lists and so do a LOT of the other submissions this month.\n\nIt is pure joy to see "},{"insert":{"card-link":"Whippoorwill"}},{"insert":" in any decklist and I think the natural reaction to most people seeing the card is saying \"aww, let the poor little guy fly\" and enabling that is gold.\n\nAnd "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":" is such a silly silmuntenously whimsical and maniacal card, that definitely deserves all the love of a deck dedicated to it and all the madness and hilarity that ensues because of it.\n\nGood luck to my fellow finalists and have fun everyone!\n"}]}
+Format=commander
+Bracket=0
+Author=TheUnEase
+Version=0
+URL=https://archidekt.com/decks/7005555
+Date=2025-03-20
+Created=2024-03-12
+Updated=2025-03-20
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 The Wise Mothman|PIP|4
+
+
+[Main]
+1 Agent's Toolkit|NCC|66
+1 Apprentice Necromancer|UMA|84
+1 Arcane Lighthouse|CMM|985
+1 Blinkmoth Nexus|2XM|311
+1 Blinkmoth Well|MRD|279
+1 Blue Sun's Twilight|ONE|43
+1 Body Count|NCC|34
+1 Breath of the Sleepless|VOC|11
+1 Cao Cao, Lord of Wei|V11|1
+1 Captivating Glance|LRW|55
+1 Careening Mine Cart|LCI|247
+1 Celebrate the Harvest|MIC|24
+1 Cemetery Illuminator|VOW|50
+1 Chill of Foreboding|DKA|32
+1 Chillerpillar|J22|280
+1 Choked Estuary|MKC|254
+1 Chromatic Lantern|RVR|253
+1 Command Beacon|CMR|349
+1 Commander's Sphere
+1 Compulsive Research|CLB|715
+1 Corridor Monitor|2XM|46
+1 Cover of Darkness|ONS|133
+1 Crack Open|MOC|294
+1 Cybernetica Datasmith|40K|114
+1 Daring Sleuth|SOI|54
+1 Dazzling Lights
+1 Deadeye Navigator|MM3|36
+1 Deadly Allure|INR|103
+1 Deep Analysis|MKC|100
+1 Detection Tower|M19|249
+1 Dismal Backwater|NEO|267
+1 Djinn of the Lamp|POR|52
+1 Donal, Herald of Wings|VOC|3
+1 Door of Destinies|C17|208
+1 Drowned Catacomb|M11|224
+1 Dryad's Revival|MID|183
+1 Duskshell Crawler|CLU|161
+1 Ecological Appreciation|STX|128
+1 Edgewall Inn|WOE|255
+1 Elemental Resonance|DIS|83
+1 Erdwal Illuminator|MKC|104
+1 Ethereal Investigator|MKC|105
+1 Exotic Orchard|WHO|276
+1 Fabricate|40K|181
+1 Fascination
+1 Fear of Death|VOW|59
+1 First Responder|NCC|60
+6 Forest|BRO|276
+1 Geistlight Snare|VOW|60
+1 Ghost Lantern|CLB|128
+1 Ghost Quarter
+1 Ghost-Lit Stalker|GVL|34
+1 Ghost-Lit Warder|SOK|39
+1 Ghostly Pilferer|NCC|223
+1 Ghostly Wings|SOI|66
+1 Gingerbread Cabin|C21|290
+1 Glaring Spotlight|GTC|229
+1 Glimmerlight|DSK|249
+1 Glowcap Lantern|LCI|187
+1 Gravelighter|NEO|98
+1 Hagra Mauling
+1 Haunting Imitation|VOC|13
+1 Hawkeater Moth|USG|259
+1 Hold for Questioning|J22|11
+1 Icefeather Aven|C19|194
+1 Infernal Kirin|SOK|72
+1 Inkmoth Nexus|MBS|145
+1 Inspiring Call|PIP|203
+6 Island|NEO|285
+1 Jack-o'-Lantern|MID|254
+1 Jacob Hauken, Inspector|VOW|332
+1 Jaded Analyst|MKM|62
+1 Kaho, Minamo Historian|CMM|101
+1 Kodama of the West Tree|NEO|199
+1 Lair Delve|AVR|184
+1 Lamplighter of Selhoff|SOI|72
+1 Lantern Bearer|VOW|66
+1 Lantern Spirit|ISD|62
+1 Lantern of Insight
+1 Lantern of Revealing|CLB|318
+1 Lantern of the Lost|VOW|259
+1 Leshrac's Rite|5ED|173
+1 Lifespinner|BOK|133
+1 Mirrorhall Mimic|VOW|68
+1 Mothdust Changeling|MMA|53
+1 Network Terminal|NEO|251
+1 Old Rutstein|VOW|244
+1 Ongoing Investigation|MKC|114
+1 Opulent Palace|PIP|278
+1 Order of Midnight|MOC|261
+1 Overgrown Tomb|RVR|283
+1 Overwhelmed Archivist|MID|68
+1 Patrician Geist|MID|69
+1 Peek|SLD|401
+1 Phenomenon Investigators|DSC|65
+1 Pithing Needle|2X2|397
+1 Prey Upon
+1 Rancid Rats|SOI|130
+1 Rattlechains|VOC|110
+1 Refresh|ODY|264
+1 Reito Lantern|CNS|202
+1 Rescue from the Underworld
+1 Restless Cottage|WOE|258
+1 Reverse Engineer|CMM|116
+1 Roadside Reliquary|NEO|272
+1 Roaming Ghostlight|CLU|96
+1 Run Out of Town|SNC|58
+1 Sanguine Spy|SNC|93
+1 Searchlight Geist|AVR|119
+1 Secrets of the Key|MID|73
+1 Seekers' Squire|2X2|87
+1 Seer's Lantern|CMR|338
+1 Sift|2XM|69
+1 Slaughter Specialist|MID|122
+1 Snooping Newsie|SNC|222
+1 Soul-Guide Lantern|DRC|139
+1 Sower of Temptation|SLD|120
+1 Spectral Adversary|MID|77
+1 Spectral Arcanist|VOC|15
+1 Spectral Searchlight|CMM|411
+1 Spelunking|LCI|213
+1 Stormrider Spirit|MID|79
+1 Suspicious Stowaway|MID|80
+3 Swamp|CLU|263
+3 Swamp|DOM|260
+1 Syr Konrad, the Grim|MKC|141
+1 The Ancient One|LCI|222
+1 Timin, Youthful Geist|VOC|16
+1 Tomb Robber
+1 Trinket Mage
+1 Twisted Experiment|UDS|74
+1 Undermountain Adventurer|CLB|260
+1 Untamed Wilds|7ED|279
+1 Wanderlight Spirit|VOW|86
+1 Weave Fate|KTK|61
+1 Wickerbough Elder|NCC|320
+1 Willowdusk, Essence Seer|C21|6
+1 Wiretapping|SNC|65
+1 Witch of the Moors
+1 Witch's Cottage|ELD|249
+1 Wizened Snitches|RAV|75
+1 Wood Elves|EXO|130
+1 Worn Powerstone|CMM|984
+1 You Find the Villains' Lair|AFR|84
+1 Zahid, Djinn of the Lamp|CMM|136
+
+
+[Sideboard]
+
+

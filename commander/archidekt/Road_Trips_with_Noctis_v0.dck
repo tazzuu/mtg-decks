@@ -1,0 +1,114 @@
+[metadata]
+Name=Road Trips with Noctis
+Description={"ops":[{"insert":"Bracket 1 deck built to take you through the story of Final Fantasy 15, featuring "},{"insert":{"card-link":"Noctis, Heir Apparent"}},{"insert":". \n\nThe equipment were chosen to be the best corollaries for each item in the Armiger. Some best representations for key characters like Cor, Cid, Lady Lunafreya and of course, the dudebros of Ignis, Prompto, and Gladiolus had to be made.\n"}]}
+Format=commander
+Bracket=0
+Author=Matt_EDHREC
+Version=0
+URL=https://archidekt.com/decks/13922982
+Date=2026-02-01
+Created=2025-06-19
+Updated=2026-02-01
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Noctis, Heir Apparent|FIC|460
+
+
+[Main]
+1 Akroma's Will|FCA|21
+1 Anguished Unmaking|TDC|279
+1 Arcane Signet|C20|237
+1 Ardyn, the Usurper|FIN|524
+1 Ashe, Princess of Dalmasca|FIN|7
+1 Auron, Venerated Guardian|FIC|10
+1 Azorius Cluestone|DGM|136
+1 Azorius Locket|RNA|231
+1 Bastion Protector|FIC|233
+1 Blade of the Oni|NEO|89
+1 Blitzball|FIN|254
+1 Campfire|CMM|374
+1 Capital City|FIN|274
+1 Cid, Timeless Artificer|FIN|419
+1 Coeurl|FIN|12
+1 Combat Tutorial|FIN|48
+1 Command Tower|C17|242
+1 Commander's Sphere|DRC|125
+1 Commit|LCC|147
+1 Crossroads Village|FIN|276
+1 Damn|SLD|1870
+1 Darien, King of Kjeldor|MKC|59
+1 Dimir Signet|DRC|129
+1 Dockside Chef|NEO|93
+1 Dragonfire Blade|TDM|240
+1 Fishing Gear|FIC|461
+1 Flash Photography|FIC|463
+1 Forge Anew|SLD|7002
+1 From Father to Son|FIN|20
+1 Godsend|J25|204
+1 Insomnia, Crown City|FIN|282
+1 Instant Ramen|FIN|259
+1 Iron Giant|FIN|260
+1 Ishgard, the Holy See|FIN|283
+6 Island|FIC|479
+1 Jidoor, Aristocratic Capital|FIN|284
+1 Kain, Traitorous Dragoon|FIN|105
+1 Leyline Axe
+1 Machinist's Arsenal|FIN|23
+1 Malboro|FIN|106
+1 Midgar, City of Mako|FIN|286
+1 Mjölnir, Storm Hammer|ACR|74
+1 Ninja's Blades|FIN|108
+1 Noctis, Prince of Lucis|FIN|401
+1 Orzhov Locket|RNA|236
+1 Path of Ancestry|TDC|382
+11 Plains|FIC|478
+1 Praetor's Grasp|SLD|1861
+1 Prairie Stream|TDC|384
+1 Quick-Draw Katana|FDN|130
+1 Raffine's Tower|SNC|254
+1 Ring of the Lucii|FIN|269
+1 Robe of Stars|AFC|11
+1 Scepter of Insight|CON|33
+1 Sea of Clouds|CLB|360
+1 Sharlayan, Nation of Scholars|FIN|288
+1 Shield of the Avatar|M15|230
+1 Sidequest: Catch a Fish|FIN|31
+1 Sol Ring|TDC|106
+1 Spring-Loaded Sawblades|LCI|36
+1 Sram, Senior Edificer|FCA|3
+1 Starting Town|FIN|289
+1 Summon: Leviathan
+1 Sunken Hollow|TDC|398
+1 Surestrike Trident|DST|147
+3 Swamp|FIC|480
+1 Sword of Vengeance|NEC|164
+1 Sword of the Animist|CMM|413
+1 Sword of the Chosen|STH|141
+1 Talisman of Dominance|DRC|141
+1 Talisman of Hierarchy|MH1|233
+1 Talisman of Progress|TDC|333
+1 Temple of Deceit|DRC|176
+1 Temple of Enlightenment|EOC|186
+1 Temple of Silence|TDC|406
+1 The Gold Saucer|FIN|279
+1 The Regalia|FIN|267
+1 Tidus, Blitzball Star|FIN|246
+1 Tithing Blade|LCI|128
+1 Travel the Overworld|FIN|82
+1 Treno, Dark City|FIN|290
+1 Trepanation Blade
+1 Varragoth, Bloodsky Sire|FCA|37
+1 Viridian Longbow|MRD|270
+1 Void Rend|OTP|59
+1 Vorpal Sword|AFR|124
+1 Warrior's Resolve|FIC|465
+1 Weapons Vendor|FIN|40
+1 Werefox Bodyguard|WOE|39
+1 Wizened Mentor|DRC|8
+
+
+[Sideboard]
+
+

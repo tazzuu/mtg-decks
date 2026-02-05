@@ -1,0 +1,133 @@
+[metadata]
+Name=Birb Widzard Tempo
+Description=Midrange creature combo deck looking to out tempo the opponents through derevi untaps and lite stax able to present wins as early as turn 2. Looking for a window to pressure the table with wins from turns 3/4 on or to grind longer games through unique card selection and powerful advantage engines. - birdbrains.gg
+Format=commander
+Bracket=5
+Author=ClayQ
+Version=0
+URL=https://moxfield.com/decks/6ESqFfig_kWoqYOxkYQSOg
+Date=2026-01-30T16:28:02.873Z
+Created=2023-12-04T03:29:37.983Z
+Updated=2026-01-30T16:28:02.873Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Derevi, Empyrial Tactician|CMR|518
+
+
+[Main]
+1 Ancient Tomb|TMP|315
+1 Angel's Grace|MMA|4
+1 Archivist of Oghma|CLB|4
+1 Avacyn's Pilgrim|ISD|170
+1 Birds of Paradise|BLC|81
+1 Birthing Pod|NPH|104
+1 Bloom Tender|2X2|366
+1 Boseiju, Who Endures|NEO|266
+1 Breeding Pool|UNF|286
+1 Brightglass Gearhulk|DFT|191
+1 Carpet of Flowers|WHO|1066
+1 Cavern of Souls|LCI|269
+1 Chord of Calling|2XM|158
+1 Chromatic Orrery|LCC|107
+1 Chrome Mox|MRD|152
+1 City of Brass|2X2|403
+1 Colossal Skyturtle|NEO|216
+1 Command Tower|SLD|1496★
+1 Crop Rotation|ULG|98
+1 Cyclonic Rift|RTR|35
+1 Delighted Halfling|LTR|402
+1 Delney, Streetwise Lookout|MKM|337
+1 Displacer Kitten|CLB|63
+1 Eladamri's Call|SLD|1770
+1 Eldritch Evolution|EMN|155
+1 Emerald Charm|DMR|158
+1 Emergence Zone|WAR|245
+1 Emiel the Blessed|JMP|3
+1 Enlightened Tutor|DMR|412
+1 Esper Sentinel|MH2|12
+1 Eternal Witness|TSR|361
+1 Ethersworn Canonist|MB2|10
+1 Exotic Orchard|C19|242
+1 Faerie Mastermind|MOM|352
+1 Fierce Guardianship|C20|35
+1 Finale of Devastation|WAR|160
+1 Flare of Denial|MH3|62
+1 Flesh Duplicate|WHO|359
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Negation|MH1|52
+1 Force of Vigor|MH1|164
+1 Force of Will|2XM|51
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Gifts Ungiven|CHK|62
+1 Grand Abolisher|E01|12
+1 Hallowed Fountain|RTR|241
+1 Intuition|TMP|70
+1 Kinnan, Bonder Prodigy|IKO|192
+1 Lotus Petal|SLD|7032
+1 Mana Confluence|CMR|721
+1 Mana Vault|3ED|263
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Mistrise Village|TDM|397
+1 Misty Rainforest|MM3|240
+1 Mockingbird|BLB|305
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|362
+1 Mystic Remora|SLD|406
+1 Nature's Rhythm|TDM|150
+1 Neoform|WAR|206
+1 Noble Hierarch|2XM|177
+1 Otawara, Soaring City
+1 Pact of Negation|A25|68
+1 Phyrexian Metamorph|SLD|1110
+1 Polluted Delta|KTK|239
+1 Ranger-Captain of Eos|H1R|5
+1 Retraction Helix|BNG|49
+1 Rhystic Study|PCY|45
+1 Savannah|3ED|285
+1 Scalding Tarn|ZEN|223
+1 Sevinne's Reclamation|C19|5
+1 Shifting Woodland|MH3|228
+1 Silence|M11|30
+1 Sink into Stupor|MH3|241
+1 Snap|DMR|66
+1 Sol Ring|SLD|1074
+1 Spellseeker|BBD|41
+1 Steal Enchantment|TMP|90
+1 Swan Song|THS|65
+1 Talon Gates of Madara|M3C|134
+1 Tataru Taru|FIC|30
+1 Teferi, Time Raveler|WAR|221
+1 Temple Garden|RTR|248
+1 The One Ring|LTR|246
+1 Transit Mage|DFT|70
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Utopia Sprawl|SLD|409
+1 Valley Floodcaller|BLB|79
+1 Veil of Summer|M20|198
+1 Voice of Victory|TDM|33
+1 Wan Shi Tong, Librarian|TLA|320
+1 Wild Growth|3ED|230
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+1 Agatha's Soul Cauldron|WOE|366
+1 Aven Mindcensor|CLB|688
+1 Borne Upon a Wind|LTR|44
+1 Captain Sisay|SLD|51
+1 Cloud of Faeries|MOC|219
+1 Drannith Magistrate|IKO|11
+1 Endurance|MH2|157
+1 Ephemerate|H1R|1
+1 Into the Flood Maw|BLB|52
+1 Linvala, Keeper of Silence|MM3|13
+
+

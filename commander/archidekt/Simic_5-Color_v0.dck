@@ -1,0 +1,103 @@
+[metadata]
+Name=Simic 5-Color
+Description={"ops":[{"insert":"I was told Simic can do everything. So I made Simic all 5 colors.\n"}]}
+Format=commander
+Bracket=0
+Author=ArmedMeheecan
+Version=0
+URL=https://archidekt.com/decks/4307454
+Date=2026-01-30
+Created=2023-04-07
+Updated=2026-01-30
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Nael, Avizoa Aeronaut|DMU|306
+
+
+[Main]
+1 Aetherize|RVR|448
+1 Allied Strategies|DDE|63
+1 Arachnogenesis|CMM|272
+1 Aurora Awakener|ECL|323
+1 Beast Within|SCD|172
+1 Blessed Respite|MH2|150
+1 Bloom Tender|ECL|166
+1 Briar Hydra|DMU|286
+1 Bring to Light|BFZ|209
+1 Collective Restraint|INV|49
+1 Conduit of Worlds|TDC|251
+1 Convincing Mirage|M10|46
+1 Copy Land|M3C|99
+1 Counterspell|CMM|81
+1 Cultivate|J22|644
+1 Dark Depths|DMR|454
+1 Dream Thrush|INV|53
+1 Dryad of the Ilysian Grove|M3C|225
+1 Escape Tunnel|MKM|261
+1 Evasive Action|APC|23
+1 Expedition Map|M3C|292
+1 Fallaji Wayfarer|DMC|11
+11 Forest|ONE|276
+1 Frantic Search|CMM|96
+1 Glinting Creeper|MH2|164
+1 Glister Bairn|ECL|227
+1 Grixis Illusionist|CON|29
+1 Hinterland Harbor|DSC|284
+11 Island|SCD|338
+1 Jodah's Codex|DMU|233
+1 Kodama's Reach|CMM|300
+1 Multiversal Passage
+1 Mystic Sanctuary|ELD|247
+1 Nature's Rhythm|TDM|150
+1 Nishoba Brawler|DMU|174
+1 Nylea's Presence|THS|169
+1 Overlord of the Hauntwoods|DSK|194
+1 Personal Tutor|CMM|110
+1 Pixie Illusionist|DMU|61
+1 Planar Genesis|MH3|198
+1 Political Trickery|MIR|81
+1 Prismabasher|ECL|188
+1 Prismatic Lace|MIR|84
+1 Prismatic Omen|SHM|126
+1 Prismatic Undercurrents|ECL|189
+1 Rain-Slicked Copse|ECC|23
+1 Reality Shift|CMM|113
+1 Realmwright|GTC|45
+1 Reclamation Sage|FDN|231
+1 Rimewood Falls|KHM|266
+1 Rogue's Gloves|JMP|479
+1 Rogue's Passage|C21|312
+1 Rootweaver Druid|CMR|250
+1 Sakura-Tribe Elder|SCD|208
+1 Scion of Draco|MH2|234
+1 Shinestriker|ECL|68
+1 Sodden Verdure|ECC|24
+1 Song of the Dryads|CMM|324
+1 Step Through|MH2|392
+1 Sylvan Scrying|M3C|248
+1 Tam, Mindful First-Year|ECL|380
+1 Tangled Islet|DMU|258
+1 Territorial Maro|DMU|184
+1 Thespian's Stage|EOS|44
+1 Thran Portal|DMU|259
+1 Time of Need|TSR|369
+1 Tromp the Domains|TSR|242
+1 Uncle's Musings|TLE|73
+1 Unstable Frontier|CON|145
+1 Urza's Cave|MH3|234
+1 Vedalken Plotter|GPT|41
+1 Vesuva|M3C|404
+1 Vineglimmer Snarl|STX|274
+1 Voda Sea Scavenger|DMU|74
+1 Wild Nacatl|ALA|152
+1 Wildvine Pummeler|ECL|203
+1 Woodland Wanderer|BFZ|198
+1 World Map|FIN|270
+1 Worldly Counsel|INV|89
+
+
+[Sideboard]
+
+

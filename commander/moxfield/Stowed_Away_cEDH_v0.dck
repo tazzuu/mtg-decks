@@ -1,0 +1,123 @@
+[metadata]
+Name=Stowed Away cEDH
+Description=Stowed Away cEDH is a proactive control deck that mulls exclusively for Polymorph effects; Niv-Mizzet, Parun monitors the table while assembling a Curiosity win. 
+
+Format=commander
+Bracket=5
+Author=ShaunaGilles
+Version=0
+URL=https://moxfield.com/decks/j29sR-RJbUG9nwJg_IGoQA
+Date=2026-01-10T16:01:13.823Z
+Created=2022-05-06T18:05:07.95Z
+Updated=2026-01-10T16:01:13.823Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Kediss, Emberclaw Familiar|CMR|573
+1 Malcolm, Keen-Eyed Navigator|CMR|560
+
+
+[Main]
+1 An Offer You Can't Refuse|SNC|464
+1 Ancient Tomb|EXP|36
+1 Arcane Denial
+1 Arid Mesa|EXP|24
+1 Artificial Evolution|ONS|67
+1 Bloodstained Mire|EXP|18
+1 Bolt Bend|WAR|115
+1 Borne Upon a Wind|LTR|761
+1 Cephalid Coliseum|V12|3
+1 Chain of Vapor|ONS|73
+1 Chaos Mutation|40K|111★
+1 Chrome Mox|MPS|9
+1 City of Brass|MMA|221
+1 City of Traitors|EXO|143
+1 Command Tower|CC1|8
+1 Commandeer|CSP|29
+1 Counterspell|STA|78
+1 Curiosity|WOT|17
+1 Cyclonic Rift|2XM|339
+1 Daze|MP2|12
+1 Deflecting Swat|CMM|698
+1 Delay
+1 Dig Through Time
+1 Dispel|BFZ|76
+1 Divergent Transformations|CMM|534
+1 Exotic Orchard|CN2|219
+1 Fierce Guardianship|CMM|694
+1 Fiery Islet|ACR|112
+1 Flare of Denial|MH3|326
+1 Flare of Duplication|MH3|333
+1 Flooded Strand|EXP|16
+1 Flusterstorm|MH3|496
+1 Force of Negation|H1R|9
+1 Force of Will
+1 Gamble
+1 Gemstone Caverns|TSP|274
+1 Horizon of Progress|M3C|78
+1 Into the Flood Maw|BLB|52
+2 Island|UST|213
+1 Long-Term Plans|SCG|38
+1 Lotus Petal|MPS|15
+1 Louisoix's Sacrifice|FIN|59
+1 Mana Confluence|EXP|42
+1 Mana Drain
+1 Mana Vault|MPS|17
+1 Mental Misstep
+1 Mindbreak Trap|ZEN|57
+1 Miscast|M21|57
+1 Misdirection|SLD|1272
+1 Mistrise Village|TDM|397
+1 Misty Rainforest|EXP|25
+1 Mox Amber|DOM|224
+1 Mox Diamond|V10|10
+1 Mystic Remora|SLD|406
+1 Mystical Tutor|SLD|334
+1 Narset's Reversal|TDC|92
+1 Niv-Mizzet, Parun|GRN|192
+1 Ophidian Eye|TSP|70
+1 Otawara, Soaring City|NEO|503
+1 Pact of Negation|MP2|16
+1 Plaza of Heroes|EOS|78
+1 Polluted Delta|EXP|17
+1 Polymorph|9ED|90★
+1 Pongify|PLC|44
+1 Prismatic Vista|ZNE|27
+1 Proteus Staff|MRD|230
+1 Pyroblast|SS3|5
+1 Rapid Hybridization|GTC|44
+1 Reality Scramble
+1 Red Elemental Blast|A25|147
+1 Redirect Lightning|TLA|151
+1 Rhystic Study|WOT|71
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|EXP|22
+1 Sea Gate Restoration|ZNR|333
+1 Shivan Reef|DMU|380
+1 Sink into Stupor|MH3|241
+1 Snapback|TSR|87
+1 Sol Ring|MPS|24
+1 Spell Pierce|MP2|17
+1 Spell Snare|MMA|64
+1 Steal Enchantment|TMP|90
+1 Steam Vents|EXP|12
+1 Step Through|MH2|392
+1 Stern Scolding|LTR|71
+1 Strike It Rich|MH2|143
+1 Strix Serenade|MH3|71
+1 Stubborn Denial|KTK|56
+1 Submerge|NEM|48
+1 Swan Song|THS|65
+1 Talon Gates of Madara|M3C|82
+1 Thundering Falls|MKM|331
+1 Training Center|CMR|713
+1 Transmogrify|M21|370
+1 Trickbind|TSP|88
+1 Volcanic Island|LEB|287
+1 Wooded Foothills|EXP|19
+
+
+[Sideboard]
+
+

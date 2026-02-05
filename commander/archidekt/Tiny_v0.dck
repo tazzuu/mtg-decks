@@ -1,0 +1,100 @@
+[metadata]
+Name=Tiny
+Description={"ops":[{"insert":"Deck made from a combination of cards from the worlds smallest magic  decks alongside an oversized Saskia as the commander\n"}]}
+Format=commander
+Bracket=0
+Author=HorseTribalLord
+Version=0
+URL=https://archidekt.com/decks/2907226
+Date=2026-01-10
+Created=2022-06-29
+Updated=2026-01-10
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Saskia the Unyielding|C16|41
+
+
+[Main]
+1 Agonizing Demise|DDH|66
+1 Ajani Vengeant|DDH|1
+1 Battle Mastery
+1 Beast Within|CLB|820
+1 Behemoth Sledge|AFC|180
+1 Blazing Specter|DDH|52
+1 Blood Ogre
+1 Bonds of Faith
+1 Boros Guildgate|CMR|478
+1 Cavalry Pegasus|C20|81
+1 Condemn|CMR|369
+1 Conquering Manticore|DDL|55
+1 Crater Hellion|EMA|124
+1 Crowned Ceratok
+1 Daily Regimen|DDL|18
+1 Dawnstrike Paladin|DDL|14
+1 Deadly Recluse|2X2|142
+1 Destructive Revelry|THS|192
+1 Evolving Wilds|CLB|352
+1 Figure of Destiny|2X2|213
+1 Firemane Angel
+1 Fires of Yavimaya
+7 Forest|CLB|468
+1 Gorehorn Minotaurs
+1 Graypelt Refuge
+1 Griffin Guide|TSR|19
+1 Igneous Pouncer|DDH|57
+1 Jade Mage|C13|151
+1 Jungle Shrine|NCC|409
+1 Kamahl, Pit Fighter|DDS|39
+1 Krosan Tusker
+1 Lead the Stampede|IKO|163
+1 Lightning Helix|2X2|243
+1 Loxodon Hierarch|DDH|15
+1 Marisi's Twinclaws|DDH|17
+1 Miraculous Recovery|UMA|26
+8 Mountain|CLB|466
+1 Naya Charm|ZNC|95
+1 New Benalia
+1 Nobilis of War|MM2|195
+1 Orcish Lumberjack
+1 Ordeal of Purphoros|THS|131
+1 Pay No Heed|DDL|19
+8 Plains|CLB|451
+1 Polukranos, World Eater|THS|172
+1 Prey Upon
+1 Pride of Lions|DDH|19
+1 Profane Command|NCC|256
+1 Pyroclasm
+1 Qasali Pridemage|2X2|267
+1 Recumbent Bliss|DDH|26
+1 Regrowth
+1 Rupture Spire|CMR|490
+1 Satyr Hedonist|THS|174
+1 Shriekmaw|AFC|110
+1 Skarrg, the Rage Pits
+1 Skarrgan Firebird|E01|57
+1 Skarrgan Skybreaker|DDL|60
+1 Smite the Monstrous|ZNR|42
+1 Spitemare|DDH|16
+1 Stun Sniper|DDL|7
+1 Sun Titan|NCC|210
+4 Swamp|CLB|462
+1 Sylvan Bounty
+1 Sylvan Ranger|JMP|435
+1 Terramorphic Expanse|AFC|267
+1 Terrifying Presence|DDL|65
+1 Titanic Ultimatum|DDH|31
+1 Truefire Paladin|DDL|8
+1 Valley Rannet|C13|224
+1 Vitu-Ghazi, the City-Tree|AFC|272
+1 Volt Charge|DDL|68
+1 Wild Nacatl
+1 Winds of Rath|AFC|78
+1 Woolly Thoctar
+1 Zhur-Taa Druid
+
+
+[Sideboard]
+
+

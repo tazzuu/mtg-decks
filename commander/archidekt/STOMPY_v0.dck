@@ -1,0 +1,80 @@
+[metadata]
+Name=STOMPY
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=Therkain
+Version=0
+URL=https://archidekt.com/decks/12050936
+Date=2025-09-01
+Created=2025-03-23
+Updated=2025-09-01
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Yargle and Multani|MOM|256
+
+
+[Main]
+1 Alpine Grizzly|KTK|127
+1 Ancient Brontodon
+1 Axebane Beast|RNA|121
+1 Balduvian Bears|ICE|226
+1 Bane Alley Blackguard|DGM|21
+1 Bear Cub|FDN|552
+1 Broodhunter Wurm
+1 Cabal Evangel|DOM|78
+1 Catacomb Crocodile
+1 Centaur Courser
+1 Colossodon Yearling|DTK|178
+1 Cylian Elf|ALA|127
+1 Dross Crocodile|10E|138
+1 Dune Beetle|J22|407
+1 Elvish Warrior
+1 Enormous Baloth|M10|180
+1 Ferocious Zheng
+25 Forest|J25|94
+1 Garruk's Gorehorn|M21|184
+1 Gigantosaurus|M19|185
+1 Gloom Pangolin|IKO|89
+1 Gnarled Mass|BOK|127
+1 Grizzly Bears|10E|268
+1 Gutter Skulk|GTC|67
+1 Harrier Naga|HOU|118
+1 Highborn Vampire|ZNR|107
+1 Jibbirik Omnivore|DFT|166
+1 Kalakscion, Hunger Tyrant|DFT|93
+1 Kalonian Tusker|M14|182
+1 Leatherback Baloth|WWK|107
+1 Memnite
+1 Metallic Sliver|TPR|226
+1 Muck Rats|S99|84
+1 Murasa Brute|ZNR|195
+1 Nessian Courser|THS|165
+1 Nettle Swine|AVR|186
+1 Norwood Ranger|9ED|260
+1 Nyxborn Colossus|THB|191
+1 Phyrexian Walker|VIS|152
+1 Primordial Wurm|WAR|174
+1 Quakestrider Ceratops|FDN|110
+1 Queen's Bay Soldier|XLN|115
+1 Quilled Slagwurm|MBS|89
+1 Rotting Mastodon|KTK|87
+1 Rumbling Baloth|JMP|426
+1 Runeclaw Bear|M15|197
+20 Swamp|J25|88
+1 Swordwise Centaur|BNG|142
+1 Terrain Elemental|KLD|272
+1 Terrian, World Tyrant|DFT|182
+1 Trained Armodon|9ED|274
+1 Vorstclaw|M20|201
+1 Walking Corpse
+1 Wandering Tombshell|DTK|127
+1 Woodland Druid|ODY|284
+1 Yargle, Glutton of Urborg|CMM|202
+
+
+[Sideboard]
+
+

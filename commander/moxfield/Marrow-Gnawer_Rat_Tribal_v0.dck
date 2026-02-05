@@ -1,0 +1,77 @@
+[metadata]
+Name=Marrow-Gnawer Rat Tribal
+Description=
+Format=commander
+Bracket=3
+Author=Michi
+Version=0
+URL=https://moxfield.com/decks/4CKQ_sTLv0m-2TtVKtDrUQ
+Date=2026-01-08T08:49:53.897Z
+Created=2020-10-02T07:00:03.017Z
+Updated=2026-01-08T08:49:53.897Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Marrow-Gnawer|CHK|124
+
+
+[Main]
+1 Ashcoat of the Shadow Swarm|J22|19
+1 Ayara, First of Locthwain|ELD|75
+1 Bojuka Bog|TSR|406
+1 Bontu's Monument|AKH|225
+1 Cabal Coffers|TOR|139
+1 Cabal Stronghold|DOM|238
+1 Castle Locthwain|ELD|389
+1 Cavern of Souls|2X2|320
+1 Coat of Arms|M10|207
+1 Crypt Rats|MH1|84
+1 Crypt of Agadeem|ZEN|212
+1 Dark Ritual|STA|26
+1 Demonic Tutor|STA|27
+1 Door of Destinies|C17|208
+1 Echoing Return|MH2|83
+1 Go for the Throat|2X2|76
+1 Grave Pact|CM2|65
+1 Haunted One|CLB|654
+1 Herald's Horn|MB1|1593
+1 Hero's Downfall|THS|90
+1 Ink-Eyes, Servant of Oni|BOK|71
+1 Jet Medallion|C14|243
+1 Karumonix, the Rat King|ONE|98
+1 Kindred Dominance|C17|18
+1 Lightning Greaves|CM2|196
+1 Lord Skitter, Sewer King|WOE|97
+1 Mudflat Village|BLB|257
+1 Nashi, Moon Sage's Scion|NEO|114
+1 Ogre Slumlord|GTC|74
+1 Pack Rat|RTR|73
+1 Patriarch's Bidding|ONS|161
+1 Persistent Marshstalker|BLB|104
+1 Phyrexian Arena|CN2|144
+1 Piper of the Swarm|ELD|100
+25 Rat Colony|DOM|101
+1 Ratcatcher|A25|103
+1 Revenge of the Rats|FDN|67
+1 Sign in Blood|STA|32
+1 Skullclamp|SLD|1112
+1 Sol Ring|CC2|7
+1 Species Specialist|C20|47
+23 Swamp|NEO|297
+1 Swarm of Rats|P02|89
+1 Swarmyard|TSP|278
+1 Swarmyard Massacre|BLC|20
+1 Tangled Colony|WOE|113
+1 The Soul Stone|SPM|66
+1 Thornbite Staff|MOR|145
+1 Three Tree City|BLB|260
+1 Thrumming Stone|CSP|142
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Westvale Abbey|SOI|281
+1 Witch's Cottage|ELD|249
+
+
+[Sideboard]
+
+

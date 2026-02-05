@@ -1,0 +1,50 @@
+[metadata]
+Name='93–'96 Merieke Ri Berit
+Description={"ops":[{"insert":"Bracket"},{"attributes":{"header":1},"insert":"\n"},{"insert":"I know this deck is technically bracket 4 because it contains four game changers, but it absolutely plays like a bracket 1 deck—maybe 2 if you're being generous.\n\nBackground"},{"attributes":{"header":1},"insert":"\n"},{"insert":"I started playing in 1994 with Revised, mostly stopped in 1997 after Weatherlight, and didn't start again until 2018, when I started drafting on Saturdays at my LGS. They did commander after the drafts, which I quickly got into, and this was the first deck I built, mostly with cards I already had. I wanted to build around the idea of playing with my old cards, but 93/94 was a little too restrictive, and anyway those weren't the cards I remembered the best, so I settled on building a deck with only cards using the original frame ("},{"attributes":{"link":"https://scryfall.com/search?q=frame%3A93+id%3C%3Dwub+legal%3Aedh"},"insert":"frame:93"},{"insert":" on Scryfall), which was last used in Alliances.\n\nBy far the most fun thing about this deck is getting to play tons of bad cards that nobody at the table has ever seen, reading them and watching everyone realize just how bad they actually are, and then still trying to cobble together a win. I've won a whole 3 games with this deck in its lifetime! But even the losses are a blast.\n\nMerieke Ri Berit"},{"attributes":{"header":1},"insert":"\n"},{"insert":{"card-link":"Merieke Ri Berit"}},{"insert":" can be a powerful (and potentially unfun) commander, but this deckbuilding restriction really reins her in. Unlike most tap-to-steal effects, untapping her kills whatever she's stolen, so this deck plays some of the best available methods of untapping her. Where else will you play "},{"insert":{"card-link":"Energy Arc"}},{"insert":"? Or "},{"insert":{"card-link":"Infuse"}},{"insert":"? You can even "},{"insert":{"card-link":"Chain Stasis"}},{"insert":" her repeatedly to (very expensively) machine-gun things down!\n\nWinning"},{"attributes":{"header":1},"insert":"\n"},{"insert":"Creatures in 93-96 Magic are really bad at killing people, so this is a control deck, and the only real hope of winning involves cloning/stealing/reanimating someone else's better creatures. Also, in two of this deck's three wins, I killed an opponent who was at 2 with "},{"insert":{"card-link":"Mishra's Factory"}},{"insert":", so that's mattered more than I ever expected it to.\n\nThe deck also benefits from playing bad cards and not doing a lot, which helps it stay under the radar, and used as a deterrent, an untapped Merieke can keep people at bay pretty well, too.\n\nCard Draw"},{"attributes":{"header":1},"insert":"\n"},{"insert":"To put it politely, 93-96 Magic card quality is lacking. Most of the answers are mediocre 1-for-1s, but you have to play them to avoid getting run over, because your threats are non-existent. So you need to draw a lot of cards to stand a chance, but the card draw is also not very good, and the best options cost a lot of life ("},{"insert":{"card-link":"Necropotence"}},{"insert":", "},{"insert":{"card-link":"Greed"}},{"insert":", … "},{"insert":{"card-link":"Book of Rass"}},{"insert":"). The first few times I played the deck, I kept dealing 10-20 damage to myself just to keep up with the table. But 93-96 Magic also sucks at lifegain, so "},{"insert":{"card-link":"Ivory Tower"}},{"insert":" is the solution. For real. It works better than you might expect!\n\nMissing Cards"},{"attributes":{"header":1},"insert":"\n"},{"insert":"If there are expensive cards that you think should be in the deck, you're probably right. I just don't own, say, "},{"insert":{"card-link":"Mirror Universe"}},{"insert":", or a Legends "},{"insert":{"card-link":"Mana Drain"}},{"insert":". Or "},{"insert":{"card-link":"Timetwister"}},{"insert":".\n"}]}
+Format=commander
+Bracket=0
+Author=Cannelbrae
+Version=0
+URL=https://archidekt.com/decks/65004
+Date=2025-10-24
+Created=2019-04-17
+Updated=2025-10-24
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Merieke Ri Berit|ICE|297
+
+
+[Main]
+1 Animate Dead|LEB|93
+1 Arcane Denial|ALL|22a
+1 Binding Grasp|ICE|60
+1 Clone|3ED|51
+1 Control Magic|3ED|52
+1 Copy Artifact|3ED|53
+1 Counterspell
+1 Dance of Many|DRK|22
+1 Force of Will|ALL|28
+1 Forcefield|CED|244
+1 Greed|4ED|140
+12 Island|CED|293
+1 Island of Wak-Wak|ARN|75
+1 Land Tax|4ED|34
+1 Lat-Nam's Legacy|ALL|30b
+1 Maze of Ith|DRK|117
+1 Meekstone|3ED|264
+7 Plains|CED|290
+1 Power Sink|LEB|73
+1 Rasputin Dreamweaver|LEG|253
+1 Scrubland|3ED|286
+1 Seasinger|FEM|25
+1 Steal Artifact|3ED|84
+10 Swamp|CED|296
+1 Tundra|3ED|289
+1 Vesuvan Doppelganger|3ED|88
+
+
+[Sideboard]
+
+

@@ -1,0 +1,125 @@
+[metadata]
+Name=🌳 It Does Nothing 🌞
+Description=Ellivere's added board presence and card draw abilities focus the pilot's mulligans on mana and permanent-based interaction, steering towards a combat-oriented endgame.
+Format=commander
+Bracket=5
+Author=beard_umbra,PurpLexed
+Version=6
+URL=https://moxfield.com/decks/eb7L1NnJ_UefJC_vNGQkcw
+Date=2026-02-01T09:03:26.063Z
+Created=2023-08-19T00:34:52.063Z
+Updated=2026-02-01T09:03:26.063Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Ellivere of the Wild Court|WOC|57
+
+
+[Main]
+1 Aerial Extortionist
+1 Ancient Tomb|V12|1
+1 Archivist of Oghma|CLB|4
+1 Archon of Emeria|ZNR|4
+1 Avacyn's Pilgrim|ISD|170
+1 Aven Interrupter|OTJ|4
+1 Aven Mindcensor|FUT|18
+1 Badgermole Cub|TLA|167
+1 Birds of Paradise|7ED|231★
+1 Birthing Ritual|MH3|146
+1 Boseiju, Who Endures|NEO|266
+1 Bountiful Promenade|BBD|81
+1 Brushland|9ED|319★
+1 Calix, Guided by Fate|MAT|76
+1 Carpet of Flowers|WHO|229
+1 Cavern of Souls|AVR|226
+1 Chrome Mox|MRD|152
+1 City of Brass
+1 Clarion Conqueror|TDM|5
+1 Collector Ouphe|MH1|158
+1 Command Tower|SLD|758
+1 Containment Priest|UMA|11
+1 Crop Rotation|DMR|154
+1 Dawnbringer Cleric|AFR|9
+1 Deafening Silence|ELD|10
+1 Delighted Halfling|LTR|158
+1 Drannith Magistrate|IKO|11
+1 Eidolon of Rhetoric|JOU|10
+1 Eladamri's Call|A25|203
+1 Elesh Norn, Mother of Machines|ONE|10
+1 Elvish Mystic|SLD|475
+1 Elvish Spirit Guide|DMR|338
+1 Endurance|SPG|48
+1 Enduring Vitality|DSK|176
+1 Enlightened Tutor|EMA|9
+1 Esper Sentinel|MH2|12
+1 Ethersworn Canonist|MMA|14
+1 Exotic Orchard|PIP|792
+1 Flagstones of Trokair|TSR|278
+1 Flooded Strand|MH3|436
+2 Forest
+1 Formidable Speaker|ECL|176
+1 Fyndhorn Elves|V13|4
+1 Gaea's Cradle
+1 Gemstone Caverns|TSP|274
+1 Gilded Goose|ELD|160
+1 Grafdigger's Cage|MB2|222
+1 Green Sun's Zenith|2X2|461
+1 Halvar, God of Battle|KHM|299
+1 Horizon Canopy|FUT|177
+1 Hushwood Verge|DSK|261
+1 Kataki, War's Wage|MB2|148
+1 Kogla, the Titan Ape|SLD|1274
+1 Land Tax
+1 Legolas's Quick Reflexes|LTC|493
+1 Leonin Arbiter|2X2|16
+1 Linvala, Keeper of Silence|ROE|33
+1 Llanowar Elves|10E|274
+1 Lotus Petal|V09|7
+1 Mana Confluence|SLD|1012a
+1 Marsh Flats|MH2|437
+1 Mother of Runes|SLD|299
+1 Mox Diamond|V10|10
+1 Null Rod|WTH|154
+1 Ocelot Pride|MH3|38
+1 Path to Exile
+1 Phelia, Exuberant Shepherd|MH3|40
+2 Plains|SLD|1399
+1 Ranger-Captain of Eos|MH1|21
+1 Razorverge Thicket|ONE|257
+1 Reverent Mantra|MMQ|44
+1 Sanctum Weaver|MH2|171
+1 Savannah|LEB|281
+1 Serra's Sanctum|USG|325
+1 Sigarda, Font of Blessings|MAT|47
+1 Skybind|JOU|25
+1 Sol Ring|SLD|2063
+1 Solitude|MH2|307
+1 Stony Silence|ISD|36
+1 Suppression Field|RAV|31
+1 Survival of the Fittest
+1 Sylvan Safekeeper|JUD|133
+1 Talon Gates of Madara|M3C|82
+1 Tarnished Citadel|ODY|329
+1 Tataru Taru|FIC|30
+1 Temple Garden|RAV|284
+1 Touch the Spirit Realm|NEO|40
+1 Wandering Archaic|STX|6
+1 War Priest of Thune|M13|39
+1 Weathered Wayfarer|2X2|578
+1 Wild Growth|DMR|184
+1 Windswept Heath|ONS|328
+1 Witch Enchanter|MH3|239
+1 Wooded Bastion|2XM|332
+1 Wooded Foothills|MH3|441
+1 Worldly Tutor|DMR|185
+1 Yasharn, Implacable Earth|ZNR|240
+
+
+[Sideboard]
+1 Join the Dance|DBL|229
+1 Lurking Predators|M10|190
+1 Moon-Blessed Cleric|AFR|26
+1 The Cabbage Merchant|TLE|134
+
+

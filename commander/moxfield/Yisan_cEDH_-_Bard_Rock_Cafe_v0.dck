@@ -1,0 +1,110 @@
+[metadata]
+Name=Yisan cEDH - Bard Rock Cafe
+Description=An adaptive tool box midrange deck that leverages the tutor in the CZ to assemble a combination of creatures to get infinite mana and untaps
+Format=commander
+Bracket=5
+Author=physicks
+Version=0
+URL=https://moxfield.com/decks/IOyWxvodxkiGECm8CIulEA
+Date=2025-08-15T14:11:22.69Z
+Created=2020-11-30T12:55:28.713Z
+Updated=2025-08-15T14:11:22.69Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Yisan, the Wanderer Bard|M15|209
+
+
+[Main]
+1 Allosaurus Shepherd|JMP|28
+1 Ancient Tomb|LTC|357
+1 Arbor Elf|SLD|1317
+1 Archdruid's Charm|MKM|151
+1 Argothian Elder|USG|233
+1 Ashaya, Soul of the Wild|ZNR|358
+1 Beast Within|TSR|357
+1 Birds of Paradise|BLC|81
+1 Boreal Druid
+1 Boseiju, Who Endures|NEO|412
+1 Bouncer's Beatdown|SNC|135
+1 Bridgeworks Battle|MH3|249
+1 Cankerbloom|ONE|451
+1 Castle Garenbrig|ELD|388
+1 Chalice of the Void|MPS|33
+1 Chord of Calling|2XM|384
+1 Chrome Mox|MPS|9
+1 Circle of Dreams Druid|AFR|383
+1 Collector Ouphe|MH1|158
+1 Crop Rotation|2XM|349
+1 Delighted Halfling
+1 Destiny Spinner|THB|168
+1 Dosan the Falling Leaf|CHK|205
+1 Dryad Arbor|V12|5
+1 Duskwatch Recruiter|SOI|203
+1 Elvish Mystic|CMM|648
+1 Elvish Reclaimer|M20|169
+1 Endurance|SPG|48
+1 Eternal Witness|PUMA|U16
+1 Fauna Shaman|BRO|346
+1 Finale of Devastation|WAR|160
+1 Force of Vigor|H1R|21
+1 Fyndhorn Elves|CMR|678
+1 Gaea's Cradle
+1 Geier Reach Sanitarium|EMN|203
+1 Gemstone Caverns|TSR|280
+1 Green Sun's Zenith|V13|19
+1 Haywire Mite|BRO|199
+1 Heap Doll|UMA|228
+1 Homeward Path|LTC|365
+1 Hope Tender|HOU|119
+1 Hyrax Tower Scout|THB|173
+1 Infectious Bite|ONE|172
+1 Invasion of Ikoria|MOM|190
+1 Kogla, the Titan Ape|IKO|328
+1 Legolas's Quick Reflexes|LTC|493
+1 Llanowar Elves
+1 Magus of the Candelabra|BBD|206
+1 Manglehorn|AKH|175
+1 Marvin, Murderous Mimic|DSK|367
+1 Mouth of Ronom|LTC|400
+1 Mox Diamond|V10|10
+1 Natural Order
+1 Null Rod|WTH|154
+1 Nykthos, Shrine to Nyx|THS|223
+1 Nylea's Intervention|THB|329
+1 Ominous Cemetery|WHO|189
+1 Phyrexian Revoker|BRR|40
+1 Plaza of Heroes|DMU|252
+1 Quirion Ranger|MH2|285
+1 Rath's Edge|NEM|142
+1 Root Maze|TMP|250
+1 Scryb Ranger
+1 Seedborn Muse|CC1|4
+1 Slippery Bogbonder|C20|66
+14 Snow-Covered Forest|KHM|285
+1 Sol Ring|MPS|24
+1 Soulless Jailer|ONE|397
+1 Summoner's Pact|TSR|234
+1 Survival of the Fittest|EXO|129
+1 Sylvan Safekeeper|MH3|287
+1 Sylvan Scrying
+1 Tail Swipe|DMU|182
+1 Talon Gates of Madara|M3C|82
+1 Temur Sabertooth|FRF|141
+1 Trinisphere|MPS|52
+1 Ulvenwald Tracker|MM3|144
+1 Urza's Cave|MH3|234
+1 Utopia Sprawl|SLD|409
+1 Veil of Summer|M20|198
+1 Voltaic Construct|DST|156
+1 Wild Growth|DMR|352
+1 Woodland Bellower|ORI|207
+1 Worldly Tutor|CC1|6
+1 Yavimaya, Cradle of Growth|MH2|480
+1 Yeva, Nature's Herald|M13|197
+
+
+[Sideboard]
+
+

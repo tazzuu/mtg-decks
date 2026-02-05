@@ -1,0 +1,118 @@
+[metadata]
+Name=Yargle and Multani
+URL=https://moxfield.com/decks/mrIbUS4YX0yqhpQMgsWY2w
+Date=2026-02-03
+Description=
+Format=commander
+Author=191z
+Created=2026-01-11T01:33:26.193Z
+Updated=2026-02-02T18:49:01.43Z
+Version=7
+
+[Commander]
+1 Yargle and Multani|SLD|872
+
+
+[Main]
+1 Abrupt Decay|MB2|78
+1 Abundant Harvest|MH2|147
+1 Adventurous Impulse|IKO|142
+1 Agadeem's Awakening|ZNR|90
+1 Altar of Dementia|MH1|218
+1 Animate Dead|3ED|93
+1 Ashnod's Altar|6ED|274
+1 Assassin's Trophy|ACR|166
+1 Bayou|3ED|283
+1 Berserk|SLD|1738
+1 Blighted Woodland|BFZ|233
+1 Blooming Marsh|OTJ|266
+1 Boseiju, Who Endures
+1 Burgeoning|STH|102
+1 Cabal Coffers|MB2|106
+1 Carrion Feeder|EMA|84
+1 Castle Garenbrig
+1 Castle Locthwain|CLB|884
+1 Cavern of Souls|ZNE|22
+1 Command Beacon|CMR|349
+1 Command Tower|BLC|130
+1 Cultivate|DSC|174
+1 Darkbore Pathway|KHM|254
+1 Deadly Rollick|SLD|1754
+1 Deathcap Glade|VOW|261
+1 Disciple of Bolas|TDC|178
+1 Edge of Autumn|TSR|201
+1 Elvish Reclaimer|MB2|205
+1 Essence Harvest|AVR|100
+1 Eternal Witness|M3C|227
+1 Exploration|2XM|351
+1 Exponential Growth|STX|130
+1 Exsanguinate|FIC|276
+1 Fabled Passage|M21|246
+1 Farseek|LCC|242
+6 Forest|DSK|285
+1 Golgari Charm|RTR|164
+1 Greater Good|BLC|223
+1 Hatred|EXO|64
+1 Heroic Intervention|CMM|295
+1 High Market|FIC|402
+1 Into the North|CSP|111
+1 Jarad, Golgari Lich Lord|TDC|293
+1 Kaya's Ghostform|WAR|94
+1 Kodama's Reach|ECC|113
+1 Life's Legacy|M15|183
+1 Living Death|TDC|185
+1 Malakir Rebirth|ZNR|111
+1 Momentous Fall|ROE|197
+1 Nature's Lore|CLB|244
+1 Necromancy|VIS|64
+1 Nurturing Peatland|MH1|243
+1 Once Upon a Time|MB2|71
+1 Overgrown Tomb|ECL|266
+1 Phyrexian Altar|2X2|396
+1 Phyrexian Reclamation|TDC|194
+1 Phyrexian Tower|MH3|303
+1 Rampant Growth|10E|288
+1 Reanimate
+1 Return of the Wildspeaker|LCC|252
+1 Rishkar's Expertise
+1 Rite of Consumption
+1 Skullclamp|TDC|103
+1 Snakeskin Veil|FDN|233
+2 Snow-Covered Forest|ICE|383
+2 Snow-Covered Swamp|ICE|372
+1 Sol Ring|M3C|305
+1 Spore Frog|BLC|238
+6 Swamp|SNC|267
+1 Sylvan Library|DMR|350
+1 Takenuma, Abandoned Mire|NEO|278
+1 Tamiyo's Safekeeping|NEO|211
+1 Three Visits|FIC|315
+1 Traverse the Ulvenwald|INR|221
+1 Triumph of the Hordes|NPH|123
+1 Undergrowth Stadium|CMR|359
+1 Unnatural Growth|WOT|62
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Veil of Summer|MB2|75
+1 Verdant Catacombs|MH2|260
+1 Vesuva|M3C|404
+1 Viscera Seer|LCC|213
+1 Volrath's Stronghold|STH|143
+1 Wall of Roots|TDC|278
+1 Wayfarer's Bauble|TDC|335
+1 Yavimaya, Cradle of Growth|MH2|261
+1 Zopandrel, Hunger Dominus|ONE|195
+
+
+[Sideboard]
+1 Arcane Signet|DRC|52
+1 Bastion of Remembrance|TDC|171
+1 Birds of Paradise|DMR|336
+1 Blood Artist|INR|97
+1 Elves of Deep Shadow
+1 Golgari Signet|BLC|272
+1 Llanowar Wastes|EOC|165
+1 Marsh Flats|MH2|248
+1 Necropotence|5ED|182
+1 Overwhelming Stampede|DSC|192
+
+

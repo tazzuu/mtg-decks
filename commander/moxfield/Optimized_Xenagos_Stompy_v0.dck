@@ -1,0 +1,118 @@
+[metadata]
+Name=Optimized Xenagos Stompy
+Description=High powered Xenagos builds for metas where maximum firepower is required 
+Format=commander
+Bracket=4
+Author=plushpenguin
+Version=0
+URL=https://moxfield.com/decks/QI9H1J17dUqGmUzTm3bxRw
+Date=2025-10-22T00:18:43.94Z
+Created=2020-08-05T16:10:19.877Z
+Updated=2025-10-22T00:18:43.94Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Xenagos, God of Revels|SLD|81
+
+
+[Main]
+1 Ancient Copper Dragon|CLB|161
+1 Ancient Tomb|TMP|315
+1 Anzrag, the Quake-Mole|MKM|186
+1 Arid Mesa|SLU|4
+1 Beast Within|C20|168
+1 Birds of Paradise|GK2|82
+1 Blasphemous Act|2XM|117
+1 Bloodstained Mire|KTK|230
+1 Bloodthirster|40K|73
+1 Boseiju, Who Endures|NEO|266
+1 Carpet of Flowers|USG|240
+1 Cavern of Souls|MM3|232
+1 Collector Ouphe|MH1|158
+1 Combat Celebrant|AKH|125
+1 Command Tower|C20|264
+1 Defend the Rider|DFT|157
+1 Deflecting Swat|C20|50
+1 Delighted Halfling|LTR|158
+1 Devoted Druid|UMA|162
+1 Disciple of Freyalise|MH3|250
+1 Dragonborn Champion|AFC|45
+1 Dryad Arbor|FUT|174
+1 Embercleave|ELD|120
+1 Emrakul, the Promised End|EMN|6
+1 Escape to the Wilds|ELD|189
+1 Evercoat Ursine|BLC|64
+1 Fanatic of Rhonas|MH3|152
+1 Finale of Devastation|WAR|160
+1 Fire-Lit Thicket|2XM|317
+1 Force of Vigor|MH1|164
+7 Forest|2XM|382
+1 Full Throttle|DFT|386
+1 Fyndhorn Elves|CMR|228
+1 Gamble|EMA|132
+1 Gemstone Caverns|TSP|274
+1 Godo, Bandit Warlord|2XM|128
+1 Green Sun's Zenith|EMA|169
+1 Grove of the Burnwillows|IMA|238
+1 Haywire Mite
+1 Jeska's Will|CMR|187
+1 Joraga Treespeaker|ROE|190
+1 Karplusan Forest|C16|305
+1 Kenrith's Transformation|ELD|164
+1 Klauth, Unrivaled Ancient|AFC|320
+1 Legolas's Quick Reflexes|LTC|493
+1 Life's Legacy|M15|183
+1 Lightning Bolt
+1 Llanowar Elves
+1 Minsc & Boo, Timeless Heroes|CLB|285
+1 Misty Rainforest|MH2|438
+1 Moraug, Fury of Akoum|ZNR|300
+2 Mountain|2XM|380
+1 Natural Order|STA|54
+1 Nature's Claim|IMA|177
+1 Nature's Rhythm|TDM|150
+1 Ojer Kaslem, Deepest Growth|LCI|204
+1 Old Gnawbone|AFR|296
+1 Pathbreaker Ibex|CMA|132
+1 Prismatic Vista|MH1|244
+1 Quartzwood Crasher|IKO|201
+1 Ragavan, Nimble Pilferer|MH2|315
+1 Ravenous Tyrannosaurus|REX|18
+1 Redirect Lightning|TLA|151
+1 Scalding Tarn|MH2|254
+1 Seize the Day|UMA|147
+1 Shifting Woodland|MH3|228
+1 Sol Ring|C20|252
+1 Somberwald Sage|AVR|194
+1 Spire Garden|BBD|85
+1 Stomping Ground|RNA|259
+1 Strip Mine|4ED|363
+1 Survival of the Fittest|EXO|129
+1 Sylvan Library|5ED|329
+1 Taiga|3ED|287
+1 Tamiyo's Safekeeping|NEO|211
+1 The Dominion Bracelet|EOE|352
+1 The One Ring|LTR|246
+1 Thornspire Verge|DSK|270
+1 Tibalt's Trickery|KHM|153
+1 Time of Need|CHK|247
+1 Turntimber Symbiosis|ZNR|215
+1 Up the Beanstalk|WOE|195
+1 Urza's Saga|MH2|259
+1 Utopia Sprawl|A25|192
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MH2|260
+1 Wheel of Fortune|3ED|185
+1 Wild Growth|C18|165
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|6ED|269
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+1 Ghostfire Slice|MH3|123
+1 Soul-Guide Lantern|THB|237
+
+

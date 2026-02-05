@@ -1,0 +1,126 @@
+[metadata]
+Name=Ragost - Lobster's Stew [Bracket 3]
+Description=Boil 'Em, Mash 'Em, Put 'Em in a Stew - artifacts that is. Testing shell, check out the Primer!; tags enabled; in the sideboard are all cantrip eggs I found and considered playable that probably should be run; some short gamplay reports in the primer.
+Format=commander
+Bracket=3
+Author=Tybalto
+Version=0
+URL=https://moxfield.com/decks/tWnSl-B_2U-BtNycRCZZKQ
+Date=2025-10-21T21:11:14.803Z
+Created=2025-07-08T18:13:32.713Z
+Updated=2025-10-21T21:11:14.803Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Ragost, Deft Gastronaut|EOE|300
+
+
+[Main]
+1 Academy Manufactor|BLC|264
+1 Aetherflux Reservoir|BRR|65
+1 Ancient Den|SLD|300
+1 Arcane Signet|SLD|1492★
+1 Arena of Glory|MH3|351
+1 Arid Mesa|SPG|109
+1 Astrid Peth|WHO|11
+1 Authority of the Consuls|FDN|137
+1 Basilisk Collar|CLB|300
+1 Big Score|SNC|102
+1 Blasphemous Act|SLD|322
+1 Bloodstained Mire|MH3|352
+1 Boros Signet|SLD|291
+1 Caduceus, Staff of Hermes|ACR|173
+1 Chandra's Incinerator|M21|302
+1 Command Tower|SLD|1496★
+1 Crime Novelist|MKM|121
+1 Curse of Opulence|MKC|150
+1 Deflecting Swat|CMM|698
+1 Drumbellower|NEC|6
+1 Eiganjo, Seat of the Empire|NEO|413
+1 Elegant Parlor|MKM|325
+1 Esper Sentinel|MH2|328
+1 Everybody Lives!|WHO|623
+1 Experimental Synthesizer|NEO|138
+1 Farid, Enterprising Salvager|BRC|13
+1 Flawless Maneuver|CMM|692
+1 Flooded Strand|MH3|353
+1 Gemstone Caverns|EOS|151
+1 Generous Gift|H1R|2
+1 Goblin Engineer|TSR|345
+1 Gold Myr|SOM|157
+1 Great Furnace|SLD|303
+1 Grinding Station|MB2|223
+1 Ichor Wellspring|BRR|84
+1 Implement of Combustion|AER|155
+1 Implement of Improvement|AER|158
+1 Inspiring Statuary|BRR|85
+1 Inventors' Fair|EOS|111
+1 Iron Myr|SOM|168
+1 Krark-Clan Ironworks|MB2|224
+1 Lembas|LTR|243
+1 Magewright's Stone|RVR|462
+1 Marsh Flats|SPG|110
+1 Monologue Tax|SLD|1838
+4 Mountain|UNF|494
+1 Mox Opal|SLD|1072
+1 Needleverge Pathway|ZNR|288
+1 Nuka-Cola Vending Machine|PIP|358
+1 Osgir, the Reconstructor|C21|335
+1 Path to Exile
+5 Plains|UNF|491
+1 Plateau|3ED|284
+1 Prismatic Vista|SPG|38
+1 Prized Statue|CLB|334
+1 Ratchet, Field Medic|BOT|2
+1 Reckless Fireweaver|DRC|106
+1 Rugged Prairie|EXP|34
+1 Sacred Foundry|UNF|536
+1 Scalding Tarn|SPG|112
+1 Scrapheap|ULG|132
+1 Sevinne's Reclamation|DMR|273
+1 Shadowspear|LTC|353
+1 Sheltered by Ghosts|DSK|30
+1 Smothering Tithe|SLD|7009
+1 Sol Ring|SLD|1494★
+1 Spectator Seating|CMM|664
+1 Spirit Loop|TSP|42
+1 Staff of Domination|MPS|48
+1 Sting, the Glinting Dagger|LTR|409
+1 Sunbaked Canyon|ACR|111
+1 Sunbillow Verge|DFT|373
+1 Swiftfoot Boots|SLD|606
+1 Swords to Plowshares|SPG|54
+1 Talisman of Conviction|SLD|1060
+1 Terrarion|RAV|273
+1 Tezzeret, Cruel Captain|EOE|287
+1 The One Ring|LTR|791
+1 Thousand Moons Smithy|LCI|39
+1 Thousand-Year Elixir|LRW|263
+1 Toggo, Goblin Weaponsmith|CMR|204
+1 Transmutation Font|BIG|58
+1 Treasure Nabber|CMM|645
+1 Trouble in Pairs|MKC|15
+1 Unexpected Windfall|AFR|164
+1 Urza's Saga
+1 Valakut Awakening|ZNR|174
+1 Weapons Manufacturing|EOE|311
+1 Weftstalker Ardent|EOE|169
+1 Windswept Heath|MH3|360
+1 Witch Enchanter|MH3|239
+1 Wooded Foothills|MH3|361
+
+
+[Sideboard]
+1 Burst of Energy|ULG|3
+1 Chromatic Star|BRR|74
+1 Cloud Key|TSR|265
+1 Cursed Mirror|C21|50
+1 Escape from Orthanc|LTR|12
+1 Guild Globe|WAR|239
+1 Illusionist's Bracers|RVR|392
+1 Market Gnome|LCI|22
+1 Nutrient Block|EOE|243
+1 Patriar's Seal|CLB|332
+
+

@@ -1,0 +1,111 @@
+[metadata]
+Name=Emry's Rusty Rocks: CEDH Primer
+Description=Mono Blue artifact recursion deck that plays conservatively with its protection and aims to combo in several available ways. Emry is a "winconless" deck, that aims to have every spell be useful at any given time. Emry wins through sequenced combos of utility cards and loops.
+Format=commander
+Bracket=5
+Author=Beezelbob
+Version=0
+URL=https://moxfield.com/decks/Ns1U8bi1fEap3ZT7Is5WmA
+Date=2025-03-27T03:31:00.533Z
+Created=2020-09-19T20:30:52.383Z
+Updated=2025-03-27T03:31:00.533Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Emry, Lurker of the Loch|ELD|342
+
+
+[Main]
+1 Aether Spellbomb|MMA|196
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|UMA|236
+1 Aphetto Alchemist|ONS|64
+1 Basalt Monolith|2XM|232
+1 Borne Upon a Wind|LTR|44
+1 Brain Freeze|SCG|29
+1 Brainstorm|MMQ|61
+1 Cephalid Coliseum|V12|3
+1 Chain of Vapor|C16|84
+1 Chromatic Sphere|MRD|151
+1 Chromatic Star|2XM|239
+1 Chrome Mox|2XM|358
+1 Codex Shredder
+1 Conjurer's Bauble|5DN|112
+1 Corridor Monitor|ELD|41
+1 Dermotaxi
+1 Displacer Kitten|CLB|63
+1 Dramatic Reversal|KLD|44
+1 Emergence Zone|WAR|245
+1 Etherium Sculptor|ALA|42
+1 Fabricate|MRD|35
+1 Faerie Mastermind
+1 Fierce Guardianship|C20|35
+1 Flare of Denial|MH3|326
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Negation|MH1|52
+1 Force of Will|2XM|51
+1 Forensic Gadgeteer|MKM|57
+1 Gemstone Caverns|TSP|274
+1 Gilded Drake|USG|76
+1 Glaring Fleshraker|MH3|7
+1 Grinding Station|5DN|127
+1 Hope of Ghirapur|AER|154
+1 Hullbreaker Horror|CLB|724
+1 Into the Flood Maw|BLB|52
+1 Intuition|TMP|70
+13 Island|ZNR|271
+1 Isochron Scepter|MRD|188
+1 Ledger Shredder|SNC|46
+1 Liberator, Urza's Battlethopter|BRO|237
+1 Lightning Greaves|2XM|360
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal
+1 Malevolent Hermit|MID|61
+1 Mana Drain|IMA|65
+1 Mana Vault|UMA|229
+1 March of Swirling Mist|NEO|61
+1 Merchant Scroll|8ED|91
+1 Mesmeric Orb|MRD|204
+1 Minamo, School at Water's Edge
+1 Mirran Spy|MBS|26
+1 Mishra's Bauble|BRR|34
+1 Mishra's Workshop|ATQ|81
+1 Misty Rainforest|SLU|5
+1 Mox Amber|DOM|224
+1 Mox Diamond|V10|10
+1 Mox Opal|2XM|275
+1 Muddle the Mixture|RAV|60
+1 Mystic Remora|ICE|87
+1 Mystic Sanctuary|TSR|408
+1 Mystical Tutor|SS1|6
+1 Narset, Parter of Veils|WAR|61
+1 Otawara, Soaring City
+1 Pact of Negation|A25|68
+1 Polluted Delta|KTK|239
+1 Pongify|2XM|62
+1 Reshape|2XM|64
+1 Rhystic Study|JMP|169
+1 Run Away Together|BLB|67
+1 Scalding Tarn|SLU|2
+1 Sea Gate Restoration|ZNR|76
+1 Seat of the Synod|C18|278
+1 Sol Ring
+1 Soul-Guide Lantern|THB|237
+1 Swan Song|THS|65
+1 The One Ring|LTR|451
+1 Thousand-Year Elixir
+1 Timetwister|2ED|85
+1 Transmute Artifact|ATQ|14
+1 Urza's Bauble|5ED|406
+1 Urza's Saga|MH2|380
+1 Urza, Lord High Artificer|MH1|75
+1 Vexing Bauble|MH3|212
+1 Walking Ballista|2XM|306
+1 Whir of Invention|MB1|547
+
+
+[Sideboard]
+
+

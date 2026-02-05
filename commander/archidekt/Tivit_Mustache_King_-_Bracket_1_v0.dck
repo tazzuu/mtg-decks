@@ -1,0 +1,90 @@
+[metadata]
+Name=Tivit, Mustache King - Bracket 1
+Description={"ops":[{"attributes":{"link":"https://youtu.be/q4nFiokzdS4"},"insert":"https://youtu.be/q4nFiokzdS4"},{"insert":" \n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Version=0
+URL=https://archidekt.com/decks/13111263
+Date=2025-05-14
+Created=2025-05-13
+Updated=2025-05-14
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Tivit, Seller of Secrets|NCC|10
+
+
+[Main]
+1 Brink of Madness
+1 Command Tower|TDC|107
+1 Corrupt Official|MMQ|128
+1 Hand of Justice|FEM|5
+1 Herald of Anafenza|KTK|12
+1 Holy Day|8ED|23
+1 Hunted Witness|GRN|15
+1 Hunted by The Family|WHO|46
+1 Icatian Infantry|FEM|7c
+1 Icatian Lieutenant|FEM|9
+1 Inspired Charge|KLD|20
+12 Island|TDM|279
+1 Jaded Analyst|MKM|62
+1 Juniper Order Advocate|ALL|6
+1 Kambal, Consul of Allocation|2X2|237
+1 Kaya's Guile|MH1|205
+1 Krovikan Sorcerer
+1 Krovikan Vampire|ICE|141
+1 Land Tax|LEG|26
+1 Lim-Dûl the Necromancer|TSP|114
+1 Lu Su, Wu Advisor|PTK|47
+1 Mardu Hateblade|KTK|16
+1 Mental Note
+1 Militant Monk|TOR|9
+1 Mind Twist|MB2|184
+1 Necrotic Wound|J25|470
+1 Night Clubber|SNC|89
+1 Ninth Bridge Patrol|J22|221
+1 Outlaw Medic|OTJ|23
+1 Persuasion|10E|95
+12 Plains|TDM|278
+1 Port Inspector|MMQ|90
+1 Pox|MB2|185
+1 Presence of the Master|LEG|31
+1 Prosperity Tycoon|OTJ|25
+1 Pulsemage Advocate|JUD|19
+1 Puppeteer|10E|98
+1 Purify|7ED|31
+1 Queen's Commission|XLN|29
+1 Rakshasa's Secret
+1 Reverse Polarity|3ED|36
+1 Rush of Battle|KTK|19
+1 Rustler Rampage|OTJ|27
+1 Sage of Lat-Nam
+1 Scheming Fence|SNC|219
+1 Search Party Captain|J25|250
+1 Seize the Secrets|OTJ|64
+1 Shield Mate|EXO|19
+1 Sign in Blood|STA|32
+1 Sleep Paralysis|M20|75
+1 Sleight of Hand|WOE|67
+1 Soul Kiss|ICE|162
+1 Spirit Link|DMR|29
+1 Stand|DMR|207
+1 Stern Marshal|POR|32
+1 Stock Up|DFT|67
+1 Stream of Thought
+12 Swamp|TDM|281
+1 Sword-Point Diplomacy|XLN|126
+1 Temporary Truce|MB2|22
+1 Thirst|MIR|99
+1 Three Wishes|VIS|45
+1 Tobias Andrion|CHR|87
+1 Tobias, Doomed Conqueror|DMC|45
+1 Vicious Conquistador|J25|507
+1 Wyrm's Crossing Patrol|CLB|51
+
+
+[Sideboard]
+
+

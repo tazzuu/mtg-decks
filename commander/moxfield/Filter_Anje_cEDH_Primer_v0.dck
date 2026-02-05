@@ -1,0 +1,125 @@
+[metadata]
+Name=Filter Anje cEDH Primer
+Description=
+Format=commander
+Bracket=5
+Author=Blazingscout
+Version=0
+URL=https://moxfield.com/decks/PFGBjM5BnESfH9F8qBIIaw
+Date=2022-02-25T23:49:47.29Z
+Created=2020-05-11T08:29:42.273Z
+Updated=2022-02-25T23:49:47.29Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Anje Falkenrath|C19|37
+
+
+[Main]
+1 Abandon Reason|EMN|115
+1 Alchemist's Greeting|C19|133
+1 Alms of the Vein|SOI|98
+1 Animate Dead|EMA|78
+1 Anje's Ravager|C19|22
+1 Archfiend of Spite|C19|14
+1 Arid Mesa|SLU|4
+1 Asylum Visitor|C19|103
+1 Avacyn's Judgment|C19|134
+1 Badlands|3ED|282
+1 Big Game Hunter|C19|106
+1 Biting Rain|SOI|102
+1 Blazing Rootwalla|MH2|115
+1 Blood Crypt|RNA|245
+1 Bloodhall Priest|C19|188
+1 Bloodmad Vampire|SOI|146
+1 Bloodstained Mire|KTK|230
+1 Cabal Pit|ODY|315
+1 Call to the Netherworld|C19|108
+1 Cavern of Souls|UMA|237
+1 Chrome Mox|EMA|219
+1 City of Brass|MD1|15
+1 Cloudstone Curio|RAV|257
+1 Command Tower|C20|264
+1 Dance of the Dead|ICE|118
+1 Dark Ritual|A25|82
+1 Dark Withering|C19|110
+1 Deflecting Swat|C20|50
+1 Demonic Tutor|UMA|93
+1 Distemper of the Blood|EMN|126
+1 Dockside Extortionist|C19|24
+1 Entomb|UMA|94
+1 Exotic Orchard|C20|273
+1 Fiery Temper|C19|142
+1 From Under the Floorboards|C19|113
+1 Gamble|UMA|132
+1 Gemstone Caverns|TSP|274
+1 Gemstone Mine|TSB|119
+1 Gibbering Descent|FUT|66
+1 Gorgon Recluse|C19|116
+1 Grave Scrabbler|C19|117
+1 Hell Mongrel|MH2|88
+1 Ichor Slick|GVL|51
+1 Imp's Mischief|PLC|72
+1 Imperial Seal
+1 Incorrigible Youths|SOI|166
+1 Jeweled Lotus|CMR|319
+1 Kitchen Imp|MH2|343
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal
+1 Luxury Suite|BBD|82
+1 Malevolent Whispers|C19|150
+1 Mana Confluence|JOU|163
+1 Mana Crypt|EMA|225
+1 Marsh Flats|SLU|1
+1 Merchant of the Vale|ELD|131
+1 Mox Diamond|STH|138
+1 Muck Drubb|PLC|76
+1 Murderous Compulsion|C19|122
+1 Necrogoyf|MH2|93
+1 Necromancy|VIS|64
+1 Nightshade Assassin|C19|123
+1 Polluted Delta|KTK|239
+1 Psychotic Episode|TSP|126
+1 Psychotic Haze|TOR|76
+1 Pyroblast|EMA|142
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Reckless Wurm|UMA|144
+1 Red Elemental Blast|A25|147
+1 Revolutionist|MH2|139
+1 Rite of Flame|CSP|96
+1 Scalding Tarn|SLU|2
+1 Senseless Rage|SOI|180
+1 Shadow of the Grave|AKH|107
+1 Shadowgrange Archfiend|VOC|60
+1 Simian Spirit Guide|A25|148
+1 Skophos Reaver|MH2|140
+1 Snow-Covered Mountain|MH1|253
+1 Snow-Covered Swamp|MH1|252
+1 Sol Ring|C20|252
+1 Strength of Lunacy|TOR|86
+1 Stromkirk Occultist|C19|153
+1 Sulfurous Springs|10E|359
+1 Swamp|IKO|266
+1 Tainted Pact|ODY|164
+1 Tarnished Citadel|ODY|329
+1 Terminal Agony|MH2|215
+1 Tibalt's Trickery|KHM|153
+1 Twins of Maurer Estate|UMA|118
+1 Underworld Breach|THB|161
+1 Unmarked Grave|MH2|106
+1 Vampiric Tutor|EMA|112
+1 Verdant Catacombs|SLU|3
+1 Violent Eruption|C19|154
+1 Voldaren Pariah|EMN|111
+1 Wheel of Fortune|3ED|185
+1 Wishclaw Talisman|ELD|110
+1 Wooded Foothills|KTK|249
+1 Worldgorger Dragon|EMA|154
+
+
+[Sideboard]
+1 Mountain|IKO|269
+1 Wheel of Misfortune|CMR|211
+
+

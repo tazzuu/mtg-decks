@@ -1,0 +1,230 @@
+[metadata]
+Name=Sophia, Dogged Detective - DOGS! ($330)
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=The_Not_So_Scary_Werepanda
+Version=0
+URL=https://archidekt.com/decks/6565176
+Date=2026-01-10
+Created=2024-01-29
+Updated=2026-01-10
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Sophia, Dogged Detective|MKC|319
+
+
+[Main]
+1 Abzan Beastmaster|FRF|119
+1 Abzan Falconer|MOC|165
+1 Academy Manufactor|MOC|346
+1 Adrix and Nev, Twincasters|MKC|198
+1 Ainok Bond-Kin|CMM|7
+1 Ainok Guide|FRF|121
+1 Ainok Strike Leader|TDC|11
+1 Alchemist's Refuge|LCC|318
+1 Almost Perfect|PIP|90
+1 Alpine Watchdog|M21|2
+1 Amoeboid Changeling|LRW|51
+1 Aqueous Form|CMR|56
+1 Arcane Signet|LCC|299
+1 Armed with Proof|MKC|9
+1 Artful Dodge|DKA|27
+1 Astrid Peth|WHO|11
+1 Bala Ged Recovery
+1 Bant Charm|2X2|181
+1 Basilisk Collar|CLB|300
+1 Beast Within|LCC|233
+1 Bennie Bracks, Zoologist|MKC|57
+1 Bident of Thassa|LCC|146
+1 Biophagus|40K|87
+1 Biorganic Carapace|SPM|124
+1 Blink Dog|AFR|3
+1 Boros Mastiff|DGM|1
+1 Breeding Pool|RVR|275
+1 Briarbridge Patrol|SOI|195
+1 Bridgeworks Battle|MH3|249
+1 Canopy Vista|LCC|321
+1 Chakram Retriever|BBD|15
+1 Champion of Arashin|BBD|90
+1 Champion of Lambholt|MOC|293
+1 Chrome Companion|EOE|236
+1 Coastal Piracy|JMP|144
+1 Colossification|IKO|148
+1 Command Tower|CMM|420
+1 Conclave Mentor|MOC|320
+1 Confront the Unknown|SOI|198
+1 Counterspell|CMM|81
+1 Cultivate|LCC|235
+1 Damning Verdict|NCC|15
+1 Danny Pink|WHO|39
+1 Deserted Beach|MID|260
+1 Detective of the Month|MKC|21
+1 Disorder in the Court|MKC|209
+1 District Mascot|DFT|158
+1 Dreamroot Cascade|VOW|262
+1 Elanor Gardner|LTR|286
+1 Elemental Bond|SCD|180
+1 Encampment Keeper|XLN|11
+1 Endless Detour|SNC|183
+1 Erdwal Illuminator|J22|291
+1 Exotic Orchard|MKC|260
+1 Explore|LCC|241
+1 Faithful Watchdog|MH3|185
+1 Farewell|NEO|13
+1 Farseek|RVR|138
+1 Fateful Absence|MID|18
+1 Floodhound|MH2|42
+1 Follow the Bodies|MKC|23
+3 Forest|SIR|291
+1 Generous Ent|LTR|169
+1 Generous Pup|J25|4
+1 Gilded Goose|MOC|299
+1 Glacial Fortress|XLN|255
+1 Greater Tanuki|CMM|897
+1 Growth Spiral|LCC|270
+1 Guardian of Faith|AFR|18
+1 Hadana's Climb|RIX|158
+1 Hallowed Fountain|RVR|280
+1 Hardened Scales|LCC|243
+1 Heroic Intervention|CMM|295
+1 Hinterland Harbor|LCC|336
+1 Hunter's Insight|JMP|402
+1 Hunter's Prowess|SCD|192
+1 Idol of Oblivion|MKC|229
+1 Innocuous Researcher|MKC|38
+1 Inspiring Call|LCC|244
+1 Inspiring Statuary|MKC|230
+1 Into the Flood Maw|BLB|52
+1 Irregular Cohort|CLB|696
+1 Isamaru, Hound of Konda|J22|201
+2 Island|SIR|281
+1 Jaheira, Friend of the Forest|CLB|237
+1 K-9, Mark I|WHO|47
+1 Kabira Takedown|ZNR|19
+1 Karvanista, Loyal Lupari|WHO|106
+1 Kellan, Inquisitive Prodigy|MKM|212
+1 Kindred Discovery|LCC|159
+1 Kodama's Reach|LCC|245
+1 Krosan Verge|MKC|271
+1 Leyline Immersion|MAT|21
+1 Lightning Greaves|CMM|398
+1 Longshot Squad|KTK|140
+1 Lonis, Cryptozoologist|MKC|215
+1 Loyal Warhound|AFR|23
+1 Many Partings|LTR|176
+1 Martha Jones|WHO|48
+1 Masked Vandal|KHM|184
+1 Maskwood Nexus|CLB|865
+1 Merchant of Truth|MKC|11
+1 Minas Tirith|LTR|256
+1 Mind Stone|CMM|961
+1 Mirror Entity|MKC|75
+1 Mischievous Pup|LCI|25
+1 Mistwalker|KHM|68
+1 Mongrel Pack|TMP|237
+1 Morska, Undersea Sleuth|MKC|3
+1 Mossdog|NEM|106
+1 Mowu, Loyal Companion|CMM|306
+1 Mushroom Watchdogs|LTR|180
+1 Nature's Lore|CMM|904
+1 Negate|MOM|68
+1 Nettlecyst|MKC|233
+1 Noble Hierarch
+1 Officious Interrogation|MKM|222
+1 Ohran Frostfang|MKC|180
+1 Ongoing Investigation|MKC|114
+1 Open into Wonder|ZNC|34
+1 Overflowing Basin|PIP|152
+1 Overgrown Farmland|MID|265
+1 Pack Leader|M21|29
+1 Parting Gust|BLB|24
+1 Path of Ancestry|LCC|346
+1 Path to Exile|LCC|134
+1 Peregrin Took|LTR|181
+1 Phelia, Exuberant Shepherd|MH3|40
+3 Plains|SIR|278
+1 Prairie Stream|CMM|1020
+1 Private Eye|MKM|223
+1 Rambunctious Mutt|M21|30
+1 Rampant Growth|LCC|248
+1 Realmwalker|LCC|250
+1 Reconnaissance|EXO|17
+1 Release the Dogs|JMP|4
+1 Reliquary Tower|LCC|348
+1 Resolute Watchdog|RNA|19
+1 Revive the Shire|LTR|185
+1 Rex, Cyber-Hound|PIP|117
+1 Rikku, Resourceful Guardian|FIC|41
+1 Ripples of Potential|LCC|77
+1 Roaming Throne|LCI|258
+1 Sally Sparrow|WHO|155
+1 Sam, Loyal Attendant|LTC|90
+1 Samwise Gamgee|LTR|673
+1 Search the Premises|MKC|81
+1 Seaside Citadel|CMM|1029
+1 Secret Identity|SPM|43
+1 Sejiri Shelter|ZNR|37
+1 Sejiri Steppe|DDG|36
+1 Selfless Savior|M21|36
+1 Senator Peacock|CLU|2
+1 Sigarda's Summons|VOW|36
+1 Simic Charm|CMR|451
+1 Sink into Stupor|MH3|241
+1 Skycloud Expanse|MKC|294
+1 Smothering Tithe|CMM|57
+1 Sol Ring|LCC|313
+1 Soul Partition|BRO|26
+1 Spara's Headquarters|SNC|257
+1 Spire of Industry|MKC|296
+1 Spirit en-Dal
+1 Spirited Companion|CMM|838
+1 Starfall Invocation|BLB|34
+1 Strength of the Harvest|MH3|258
+1 Struggle for Project Purity|PIP|39
+1 Sungrass Prairie|MKC|297
+1 Suppression Ray|MH3|260
+1 Swiftfoot Boots|LCC|314
+1 Sword of Feast and Famine
+1 Swords to Plowshares|LCC|137
+1 Tanazir Quandrix|STX|240
+1 Tanuki Transplanter|NEC|30
+1 Tarnation Vista|BIG|30
+1 Temple Garden|RVR|290
+1 Thassa, God of the Sea|LCC|176
+1 The Goose Mother|WOE|204
+1 The Indomitable|LCC|75
+1 The Night of the Doctor|WHO|24
+1 The Shire|LTR|260
+1 Thorough Investigation|AFC|12
+1 Thought Vessel|CMM|414
+1 Three Visits|MKC|189
+1 Time Wipe|MOC|340
+1 Tireless Provisioner|MOC|313
+1 Tireless Tracker|MOC|314
+1 Toski, Bearer of Secrets|MKC|191
+1 Tower Winder|OTC|34
+1 Trail of Crumbs|ELD|179
+1 Traveling Botanist|TDM|164
+1 Trusty Retriever|JMP|8
+1 Unlucky Cabbage Merchant|TLA|201
+1 Unsettled Mariner|MH1|216
+1 Urza, Lord High Artificer|CMM|130
+1 Valiant Changeling|CLB|711
+1 Vanquish the Horde
+1 Victory Chimes|C21|274
+1 War of the Last Alliance|LTR|36
+1 Warclamp Mastiff|M13|40
+1 Wary Watchdog|DSK|206
+1 Weirding Wood|MOC|315
+1 Winged Boots|AFC|20
+1 Wojek Investigator|MKM|36
+1 Yoshimaru, Ever Faithful|NEC|32
+1 Zegana, Utopian Speaker|LCC|298
+
+
+[Sideboard]
+
+

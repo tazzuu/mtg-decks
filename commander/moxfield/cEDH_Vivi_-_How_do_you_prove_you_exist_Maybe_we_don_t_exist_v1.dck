@@ -1,0 +1,133 @@
+[metadata]
+Name=[cEDH] Vivi - How do you prove you exist? Maybe we don't exist...
+Description=Vivi Ornitier deck WIP
+Format=commander
+Bracket=5
+Author=Elmekia
+Version=1
+URL=https://moxfield.com/decks/oumM4rK-O0uZtgaatbHNrA
+Date=2026-02-02T13:20:26.493Z
+Created=2025-05-10T19:17:46.053Z
+Updated=2026-02-02T13:20:26.493Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Vivi Ornitier|FIN|570
+
+
+[Main]
+1 An Offer You Can't Refuse
+1 Ancient Tomb|TMP|315
+1 Arcane Signet|SLD|589
+1 Arid Mesa|SPG|114
+1 Banishing Knack|EVE|17
+1 Birgi, God of Storytelling|KHM|311
+1 Borne Upon a Wind|LTR|761
+1 Brain Freeze|SLD|410
+1 Brainstorm|STA|76
+1 Cavern of Souls|LCI|345
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|SLC|2003
+1 City of Brass|2X2|403
+1 Command Tower|SLD|1496★
+1 Curiosity|WOT|17
+1 Deflecting Swat|TLE|311
+1 Dizzy Spell|RAV|43
+1 Dragon's Rage Channeler|SLD|2053
+1 Everflowing Chalice|TSR|394
+1 Fear, Fire, Foes!|LTR|576
+1 Fierce Guardianship|SLD|1823
+1 Fiery Islet|ACR|112
+1 Final Fortune|MB2|190
+1 Flusterstorm|MH3|496
+1 Force of Will|2XM|340
+1 Frantic Search|CMM|632
+1 Gamble|DMR|433
+1 Gemstone Caverns|LTC|364
+1 Gitaxian Probe
+1 Gut Shot
+1 Harmonic Prodigy|MH2|352
+1 Haze of Rage|FUT|100
+1 Hexing Squelcher|ECL|317
+1 Hullbreaker Horror|INR|303
+1 Hydroelectric Specimen|MH3|240
+1 Intuition|TMP|70
+1 Island|FIC|479
+1 Izzet Signet|SLD|293
+1 Jeska's Will|CMR|668
+1 Jeweled Amulet|ICE|326
+1 Light Up the Stage|FCA|39
+1 Lightning Bolt|SLD|1871
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|TMP|294
+1 Mana Confluence|SLD|1012a
+1 Mana Vault|FBB|263
+1 Mental Misstep|SLD|1179
+1 Mindbreak Trap|MB2|168
+1 Mistrise Village|TDM|397
+1 Misty Rainforest|SPG|116
+1 Mountain|FIC|481
+1 Mox Amber|BRR|35
+1 Mox Diamond|STH|138
+1 Mox Opal|SLD|1072
+1 Mystic Remora|SLD|406
+1 Mystical Tutor|SLD|334
+1 Ophidian Eye|TSP|70
+1 Otawara, Soaring City|NEO|503
+1 Pact of Negation|LTC|523
+1 Polluted Delta|MH3|356
+1 Ponder
+1 Preordain
+1 Pyretic Ritual
+1 Pyroblast
+1 Quicksilver Elemental|MRD|47
+1 Ragavan, Nimble Pilferer|FCA|43
+1 Rhystic Study|WOT|71
+1 Rite of Flame|MB2|59
+1 Riverpyre Verge|DFT|372
+1 Scalding Tarn|SPG|112
+1 Shivan Reef|DMU|380
+1 Simian Spirit Guide|SLD|1548
+1 Sink into Stupor|MH3|241
+1 Snap
+1 Snow-Covered Island|SLD|326
+1 Sol Ring|SLD|1074
+1 Spellskite|SLD|587
+1 Starting Town|FIN|289
+1 Steam Vents|CLU|280
+1 Storm-Kiln Artist|CMM|644
+1 Strike It Rich|H2R|12
+1 Swan Song|SLD|91
+1 Talisman of Creativity|SLD|1058
+1 Tandem Lookout|MM3|53
+1 The One Ring|LTR|451
+1 Thundering Falls|MKM|331
+1 Training Center|CMM|665
+1 Twisted Image|A25|75
+1 Underworld Breach|SLD|2045
+1 Valley Floodcaller|BLB|308
+1 Virtue of Courage|WOE|282
+1 Volcanic Island|3ED|291
+1 Wan Shi Tong, Librarian|TLA|320
+1 Wheel of Fortune|FBB|185
+1 Wild Ride|TDM|132
+1 Will of the Jeskai|TDC|80
+1 Windfall
+1 Wooded Foothills|MH3|361
+1 Zenith Festival|TDC|81
+
+
+[Sideboard]
+1 Artist's Talent|BLB|124
+1 Ashling, Flame Dancer|MH3|367
+1 Boomerang Basics|TLA|46
+1 Cephalid Coliseum|V12|3
+1 Consider|SLD|1524
+1 Displacer Kitten|MB2|27
+1 Dragonfire Blade|TDM|324
+1 Dramatic Reversal
+1 Dualcaster Mage|EMA|127
+1 Electro, Assaulting Battery|SPM|76
+
+

@@ -1,0 +1,103 @@
+[metadata]
+Name=Rakdos Hood, Stealing From the Rich
+Description={"ops":[{"insert":"The nearly mythological protector of the poor and needy, Rob- er... "},{"attributes":{"italic":true},"insert":"Rakdos"},{"insert":" Hood, leads this deck that uses your opponents riches against them. Lets go through the non-land categories.\n\n"},{"attributes":{"bold":true},"insert":"Lots o' Mana-"},{"insert":" The more mana we have available, the more of our opponents riches we can cast! We may even hit some of our opponents mana rocks, allowing for further plunder usage. The mana dorks among them double as a back-up indestructible enabler for the Hood if we should need it. "},{"insert":{"card-link":"Oblivion Sower"}},{"insert":" is a big player, grabbing all the lands you've missed from the most unfortunate rich-folk.\n\n"},{"attributes":{"bold":true},"insert":"The Tenacious Crew (The Merry Men)- "},{"insert":"These wonderful lads are there to make sure the Hood can do his stuff safely (by enabling his indestructible ability), and grab some loot on their way out each time! But don't worry, his crew will always be back for more adventure, returning themselves back your the field or hand each time. A surprising good card here is "},{"insert":{"card-link":"Molten Firebird"}},{"insert":". It turns off your hand, but nets you 5 cards from your favorite opponent each turn, and comes back at the end of every turn!\n\n"},{"attributes":{"bold":true},"insert":"Removal-"},{"insert":" Even with stealing this much loot, sometimes you just need to make a quick get away, take out a troublesome guard, or clear the way completely. Some of these options are even evoke-able, adding to your overall plunder! "},{"insert":{"card-link":"Heartless Conscription"}},{"insert":"  shines here for not only getting rid of any indestructible threats, but making them yours shortly after. \n\n"},{"attributes":{"bold":true},"insert":"Extra Stealing-"},{"insert":" The hood provides nearly all the plunder you could need, but there always room for a little more! These cards can provide the \"cherry on top\" of the new loot pile each turn. I've always loved "},{"insert":{"card-link":"Stolen Strategy"}},{"insert":"  for the wonderful feeling of \"drawing\" a bunch of surprises each turn.\n\n"},{"attributes":{"bold":true},"insert":"Backup Plans-"},{"insert":" The Hood never goes out without a plan if something should go south. These cards allow for different ways to save the Hood. I'm especially fond of the \"everybody drop everything\" approach that "},{"insert":{"card-link":"Sire of Insanity"}},{"insert":"  enables.\n\n"},{"attributes":{"bold":true},"insert":"To Record His Adventures-"},{"insert":" What would the legend be without the tales of his antics? And, while writing the epic yarns, why not grant some lifelink to our heavy hitter? "},{"insert":{"card-link":"Poet's Quill"}},{"insert":" \n\nand last but certainly not least,\n"},{"attributes":{"bold":true},"insert":"What Price John Feels-"},{"insert":"  \"Aww, Mommy!\" "},{"attributes":{"italic":true},"insert":"-Prince John "},{"insert":{"card-link":"Anger"}},{"insert":" \n"}]}
+Format=commander
+Bracket=0
+Author=rplindbergh
+Version=0
+URL=https://archidekt.com/decks/7607306
+Date=2026-02-04
+Created=2024-05-06
+Updated=2026-02-04
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Rakdos, the Muscle|OTJ|226
+
+
+[Main]
+1 Abrade|TDC|203
+1 Anger|M3C|208
+1 Arcane Signet|OTC|252
+1 At Knifepoint|OTJ|193
+1 Barren Moor|C21|277
+1 Bedevil|OTP|37
+1 Blasphemous Act|DRC|101
+1 Bloodghast|DFT|77
+1 Bloodsoaked Champion|CLB|740
+1 Bloodsoaked Insight|MH3|252
+1 Bojuka Bog|TDC|341
+1 Bronze Walrus|CLB|302
+1 Canyon Slough|DSC|266
+1 Charcoal Diamond|CLB|305
+1 Clay Revenant|BRO|118
+1 Command Tower|PIP|259
+1 Cult Conscript|DMU|88
+1 Decadent Dragon|WOE|223
+1 Dreadbore|E01|83
+1 Ebondeath, Dracolich|AFR|100
+1 Exotic Orchard|CMM|993
+1 Feed the Swarm|SCD|77
+1 Foreboding Ruins|DSC|277
+1 Forgotten Cave|J22|814
+1 Forsaken Miner|OTJ|88
+1 Gollum, Patient Plotter|LTR|309
+1 Guardian Idol|J25|753
+1 Haunt of the Dead Marshes|LTR|90
+1 Heartless Conscription|OTC|21
+1 High Market|FIC|402
+1 Ingot Chewer|UMA|135
+1 Iron Myr|MRD|187
+1 Laughing Jasper Flint|OTJ|215
+1 Lavaclaw Reaches|EOS|22
+1 Leaden Myr|SOM|170
+1 Liquimetal Torque|MH2|228
+1 Locke, Treasure Hunter|FIC|87
+1 Mind Stone|DMR|385
+1 Mizzium Mortars|CLB|803
+1 Molten Firebird|PLC|117
+6 Mountain|J25|92
+1 Mutinous Massacre|EOE|222
+1 Night Incarnate|C18|17
+1 Nim Devourer|MRD|70
+1 Nine-Lives Familiar|FDN|66
+1 Oblivion Sower|OTC|77
+1 Ornithopter of Paradise|J25|153
+1 Ozox, the Clattering King|J25|44
+1 Persistent Specimen|VOW|125
+1 Poet's Quill|STX|82
+1 Rakdos Charm|EOC|125
+1 Rakdos Keyrune|RTR|232
+1 Rakdos Signet|CLU|226
+1 Reassembling Skeleton|TDC|195
+1 Restless Vents|LCI|284
+1 Rocky Tar Pit|EOC|173
+1 Shadowblood Ridge|OTC|317
+1 Shriekmaw|AFC|110
+1 Sire of Insanity|DGM|104
+1 Skitterbeam Battalion|BRO|343
+1 Skittering Precursor|MH3|137
+1 Smoldering Marsh|PIP|292
+1 Sol Ring|WHO|245
+1 Solemn Simulacrum|MKC|238
+1 Spitebellows|CMM|257
+1 Squee, the Immortal|NCC|275
+1 Sunset Strikemaster|TDM|126
+16 Swamp|J25|89
+1 Swiftfoot Boots|OTC|268
+1 Tainted Peak|DSC|304
+1 Talisman of Indulgence|WHO|252
+1 Temple of Malice|WHO|527
+1 The Scorpion God|HOU|146
+1 Thieving Varmint|OTC|23
+1 Timeline Culler|EOE|121
+1 Undead Sprinter|DSK|350
+1 Wayfarer's Bauble|CLB|344
+1 Witch's Cauldron|CMM|199
+1 Zookeeper Mechan|EOE|170
+
+
+[Sideboard]
+
+

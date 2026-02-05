@@ -1,0 +1,124 @@
+[metadata]
+Name=Sauron, the Dark Lord (Armies of Mordor)
+Description=Sauron the Dark lord deck build arond assembling an army, sacrificing it for value or winning with combat damage. Will maybe write a primer if folks are interested but it's pretty straight forward
+Format=commander
+Bracket=4
+Author=Maxdecraek
+Version=0
+URL=https://moxfield.com/decks/v73ETODF6kOO4e86wYuCSw
+Date=2025-08-02T22:22:28.693Z
+Created=2023-05-30T18:48:07.663Z
+Updated=2025-08-02T22:22:28.693Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Sauron, the Dark Lord|LTR|301
+
+
+[Main]
+1 Ancient Tomb|EOS|1
+1 Animate Dead
+1 Arcane Denial
+1 Arcane Signet|SLD|1492★
+1 Assault on Osgiliath|LTR|285
+1 Badlands|SUM|282
+1 Bilbo, Retired Burglar|LTR|647
+1 Blood Crypt|RVR|397
+1 Bloodstained Mire|MH3|435
+1 Bojuka Bog|LTC|358
+1 Call of the Ring|LTR|530
+1 Chandra's Ignition|SPG|89
+1 Chaos Warp
+1 Command Beacon|SLD|470
+1 Command Tower|SLD|7012
+1 Commence the Endgame|DRC|38
+1 Corrupted Conviction|MOM|98
+1 Corsairs of Umbar|LTC|421
+1 Cyclonic Rift|RVR|419
+1 Dark Ritual|40K|196★
+1 Deadly Dispute|SLD|1980
+1 Deflecting Swat|SLD|1552
+1 Disciple of Bolas|2XM|85
+1 Dreadhorde Invasion|WAR|86
+1 Drowned Catacomb|WHO|492
+1 Faithless Looting|CMM|642
+1 Fellwar Stone|SLD|708
+1 Fierce Guardianship|SLD|1823
+1 Frantic Search
+1 From the Catacombs|CLB|623
+1 Gleaming Overseer|WAR|198
+1 Gloomlake Verge|DSK|331
+1 Gollum, Patient Plotter|LTR|84
+1 Grim Hireling|AFC|294
+1 Haunted Ridge|MID|282
+2 Island|LTR|274
+1 Jeska's Will|SLD|1744
+1 Kazuul's Fury|ZNR|146
+1 Lazotep Chancellor|MH2|369
+1 Lazotep Plating|WAR|59
+1 Lightning Greaves|SLD|1493★
+1 Luxury Suite|CLB|602
+1 Malakir Rebirth|ZNR|111
+1 Mana Drain|CMR|637
+1 Mauhúr, Uruk-hai Captain|LTR|665
+1 Morphic Pool|CLB|357
+1 Mount Doom|LTR|258
+1 Mountain|LTR|278
+1 Mystic Remora|DMR|288
+1 Nasty End|LTR|416
+1 One Ring to Rule Them All|LTR|553
+1 Orcish Bowmasters|LTR|433
+1 Orcish Siegemaster|LTC|435
+1 Otawara, Soaring City|NEO|503
+1 Phyrexian Tower|MH3|355
+1 Polluted Delta|MH3|438
+1 Reanimate|PD3|15
+1 Relic of Sauron|LTC|489
+1 Rhystic Study|CM1|15
+1 Ringsight|LTR|220
+1 Rogue's Passage
+1 Saruman, the White Hand|LTC|91
+1 Sauron's Ransom|LTR|676
+1 Sauron, Lord of the Rings|LTC|84
+1 Scalding Tarn|MH2|439
+1 Shadowspear|THB|345
+1 Shipwreck Marsh|WHO|515
+1 Shizo, Death's Storehouse|CHK|283
+1 Sink into Stupor|MH3|241
+1 Sol Ring|MB2|233
+1 Steam Vents|RVR|412
+1 Stormcarved Coast|VOW|284
+1 Summons of Saruman|LTC|480
+1 Swamp|LTR|276
+1 Swan Song|SLD|1591
+1 Sword of Feast and Famine|2XM|364
+1 Talisman of Creativity|SLD|1058
+1 Talisman of Dominance|SLD|1053
+1 Talisman of Indulgence|SLD|1054
+1 The Black Gate|LTC|490
+1 The One Ring|LTR|451
+1 The Reaver Cleaver|SLD|2095
+1 Toxic Deluge|SLD|1860
+1 Training Center|CMM|665
+1 Treason of Isengard|LTR|525
+1 Undercity Sewers|MKM|332
+1 Underground Sea|SUM|290
+1 Urborg, Tomb of Yawgmoth|LTC|375
+1 Village Rites|INR|392
+1 Volcanic Island|3ED|291
+1 Volrath's Stronghold|STH|143
+1 Warg Rider|LTR|831
+1 Warren Soultrader|MH3|414
+1 Watery Grave|RVR|415
+1 Widespread Brutality
+1 Windfall
+1 Xander's Lounge|SNC|294
+1 Yawgmoth, Thran Physician|DMR|315
+
+
+[Sideboard]
+1 Force of Will|DMR|418
+1 Mana Vault|30A|553
+
+

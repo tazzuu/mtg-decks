@@ -1,0 +1,121 @@
+[metadata]
+Name=cEDH Minsc & Boo – Hulkstorm
+Description=Minsc & Boo is a cEDH hulk/storm deck that focuses on card advantage, infinite mana, and one enormous hamster. 
+Format=commander
+Bracket=5
+Author=JakeFitz
+Version=0
+URL=https://moxfield.com/decks/Wi395TNmaUaGAIMO6OyT8g
+Date=2023-05-04T23:31:46.007Z
+Created=2022-04-12T13:34:59.44Z
+Updated=2023-05-04T23:31:46.007Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Minsc & Boo, Timeless Heroes|CLB|363
+
+
+[Main]
+1 Abrade|VOW|139
+1 Ancient Tomb|UMA|236
+1 Arbor Elf|M13|160
+1 Arid Mesa|MH2|475
+1 Autumn's Veil|M12|164
+1 Berserk|CN2|175
+1 Birds of Paradise|M12|165
+1 Birgi, God of Storytelling|KHM|311
+1 Bloodstained Mire|KTK|230
+1 Blossoming Defense|KLD|146
+1 Boseiju, Who Endures|NEO|501
+1 Carpet of Flowers
+1 Chrome Mox|EMA|219
+1 City of Brass|5ED|413
+1 City of Traitors|WC99|kb143a
+1 Command Tower|CMR|705
+1 Copperline Gorge|SOM|225
+1 Cragcrown Pathway|ZNR|287
+1 Deflecting Swat|C20|50
+1 Dockside Extortionist|C19|24
+1 Dragon's Rage Channeler|MH2|121
+1 Eldritch Evolution
+1 Elvish Mystic|TSR|360
+1 Elvish Spirit Guide|ALL|89
+1 Endurance|MH2|157
+1 Eternal Witness|2X2|368
+1 Final Fortune|MIR|173
+1 Finale of Devastation|WAR|160
+1 Force of Vigor|MH1|164
+3 Forest|THB|254
+1 Fury|MH2|313
+1 Fyndhorn Elves|ICE|244
+1 Gaea's Cradle|USG|321
+1 Gamble|USG|188
+1 Gemstone Caverns|TSR|280
+1 Goblin Anarchomancer|MH2|421
+1 Groundswell
+1 Grove of the Burnwillows|FUT|176
+1 Haze of Rage|FUT|100
+1 Imperial Recruiter|MH2|281
+1 Infernal Plunge|ISD|148
+1 Invasion of Ikoria|MOM|190
+1 Invigorate|MMQ|254
+1 Jeska's Will|CMR|668
+1 Jeweled Lotus|CMR|319
+1 Karplusan Forest|ICE|356
+1 Lion's Eye Diamond|MIR|307
+1 Llanowar Elves|7ED|253
+1 Lotus Petal
+1 Mana Confluence|JOU|163
+1 Mana Crypt
+1 Mana Vault|5ED|388
+1 Manamorphose
+1 Might of Old Krosa|TSR|217
+1 Misty Rainforest|MH2|250
+1 Mountain|THB|253
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mutagenic Growth|MM2|149
+1 Natural Order|STA|54
+1 Noxious Revival
+1 Orcish Lumberjack|ICE|210
+1 Outland Liberator|MID|303
+1 Protean Hulk|DIS|90
+1 Pyroblast|5ED|262
+1 Ragavan, Nimble Pilferer|MH2|315
+1 Red Elemental Blast|4ED|218
+1 Rite of Flame|SS3|7
+1 Ruby Medallion|CM2|212
+1 Scalding Tarn|MM3|244
+1 Shatterskull Smashing|ZNR|354
+1 Simian Spirit Guide
+1 Sol Ring|KHC|104
+1 Spire Garden|CLB|606
+1 Stomping Ground|GTC|247
+1 Storm-Kiln Artist|STX|115
+1 Summoner's Pact|TSR|234
+1 Survival of the Fittest|EXO|129
+1 Sylvan Library|CC1|5
+1 Taiga|3ED|287
+1 Taurean Mauler|MOR|109
+1 Temur Sabertooth|FRF|141
+1 Thornscape Familiar|PLS|95
+1 Tinder Wall|ICE|270
+1 Underworld Breach|THB|161
+1 Unleash Fury|M21|170
+1 Utopia Sprawl|AFC|172
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MH2|479
+1 Vines of Vastwood|MM2|168
+1 Wheel of Fortune|3ED|185
+1 Wheel of Misfortune|CMR|672
+1 Wild Growth|3ED|230
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|MIR|255
+1 Yavimaya, Cradle of Growth|MH2|480
+
+
+[Sideboard]
+
+

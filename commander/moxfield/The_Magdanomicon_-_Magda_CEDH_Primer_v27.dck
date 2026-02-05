@@ -1,0 +1,125 @@
+[metadata]
+Name=The Magdanomicon - Magda CEDH Primer
+Description=[Last Update: 2/3/26 - Blood Moon Variant In Considering] This deck seeks to control the game with its diverse interaction package and tutorable silver bullet targets, eventually finding an artifact combo to leverage your commander abilites ability to win. Comprehensive primer for new and experienced players aimed to help players make their own changes based on playstyle preferences or meta requirements.  Essentially this functions as the Magda CEDH community's Megaprimer. Shodokan's list is current front facing, Rust_ITG's decklist link is in the opening section of the primer. Come chat, ask questions and hang out in the Magda discord server: Discord.gg/magda
+Format=commander
+Bracket=5
+Author=Rust_ITG,Shodokan123
+Version=27
+URL=https://moxfield.com/decks/8Y4qOAcLN0O_HHYhOboV3Q
+Date=2026-02-03T02:28:16.827Z
+Created=2022-04-13T01:02:38.373Z
+Updated=2026-02-03T02:28:16.827Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Magda, Brazen Outlaw|KHM|312
+
+
+[Main]
+1 Abrade|FDN|327
+1 Adaptive Automaton|SLD|1109
+1 Ancient Tomb|LTC|357
+1 Axgard Cavalry|KHM|121
+1 Barkform Harvester|BLB|243
+1 Battered Golem|5DN|106
+1 Bloodfire Dwarf|APC|56
+1 Bottle-Cap Blast|PIP|55
+1 Cavern of Souls|LCI|345
+1 Chaos Warp|PIP|994
+1 Chrome Mox|2XM|358
+1 City of Traitors|EXO|143
+1 Clock of Omens|5DN|110
+1 Clown Car|UNF|472
+1 Command Beacon|CMR|704
+1 Damping Sphere|DOM|213
+1 Dead|TSR|161
+1 Deflecting Swat|CMM|698
+1 Disruptor Flute|MH3|461
+1 Dwarven Armorer|FEM|50
+1 Dwarven Bloodboiler|JUD|84
+1 Dwarven Grunt|ODY|185
+1 Dwarven Scorcher|JUD|86
+1 Dwarven Trader|HML|72b
+1 Enslaved Dwarf|TOR|96
+1 Firdoch Core|ECL|255
+1 Flywheel Racer|MOM|259
+1 Galvanic Blast|2XM|125
+1 Gemstone Caverns|LTC|364
+1 Gogo, Mysterious Mime|FIC|56
+1 Grafdigger's Cage|SLD|324
+1 Great Furnace|SLD|303
+1 Hammerheim|LTC|518
+1 Holdout Settlement|OGW|172
+1 Jeska's Will|SLD|1744
+1 Kavaron, Memorial World|EOE|281
+1 Knuckles the Echidna|SLD|2082
+1 Legion Extruder|BIG|77
+1 Liberated Dwarf|JUD|95
+1 Lifecraft Engine|DFT|531
+1 Lightning Bolt|SLD|675
+1 Liquimetal Torque|MH2|428
+1 Lotus Petal
+1 Magda, the Hoardmaster|OTJ|334
+1 Mana Vault|PUMA|U29
+1 Maskwood Nexus|KHM|369
+1 Metallic Mimic|INR|445
+9 Mountain|WOE|265
+1 Mox Opal|2XM|362
+1 Mutavault
+1 Peter Parker's Camera|SPM|280
+1 Pinnacle Monk|MH3|246
+1 Pithing Needle|MID|378
+1 Plundering Barbarian|AFR|158
+1 Portal to Phyrexia|BRO|365
+1 Professional Face-Breaker|SLD|1706
+1 Pyroblast|SS3|5
+1 Pyrokinesis|EMA|143
+1 Red Elemental Blast|A25|147
+1 Redirect Lightning|TLA|343
+1 Relic of Legends|DMU|236
+1 Return the Favor|OTJ|142
+1 Roaming Throne|LCI|344
+1 Sculpting Steel|2XM|286
+1 Shatterskull Smashing|ZNR|354
+1 Shinka, the Bloodsoaked Keep|LTC|404
+1 Simian Spirit Guide|TSR|190
+1 Smuggler's Copter|SLD|446
+1 Sol Ring|CMM|703
+1 Spark Mage|ODY|222
+1 Springleaf Drum|BNG|162
+1 Stalactite Dagger|ECL|261
+1 Sudden Shock
+1 Sundering Eruption|MH3|248
+1 Survivors' Encampment|HOU|184
+1 Talon Gates of Madara|M3C|82
+1 Tezzeret, Cruel Captain|EOE|287
+1 The One Ring|LTR|451
+1 Three Tree Mascot|BLB|251
+1 Tibalt's Trickery|KHM|360
+1 Torpor Orb|BIG|57
+1 Treasure Vault|PIP|1054
+1 Twinshot Sniper|NEO|168
+1 Universal Automaton|MH1|235
+1 Unlicensed Hearse|SNC|440
+1 Untimely Malfunction|DSK|161
+1 Urza's Saga|MH2|380
+1 Vexing Bauble|MH3|212
+1 Volatile Fault|LCI|286
+1 Xorn|SLD|876
+1 Zoyowa's Justice|LCI|173
+
+
+[Sideboard]
+1 Agatha's Soul Cauldron|WOE|366
+1 Barbarian Ring|MH3|299
+1 Blasphemous Act|CMR|661
+1 Blood Moon|WOT|40
+1 Bloodline Pretender|KHM|235
+1 Cavern-Hoard Dragon|LTC|31
+1 Chalice of the Void|MMA|203
+1 Crystal Vein
+1 Cursed Mirror|WHO|1065
+1 Delayed Blast Fireball|CLB|630
+
+

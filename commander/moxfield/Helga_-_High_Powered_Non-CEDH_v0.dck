@@ -1,0 +1,121 @@
+[metadata]
+Name=Helga - High Powered (Non-CEDH)
+Description=Helga is a bant value engine that relies on creature etbs and card draw to propel the deck forward. It contains both deterministic and nondeterministic combo pattern in addition to being a straight beatdown deck. 
+Format=commander
+Bracket=4
+Author=Papazedruu
+Version=0
+URL=https://moxfield.com/decks/6mLhsoSgdke0CgCpagPfIg
+Date=2026-01-02T16:21:27.783Z
+Created=2024-08-28T12:55:51.907Z
+Updated=2026-01-02T16:21:27.783Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Helga, Skittish Seer|BLB|332
+
+
+[Main]
+1 Adarkar Wastes|DMU|243
+1 Arbor Elf
+1 Arcane Denial|ALL|22b
+1 Avacyn's Pilgrim|MM3|119
+1 Beast Whisperer
+1 Birds of Paradise|RVR|432
+1 Blinking Spirit|ICE|8
+1 Botanical Sanctum|KLD|244
+1 Bountiful Promenade|CLB|348
+1 Breeding Pool|RNA|246
+1 Brushland|LTC|297
+1 Carpet of Flowers|USG|240
+1 Chakram Retriever|BBD|15
+1 Chulane, Teller of Tales|MKC|202
+1 City of Brass|2X2|321
+1 Command Tower|BLC|130
+1 Commander Sofia Daguerre|PIP|15
+1 Consecrated Sphinx|SLD|1657
+1 Craterhoof Behemoth|SLD|375
+1 Cyclonic Rift|2XM|47
+1 Deadeye Navigator|SLD|902
+1 Deafening Silence|ELD|10
+1 Delighted Halfling|LTR|158
+1 Disciple of Freyalise|MH3|250
+1 Eldritch Evolution
+1 Elvish Mystic|M14|169
+1 Elvish Spirit Guide|DMR|157
+1 Emiel the Blessed|J22|180
+1 Enduring Vitality|DSK|381
+1 Exotic Orchard|BLC|131
+1 Flawless Maneuver|CMM|24
+1 Flooded Strand|MH3|220
+1 Food Chain|2X2|147
+1 Fyndhorn Elves|CMR|228
+1 Gaea's Cradle|USG|321
+1 Gemrazer|IKO|295
+1 Grand Arbiter Augustin IV|2X2|379
+1 Great Oak Guardian
+1 Hallowed Fountain|RNA|251
+1 Horizon Canopy|WHO|287
+1 Hullbreaker Horror|INR|303
+1 Inga and Esika|MOM|310
+1 Intruder Alarm|WOT|21
+2 Island|BLB|267
+1 Kiora, Behemoth Beckoner|WAR|232
+1 Llanowar Elves|DOM|168
+1 Marsh Flats|MH2|248
+1 Minamo, School at Water's Edge
+1 Misthollow Griffin|AVR|68
+1 Misty Rainforest|MH2|250
+1 Mocking Doppelganger|CLB|617
+1 Mockingbird|BLB|305
+1 Mystic Snake|SPG|35
+1 Neoform|WAR|206
+1 Noble Hierarch|2XM|177
+1 Oracle of Mul Daya|ZEN|172
+1 Overcharged Amalgam|VOW|363
+1 Overlord of the Floodpits|DSK|373
+1 Peregrine Drake|DMR|65
+1 Phyrexian Metamorph|MKC|116
+2 Plains|BLB|263
+1 Polluted Delta|MH3|224
+1 Razorverge Thicket|ONE|257
+1 Rejuvenating Springs|CMM|424
+1 Saryth, the Viper's Fang|MID|197
+1 Savannah|LEA|280
+1 Sea of Clouds
+1 Seachrome Coast|BLC|328
+1 Sister of Silence|40K|26
+1 Smirking Spelljacker|OTC|52
+1 Solitude|MH2|32
+1 Sowing Mycospawn|MH3|170
+1 Spara's Headquarters|SNC|355
+1 Spark Double|RVR|62
+1 Stunt Double|CN2|38
+1 Subtlety|H2R|6
+1 Surrak and Goreclaw|MOM|337
+1 Survival of the Fittest|EXO|129
+1 Swords to Plowshares|3ED|41
+1 Teferi, Mage of Zhalfir|IMA|75
+1 Temple Garden|RVR|290
+1 Temur Sabertooth|FRF|141
+1 The Fifth Doctor|WHO|556
+1 Tidespout Tyrant|RVR|422
+1 Timeless Witness|MH2|358
+1 Transcendent Dragon|TDC|62
+1 Tropical Island|LEB|284
+1 Tundra|LEA|284
+1 Utopia Sprawl|RVR|159
+1 Venser, Shaper Savant
+1 Waterlogged Grove|WHO|534
+1 Wild Growth|DMR|352
+1 Windswept Heath|KTK|248
+1 Witch Enchanter|MH3|239
+1 Wooded Foothills|MH3|236
+1 Worldly Tutor|6ED|269
+1 Yavimaya Coast|DMU|261
+
+
+[Sideboard]
+
+

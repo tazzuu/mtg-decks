@@ -1,0 +1,122 @@
+[metadata]
+Name=Hipster Stax (cEDH Ardenn/Tana)
+Description=Why aren't you playing Godo, do you just like being a Hipster?
+Format=commander
+Bracket=5
+Author=GHUrekMazino,Scoots,Sequeira
+Version=0
+URL=https://moxfield.com/decks/oQ2waBUnukehFIS4swH14w
+Date=2026-01-25T01:14:49.327Z
+Created=2020-12-11T16:26:46.483Z
+Updated=2026-01-25T01:14:49.327Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Ardenn, Intrepid Archaeologist|CMR|549
+1 Tana, the Bloodsower|CMR|537
+
+
+[Main]
+1 Ancient Tomb|TMP|315
+1 Archivist of Oghma|CLB|4
+1 Archon of Emeria
+1 Archon of Valor's Reach|C20|202
+1 Arid Mesa|ZEN|211
+1 Avacyn's Pilgrim
+1 Aven Interrupter|OTJ|4
+1 Aven Mindcensor|MP2|2
+1 Birds of Paradise|DMR|439
+1 Blood Moon|WOT|40
+1 Boseiju, Who Endures|NEO|412
+1 Bountiful Promenade|BBD|81
+1 Buster Sword|FIN|351
+1 Carpet of Flowers|FCA|44
+1 Chord of Calling|2XM|384
+1 Chrome Mox|MRD|152
+1 City of Brass|5ED|413
+1 Clarion Conqueror|TDM|377
+1 Cloud, Midgar Mercenary|FIN|375
+1 Collector Ouphe
+1 Colossus Hammer|LCC|110
+1 Command Tower|CMR|350
+1 Conqueror's Flail|C16|53
+1 Deafening Silence|SLD|1219
+1 Deflecting Swat|C20|50
+1 Delighted Halfling|LTR|158
+1 Dowsing Dagger|XLN|235
+1 Drannith Magistrate
+1 Eladamri's Call|A25|203
+1 Eladamri, Korvecdal|MH3|369
+1 Ellivere of the Wild Court|WOC|57
+1 Elvish Mystic|M15|173
+1 Endurance|MH2|157
+1 Enlightened Tutor|EMA|9
+1 Esper Sentinel|MH2|328
+1 Ethersworn Canonist|ALA|10
+1 Exotic Orchard|C19|242
+1 Fear of Missing Out|DSK|136
+1 Flooded Strand|KTK|233
+2 Forest|EOE|266
+1 Fyndhorn Elves
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Get Lost
+1 Godo, Bandit Warlord|SLD|1200
+1 Guardian Scalelord|MOC|103
+1 Helm of the Host
+1 High Noon|OTJ|15
+1 Kutzil, Malamet Exemplar|LCI|232
+1 Linvala, Keeper of Silence|JMP|119
+1 Llanowar Elves
+1 Magus of the Moon|SPG|125
+1 Mana Confluence|CMR|721
+1 Marsh Flats|MH2|248
+1 Nature's Rhythm|TDM|150
+1 Pip-Boy 3000|PIP|140
+2 Plains|EOE|262
+1 Plateau|3ED|284
+1 Ragavan, Nimble Pilferer|MUL|21
+1 Ranger-Captain of Eos|FCA|2
+1 Redirect Lightning|TLA|151
+1 Restoration Magic|FIN|30
+1 Sacred Foundry|GTC|245
+1 Sanctum Prelate|MH2|491
+1 Savannah|3ED|285
+1 Shatterskull Smashing|ZNR|161
+1 Shifting Woodland|MH3|357
+1 Sigarda, Font of Blessings|MAT|47
+1 Skullclamp|40K|248★
+1 Slicer, Hired Muscle|BOT|6
+1 Sol Ring
+1 Solitude|MH2|32
+1 Spire of Industry|MOC|426
+1 Staff of Titania|BRC|50
+1 Starting Town|FIN|289
+1 Stomping Ground|UNF|280
+1 Stoneforge Mystic|2XM|31
+1 Stony Silence|ISD|36
+1 Strength-Testing Hammer|UNF|479
+1 Summoning Materia|FIC|72
+1 Suppression Field|RAV|31
+1 Survival of the Fittest|EXO|129
+1 Sword of Fire and Ice|2XM|365
+1 Swords to Plowshares|MOC|211
+1 Sylvan Library|CC1|5
+1 Sylvan Safekeeper|CMA|152
+1 Taiga|3ED|287
+1 Temple Garden|GRN|258
+1 Thraben Charm|MH3|45
+1 Voice of Victory|TDM|331
+1 Wandering Archaic|STX|6
+1 Wild Growth|FBB|230
+1 Windswept Heath|KTK|248
+1 Witch Enchanter|MH3|239
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|DMR|442
+
+
+[Sideboard]
+1 Kinscaer Sentry|ECL|300
+
+

@@ -1,0 +1,101 @@
+[metadata]
+Name=2 Shelob, Child of Ungoliant
+Description={"ops":[{"insert":"Flavour Over Function.\n"}]}
+Format=commander
+Bracket=0
+Author=Balthor
+Version=0
+URL=https://archidekt.com/decks/1010839
+Date=2025-11-18
+Created=2020-12-19
+Updated=2025-11-18
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Shelob, Child of Ungoliant|LTR|785
+
+
+[Main]
+1 Arachnogenesis|CMM|272
+1 Arachnus Spinner|M12|162
+1 Arachnus Web|M12|163
+1 Arasta of the Endless Web|THB|325
+1 Barren Moor|ONS|312
+1 Beast Whisperer|TSR|356
+1 Bind|INV|182
+1 Brood Weaver|MID|173
+1 Broodspinner|DSK|211
+1 Chainweb Aracnir|THB|167
+1 Crawlspace|C13|240
+1 Cultivate|BLC|212
+1 Curse of Clinging Webs|MIC|63
+1 Deadly Recluse|CMM|282
+1 Deathcap Glade|VOW|281
+1 Doom Weaver|VOC|72
+1 Driven|HOU|157
+1 Eaten by Spiders|AVR|177
+1 Emerald Medallion|C14|237
+1 Find|RVR|245
+23 Forest|UST|216
+1 Genesis Hydra|C20|172
+1 Gloomwidow's Feast|SHM|118
+1 Golgari Signet|SLD|292
+1 Grim Backwoods|SLD|354
+1 Grisly Salvage|GK1|64
+1 Harmonize
+1 Hatchery Spider|GRN|132
+1 Haunted Mire|DMU|248
+1 Ishkanah, Grafwidow|EMN|162
+1 Izoni, Center of the Web|MKM|209
+1 Jungle Hollow|M20|248
+1 Llanowar Wastes|APC|141
+1 Lolth, Spider Queen|AFR|284
+1 Lost in the Woods|DKA|123
+1 Masked Vandal|KHM|405
+1 Moldering Gym|DSK|190
+1 Nature's Lore|DMR|346
+1 Nurturing Peatland|MH1|243
+1 Nyx Weaver|CMM|933
+1 Overgrown Tomb|RVR|407
+1 Penumbra Spider|CMD|167
+1 Prey Upon|GRN|143
+1 Rampant Growth
+1 Realmwalker|KHM|366
+1 Return to Nature|SCD|206
+1 Rotwidow Pack|MH1|212
+1 Severed Strands|2X2|88
+1 Shelob, Dread Weaver|LTC|112
+1 Silklash Spider|ONS|281
+1 Skyfisher Spider|BRO|221
+1 Soul of the Harvest|JMP|432
+1 Spider Food|WOE|186
+1 Spider Spawning|INR|419
+1 Spinner of Souls|FDN|341
+1 Spitting Spider|PCY|125
+1 Sporeweb Weaver|M21|378
+1 Stinging Study|C21|44
+1 Subtle Strike|ZNR|128
+1 Swamp|UST|214
+1 Swarmyard|BLC|133
+1 Sweet-Gum Recluse|CMR|685
+1 Sylvan Library|DMR|350
+1 Sylvan Safekeeper|JUD|133
+1 Talisman of Resilience|SLD|1059
+1 Tangle|INV|213
+1 Terrifying Presence|AVR|196
+1 Tranquil Thicket|ONS|326
+1 Twilight Mire|2XM|328
+1 Twin-Silk Spider|MH1|188
+1 Underground Mortuary|MKM|333
+1 Undergrowth Stadium|CMR|714
+1 Verdant Catacombs|MH2|440
+1 Wayfarer's Bauble|AFC|222
+1 Wild Growth|DMR|352
+1 Woodland Cemetery|DMR|401
+1 Yavimaya, Cradle of Growth|MH2|441
+
+
+[Sideboard]
+
+

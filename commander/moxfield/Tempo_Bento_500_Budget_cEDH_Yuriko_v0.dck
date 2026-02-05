@@ -1,0 +1,106 @@
+[metadata]
+Name=Tempo Bento [$500 Budget cEDH Yuriko]
+Description=A versatile deck that shifts between playing Aggro, Combo, and Control.
+Format=commander
+Bracket=5
+Author=KOKO
+Version=0
+URL=https://moxfield.com/decks/7MvGgpPoMkOtZiPoPUzARA
+Date=2025-10-31T01:11:40.133Z
+Created=2022-03-12T02:30:35.4Z
+Updated=2025-10-31T01:11:40.133Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Yuriko, the Tiger's Shadow|CMM|364
+
+
+[Main]
+1 An Offer You Can't Refuse|BLC|170
+1 Bloodchief Ascension|ZEN|82
+1 Boggart Trawler|MH3|243
+1 Brainstorm|FCA|28
+1 Changeling Outcast|ZNC|40
+1 Command Tower|WHO|266
+1 Commandeer|OTP|9
+1 Consign|HOU|149
+1 Contagion|MB2|126
+1 Dark Ritual|TMP|118
+1 Dauthi Voidwalker|TDC|176
+1 Deadly Rollick|C20|42
+1 Demonic Consultation|MB2|181
+1 Demonic Tutor
+1 Dismember|MM2|79
+1 Dispel|BFZ|76
+1 Disrupting Shoal|BOK|33
+1 Exotic Orchard|MKC|260
+1 Faerie Seer|J22|295
+1 Fell the Profane|MH3|244
+1 Flare of Denial|MH3|62
+1 Flare of Malice|MH3|95
+1 Flusterstorm|MH3|496
+1 Force of Despair
+1 Fourth Bridge Prowler|AER|60
+1 Harrier Strix|OTJ|52
+1 Hydroelectric Specimen|MH3|240
+1 Illvoi Galeblade|EOE|58
+1 Ingenious Infiltrator|MH1|204
+12 Island
+1 Kaito, Bane of Nightmares|DSK|220
+1 Lim-Dûl's Vault|MB2|87
+1 Lotus Petal|MB2|226
+1 March of Swirling Mist|NEO|61
+1 Mental Misstep|MB2|30
+1 Mindbreak Trap|MAR|11
+1 Misdirection|DDT|15
+1 Mist-Syndicate Naga|MH1|58
+1 Mistblade Shinobi
+1 Mockingbird|BLB|61
+1 Moon-Circuit Hacker|NEO|334
+1 Mothdust Changeling
+1 Mox Amber|DOM|224
+1 Mystic Remora|ICE|87
+1 Mystical Dispute|MB2|31
+1 Mystical Tutor|6ED|83
+1 Ninja of the Deep Hours|J25|108
+1 Ornithopter|DMR|386
+1 Personal Tutor|CMM|633
+1 Prosperous Thief|NEO|336
+1 Rhystic Study|JMP|169
+1 Sakashima's Student
+1 Satoru, the Infiltrator|OTJ|230
+1 Scheming Symmetry|SLD|1997
+1 Shadow of Mortality|SNC|94
+1 Signal Pest
+1 Silver-Fur Master|NEO|353
+1 Sink into Stupor|MH3|241
+1 Skullsnatcher
+1 Snuff Out|WHO|222
+1 Sol Ring|C19|221
+1 Spectral Sailor|LCC|172
+1 Spell Snare
+1 Step Through|MH2|392
+1 Street Wraith|TSR|141
+1 Submerge
+1 Subtlety|MH2|67
+1 Sunken Hollow|DRC|174
+7 Swamp|MH2|485
+1 Temporal Trespass|ACR|86
+1 Tetsuko Umezawa, Fugitive|DOM|69
+1 Thassa's Oracle|MB2|175
+1 Thousand-Faced Shadow|NEO|86
+1 Ulcerate|J25|499
+1 Underground River|DSC|321
+1 Universal Automaton
+1 Unmarked Grave|MH2|106
+1 Vampiric Tutor|DMR|108
+1 Watery Grave|EOE|261
+1 Windcaller Aven|CMM|133
+1 Wingcrafter|MM3|58
+1 Wonder|TDC|170
+
+
+[Sideboard]
+
+

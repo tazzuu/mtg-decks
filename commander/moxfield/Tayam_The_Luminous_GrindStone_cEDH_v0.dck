@@ -1,0 +1,125 @@
+[metadata]
+Name=Tayam, The Luminous GrindStone (cEDH)
+Description=Abzan Control. Link to our Discord: https://discord.gg/h77nTuCeaV
+Format=commander
+Bracket=5
+Author=Tuukka
+Version=0
+URL=https://moxfield.com/decks/uiwJwQmCT0KoJJMAp3tbVA
+Date=2026-01-22T23:07:39.613Z
+Created=2021-02-01T14:53:03.92Z
+Updated=2026-01-22T23:07:39.613Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Tayam, Luminous Enigma|C20|16
+
+
+[Main]
+1 Agatha's Soul Cauldron|WOE|366
+1 Ancient Tomb|TMP|315
+1 Archon of Emeria|ZNR|4
+1 Arid Mesa|MH2|436
+1 Avacyn's Pilgrim
+1 Aven Interrupter|OTJ|4
+1 Aven Mindcensor
+1 Badgermole Cub|TLA|167
+1 Bartolomé del Presidio|LCI|224
+1 Bayou|30A|571
+1 Birds of Paradise|7ED|231★
+1 Birthing Pod
+1 Bloodstained Mire|ONS|313
+1 Bloom Tender|2X2|138
+1 Boseiju, Who Endures|NEO|412
+1 Breena, the Demagogue|C21|1
+1 Carpet of Flowers
+1 Carrion Feeder|SCG|59
+1 Cavern of Souls|LCI|410f
+1 Centaur Garden|ODY|316
+1 Chord of Calling|RVR|345
+1 City of Brass|7ED|327★
+1 Collector's Cage|BIG|1
+1 Command Tower|BRC|178
+1 Crop Rotation|ULG|98
+1 Cryptolith Rite|SOI|200
+1 Dawnhand Dissident|ECL|98
+1 Deafening Silence|ELD|10
+1 Delighted Halfling|LTR|158
+1 Devoted Druid|2X2|143
+1 Drannith Magistrate|IKO|11
+1 Dryad Arbor|TSR|277
+1 Earthcraft|TMP|222
+1 Eidolon of Rhetoric|JOU|10
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Emperor of Bones
+1 Enduring Vitality|DSK|176
+1 Ethersworn Canonist|2XM|14
+1 Expedition Map|2XM|359
+1 Faeburrow Elder|DMC|149
+1 Flooded Strand|ONS|316
+1 Forest
+1 Formidable Speaker|ECL|176
+1 Gaea's Cradle
+1 Gavony Township|C20|276
+1 Gemstone Caverns|TSR|280
+1 Godless Shrine|RVR|401z
+1 Green Sun's Zenith|EMA|169
+1 Hermit Druid|STH|108
+1 Icatian Moneychanger|FEM|10c
+1 Incubation Druid
+1 Knight of the Reliquary|TSR|379
+1 Leyline of Abundance|M20|179
+1 Lion's Eye Diamond|MIR|307
+1 Mana Confluence|SLD|1012a
+1 Manglehorn|AKH|175
+1 Marsh Flats|MH2|437
+1 Marvin, Murderous Mimic|DSK|253
+1 Misty Rainforest|MH2|438
+1 Nature's Chosen|ALL|97
+1 Nature's Rhythm|TDM|150
+1 Necrotic Ooze|2X2|83
+1 Nullmage Advocate|JUD|126
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|433
+1 Overgrown Tomb|RVR|407z
+1 Patrol Signaler|EVE|12
+1 Phyrexian Tower
+1 Plains
+1 Polluted Delta|ONS|321
+1 Pulsemage Advocate|JUD|19
+1 Quirion Ranger
+1 Ranger-Captain of Eos|H1R|5
+1 Recruiter of the Guard|CN2|22
+1 Rishkar, Peema Renegade|NCC|305
+1 Savannah|CED|281
+1 Scroll of Fate|MKC|235
+1 Scrubland|CED|282
+1 Scryb Ranger|TSR|227
+1 Shifting Woodland|MH3|228
+1 Sol Ring
+1 Solitude|MH2|32
+1 Survival of the Fittest|EXO|129
+1 Sylvan Safekeeper|JUD|133
+1 Talon Gates of Madara|M3C|134
+1 Temple Garden|RVR|414z
+1 The Cabbage Merchant|TLE|134
+1 Thousand-Year Elixir|SPG|148
+1 Tyvar, Jubilant Brawler|ONE|218
+1 Urza's Saga|MH2|380
+1 Verdant Catacombs|MH2|440
+1 Wall of Roots|TSB|89
+1 Weathered Wayfarer|ONS|59
+1 White Plume Adventurer|CLB|49
+1 Windswept Heath|ONS|328
+1 Wooded Foothills|ONS|330
+1 Yavimaya, Cradle of Growth|MH2|441
+1 Young Wolf|J22|746
+
+
+[Sideboard]
+1 Command Beacon
+1 Dosan the Falling Leaf|CHK|205
+
+

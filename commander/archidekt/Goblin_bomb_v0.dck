@@ -1,0 +1,131 @@
+[metadata]
+Name=Goblin bomb
+Description={"ops":[{"insert":"This deck has a secret commander "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":" \nThe game plan is to try and win (or at least kill a few players with "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":" \nThe game plan is to make a copy of "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":" with things like "},{"insert":{"card-link":"Court of Vantress"}},{"insert":", "},{"insert":{"card-link":"Extravagant Replication"}},{"insert":", "},{"insert":{"card-link":"Replication Technique"}},{"insert":" \nThen make more copies with token generators like "},{"insert":{"card-link":"Poetic Ingenuity"}},{"insert":", "},{"insert":{"card-link":"Descent into Avernus"}},{"insert":" and change them all into bombs with "},{"insert":{"card-link":"Brudiclad, Telchor Engineer"}},{"insert":". \n\nIs it a powerful deck, no. Does it win many games, no, no it does not. \nDoes it make the whole table smile when I explain the whacky strategy and make for some wild games, sure does.\nAnd it is why I love the commander format. \n\nNo tutors, no problem - I got back up plans - \nThe deck can hang with Bracket 2 decks if you play to win with some of the other win cons. \nSo you don't find "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":", no problem we have a few back ups - \n"},{"insert":{"card-link":"Descent into Avernus"}},{"insert":" - copy this a few times and you can take the whole table out (including your self but thats part of the fun!)"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"The Brothers' War"}},{"insert":" - a few copies of this can close out games. "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"There and Back Again"}},{"insert":" - Makes a ton of treasure with just a few copies. "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Heaven Sent"}},{"insert":" - I would love to win a game with this card."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Korvold and the Noble Thief"}},{"insert":" - I have won a game with this and "},{"insert":{"card-link":"Brudiclad, Telchor Engineer"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Poetic Ingenuity"}},{"insert":" - Dinosaurs and treasure "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nSynergy cards - \n"},{"insert":{"card-link":"Asinine Antics"}},{"insert":" - protects you from the big hitters and when "},{"insert":{"card-link":"Brudiclad, Telchor Engineer"}},{"insert":" comes down can make a ton of copies of "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Ripples of Potential"}},{"insert":" - can protect all your bombs or sagas when that board wipe comes down."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Faerie Slumber Party"}},{"insert":" - Great removal and gives you lots of tokens to turn in to bombs."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Lithoform Engine"}},{"insert":" - Use this to make a copy of "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":" or copy the trigger if you get to shoot one off!"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nI have had a whole lot of fun playing this deck with the whole table rooting for me to draw into the "},{"insert":{"card-link":"Goblin Bomb"}},{"insert":" \n"}]}
+Format=commander
+Bracket=0
+Author=Luked
+Version=0
+URL=https://archidekt.com/decks/5594131
+Date=2025-03-08
+Created=2023-10-10
+Updated=2025-03-08
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Brudiclad, Telchor Engineer|BRC|122
+
+
+[Main]
+1 Adric, Mathematical Genius|WHO|351
+1 Aetherize|SCD|42
+1 Aetherspouts|MIC|97
+1 Arcane Signet|WOC|145
+1 Asinine Antics|WOE|42
+1 Astral Dragon|CLB|664
+1 Big Score|J22|498
+1 Blasphemous Act|CMM|872
+1 Bolt Bend|WAR|115
+1 Breeches, the Blastmaker|OTJ|197
+1 Burnished Hart|CMM|373
+1 Capricious Hellraiser|ONE|125
+1 Chaos Warp|MOC|273
+1 Chef's Kiss|MH2|120
+1 Clever Impersonator|C19|82
+1 Command Tower|DSC|96
+1 Commander's Sphere|LCC|301
+1 Confirm Suspicions|SOI|53
+1 Consuming Tide|VOW|53
+1 Copy Enchantment|RAV|42
+1 Court of Embereth|WOC|24
+1 Court of Vantress|WOC|22
+1 Descent into Avernus|CLB|169
+1 Drafna, Founder of Lat-Nam|BRO|47
+1 Dwarven Mine|ELD|243
+1 Estrid's Invocation|C18|8
+1 Evacuation|LCC|156
+1 Extravagant Replication|NCC|25
+1 Fact or Fiction|WOC|90
+1 Faerie Slumber Party|WOE|311
+1 Fellwar Stone|WOC|147
+1 Fiery Gambit|MRD|90
+1 Fire Diamond|CLB|313
+1 Firemind Vessel|CMM|383
+1 Flux Channeler|CMM|847
+1 Gamble|DMR|121
+1 Geology Enthusiast|BRO|289
+1 Goblin Bomb|WTH|103
+1 Hall of Tagsin|BRO|263
+1 Heart of Bogardan|WTH|106
+1 Heaven Sent|WHO|134
+1 Inexorable Tide|MM2|49
+1 Inspired Tinkering|CLB|183
+14 Island|WOE|269
+1 Izzet Signet|CMM|957
+1 Karn's Bastion|CMM|1007
+1 Korvold and the Noble Thief|WOE|139
+1 Krark's Thumb
+1 Lavabrink Floodgates|C20|53
+1 Liquimetal Coating|CM2|197
+1 Liquimetal Torque|BRC|145
+1 Lithoform Engine|BRC|146
+1 Midnight Clock|WOC|99
+1 Mind Stone|WOC|148
+1 Mirrormade|ELD|55
+1 Mirrorpool|CMM|1010
+13 Mountain|WOE|274
+1 Mystic Confluence|CMM|108
+1 Okaun, Eye of Chaos|BBD|6
+1 Overwhelming Intellect|DDJ|28
+1 Perplexing Test|WOC|102
+1 Pirate's Pillage|2X2|120
+1 Pirate's Prize|XLN|68
+1 Poetic Ingenuity|LCI|161
+1 Prismari Command|STX|214
+1 Quarrel's End|LTR|141
+1 Reenact the Crime|MKM|70
+1 Replication Technique|C21|31
+1 Rings of Brighthearth|CMR|335
+1 Ripples of Potential|LCC|77
+1 Sai, Master Thopterist|CMM|118
+1 Scalding Tongs|TMP|307
+1 Seat of the Synod|J22|820
+1 See Double|MOM|77
+1 Seize the Spoils|KHM|149
+1 Seize the Spotlight|NCC|52
+1 Shivan Reef|BLC|331
+1 Silverbluff Bridge|BRC|200
+1 Sky Diamond|SCD|273
+1 Sol Ring|WOC|149
+1 Spell Swindle|MOC|237
+1 Squee's Revenge
+1 Stern Lesson|BRO|64
+1 Storm of Saruman|LTR|72
+1 Strionic Resonator|MOC|384
+1 Sulfur Falls|BLC|333
+1 Talisman of Creativity|CMM|979
+1 Tavern Scoundrel
+1 Tawnos, Urza's Apprentice
+1 Tezzeret's Gambit|OTC|117
+1 The Brothers' War|BRC|22
+1 The Filigree Sylex|ONE|227
+1 There and Back Again|LTR|602
+1 Thirst for Knowledge|BRC|96
+1 Thopter Spy Network|MOC|241
+1 Three Steps Ahead|OTJ|75
+1 Tibalt's Trickery|KHM|153
+1 Tomb of Horrors Adventurer|CLB|100
+1 Unexpected Windfall|AFR|164
+1 Urza's Command|BRO|70
+1 Visions of Phyrexia|BRO|156
+1 Vivisurgeon's Insight|ONE|77
+1 Wayfarer's Bauble|WOC|151
+1 Wild Ricochet|SCD|169
+1 Windfall|CMM|859
+1 Worldwalker Helm|BIG|72
+1 Zndrsplt, Eye of Wisdom|BBD|5
+
+
+[Sideboard]
+
+

@@ -1,0 +1,125 @@
+[metadata]
+Name=🔵🟢 Pir&Toothy: Keruga  Reflections 🟢🔵 
+Description=Core (2) Midrange combo deck which focuses on clones and card draw, utilizing Pir and Toothy's synergy to draw the entire library. Make sure to ✅ out the primer and ❤️ the deck.
+Format=commander
+Bracket=2
+Author=lunar787
+Version=0
+URL=https://moxfield.com/decks/tjTbfIs9R06wR1z4dBM1Yg
+Date=2025-10-21T22:46:39.257Z
+Created=2024-08-02T23:49:28.357Z
+Updated=2025-10-21T22:46:39.257Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Pir, Imaginative Rascal|SLD|1050
+1 Toothy, Imaginary Friend|SLD|1049
+
+
+[Main]
+1 Alchemist's Refuge|LCC|318
+1 Altanak, the Thrice-Called|DSK|166
+1 Altered Ego|SOI|241
+1 Archmage's Charm|MH1|40
+1 Bala Ged Recovery|ZNR|180
+1 Barkchannel Pathway|KHM|251
+1 Beast Within|DDL|69
+1 Boseiju, Who Endures|NEO|266
+1 Breeding Pool|UNF|286
+1 Cackling Counterpart|MM3|32
+1 Candlekeep Sage|CLB|60
+1 Careful Cultivation|NEO|178
+1 Clever Impersonator|C19|82
+1 Colossal Skyturtle|NEO|216
+1 Command Tower|C19|237
+1 Commit|NCC|216
+1 Communal Brewing|BLC|63
+1 Copycrook|MH3|55
+1 Cryptic Command
+1 Disallow|AER|31
+1 Disciple of Freyalise|MH3|250
+1 Disorienting Choice|DSC|60
+1 Dreamroot Cascade|M3C|338
+1 Eternal Witness|2X2|145
+1 Exotic Orchard|AFC|236
+1 Fated Infatuation|BNG|39
+1 Fear of Impostors|DSK|57
+1 Flood of Tears|M20|59
+1 Flooded Grove|NCC|402
+1 Forbid|MP2|33
+5 Forest|ELD|266
+1 Ghostly Flicker|MM3|39
+1 Glasspool Mimic|ZNR|60
+1 Hedge Maze
+1 Hinterland Harbor|PIP|267
+5 Island|UND|89
+1 Jace, Wielder of Mysteries|SLD|1576★
+1 Jadzi, Oracle of Arcavios|STX|151
+1 Kellan, Inquisitive Prodigy
+1 Kolvori, God of Kinship|KHM|318
+1 Laboratory Maniac|SLD|1394★
+1 Lifestream's Blessing|FIC|67
+1 Littjara Mirrorlake|KHM|264
+1 Lyla, Holographic Assistant|SPE|7
+1 Lórien Revealed|LTR|60
+1 Master Chef|CLB|241
+1 Midnight Clock|M3C|189
+1 Mirage Mirror|CMM|962
+1 Mirror Image|M19|61
+1 Mirror Room|DSK|67
+1 Mirrorhall Mimic|VOW|68
+1 Mystic Confluence|BBD|122
+1 Myth Unbound|C18|32
+1 Obscuring Haze|C20|61
+1 Otawara, Soaring City|NEO|271
+1 Overlord of the Floodpits
+1 Path of Ancestry|CMR|353
+1 Phyrexian Metamorph|2XM|61
+1 Rejuvenating Springs|LTC|325
+1 Reliquary Tower|CMM|425
+1 Repudiate|RNA|227
+1 Reverse the Polarity|WHO|54
+1 Rift Sower|MH2|170
+1 Risen Reef|M20|217
+1 Rite of Replication|C14|122
+1 Rogue's Passage|C20|303
+1 Sea Gate Restoration|ZNR|76
+1 Search for Tomorrow|IMA|185
+1 Season of Gathering
+1 Season of Weaving|BLB|68
+1 See Double|MOM|77
+1 Simic Growth Chamber|M3C|377
+1 Sink into Stupor|MH3|241
+1 Spitting Image|CM2|166
+1 Stunt Double
+1 Sublime Epiphany|M21|74
+1 Sunken Palace|M3C|133
+1 Temple of Mystery|M3C|390
+1 Traverse the Outlands|CLB|258
+1 Venture Forth|CLB|639
+1 Visage Bandit|OTJ|76
+1 Vizier of Many Faces|AKH|74
+1 Voidslime|GK2|127
+1 Waterlogged Grove|WHO|922
+1 Waxen Shapethief|DFT|444
+1 Will of the Sultai|TDC|89
+1 Will of the Temur|TDC|24
+1 Willowrush Verge|DFT|506
+1 Yavimaya Coast|C19|287
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+1 Auton Soldier|WHO|36
+1 Behold the Multiverse|KHM|46
+1 Boundless Realms|M13|162
+1 Case of the Shifting Visage|MKC|19
+1 Cultivator Colossus|VOW|386
+1 Displace|EMN|55
+1 Displacer Kitten|CLB|63
+1 Doppelgang|MKM|198
+1 Endurance|MH2|157
+1 Exchange of Words|UNF|331
+
+

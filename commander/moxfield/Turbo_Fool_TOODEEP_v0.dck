@@ -1,0 +1,128 @@
+[metadata]
+Name=Turbo Fool [TOODEEP]
+Description=When it is not your turn, stare into the middle distance.
+Format=commander
+Bracket=5
+Author=Golebiarz,HLA3000,kenbaumann,klerdic,Kris_,Manti,MrLoverWu,prxz,theegwenchler
+Version=0
+URL=https://moxfield.com/decks/JgnfXot2GUWxikaVUDDeDg
+Date=2026-01-26T01:15:55.113Z
+Created=2024-07-11T15:23:36.147Z
+Updated=2026-01-26T01:15:55.113Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Flubs, the Fool|BLC|356
+
+
+[Main]
+1 Arid Mesa|EXP|24
+1 Artist's Talent|BLB|124
+1 Birds of Paradise|SLD|1148
+1 Birgi, God of Storytelling|J21|416
+1 Bloodstained Mire|WC03|pk313
+1 Brain Freeze|MB2|24
+1 Breakthrough|WC02|rl26
+1 Breeding Pool|DIS|172
+1 Chord of Calling|SLD|1595
+1 Chrome Mox|WC04|ap152
+1 City of Brass|WC02|bk327sb
+1 Claws of Gix|TSB|107
+1 Cloud of Faeries|ULG|29
+1 Cloudstone Curio|RVR|391z
+1 Command Tower|SLD|806
+1 Commercial District|MKM|324
+1 Crimson Kobolds|ME3|93
+1 Crookshank Kobolds|ME1|90
+1 Crop Rotation
+1 Darksteel Relic|NPH|134
+1 Displacer Kitten|MB2|27
+1 Dragon's Rage Channeler
+1 Earthcraft|TMP|222
+1 Eldritch Evolution|SLD|1414
+1 Eruth, Tormented Prophet|VOW|342
+1 Exploration|2XM|351
+1 Faithless Looting|STA|101e
+1 Finale of Devastation|CMM|700
+1 Flooded Strand|WC03|dz316
+1 Food Chain|SLD|1369
+1 Forbidden Orchard|CHK|276
+1 Forest|SLD|67
+1 Gaea's Cradle|WC99|ml321
+1 Gamble|SLD|188
+1 Gemstone Caverns|LTC|394z
+1 Gustha's Scepter|ME2|209
+1 Hexing Squelcher|ECL|145
+1 Infernal Plunge|ISD|148
+1 Island|BLB|268
+1 Jeska's Will
+1 Jeweled Amulet|ICE|326
+1 Kobolds of Kher Keep|MB2|194
+1 Land Grant|MMQ|255
+1 Lion's Eye Diamond
+1 Lotus Cobra|SLD|1223
+1 Lotus Petal|MPS|15
+1 Mana Confluence|SLD|1012a
+1 Mana Vault|SLD|796★
+1 Manabond|MB2|208
+1 Memnite
+1 Mishra's Bauble|BRR|97z
+1 Misty Rainforest|EXP|25
+1 Mountain|UNF|238
+1 Mox Amber|BRR|98z
+1 Mox Diamond|V10|10
+1 Mox Jasper|TDM|419
+1 Mox Opal|MPS|19
+1 Mystical Tutor|WC00|tvdl83
+1 Nature's Rhythm|TDM|349
+1 Noxious Revival|MB2|70
+1 Ornithopter|MPS|42
+1 Paradise Mantle|SLD|1236
+1 Phyrexian Walker
+1 Polluted Delta
+1 Rite of Flame|MB2|59
+1 Rograkh, Son of Rohgahh|SLD|9996
+1 Scalding Tarn|EXP|22
+1 Sensei's Divining Top|MB2|231
+1 Shield Sphere|ALL|129
+1 Shifting Woodland
+1 Shrieking Drake
+1 Six|MH3|370
+1 Sol Ring|SLD|1604
+1 Song of Creation|SLD|1603
+1 Spellbook|7ED|318★
+1 Springleaf Drum
+1 Squee, the Immortal|MUL|152z
+1 Steam Vents|RVR|412z
+1 Step Through|MH2|392
+1 Stomping Ground|RVR|413z
+1 Strike It Rich|J21|521
+1 Survival of the Fittest|WC98|bs129
+1 Sylvan Tutor|SPG|59
+1 Taiga|3ED|287
+1 Timeless Witness|J21|654
+1 Tinder Wall|MB2|215
+1 Tropical Island|FBB|288
+1 Underworld Breach|MB2|200
+1 Urza's Bauble|MB2|237
+1 Utopia Sprawl|WOT|63
+1 Verdant Catacombs|EXP|23
+1 Volcanic Island|FBB|291
+1 Walking Ballista|PIP|880
+1 Wheel of Fortune|FBB|185
+1 Wild Cantor|GPT|149
+1 Wild Growth|LEA|229
+1 Windswept Heath|WC04|jn328
+1 Worldly Tutor|6ED|269
+1 Zuran Orb|PTC|et350
+
+
+[Sideboard]
+1 Drill Too Deep|EOE|133
+4 Pygmy Pyrosaur|7ED|208★
+1 Swamp|POR|206
+47 Timetwister|30A|381
+1 Yoked Ox|M20|41
+
+

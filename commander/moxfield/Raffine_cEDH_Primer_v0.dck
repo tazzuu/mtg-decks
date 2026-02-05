@@ -1,0 +1,133 @@
+[metadata]
+Name=Raffine cEDH [Primer]
+Description=
+Format=commander
+Bracket=5
+Author=Eilaeu,Qumolox
+Version=0
+URL=https://moxfield.com/decks/x0f0R1mMbUOL_mGtLYdnqg
+Date=2026-01-26T02:50:31.39Z
+Created=2022-04-01T11:29:38.473Z
+Updated=2026-01-26T02:50:31.39Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Raffine, Scheming Seer|SNC|392
+
+
+[Main]
+1 Adeline, Resplendent Cathar|MID|1
+1 Agatha's Soul Cauldron
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|PUMA|U31
+1 Animate Dead|PD3|16
+1 Arid Mesa|ZEN|211
+1 Aven Mindcensor|FUT|18
+1 Bloodstained Mire|KTK|230
+1 Chrome Mox
+1 City of Brass|7ED|327
+1 Command Tower|CM1|2
+1 Cyclonic Rift|2XM|339
+1 Damn|MH2|449
+1 Dance of the Dead|ICE|118
+1 Dark Ritual|MMQ|129
+1 Dauthi Voidwalker|MH2|450
+1 Deadly Rollick|CMM|695
+1 Delney, Streetwise Lookout|MKM|378
+1 Demonic Consultation|ICE|121
+1 Demonic Tutor|UMA|93
+1 Diabolic Intent|BRO|89
+1 Doomsday|SLD|1115
+1 Drannith Magistrate
+1 Enlightened Tutor|EMA|9
+1 Entomb|PD3|14
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|40K|278★
+1 Fierce Guardianship|CMM|694
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Negation|2X2|346
+1 Force of Will|2XM|340
+1 Gemstone Caverns|TSP|274
+1 Gifts Ungiven
+1 Godless Shrine|GTC|242
+1 Grand Abolisher|M12|19
+1 Grazilaxx, Illithid Scholar|AFR|367
+1 Hallowed Fountain|RTR|241
+1 Imperial Seal
+1 Intuition|TMP|70
+1 Island|ODY|337
+1 Lotho, Corrupt Shirriff|LTR|370
+1 Lotus Petal
+1 Mana Confluence|JOU|163
+1 Marsh Flats|ZEN|219
+1 Mausoleum Wanderer|EMN|69
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|OTP|12
+1 Misty Rainforest|ZEN|220
+1 Mockingbird|BLB|61
+1 Morphic Pool|BBD|83
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Muddle the Mixture|RAV|60
+1 Mystic Remora|SLD|406
+1 Mystical Tutor|SLD|334
+1 Necromancy|VIS|64
+1 Opposition Agent|CMR|651
+1 Orcish Bowmasters|LTR|433
+1 Otawara, Soaring City
+1 Plains|ODY|333
+1 Polluted Delta|KTK|239
+1 Pollywog Prodigy|BLC|50
+1 Ranger-Captain of Eos|MH1|21
+1 Razaketh, the Foulblooded|SLD|163
+1 Reanimate|PD3|15
+1 Rhystic Study|CM1|15
+1 Scalding Tarn|ZEN|223
+1 Scrubland|3ED|286
+1 Sea of Clouds|BBD|84
+1 Serra Ascendant|M11|28
+1 Sevinne's Reclamation|DMR|27
+1 Silence|M11|30
+1 Silent Clearing|MH1|246
+1 Sink into Stupor|MH3|241
+1 Sol Ring|CC2|7
+1 Spellseeker
+1 Steal Enchantment|TMP|90
+1 Swamp|ODY|340
+1 Swan Song|THS|65
+1 Swords to Plowshares|CMR|627
+1 Tainted Pact|ODY|164
+1 Tataru Taru|FIC|30
+1 Thassa's Oracle|THB|73
+1 The One Ring
+1 Toxrill, the Corrosive|VOW|132
+1 Tundra|3ED|289
+1 Tymna the Weaver|CMR|539
+1 Undercity Sewers
+1 Underground Sea|3ED|290
+1 Vampiric Tutor
+1 Verdant Catacombs|ZEN|229
+1 Vexing Bauble|MH3|212
+1 Voice of Victory|TDM|33
+1 Walking Ballista|SLD|58
+1 Wan Shi Tong, Librarian|TLA|320
+1 Watery Grave|GTC|249
+1 Windswept Heath|KTK|248
+1 Wyrm's Crossing Patrol|CLB|51
+
+
+[Sideboard]
+1 Archivist of Oghma|CLB|553
+1 Archon of Emeria|ZNR|315
+1 Cathar Commando|MID|10
+1 Dauntless Dismantler|LCI|8
+1 Deafening Silence|ELD|10
+1 Drana and Linvala|MOM|222
+1 Eiganjo, Seat of the Empire|NEO|268
+1 Ethersworn Canonist|2XM|14
+1 Faerie Mastermind|MOM|58
+1 Ghostly Pilferer|M21|52
+
+

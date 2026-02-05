@@ -1,0 +1,123 @@
+[metadata]
+Name=Breya Breach [cEDH]
+Description=A Breya, Etherium Shaper cEDH list with breach lines, salvagers, and thassa oracle wincons.
+Format=commander
+Bracket=5
+Author=nyubai
+Version=0
+URL=https://moxfield.com/decks/OurmvUhkrUOz1Zb7Oa4Mbg
+Date=2024-07-20T06:32:10.8Z
+Created=2020-05-19T07:58:16.123Z
+Updated=2024-07-20T06:32:10.8Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Breya, Etherium Shaper|SLD|454
+
+
+[Main]
+1 Ad Nauseam|ALA|63
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|C20|237
+1 Arid Mesa|SLU|4
+1 Badlands|3ED|282
+1 Bloodstained Mire|KTK|230
+1 Brain Freeze|SCG|29
+1 Cabal Ritual|TOR|51
+1 Chain of Vapor|C16|84
+1 Chrome Mox|EMA|219
+1 Chthonian Nightmare|MH3|83
+1 City of Brass|MD1|15
+1 Command Tower|C20|264
+1 Cursed Mirror|MH3|279
+1 Cyclonic Rift|MM3|35
+1 Dark Ritual|A25|82
+1 Demonic Consultation|ICE|121
+1 Demonic Tutor|UMA|93
+1 Diabolic Intent|BRO|324
+1 Displacer Kitten
+1 Dockside Extortionist|C19|24
+1 Drannith Magistrate
+1 Enlightened Tutor|EMA|9
+1 Entomb|UMA|94
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|C20|273
+1 Fellwar Stone|CM2|189
+1 Flamescroll Celebrant|STX|150
+1 Flesh Duplicate|WHO|44
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Negation|MH1|52
+1 Force of Will|EMA|49
+1 Gemstone Caverns|TSP|274
+1 Grand Abolisher|E01|12
+1 Hallowed Fountain|RNA|251
+1 Imperial Seal
+1 Intuition|TMP|70
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|V09|7
+1 Lurrus of the Dream-Den|IKO|226
+1 Mana Confluence|JOU|163
+1 Mana Crypt|EMA|225
+1 Mana Vault|UMA|229
+1 Marsh Flats|SLU|1
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|SLU|5
+1 Morphic Pool|BBD|83
+1 Mox Diamond|V10|10
+1 Mox Opal|MM2|223
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|SS1|6
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|433
+1 Otawara, Soaring City
+1 Pact of Negation|A25|68
+1 Phyrexian Metamorph|MKC|116
+1 Plateau|3ED|284
+1 Polluted Delta|KTK|239
+1 Ragavan, Nimble Pilferer|MUL|21
+1 Ranger-Captain of Eos|MH1|21
+1 Reanimate
+1 Red Elemental Blast|A25|147
+1 Rhystic Study|CM1|15
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|SLU|2
+1 Scrubland|SUM|286
+1 Sea of Clouds|CLB|360
+1 Sevinne's Reclamation|C19|5
+1 Silence|M14|35
+1 Simian Spirit Guide
+1 Smothering Tithe
+1 Snap|DMR|66
+1 Sol Ring|C20|252
+1 Spellseeker|BBD|41
+1 Spire of Industry|AER|184
+1 Strix Serenade|MH3|71
+1 Swan Song|C16|98
+1 Swords to Plowshares|MOC|211
+1 Tainted Pact|ODY|164
+1 Talion, the Kindly Lord|WOE|215
+1 Talisman of Dominance|MRD|253
+1 Talisman of Progress|MRD|256
+1 Teferi, Time Raveler|RVR|232
+1 Thassa's Oracle|THB|73
+1 The One Ring|LTR|451
+1 Toxic Deluge|2XM|110
+1 Tundra|3ED|289
+1 Underground Sea|3ED|290
+1 Underworld Breach|THB|161
+1 Vampiric Tutor|EMA|112
+1 Verdant Catacombs|SLU|3
+1 Volcanic Island|3ED|291
+1 Watery Grave|GTC|249
+1 Windswept Heath|KTK|248
+1 Wishclaw Talisman|ELD|110
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+
+

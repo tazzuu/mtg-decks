@@ -1,0 +1,123 @@
+[metadata]
+Name=Talion, you play I draw | cEDH [Primer]
+Description=Midrange deck with a strong value engine in the command zone. [Just say 2] (https://www.cedh-analytics.com)
+Format=commander
+Bracket=5
+Author=cococov
+Version=0
+URL=https://moxfield.com/decks/zBfjvarsOkWdrgAiDv92Aw
+Date=2026-01-27T03:10:46.933Z
+Created=2023-07-28T18:58:33.15Z
+Updated=2026-01-27T03:10:46.933Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Talion, the Kindly Lord|WOE|301
+
+
+[Main]
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|TMP|315
+1 Arcane Signet
+1 Beseech the Mirror|WOE|82
+1 Bloodchief Ascension|ZEN|82
+1 Bloodstained Mire|ONS|313
+1 Borne Upon a Wind|LTR|44
+1 Cabal Pit|ODY|315
+1 Cabal Ritual|TOR|51
+1 Cephalid Coliseum|ODY|317
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|SLC|2003
+1 City of Brass|ARN|71
+1 Clearwater Pathway|ZNR|260
+1 Command Tower|BRC|178
+1 Copy Artifact|LEB|54
+1 Counterbalance|CSP|31
+1 Cursed Totem|MIR|299
+1 Cyclonic Rift|RTR|35
+1 Dark Ritual|MIR|116
+1 Deadly Rollick|CMM|147
+1 Delay|FUT|35
+1 Demonic Consultation|ICE|121
+1 Demonic Tutor|LEB|105
+1 Dimir Signet|SLD|287
+1 Dispel|RTR|36
+1 Dress Down|MH2|39
+1 Faerie Mastermind|MOM|58
+1 Fell the Profane|MH3|244
+1 Fellwar Stone|DRK|102
+1 Fierce Guardianship|C20|35
+1 Flesh Duplicate|WHO|44
+1 Flooded Strand|ONS|316
+1 Flusterstorm|CMD|46
+1 Force of Negation|MH1|52
+1 Force of Will|ALL|28
+1 Gemstone Caverns|TSP|274
+1 Gilded Drake|USG|76
+1 Glen Elendra's Answer|ECL|52
+1 Gloomlake Verge|DSK|260
+1 Grafdigger's Cage|DKA|149
+1 Imperial Seal|ME2|96
+1 Island|ICE|368
+1 Lotus Petal|TMP|294
+1 Mana Confluence|JOU|163
+1 Mana Drain|LEG|65
+1 Mana Vault|LEB|260
+1 March of Swirling Mist|NEO|61
+1 Marsh Flats|MH2|437
+1 Massacre|NEM|58
+1 Mental Misstep|NPH|38
+1 Minamo, School at Water's Edge|CHK|279
+1 Mindbreak Trap|ZEN|57
+1 Miscast|M21|57
+1 Misdirection|MMQ|87
+1 Misty Rainforest|MH2|438
+1 Mnemonic Betrayal|GRN|189
+1 Mockingbird|BLB|61
+1 Morphic Pool|BBD|83
+1 Mox Diamond|STH|138
+1 Mox Opal|SLD|1072
+1 Muddle the Mixture|RVR|315
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|MIR|80
+1 Notion Thief|DGM|88
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|103
+1 Otawara, Soaring City|NEO|271
+1 Pact of Negation|FUT|42
+1 Phyrexian Metamorph|NPH|42
+1 Polluted Delta|ONS|321
+1 Praetor's Grasp|NPH|71
+1 Rhystic Study|PCY|45
+1 Scalding Tarn|MH2|439
+1 Sheoldred, the Apocalypse|DMU|107
+1 Sink into Stupor|MH3|241
+1 Snow-Covered Island|ICE|371
+1 Snow-Covered Swamp|ICE|372
+1 Sol Ring|LEB|270
+1 Steal Enchantment|TMP|90
+1 Swamp|ICE|373
+1 Swan Song|THS|65
+1 Tainted Pact|ODY|164
+1 Talisman of Dominance|SLD|1053
+1 Thassa's Oracle|THB|73
+1 The One Ring|LTR|246
+1 Thought Vessel|BRC|167
+1 Timetwister|LEB|85
+1 Toxic Deluge|EMA|108
+1 Undercity Sewers|MKM|270
+1 Underground River|ICE|362
+1 Underground Sea|LEB|286
+1 Urza's Saga|MH2|259
+1 Vampiric Tutor|VIS|72
+1 Verdant Catacombs|MH2|440
+1 Wan Shi Tong, Librarian|TLA|78
+1 Watery Grave|RVR|415
+1 Wishclaw Talisman|ELD|110
+1 Yahenni's Expertise|AER|75
+
+
+[Sideboard]
+
+

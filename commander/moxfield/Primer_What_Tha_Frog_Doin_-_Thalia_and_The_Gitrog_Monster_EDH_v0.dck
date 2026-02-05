@@ -1,0 +1,126 @@
+[metadata]
+Name=[Primer] What Tha Frog Doin? - Thalia and The Gitrog Monster EDH
+Description=A high powered (non-cEDH) land-based value token deck.
+Format=commander
+Bracket=4
+Author=Gorillajay
+Version=0
+URL=https://moxfield.com/decks/HuFXchohr0uxTVepu1cVxg
+Date=2025-12-21T19:38:58.973Z
+Created=2023-02-21T04:09:33.553Z
+Updated=2025-12-21T19:38:58.973Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Thalia and The Gitrog Monster|MOM|316
+
+
+[Main]
+1 Ad Nauseam|2XM|76
+1 Aftermath Analyst|MKM|148
+1 Agadeem's Awakening|ZNR|90
+1 Ancient Greenwarden|ZNR|178
+1 Anguished Unmaking|SOI|242
+1 Archdruid's Charm|MKM|408
+1 Arid Mesa|MH2|244
+1 Assassin's Trophy
+1 Avenger of Zendikar|J22|629
+1 Azusa, Lost but Seeking|M21|173
+1 Bala Ged Recovery|ZNR|180
+1 Bayou|3ED|283
+1 Birds of Paradise|DMR|336
+1 Blasphemous Edict|FDN|317
+1 Bloodstained Mire|KTK|230
+1 Bojuka Bog|C13|278
+1 Bolas's Citadel
+1 Boseiju, Who Endures|NEO|266
+1 Braids, Arisen Nightmare|DMU|288
+1 Command Tower|NCC|395
+1 Constant Mists|SLD|2026
+1 Craterhoof Behemoth|JMP|385
+1 Crop Rotation|DMR|154
+1 Crucible of Worlds|M19|229
+1 Delighted Halfling|LTR|363
+1 Demonic Tutor|STA|27
+1 Dryad Arbor|TSR|277
+1 Eerie Ultimatum|SPG|104
+1 Esper Sentinel|MH2|12
+1 Eumidian Hatchery|EOC|20
+1 Exploration|DMR|159
+1 Farseek|C19|165
+1 Field of the Dead|M20|247
+1 Finale of Devastation|WAR|160
+1 Flagstones of Trokair|TSR|278
+1 Flooded Strand|KTK|233
+2 Forest|2XM|381
+1 Glacial Chasm|ICE|353
+1 Godless Shrine|RNA|248
+1 Green Sun's Zenith|MBS|81
+1 Horizon Canopy|IMA|240
+1 Icetill Explorer
+1 Indatha Triome|IKO|248
+1 Insatiable Avarice|OTJ|91
+1 Into the North|CSP|111
+1 Kamahl, Heart of Krosa|CMR|581
+1 Life from the Loam|RVR|434
+1 Marsh Flats|MH2|248
+1 Maze of Ith|DMR|456
+1 Misty Rainforest|MM3|240
+1 Natural Order|STA|54
+1 Nature's Lore|CLB|244
+1 Necrodominance|MH3|102
+1 Necropotence|SLC|1995
+1 Nurturing Peatland|MH1|243
+1 Overgrown Estate|APC|113
+1 Overgrown Tomb|RVR|407
+1 Painful Truths|C20|134
+1 Path to Exile|CMM|626
+1 Plains|2XM|373
+1 Polluted Delta|KTK|239
+1 Prismatic Vista|MH1|244
+1 Rampant Growth|C16|161
+1 Retreat to Hagra|BFZ|121
+1 Sakura-Tribe Elder|NEC|128
+1 Savannah|3ED|285
+1 Scrubland|3ED|286
+1 Scute Swarm|ZNR|308
+1 Sensei's Divining Top|MB2|231
+1 Shifting Woodland|MH3|357
+1 Silent Clearing|MH1|246
+2 Snow-Covered Forest|MH1|254
+1 Snow-Covered Plains|MH1|250
+2 Snow-Covered Swamp|MH1|252
+1 Strip Mine|4ED|363
+1 Swamp|2XM|377
+1 Swords to Plowshares|STA|10
+1 Sylvan Library|DMR|350
+1 Tangled Florahedron|ZNR|211
+1 Tear Asunder|DMU|183
+1 Temple Garden|RVR|414
+1 The Gitrog Monster|BLC|88
+1 The Necrobloom|MH3|378
+1 Three Visits|CMR|261
+1 Titania, Protector of Argoth|MH2|287
+1 Toxic Deluge|CC2|6
+1 Tragic Arrogance|C21|109
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Urza's Cave|MH3|234
+1 Vampiric Tutor|VIS|72
+1 Verdant Catacombs|MH2|260
+1 Vesuva|TSR|289
+1 Walk-In Closet|DSK|205
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+1 Elemental Teachings|TLA|178
+1 Herd Heirloom|TDM|144
+1 Nature's Rhythm|TDM|150
+1 On Wings of Gold|DRC|21
+1 Steward of the Harvest|TDC|88
+1 Traveling Chocobo|FIN|210
+
+

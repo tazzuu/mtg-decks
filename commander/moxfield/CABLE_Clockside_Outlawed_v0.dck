@@ -1,0 +1,131 @@
+[metadata]
+Name=[CABLE] Clockside Outlawed
+Description=Leveraging both strong artifact and creature synergies, Magda, Brazen Outlaw offers a bridge between some of reds most powerful effects, a powerful engine for mana ramp, card consistency and combo potential. 
+
+Magda’s modal treasure production engine fuels these aspects and is achieved through various means such as attacking your opponents, crewing vehicles, activating abilities, and/or convoke. Alongside red’s affinity for treasure and artifact synergies already, we can leverage Magda’s treasure production in uniquely consistent and powerful ways. 
+
+The flexibility given through this allows pilots to sculpt their own way of playing Magda, whether it be through powerful combos with Clock of Omens and an artifact dwarf such as Universal automaton, or synergistic beat down gameplans with dragons such as Utvara Hellkite and dwarves like Dwarven Blood Boiler.
+Format=commander
+Bracket=5
+Author=Iraruel
+Version=0
+URL=https://moxfield.com/decks/xmH0i1HMHUi2iCd279RYPA
+Date=2026-01-23T02:03:05.233Z
+Created=2020-12-20T10:51:28.423Z
+Updated=2026-01-23T02:03:05.233Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Magda, Brazen Outlaw
+
+
+[Main]
+1 Abrade|INR|139
+1 Adaptive Automaton|2XM|231
+1 Ancient Tomb|UMA|236
+1 Barkform Harvester|BLB|243
+1 Bloodfire Dwarf|APC|56
+1 Bottle-Cap Blast|PIP|583
+1 Cavern of Souls
+1 Chrome Mox|2XM|240
+1 City of Traitors|EXO|143
+1 Clock of Omens|M13|202
+1 Clown Car|UNF|186
+1 Command Beacon|C15|56
+1 Damping Sphere|DOM|213
+1 Deflecting Swat|C20|50
+1 Disruptor Flute|MH3|209
+1 Dwarven Armorer|FEM|50
+1 Dwarven Bloodboiler|JUD|84
+1 Dwarven Grunt|ODY|185
+1 Dwarven Scorcher|JUD|86
+1 Dwarven Trader|HML|72b
+1 Enslaved Dwarf|TOR|96
+1 Firdoch Core|ECL|255
+1 Flare of Duplication|MH3|119
+1 Flywheel Racer|MOM|259
+1 Fury|MH2|126
+1 Galvanic Blast|DDU|45
+1 Gemstone Caverns|TSR|280
+1 Ghostfire Slice|MH3|123
+1 God-Pharaoh's Statue|WAR|238
+1 Gogo, Mysterious Mime|FIC|56
+1 Grafdigger's Cage|DKA|149
+1 Great Furnace
+1 Grim Monolith|ULG|126
+1 Guild Artisan|CLB|179
+1 Hammerheim|LTC|518
+1 Holdout Settlement|OGW|172
+1 Jeska's Will|CMR|187
+1 Kavaron, Memorial World|EOE|255
+1 Knuckles the Echidna|SLD|2082
+1 Legion Extruder|BIG|12
+1 Liberated Dwarf|JUD|95
+1 Lifecraft Engine|DFT|234
+1 Lightning Bolt|M11|149
+1 Liquimetal Torque|MH2|228
+1 Lotus Petal
+1 Magda, the Hoardmaster|OTJ|374
+1 Mana Vault|2X2|308
+1 Maskwood Nexus|M3C|299
+1 Metallic Mimic|AER|164
+1 Mishra's Workshop|ATQ|81
+7 Mountain|MID|274
+1 Mox Amber|DOM|224
+1 Mox Opal|MM2|223
+1 Mutavault|M14|228
+1 Peter Parker's Camera|SPM|171
+1 Pinnacle Monk|MH3|246
+1 Plundering Barbarian|AFR|158
+1 Portal to Phyrexia
+1 Professional Face-Breaker|SNC|116
+1 Pyroblast|ICE|213
+1 Pyrokinesis|DDL|32
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Red Elemental Blast|A25|147
+1 Redirect Lightning|TLA|151
+1 Relic of Legends
+1 Return the Favor|OTJ|142
+1 Roaming Throne|LCI|258
+1 Sculpting Steel|C21|261
+1 Shatterskull Smashing|ZNR|161
+1 Shinka, the Bloodsoaked Keep|CHK|282
+1 Simian Spirit Guide|TSR|190
+1 Smuggler's Copter|KLD|235
+1 Sol Ring|C20|252
+1 Spark Mage|ODY|222
+1 Springleaf Drum|2XM|291
+1 Sting, the Glinting Dagger|LTR|250
+1 Sudden Shock|TSR|194
+1 Sundering Eruption|MH3|248
+1 Survivors' Encampment|HOU|184
+1 Talon Gates of Madara|M3C|82
+1 Tezzeret, Cruel Captain|EOE|287
+1 Three Tree Mascot|BLB|251
+1 Tibalt's Trickery|KHM|153
+1 Treasure Vault|AFR|261
+1 Twinshot Sniper|NEO|168
+1 Universal Automaton|MH1|235
+1 Unlicensed Hearse|SNC|246
+1 Untimely Malfunction|DSK|161
+1 Urza's Cave|MH3|234
+1 Urza's Saga|MH2|380
+1 Vexing Bauble|MH3|212
+1 Volatile Fault|LCI|286
+1 Xorn|AFR|167
+
+
+[Sideboard]
+1 Agatha's Soul Cauldron
+1 Battered Golem|5DN|106
+1 Blood Moon|SLD|366
+1 Chalice of the Void|TSR|390
+1 Chaos Warp|C18|122
+1 Chiss-Goria, Forge Tyrant|ONC|35
+1 Forbidden Orchard|C16|296
+1 Goblin Welder|DDU|35
+1 Great Train Heist
+1 Gut Shot|NPH|86
+
+

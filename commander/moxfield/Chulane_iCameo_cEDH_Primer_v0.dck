@@ -1,0 +1,123 @@
+[metadata]
+Name=Chulane iCameo (cEDH Primer)
+Description=A midrange Bant deck characterized by layered combos and strong value engines
+Format=commander
+Bracket=5
+Author=Joking101,Just_IceMTG,KumaTheBear
+Version=0
+URL=https://moxfield.com/decks/5pYP-HNgsUyl2NfZSBXkFg
+Date=2024-09-30T00:38:44.75Z
+Created=2020-04-14T19:24:21.54Z
+Updated=2024-09-30T00:38:44.75Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Chulane, Teller of Tales|ELD|326
+
+
+[Main]
+1 Aluren|TMP|213
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|UMA|236
+1 Arbor Elf|A25|160
+1 Archdruid's Charm|MKM|151
+1 Archivist of Oghma|CLB|4
+1 Avacyn's Pilgrim|MM3|119
+1 Aven Mindcensor|AKH|5
+1 Birds of Paradise|GK2|82
+1 Bloom Tender|EVE|66
+1 Boseiju, Who Endures|NEO|266
+1 Breeding Pool|RNA|246
+1 Cavern of Souls|2X2|320
+1 Chord of Calling|M15|172
+1 City of Brass|6ED|321
+1 Cloudstone Curio|RAV|257
+1 Collector Ouphe|MH1|158
+1 Command Tower|C20|264
+1 Crop Rotation|C20|169
+1 Cyclonic Rift|2XM|47
+1 Deafening Silence|ELD|10
+1 Delay|FUT|35
+1 Delighted Halfling|LTR|158
+1 Delney, Streetwise Lookout|MKM|12
+1 Destiny Spinner|THB|168
+1 Dovin's Veto|WAR|193
+1 Drannith Magistrate|IKO|11
+1 Earthcraft|TMP|222
+1 Eladamri's Call|MH1|197
+1 Eldritch Evolution|EMN|155
+1 Elvish Mystic|DDU|7
+1 Endurance|MH2|157
+1 Enlightened Tutor|EMA|9
+1 Esper Sentinel|MH2|12
+1 Eternal Witness|UMA|163
+1 Exotic Orchard|C20|273
+1 Faeburrow Elder|BLC|252
+1 Fierce Guardianship|C20|35
+1 Finale of Devastation|WAR|160
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Forbidden Orchard|C16|296
+1 Force of Negation|MH1|52
+1 Force of Will|EMA|49
+1 Forest|IKO|272
+1 Fyndhorn Elves|ICE|244
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSR|280
+1 Gilded Drake|USG|76
+1 Grand Abolisher|C14|74
+1 Hallowed Fountain|RNA|251
+1 Invasion of Ikoria|MOM|190
+1 Island|IKO|263
+1 Lavinia, Azorius Renegade|RNA|189
+1 Linvala, Keeper of Silence|ROE|33
+1 Llanowar Elves|GNT|46
+1 Lotus Cobra|IMA|174
+1 Mana Breach|7ED|85
+1 Mana Confluence|JOU|163
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|SLU|5
+1 Mystic Remora|ICE|87
+1 Neoform|WAR|206
+1 Nissa, Resurgent Animist|MAT|22
+1 Noble Hierarch|UMA|174
+1 Noxious Revival|NPH|118
+1 Null Rod|WTH|154
+1 Oboro, Palace in the Clouds|SOK|164
+1 Oko, Thief of Crowns|ELD|197
+1 Otawara, Soaring City|NEO|271
+1 Overburden|PCY|39
+1 Phyrexian Metamorph
+1 Polluted Delta|KTK|239
+1 Prismatic Vista|MH1|244
+1 Ranger-Captain of Eos|MH1|21
+1 Rejuvenating Springs|CMR|354
+1 Rhystic Study|PCY|45
+1 Savannah|SUM|285
+1 Scalding Tarn|SLU|2
+1 Shrieking Drake|VIS|43
+1 Silence|M14|35
+1 Skyclave Apparition
+1 Sol Ring|C20|252
+1 Stony Silence|MM3|25
+1 Swan Song|C16|98
+1 Swords to Plowshares|BBD|110
+1 Temple Garden|GRN|258
+1 Treva's Ruins|DMR|260
+1 Tropical Island|SUM|288
+1 Tundra|SUM|289
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|SLU|3
+1 Wargate
+1 Waterlogged Grove|MH1|249
+1 Whitemane Lion|A25|39
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|6ED|269
+
+
+[Sideboard]
+
+

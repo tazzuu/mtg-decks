@@ -1,0 +1,211 @@
+[metadata]
+Name=Naeled It - Nael Simic Domain [B1]
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=Leika
+Version=0
+URL=https://archidekt.com/decks/3711220
+Date=2026-01-10
+Created=2022-12-21
+Updated=2026-01-10
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Nael, Avizoa Aeronaut|DMU|207
+
+
+[Main]
+1 Access Tunnel|STX|262
+1 An Offer You Can't Refuse|SNC|51
+1 Arcane Signet|LCC|299
+1 Archetype of Imagination|C18|81
+1 Artificial Evolution|ONS|67
+1 Asceticism
+1 Beast Within|NCC|282
+1 Bioshift|GTC|214
+1 Blessed Respite|MH2|150
+1 Bower Passage|AVR|170
+1 Brainstone|MH2|223
+1 Brainstorm|CMD|40
+1 Brainsurge|MH3|53
+1 Branching Evolution|LCC|234
+1 Brass Knuckles|SNC|234
+1 Breeding Pool|EOE|373
+1 Briar Hydra|DMU|286
+1 Bridgeworks Battle|MH3|249
+1 Carpet of Flowers|USG|240
+1 Cartographer's Survey|VOW|190
+1 Chart a Course|JMP|142
+1 Chasm Skulker|CLB|714
+1 Chromatic Lantern|CMM|376
+1 Cold-Eyed Selkie|AFC|183
+1 Collective Restraint|INV|49
+1 Colossal Skyturtle|NEO|216
+1 Colossal Whale|M14|48
+1 Command Tower|SCD|297
+1 Conduit of Worlds|ONE|163
+1 Copy Land|M3C|47
+1 Coral Barrier|M15|49
+1 Counterspell|STA|15
+1 Crystalline Crawler|C16|54
+1 Curse of the Swine|OTC|92
+1 Cyber Conversion|WHO|38
+1 Drawn from Dreams|NCC|220
+1 Dream Cache
+1 Dream Thrush|INV|53
+1 Dreamroot Cascade|VOW|262
+1 Drowned Rusalka|GPT|24
+1 Dryad of the Ilysian Grove|CMM|891
+1 Eagle Vision|ACR|17
+1 Ecological Appreciation|STX|128
+1 Eladamri, Lord of Leaves|TMP|224
+1 Elvish Champion|10E|261
+1 Escape Tunnel|MKM|261
+1 Eternal Witness|2X2|145
+1 Evacuation|LCC|156
+1 Exert Influence|BFZ|77
+1 Expedition Map|J22|765
+1 Explore|LCC|241
+1 Explorer's Scope|CNS|198
+1 Explorer's Scope|CMM|380
+1 Fa'adiyah Seer|DMR|160
+1 Family's Favor|NCC|59
+1 Farseek|LCC|242
+1 Fellwar Stone|WOC|147
+1 Fireshrieker|NEC|151
+1 Fishliver Oil|9ED|77
+1 Flooded Grove|DSC|276
+9 Forest|C17|307
+1 Glinting Creeper|MH2|164
+1 Glowcap Lantern|LCI|187
+1 Grixis Illusionist|CNS|99
+1 Growth Spiral|DMC|153
+1 Halimar Wavewatch|ROE|72
+1 Heart of Yavimaya|ALL|138
+1 Herd Migration|DMU|165
+1 Heroic Intervention|AFC|161
+1 Hidden Grotto|BLB|254
+1 Hidden Path|DRK|78
+1 Holistic Wisdom|ODY|243
+1 Horn of the Mark|LTR|241
+1 Hydroelectric Specimen|MH3|240
+1 Incubation|C21|219
+1 Infuse with the Elements|BFZ|175
+1 Insight|6ED|75
+1 Insight|TMP|68
+11 Island|CM2|289
+1 Jodah's Codex|DMU|233
+1 Joint Exploration|DMU|56
+1 Kalonian Hydra|BLC|226
+1 Kelpie Guide|STX|45
+1 Kiora's Follower
+1 Lodestone Needle|LCI|62
+1 Long-Term Plans|SCG|38
+1 Magical Hack|30A|63
+1 Manaforce Mace|CON|139
+1 Maraleaf Pixie|ELD|196
+1 Maskwood Nexus|BLC|279
+1 Master Biomancer|CLU|200
+1 Matca Rioters|MM2|148
+1 Mind Bend|10E|93
+1 Mirkwood Channeler|LTR|828
+1 Multiversal Passage|SPM|180
+1 Murkfiend Liege|2X2|259
+1 Mystic Compass|ALL|124
+1 Nature's Cloak|POR|177
+1 Nature's Lore|DMR|170
+1 Nature's Lore|CLB|244
+1 Navigator's Compass|DOM|225
+1 Negate|STA|18
+1 Nissa, Steward of Elements|C20|224
+1 Nylea's Presence|THS|169
+1 Omo, Queen of Vesuva|M3C|2
+1 Oneirophage|J22|331
+1 Open the Way|MAT|23
+1 Out of the Way|SNC|52
+1 Overlord of the Hauntwoods|DSK|194
+1 Part Water|LEG|66
+1 Path of Discovery|BLC|231
+1 Phantasmal Terrain|INV|65
+1 Pixie Illusionist|DMU|61
+1 Plaxcaster Frogling|C21|226
+1 Pongify|C14|120
+1 Power Fist|PIP|81
+1 Primal Command|MM3|132
+1 Prismatic Geoscope|C16|55
+1 Prismatic Omen|SLD|1104
+1 Rain-Slicked Copse|ECC|43
+1 Rapid Hybridization|C21|126
+1 Reality Shift|NEC|95
+1 Realmbreaker, the Invasion Tree|MOM|263
+1 Realmwright|GTC|45
+1 Reef Shaman|APC|29
+1 Rimewood Falls|KHM|266
+1 Rogue's Passage|CLB|913
+1 Sakashima's Will|CMR|91
+1 Scion of Draco|MH2|234
+1 Scourge of Fleets|CMR|403
+1 Seasinger|FEM|25
+1 Skyrider Elf|BFZ|220
+1 Slimefoot's Survey|DMU|178
+1 Snake Pit|MMQ|271
+5 Snow-Covered Forest|KHM|285
+5 Snow-Covered Island|J22|833
+1 Sodden Verdure|ECC|44
+1 Sol Ring|DMC|190
+1 Spectral Shift|5DN|37
+1 Sphinx of Clear Skies|DMU|67
+1 Spore Burst|CON|93
+1 Springmantle Cleric|ZNR|205
+1 Staff of Titania|BRC|27
+1 Star Compass
+1 Starved Rusalka|GPT|97
+1 Stormtide Leviathan|M15|80
+1 Submerge|NEM|48
+1 Swampbenders|TLE|65
+1 Sweep the Skies|MH2|70
+1 Swiftfoot Boots|NCC|382
+1 Sylvan Library|DMR|179
+1 Sylvan Scrying
+1 Tanazir Quandrix|STX|240
+1 Tangled Islet|DMU|258
+1 Territorial Maro|DMU|184
+1 Thada Adel, Acquisitor|WWK|40
+1 The Ozolith|IKO|237
+1 The Weatherseed Treaty|DMU|188
+1 Thespian's Stage|2XM|327
+1 Thran Portal|DMU|259
+1 Three Visits|CMM|913
+1 Tideshaper Mystic|LRW|93
+1 Titania's Command|BRO|194
+1 Tome of Legends|ELD|332
+1 Trait Doctoring|DGM|18
+1 Traveler's Cloak|CNS|109
+1 Tromp the Domains|TSR|242
+1 Trygon Predator|C21|231
+1 Ulvenwald Hydra|JMP|439
+1 Unstable Frontier|CON|145
+1 Urborg, Tomb of Yawgmoth|UMA|254
+1 Uro, Titan of Nature's Wrath|M3C|277
+1 Urza's Cave|MH3|234
+1 Utter Insignificance|MH3|78
+1 Vedalken Plotter|CMD|66
+1 Vesuva|TSR|289
+1 Viewpoint Synchronization|ACR|43
+1 Viscerid Drone|ALL|42
+1 Wayfarer's Bauble|LCC|317
+1 Winged Words|JMP|196
+1 Woodland Wanderer|BFZ|198
+1 World Map|FIN|270
+1 Xolatoyac, the Smiling Flood|LCC|8
+1 Yavimaya Coast|OTC|342
+1 Yavimaya Dryad|TSR|247
+1 Yavimaya, Cradle of Growth|MH2|261
+1 You Find the Villains' Lair|AFR|84
+
+
+[Sideboard]
+
+

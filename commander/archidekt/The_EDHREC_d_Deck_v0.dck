@@ -1,0 +1,121 @@
+[metadata]
+Name=The EDHREC'd Deck
+Description={"ops":[{"insert":"The Bracket 1 deck meant to show off the rest of your decks by using the special Unknown Event card: The Commander Recommender, which Gavin Verhey designed from an inspiration from EDHREC\n"}]}
+Format=commander
+Bracket=0
+Author=Matt_EDHREC
+Version=0
+URL=https://archidekt.com/decks/16420335
+Date=2026-02-01
+Created=2025-10-02
+Updated=2026-02-01
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 The Commander Recommender|UNK|RU05d
+
+
+[Main]
+1 Abstergo Entertainment|ACR|171
+1 Academy Ruins|MMA|219
+1 Academy Ruins|2XM|309
+1 Adric, Mathematical Genius|WHO|33
+1 Alexi, Zephyr Mage|PCY|28
+1 Arcane Denial|DRC|70
+1 Arcane Signet
+1 Atemsis, All-Seeing|M20|46
+1 Body of Knowledge|DSC|112
+1 Buried Ruin|BRC|177
+1 Burnished Hart|FDN|250
+1 Caged Sun
+1 Castle Vantress|ELD|242
+1 Commander's Sphere|DRC|125
+1 Commit|LCC|147
+1 Conundrum Sphinx|M11|51
+1 Covenant of Minds|CN2|105
+1 Decanter of Endless Water|CLB|309
+1 Dialogue Tree|UNK|UU01
+1 Elixir of Immortality|C21|243
+1 Ensoul Ring|UNK|UU02a
+1 Erratic Portal
+1 Everythingamajig|UST|147d
+1 Evolving Wilds|CMR|482
+1 Extraplanar Lens|CMM|604
+1 Field of Ruin|LTC|308
+1 Flood of Tears|VOC|104
+1 Flow of Knowledge|BRO|49
+1 Followed Footsteps|CN2|111
+1 Foreshadow|VIS|33
+1 Fountainport|BLB|253
+1 Gogo, Master of Mimicry|FIN|54
+1 Hedron Archive|BRC|142
+1 Irenicus's Vile Duplication|CLB|78
+22 Island|UNH|137
+1 Jill, Shiva's Dominant|FIN|378
+1 Liar's Pendulum|MRD|196
+1 Lithoform Engine|BRC|146
+1 Lyla, Holographic Assistant|SPE|7
+1 Lórien Revealed|LTR|60
+1 Machine God's Effigy|BRC|16
+1 Manifold Insights|CM2|44
+1 Master of Predicaments|M15|67
+1 Memories Returning|FIN|331
+1 Minas Tirith Garrison|LTR|830
+1 Mind Stone|WTH|153
+1 Misleading Signpost|WOC|11
+1 Mistrise Village|TDM|261
+1 Mitotic Manipulation|MBS|27
+1 Mordenkainen|AFR|64
+1 My First Tome|UNH|125★
+1 Myriad Landscape|EOC|169
+1 Mystic Sanctuary|MB2|110
+1 Overwhelming Intellect|DDJ|28
+1 Peter Parker's Camera|SPM|280
+1 Ponder|TSR|315
+1 Predict
+1 Preordain|BRC|92
+1 Psychosis Crawler|BRR|44
+1 Quantum Misalignment|WHO|52
+1 Quick Study|WOE|65
+1 Rapid Hybridization|TDC|162
+1 Reality Shift|TDC|163
+1 Reliquary Tower|CMM|425
+1 Relm's Sketching|FIN|67
+1 Riptide Laboratory|MH2|303
+1 Sapphire Medallion|MH3|296
+1 Scavenger Grounds|PIP|506
+1 Scrawling Crawler|FDN|132
+1 See Double|MOM|77
+1 Snap|WOC|110
+1 Sol Ring|BLC|129
+1 Soramaro, First to Dream|SOK|58
+1 Spark Double|WAR|68
+1 Spider-Sense|SPM|46
+1 Starfield Vocalist|EOE|328
+1 Strionic Resonator|BRC|165
+1 Strip Mine|4ED|363
+1 Sturmgeist|ISD|82
+1 Terramorphic Expanse|CMR|357
+1 The Clone Saga|SPM|28
+1 The Mysterious Sphere|UNK|RA05
+1 The Water Crystal|FIN|85
+1 Thought Vessel|C15|55
+1 Three Steps Ahead
+1 Tolarian Sentinel|J22|363
+1 Treasure Cruise|TDC|169
+1 Triskaidekaphile|BLC|178
+1 Trusted Advisor|SOK|59
+1 Venser's Journal|C21|273
+1 Virtue of Knowledge|WOE|76
+1 War Room|MKC|310
+1 Wasteland|MB2|115
+1 Wayfarer's Bauble|BRC|171
+1 Witch's Clinic|DSC|325
+1 Wizard Class|BLC|112
+1 World Map|FIN|270
+
+
+[Sideboard]
+
+

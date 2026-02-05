@@ -1,0 +1,123 @@
+[metadata]
+Name=70 kinds of counter
+Description={"ops":[{"insert":"For the April 2022 deckbuilding contest, this is a deck I started brewing as soon as Perrie was spoiled. I'll probably end up around 65 kinds of counter in paper, but I've pushed the meme a little harder here.\n\nBecause the goal is to maximize the number of different kinds of counter in play while also making sure those counters are at least marginally useful, I've avoided these as much as possible:\n\ncounters that don't stick around (for example, sagas)"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"counters that are useless (for example, "},{"insert":{"card-link":"Cephalid Vandal"}},{"insert":" or "},{"insert":{"card-link":"Homarid"}},{"insert":")"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"counters that can't be used without losing them (for example, "},{"insert":{"card-link":"Powder Keg"}},{"insert":" or "},{"insert":{"card-link":"Icatian Moneychanger"}},{"insert":")"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"counters that you don't want on your own permanents (for example, "},{"insert":{"card-link":"Musician"}},{"insert":" or "},{"insert":{"card-link":"Sludge Monster"}},{"insert":")"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"counters that are too easily removed (for example, "},{"insert":{"card-link":"Soul Echo"}},{"insert":" or "},{"insert":{"card-link":"Azor's Elocutors"}},{"insert":")"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nIn addition, these are the only non-land cards that are included for utility, rather than a unique kind of counter:\n\n"},{"insert":{"card-link":"Rishkar, Peema Renegade"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Evolution Sage"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Damning Verdict"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Storm of Forms"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Together Forever"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Resourceful Defense"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"The Ozolith"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\n"},{"insert":{"card-link":"Crystalline Giant"}},{"insert":" feels like cheating because it's random, so the only counter it's contributing to the total is menace, because there's no other way to get that in these colors.\n\nAnd finally, these are the 70 different kinds of counter that this deck can put on its own permanents:\n\n-0/-1"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"-1/-0"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"-1/-1"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"+0/+1"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"+1/+0"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"+1/+1"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"+2/+2"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"age"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"arrowhead"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"awakening"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"brick"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"charge"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"component"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"cube"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"currency"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"deathtouch"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"depletion"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"doom"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"double strike"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"dream"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"eyeball"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"fade"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"feather"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"first strike"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"flood"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"flying"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"foreshadow"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"fungus"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"harmony"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"healing"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"hexproof"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"hoofprint"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"hour"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"indestructible"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"isolation"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"judgment"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"level"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"lifelink"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"lore"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"loyalty"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"luck"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"magnet"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"manifestation"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"matrix"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"menace"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"mine"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"night"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"omen"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"page"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"pain"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"phyresis"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"point"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"polyp"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"quest"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"reach"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"shield"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"sleight"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"slumber"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"spore"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"storage"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"suspect"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"task"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"time"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"trample"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"valor"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"verse"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"vigilance"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"vitality"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"vow"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"wish"},{"attributes":{"list":"bullet"},"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=Cannelbrae
+Version=0
+URL=https://archidekt.com/decks/2644174
+Date=2025-10-24
+Created=2022-04-25
+Updated=2025-10-24
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Perrie, the Pulverizer|NCC|190
+
+
+[Main]
+1 Agent's Toolkit|NCC|166
+1 Arbiter of the Ideal|BNG|31
+1 Arixmethes, Slumbering Isle|C18|38
+1 Armageddon Clock|ATQ|37
+1 Aven Mimeomancer|ARB|2
+1 Avenging Huntbonder|NCC|194
+1 Bala Ged Recovery|ZNR|180
+1 Beastmaster Ascension|ZEN|159
+1 Blast Zone|WAR|244
+1 Bounty of the Luxa|AKH|196
+1 Breeding Pool|DIS|172
+1 Calciform Pools|TSP|270
+1 Chromatic Armor|ICE|283
+1 Clockwork Avian|ATQ|45
+1 Component Pouch|AFC|59
+1 Coral Reef|HML|24
+1 Crawling Barrens|ZNR|378
+1 Crystalline Giant|IKO|361
+1 Damning Verdict|NCC|116
+1 Devoted Druid|SHM|110
+1 Djinn of Wishes|M10|50
+1 Elspeth Resplendent|SNC|282
+1 Evolution Sage|WAR|159
+1 Faithbound Judge|VOW|348
+1 Flooded Strand|ONS|316
+1 Foreboding Statue|VOW|256
+1 Forest|SNC|281
+1 Fungus Elemental|WTH|128
+1 Gavony Township|ISD|239
+1 Gemstone Mine|WTH|164
+1 Glasspool Mimic|ZNR|328
+1 Hallowed Fountain|DIS|174
+1 Heliod's Punishment|THB|21
+1 Hibernation's End|CSP|110
+1 Hickory Woodlot|MMQ|319
+1 Hoofprints of the Stag|LRW|21
+1 Instrument of the Bards|AFR|385
+1 Intrepid Adversary|MID|25
+1 Investigator's Journal|VOW|396
+1 Island|SNC|275
+1 Jabari's Influence|MIR|24
+1 Jar of Eyeballs|DKA|152
+1 Joraga Treespeaker|ROE|190
+1 Karn's Bastion|WAR|248
+1 Liege of the Tangle|SOM|123
+1 Life Matrix|LEG|284
+1 Littjara Mirrorlake|KHM|264
+1 Living Artifact|CED|209
+1 Llanowar Reborn|FUT|171
+1 Mage-Ring Network|ORI|249
+1 Magnetic Web|TMP|295
+1 Midnight Clock|ELD|346
+1 Mirrodin's Core|DST|165
+1 Misty Rainforest|MH2|438
+1 Myth Realized|DTK|26
+1 Nesting Grounds|C20|71
+1 Noble's Purse|CLB|331
+1 Ominous Seas|IKO|61
+1 Out of Time|MH2|383
+1 Plains|SNC|273
+1 Promise of Loyalty|C21|348
+1 Pyramid of the Pantheon|AKH|235
+1 Quarantine Field|BFZ|43
+1 Rasputin Dreamweaver|LEG|253
+1 Remote Farm|MMQ|323
+1 Replicating Ring|KHM|244
+1 Resourceful Defense|NCC|120
+1 Rishkar, Peema Renegade|AER|122
+1 Saltcrusted Steppe|TSP|277
+1 Saprazzan Skerry|MMQ|328
+1 Saproling Burst|NEM|113
+1 Sejiri Shelter|ZNR|37
+1 Serrated Arrows|HML|110
+1 Slippery Bogbonder|C20|66
+1 Spara's Headquarters|SNC|293
+1 Sporogenesis|USG|273
+1 Storm of Forms|NCC|133
+1 Strixhaven Stadium|STX|358
+1 Temple Garden|RAV|284
+1 Tendo Ice Bridge|BOK|165
+1 The Monumental Facade|ONE|401
+1 The Ozolith|IKO|362
+1 Together Forever|BBD|32
+1 Tome of Legends|ELD|332
+1 Torture Chamber|TMP|313
+1 Trade Caravan|HML|19a
+1 Tyrite Sanctum|KHM|372
+1 Ursine Fylgja|CSP|22
+1 Urza's Saga|MH2|380
+1 Utopia Mycon|FUT|140
+1 Vastwood Fortification|ZNR|216
+1 Vivid Creek|LRW|276
+1 Vivid Grove|LRW|277
+1 Vivid Meadow|LRW|279
+1 Vivien, Monsters' Advocate|IKO|277
+1 Wall of Roots|MIR|253
+1 Weatherlight Compleated|DMU|242
+1 Windswept Heath|ONS|328
+1 Yisan, the Wanderer Bard|M15|209
+
+
+[Sideboard]
+
+

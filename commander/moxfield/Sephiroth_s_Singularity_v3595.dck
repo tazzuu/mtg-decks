@@ -1,0 +1,114 @@
+[metadata]
+Name=🩸Sephiroth's Singularity🪽
+Description=Mono-black aristocrats combo deck built around Sephiroth’s emblem recursion engine and blood artist ability. Leverages recursive creatures, sacrifice outlets, and death triggers to grind value, control the board, and assemble infinite loops. Plays tightly across all phases with flexible combo lines, strong midgame pressure, and explosive finishers like Vein Ripper, Tevesh Szat, and Gwenom.  Plus there's like 50 combo lines in here.  So, you know, watch out for that.  "Tell me what you cherish most.  Give me the pleasure of taking it away."
+Format=commander
+Bracket=4
+Author=Grumpywolf
+Version=3595
+URL=https://moxfield.com/decks/LYykXgfH5k2TEntKKQzIGQ
+Date=2026-02-03T21:18:38.693Z
+Created=2025-05-14T20:27:53.543Z
+Updated=2026-02-03T21:18:38.693Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Sephiroth, Fabled SOLDIER|FIN|527
+
+
+[Main]
+1 Accursed Marauder|MH3|80
+1 Agadeem's Awakening|ZNR|90
+1 Ancient Tomb|LTC|357
+1 Ashnod's Altar|SLD|1679
+1 Ayara, First of Locthwain|MUL|13
+1 Barad-dûr|LTR|425
+1 Biotransference|40K|30
+1 Bitterbloom Bearer|ECL|88
+1 Bitterblossom|WOT|27
+1 Black Market Connections|CLB|620
+1 Blood Artist|EMA|81
+1 Bolas's Citadel|FCA|7
+1 Braids, Arisen Nightmare|DMU|84
+1 Cabal Coffers|MH2|301
+1 Chrome Mox|SPG|92
+1 Crypt Ghast|GTC|61
+1 Culling the Weak|MB2|40
+1 Dark Ritual|FCA|8
+1 Deadly Rollick|CMM|147
+1 Demonic Tutor|CMM|509
+1 Deserted Temple|MH3|301
+1 Drivnod, Carnage Dominus|ONE|305
+1 Entomb|DMR|304
+1 Fell the Profane|MH3|244
+1 Flare of Malice|MH3|95
+1 Fleshbag Marauder|DRC|92
+1 Forsaken Miner|OTJ|88
+1 Fumulus, the Infestation|J25|42
+1 Gemstone Caverns|TSR|280
+1 Grave Pact|CMM|165
+1 Gravecrawler|INR|114
+1 Gray Merchant of Asphodel|TSR|323
+1 Great Unclean One|40K|35
+1 Gwenom, Remorseless|SPM|56
+1 High Market|C15|289
+1 Jadar, Ghoulcaller of Nephalia|MID|108
+1 Jet Medallion|MH3|346
+1 Lake of the Dead|ALL|140
+1 Lord Skitter, Sewer King|WOE|97
+1 Malakir Rebirth|ZNR|111
+1 Mana Vault|2X2|308
+1 Merciless Executioner|FRF|76
+1 Midgar, City of Mako|FIN|313
+1 Mortuary|STH|66
+1 Mox Amber|BRR|35
+1 Necropotence|WOT|31
+1 Nine-Lives Familiar|FDN|321
+1 Nykthos, Shrine to Nyx|THS|223
+1 Ophiomancer|TDC|193
+1 Orcish Bowmasters|LTR|103
+1 Pawn of Ulamog
+1 Phyrexian Altar|UMA|232
+1 Phyrexian Tower|MH3|303
+1 Pitiless Plunderer|FIC|281
+1 Reanimate|FIC|282
+1 Reassembling Skeleton|FDN|182
+1 Rottenmouth Viper|BLB|290
+1 Sensei's Divining Top|CHK|268
+1 Sheoldred's Edict|ONE|108
+1 Sheoldred, the Apocalypse|DMU|107
+1 Shizo, Death's Storehouse|CHK|283
+1 Skullclamp|FIC|355
+1 Sol Ring|FIC|357
+1 Stridehangar Automaton|DRC|35
+1 Susur Secundi, Void Altar|EOE|259
+17 Swamp|FIN|300
+1 Tevesh Szat, Doom of Fools|CMR|153
+1 The One Ring|LTR|246
+1 The Soul Stone|SPM|66
+1 Timeline Culler|EOE|121
+1 Tombstone Stairwell|MIR|149
+1 Umbral Collar Zealot|EOE|123
+1 Urborg, Tomb of Yawgmoth|TSR|287
+1 Urza's Cave|MH3|234
+1 Urza's Saga|MH2|259
+1 Vampiric Tutor|CMR|156
+1 Vein Ripper|MKM|110
+1 Viscera Seer|LCC|213
+1 Warren Soultrader|MH3|110
+1 Withering Torment|DSK|313
+1 Yawgmoth's Will|USG|171
+1 Yawgmoth, Thran Physician|FCA|11
+1 Zulaport Cutthroat
+
+
+[Sideboard]
+1 Agatha's Soul Cauldron|WOE|242
+1 Butcher Ghoul|INR|99
+1 Carrion Feeder|MH1|81
+1 Gisa, the Hellraiser|OTJ|89
+1 Mikaeus, the Unhallowed|CMM|173
+1 Walking Ballista|FIC|371
+1 Yahenni, Undying Partisan|CMM|201
+
+

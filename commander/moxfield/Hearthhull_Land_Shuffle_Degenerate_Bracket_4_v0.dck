@@ -1,0 +1,116 @@
+[metadata]
+Name=Hearthhull, Land Shuffle (Degenerate/Bracket 4) 
+Description=Optimised version of Hearthhull, designed to play a grindy mid range. Burn out your opponents, get ahead on resources then look to close out the game with an infinite or mass land sacrifice. Optimised for Bracket 4 play without being super sweaty and playing 20 tutors. ATLA updates coming soon - play testing currently 
+Format=commander
+Bracket=4
+Author=SmashMikeHunt
+Version=0
+URL=https://moxfield.com/decks/fRpNvS_9P0St1vOo88x7jg
+Date=2025-12-25T05:06:26.07Z
+Created=2025-07-26T19:20:06.58Z
+Updated=2025-12-25T05:06:26.07Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Hearthhull, the Worldseed|EOC|1
+
+
+[Main]
+1 Abrupt Decay|OTP|34
+1 Aftermath Analyst|EOC|91
+1 Amulet of Vigor|LCC|103
+1 Arid Mesa|MH2|475
+1 Ashaya, Soul of the Wild|SLD|2014
+1 Assassin's Trophy|2X2|372
+1 Beast Within|SLD|323
+1 Blood Crypt|UNF|279
+1 Bloodstained Mire|MH3|352
+1 Bojuka Bog|SLD|1532
+1 Boseiju, Who Endures|NEO|412
+1 Braids, Arisen Nightmare|DMU|288
+1 Command Tower|SLD|7030
+1 Commercial District|MKM|324
+1 Constant Mists|SLD|2026
+1 Crop Rotation|2XM|349
+1 Crucible of Worlds|SLD|2110
+1 Cultivate|SLD|246
+1 Dakmor Salvage|EOC|156
+1 Elvish Reclaimer|SLD|2015
+1 Entish Restoration|LTR|614
+1 Entomb|DMR|304
+1 Evendo Brushrazer|EOC|10
+1 Exploration|2XM|351
+1 Exploration Broodship|EOC|34
+1 Explore|SLD|2312
+1 Fabled Passage|BLB|367
+1 Famished Worldsire|EOE|182
+1 Farseek|FCA|45
+1 Field of the Dead|SLD|1356
+5 Forest|EOE|266
+1 Glacial Chasm|ICE|353
+1 Green Sun's Zenith|SPG|127
+1 Harrow|SLD|2016
+1 Horizon Explorer|EOC|35
+1 Horn of Greed|SLD|2018
+1 Icetill Explorer|EOE|362
+1 Iridescent Vinelasher|BLB|359
+1 Korvold, Fae-Cursed King|SLD|1625
+1 Lord Windgrace|SLD|1184
+1 Lotus Cobra|SLD|1223
+1 Lotus Field|EOS|23
+1 Lumra, Bellow of the Woods|BLB|293
+1 Marsh Flats|SPG|110
+1 Mayhem Devil|SLD|1715
+1 Misty Rainforest|SPG|111
+2 Mountain|EOE|265
+1 Nature's Lore|SLD|867
+1 Nissa, Resurgent Animist|MAT|122
+1 Oracle of Mul Daya|2X2|370
+1 Orcish Lumberjack|SLD|2025
+1 Overgrown Tomb|UNF|284
+1 Polluted Delta|MH3|356
+1 Prismatic Vista|SPG|38
+1 Quirion Ranger
+1 Ramunap Excavator
+1 Raucous Theater|MKM|329
+1 Reprocess|SLD|2107
+1 Retreat to Hagra|BFZ|121
+1 Rydia, Summoner of Mist|FIN|239
+1 Sabotender|FIN|153
+1 Sakura-Tribe Elder|SLD|192
+1 Scalding Tarn|SPG|112
+1 Scapeshift|SPG|34
+1 Scute Swarm|ZNR|308
+1 Shifting Woodland|MH3|357
+1 Snow-Covered Forest|SLD|1477★
+1 Snow-Covered Mountain|SLD|1476★
+1 Snow-Covered Swamp|SLD|1475
+1 Sol Ring|SLD|2093
+1 Springheart Nantuko|MH3|341
+1 Squandered Resources|VIS|137
+1 Stomping Ground|EOE|283
+3 Swamp|EOE|264
+1 Sylvan Safekeeper|SLD|2109
+1 Szarel, Genesis Shepherd|EOC|4
+1 Tannuk, Memorial Ensign|EOE|233
+1 Tear Asunder|EOC|109
+1 Tezzeret, Cruel Captain|EOE|2
+1 The Gitrog Monster|INR|489
+1 Tireless Provisioner|SLD|2057
+1 Traveling Chocobo|FIN|406
+1 Underground Mortuary|MKM|333
+1 Urza's Saga|MH2|259
+1 Valakut Exploration|ZNR|303
+1 Verdant Catacombs|SPG|113
+1 Walk-In Closet|DSK|205
+1 Windswept Heath|MH3|360
+1 Wooded Foothills|MH3|361
+1 Yavimaya, Cradle of Growth|LTC|377
+1 Ziatora's Proving Ground|SNC|295
+1 Zuran Orb|SLD|2111
+
+
+[Sideboard]
+
+

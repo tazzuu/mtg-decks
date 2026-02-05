@@ -1,0 +1,137 @@
+[metadata]
+Name=The Room Where It Happens
+Description={"ops":[{"insert":"House-themed deck; building Marina's haunted mansion on the battlefield. \n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Version=0
+URL=https://archidekt.com/decks/9192431
+Date=2025-03-05
+Created=2024-09-13
+Updated=2025-03-05
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Marina Vendrell|DSK|221
+
+
+[Main]
+1 Abandoned Campground|DSK|255
+1 Arcane Signet|DSC|92
+1 Balemurk Leech|DSK|84
+1 Ballroom|CLU|12
+1 Bello, Bard of the Brambles|BLC|1
+1 Billiard Room|CLU|13
+1 Blasphemous Act|DSC|160
+1 Blazemire Verge|DSK|256
+1 Bleeding Woods|DSK|257
+1 Blood Crypt|DIS|171
+1 Bottomless Pool|DSK|43
+1 Central Elevator|DSK|44
+1 Charred Foyer|DSK|129
+1 Chromatic Lantern|J25|151
+1 Command Tower|DSC|96
+1 Conservatory|CLU|14
+1 Cramped Vents|DSC|17
+1 Crawlspace|C13|240
+1 Creeping Peeper|DSK|46
+1 Cursed Mirror|WHO|474
+1 Dance of the Manse|NEC|136
+1 Dazzling Theater|DSK|3
+1 Decanter of Endless Water|CLB|309
+1 Defenestrate|MID|95
+1 Defiled Crypt|DSK|91
+1 Demon of Fate's Design|DSC|137
+1 Derelict Attic|DSK|93
+1 Dining Room|CLU|15
+1 Dollmaker's Shop|DSK|4
+1 Door to Nothingness
+1 Elegant Parlor|MKM|260
+1 Entity Tracker|DSK|53
+1 Escape Tunnel|MKM|261
+1 Etched Cornfield|DSK|258
+1 Ethereal Armor|DSK|7
+1 Experimental Lab|DSC|33
+1 False Floor|NCC|182
+1 Fear of Sleep Paralysis|DSC|12
+1 Floodfarm Verge|DSK|259
+2 Forest|DSK|276
+1 Freed from the Real|A25|58
+1 Funeral Room|DSK|100
+1 Ghostly Dancers|DSK|13
+1 Ghostly Keybearer|DSK|61
+1 Ghostly Prison|SPG|19
+1 Glassworks|DSK|137
+1 Gloomlake Verge|DSK|260
+1 Grand Entryway|DSK|15
+1 Greenhouse|DSK|181
+1 Gremlin Tamer|DSK|215
+1 Hall|CLU|16
+1 Hallowed Haunting|VOW|17
+1 Haunted Screen|DSK|250
+1 Hushwood Verge|DSK|261
+1 Inquisitive Glimmer|DSK|217
+2 Island|DSK|273
+1 Keys to the House|DSK|251
+1 Kitchen|CLU|17
+1 Lakeside Shack|DSK|262
+1 Library|CLU|18
+1 Lounge|CLU|19
+1 Lush Portico|MKM|263
+1 Luxury Suite|CLB|355
+1 Manor Gate|CLB|356
+1 Meat Locker|DSK|65
+1 Mesa Enchantress|DSC|68
+1 Meticulous Archive|MKM|264
+1 Mirror Room|DSK|67
+1 Moldering Gym|DSK|190
+1 Morphic Pool|CLB|357
+1 Mountain|DSK|275
+1 Murky Sewer|DSK|263
+1 Neglected Manor|DSK|264
+1 Overgrown Zealot|DSK|193
+1 Painter's Studio|DSK|147
+1 Patriar's Seal|CLB|332
+1 Peculiar Lighthouse|DSK|265
+2 Plains|DSK|272
+1 Polluted Cistern|DSC|23
+1 Raucous Carnival|DSK|266
+1 Razortrap Gorge|DSK|267
+1 Restricted Office|DSK|227
+1 Roaring Furnace|DSK|230
+1 Rooftop Nuisance|SNC|57
+1 Rotating Fireplace|WHO|183
+1 Secret Arcade|DSC|10
+1 Secret Passage|CLU|20
+1 Sheltered by Ghosts|DSK|30
+1 Skullsnap Nuisance|DSK|234
+1 Smoky Lounge|DSK|235
+1 Sol Ring|DSC|94
+1 Sphere of Safety|DSC|104
+1 Spiked Corridor|DSC|28
+1 Split Up|DSK|32
+1 Strangled Cemetery|DSK|268
+1 Study|CLU|21
+1 Surgical Suite|DSK|34
+1 Suspicious Bookcase|JMP|487
+1 Swamp|DSK|274
+1 Terramorphic Expanse|DSK|269
+1 Thornspire Verge|DSK|270
+1 Thousand-Year Elixir|C21|271
+1 Ticket Booth|DSK|158
+1 Trapped in the Screen|DSK|36
+1 Unable to Scream|DSK|78
+1 Underwater Tunnel|DSK|79
+1 Unholy Annex|DSK|118
+1 Valgavoth's Lair|DSK|271
+1 Walk-In Closet|DSK|205
+1 Wall of Blossoms
+1 Wall of Lost Thoughts|JMP|190
+1 Wall of Omens|MKC|90
+1 Zur, Eternal Schemer|DMU|228
+
+
+[Sideboard]
+
+

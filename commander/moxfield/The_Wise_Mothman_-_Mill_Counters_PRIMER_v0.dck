@@ -1,0 +1,120 @@
+[metadata]
+Name=The Wise Mothman - Mill & Counters [PRIMER]
+Description=Don't worry, its only a little contagious...
+Format=commander
+Bracket=3
+Author=JollyCasual
+Version=0
+URL=https://moxfield.com/decks/iud_U_X_gEuWC64866SeMQ
+Date=2025-07-09T05:45:13.547Z
+Created=2024-02-29T19:20:06.82Z
+Updated=2025-07-09T05:45:13.547Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 The Wise Mothman|PIP|1067
+
+
+[Main]
+1 Agadeem's Awakening|ZNR|90
+1 Agatha's Soul Cauldron
+1 Altar of Dementia|MH1|218
+1 Altar of the Brood|KTK|216
+1 An Offer You Can't Refuse|FDN|160
+1 Angel of Suffering|SNC|67
+1 Arcane Denial|ALL|22b
+1 Ashiok, Dream Render|WAR|228
+1 Basking Broodscale|MH3|145
+1 Bloodchief Ascension|CMM|139
+1 Bojuka Bog|DMC|199
+1 Boseiju, Who Endures|NEO|266
+1 Bramble Familiar|WOE|164
+1 Breeding Pool|GTC|240
+1 Cankerbloom|ONE|294
+1 Cold-Eyed Selkie|OTC|218
+1 Command Tower|WHO|266
+1 Conduit of Worlds|ONE|163
+1 Danny Pink|WHO|39
+1 Deepmuck Desperado|OTJ|42
+1 Didn't Say Please|ELD|42
+1 Evolution Witness|MH3|151
+1 Fabled Passage
+1 Fathom Mage|NCC|339
+1 Fierce Guardianship|CMM|94
+5 Forest|AKH|268
+1 Freestrider Lookout|OTJ|163
+1 Generous Patron|BBD|70
+1 Glen Elendra Archmage|EVE|22
+1 Gyre Sage|GTC|123
+1 Hardened Scales
+1 Hedge Shredder|DSK|183
+1 Herd Baloth|MH2|165
+1 Heroic Intervention|WHO|233
+1 Hollowmurk Siege|TDM|192
+4 Island|DDM|41
+1 Kami of Whispered Hopes|MOM|383
+1 Kodama of the West Tree|J25|78
+1 Kozilek, Butcher of Truth|UMA|6
+1 Memory Erosion|CM2|45
+1 Mesmeric Orb|BRR|31
+1 Minamo, School at Water's Edge
+1 Mindcrank|NPH|144
+1 Mirelurk Queen|PIP|33
+1 Misty Rainforest|MH2|250
+1 Morphic Pool|CLB|357
+1 Muldrotha, the Gravetide|FDN|243
+1 Nature's Lore|DMR|170
+1 Negate|ZNR|71
+1 Nuclear Fallout|PIP|47
+1 Overgrown Tomb|RTR|243
+1 Palantír of Orthanc|LTR|247
+1 Plaza of Heroes
+1 Polluted Delta|MH3|465
+1 Pollywog Prodigy|BLC|50
+1 Psychic Corrosion
+1 Rampant Frogantua|M3C|118
+1 Rejuvenating Springs|CMM|424
+1 Repulsive Mutation|MKM|227
+1 Ruin Crab|ZNR|295
+1 Sakura-Tribe Elder|M3C|243
+1 Shifting Woodland|MH3|228
+1 Six|MH3|430
+1 Smuggler's Surprise
+1 Sol Ring|CM2|217
+1 Soul-Guide Lantern|WOE|251
+1 Strip Mine|4BB|363
+3 Swamp|MKM|282
+1 Swarmyard|TSR|284
+1 Swiftfoot Boots|FDN|258
+1 Syr Konrad, the Grim|M3C|207
+1 Takenuma, Abandoned Mire|NEO|278
+1 Tear Asunder
+1 The Gitrog Monster|SOI|245
+1 The Great Henge
+1 Three Visits|WHO|235
+1 Toxic Deluge|MH3|277
+1 Undead Alchemist|ISD|84
+1 Undergrowth Stadium|CMR|359
+1 Urza's Saga|MH2|259
+1 V.A.T.S.|PIP|50
+1 Verdant Catacombs|MH2|479
+1 Walking Ballista|AER|181
+1 Waterlogged Grove|WHO|331
+1 Watery Grave|GRN|259
+1 Wave Goodbye|LCC|79
+1 Winding Constrictor|PIP|223
+1 Yavimaya Hollow|UDS|143
+1 Zagoth Triome|IKO|259
+1 Zellix, Sanity Flayer|CLB|652
+
+
+[Sideboard]
+1 Guardian Project
+1 Herd Heirloom|TDM|347
+1 Ripples of Undeath|MH3|107
+1 Sphere Grid|FIC|70
+1 Terrasymbiosis|EOE|312
+1 Teval, the Balanced Scale|TDC|8
+
+

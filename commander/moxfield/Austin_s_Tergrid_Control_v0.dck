@@ -1,0 +1,118 @@
+[metadata]
+Name=Austin's Tergrid Control
+Description=Use this list as a baseline for your own Tergrid list. 
+Format=commander
+Bracket=4
+Author=ElderDrunkenHighlander
+Version=0
+URL=https://moxfield.com/decks/wWjHyy2WpEe0uFfkK3OOyQ
+Date=2022-05-17T17:38:41.04Z
+Created=2021-01-13T18:41:27.767Z
+Updated=2022-05-17T17:38:41.04Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Tergrid, God of Fright|KHM|112
+
+
+[Main]
+1 Ancient Tomb|TMP|315
+1 Animate Dead|4ED|118
+1 Apprentice Necromancer|UMA|84
+1 Arcane Signet|CMR|297
+1 Blood Pet|6ED|115
+1 Bloodstained Mire|KTK|230
+1 Bottomless Pit|STH|51
+1 Burglar Rat|JMP|214
+1 Buried Alive|CM2|59
+1 Buried Ruin|2XM|312
+1 Cabal Ritual|TOR|51
+1 Chains of Mephistopheles|LEG|91
+1 Crystal Vein|C14|289
+1 Culling the Weak|EXO|55
+1 Dark Confidant|MM2|75
+1 Dark Deal|FRF|66
+1 Dark Ritual|4ED|129
+1 Deadly Rollick|C20|42
+1 Death Cloud|DST|40
+1 Demonic Tutor|DDC|49
+1 Deserted Temple|ODY|320
+1 Desolation|VIS|58
+1 Dictate of Erebos
+1 Dread Return|2XM|89
+1 Elderfang Disciple|KHM|93
+1 Emergence Zone|WAR|245
+1 Entomb|PD3|14
+1 Everflowing Chalice|2XM|254
+1 Feed the Swarm|ZNR|102
+1 Fellwar Stone|4ED|319
+1 Fraying Omnipotence|M19|97
+1 Geier Reach Sanitarium|C19|246
+1 Gemstone Caverns|TSP|274
+1 Grave Pact|CMD|85
+1 Grim Monolith|ULG|126
+1 Homeward Path|C16|301
+1 Imp's Mischief|PLC|72
+1 Imperial Seal
+1 Innocent Blood|E02|19
+1 Inventors' Fair|KLD|247
+1 Jet Medallion|C14|243
+1 Jeweled Lotus|CMR|319
+1 Lake of the Dead|ALL|140
+1 Lightning Greaves|2XM|267
+1 Liliana of the Veil|ISD|105
+1 Malakir Rebirth|ZNR|111
+1 Mana Crypt|2XM|270
+1 Mana Vault|4ED|334
+1 Marsh Flats|ZEN|219
+1 Mikaeus, the Unhallowed|DKA|70
+1 Mind Rake|MH1|96
+1 Mind Stone|IMA|219
+1 Mindslicer|ODY|149
+1 Mirage Mirror
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Necrogen Mists|MRD|69
+1 Necromancy|VIS|64
+1 Nykthos, Shrine to Nyx|THS|223
+1 Opposition Agent|CMR|141
+1 Oppression|USG|143
+1 Peat Bog|MMQ|322
+1 Phyrexian Altar|INV|306
+1 Phyrexian Tower|JMP|493
+1 Pitiless Plunderer|RIX|81
+1 Plaguecrafter|GRN|82
+1 Polluted Delta|KTK|239
+1 Pox|5ED|189
+1 Praetor's Grasp|NPH|71
+1 Rain of Filth|USG|151
+1 Rankle, Master of Pranks
+1 Reanimate|JMP|270
+1 Rings of Brighthearth|CMR|335
+1 Rotting Rats|CON|51
+1 Sadistic Hypnotist|DDJ|62
+1 Scorched Ruins|WTH|166
+1 Sensei's Divining Top|CHK|268
+1 Slaughter Pact|MMA|97
+1 Smallpox|CNS|125
+1 Smokestack|V14|11
+5 Snow-Covered Swamp|KHM|280
+1 Sol Ring|LEA|269
+4 Swamp|DDD|62
+1 Thoughtseize|THS|107
+1 Torment of Hailfire
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Vampiric Tutor|CMR|156
+1 Verdant Catacombs|MM3|249
+1 Vicious Rumors|GRN|89
+1 Viscera Seer|CMR|158
+1 Witch's Cottage|ELD|249
+1 Yawgmoth's Will|USG|171
+
+
+[Sideboard]
+1 Lethal Vapors|SCG|68
+1 Tainted Aether|7ED|167
+
+

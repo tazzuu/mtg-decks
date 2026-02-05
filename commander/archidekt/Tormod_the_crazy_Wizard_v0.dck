@@ -1,0 +1,117 @@
+[metadata]
+Name=Tormod, the crazy Wizard
+Description={"ops":[{"insert":"Tormod is a mad wizard, who performs all sorts of crazy rituals to find perfection in creating a monstrous zombie army. To achieve his goal he is trying a huge amount of different methods. He sacrifices his allies, e.g. "},{"insert":{"card-link":"Rograkh, Son of Rohgahh"}},{"insert":"  to fill his graveyard and reanimates them again for further experiments.\n"}]}
+Format=commander
+Bracket=0
+Author=p.faul
+Version=0
+URL=https://archidekt.com/decks/1969045
+Date=2025-10-24
+Created=2021-10-21
+Updated=2025-10-24
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Buried Ogre|CMB2|36
+1 Rograkh, Son of Rohgahh|CMR|197
+1 Tormod, the Desecrator|CMR|155
+
+
+[Main]
+1 Accursed Marauder|MH3|405
+1 Agadeem's Awakening|ZNR|90
+1 Arcane Signet|BRC|132
+1 Arid Mesa|MH2|244
+1 Ashnod's Altar|BRR|4
+1 Ayara, First of Locthwain|ELD|75
+1 Bladewing, Deathless Tyrant|DMC|85
+1 Blasphemous Act|BRC|113
+1 Blazemire Verge|DSK|329
+1 Blood Crypt|RTR|238
+1 Bloodchief Ascension|CMM|139
+1 Bloodstained Mire|MH3|435
+1 Boggart Trawler|MH3|243
+1 Canyon Slough|AKH|239
+1 Carrion Feeder|SCG|59
+1 Chaos Warp|BRC|114
+1 Chthonian Nightmare|MH3|406
+1 Cling to Dust|THB|87
+1 Coffin Purge|ODY|124
+1 Command Tower|BRC|178
+1 Crowded Crypt|MIC|17
+1 Cryptbreaker|EMN|86
+1 Death Baron|M19|90
+1 Diregraf Colossus|MIC|112
+1 Feed the Swarm|BRC|106
+1 Fell Stinger|VOW|112
+1 Field of the Dead|M20|247
+1 Fleshbag Marauder|MIC|118
+1 Glimpse the Impossible|MH3|124
+1 Goblin Bombardment|TMP|179
+1 Graveborn Muse|LGN|73
+1 Gravecrawler|INR|380
+1 Graven Cairns|2XM|320
+1 Heraldic Banner|ELD|222
+1 Hostile Negotiations|BRO|105
+1 Incarnation Technique|C21|41
+1 Kolaghan's Command
+1 Liliana, Death's Majesty
+1 Liquimetal Torque|MH2|428
+1 Lord of the Accursed|MIC|124
+1 Lord of the Undead|PLS|44
+1 Luxury Suite|CLB|355
+1 Marsh Flats|ZEN|219
+1 Mayhem Devil|RVR|374
+1 Mesmeric Orb|BRR|31
+1 Mob Rule|FRF|109
+1 Morbid Opportunist|INR|388
+2 Mountain|ODY|343
+1 Murderous Rider|ELD|97
+1 Myriad Landscape|BRC|190
+1 Necrotic Hex|CMR|137
+1 Noosegraf Mob|EMN|98
+1 Noxious Ghoul|HOP|35
+1 Phyrexian Tower|USG|322
+1 Plague Belcher|AKH|104
+1 Plumb the Forbidden|STX|81
+1 Polluted Delta|MH3|438
+1 Rakdos Carnarium|BRC|194
+1 Rakdos Signet|BRC|156
+1 Raucous Theater|MKM|266
+1 Rotten Reunion|MID|119
+1 Scalding Tarn|ZEN|223
+1 Shenanigans|MH1|146
+1 Skullclamp|BRC|159
+1 Smoldering Marsh|BRC|202
+1 Snow-Covered Mountain|ICE|379
+3 Snow-Covered Swamp|ICE|372
+1 Sol Ring|BRC|160
+1 Solemn Simulacrum|TSR|400
+1 Species Specialist|C20|47
+1 Stitcher's Supplier|M19|121
+1 Sulfurous Springs|DMU|381
+5 Swamp|ODY|342
+1 Syr Konrad, the Grim
+1 Takenuma, Abandoned Mire|NEO|278
+1 Teval's Judgment|TDC|28
+1 Tortured Existence
+1 Undead Augur|MIC|130
+1 Undead Butler|VOW|133
+1 Undead Warchief|SCG|78
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Valakut Awakening|ZNR|174
+1 Vandalblast|TSR|352
+1 Verdant Catacombs|MH2|440
+1 Village Rites|INR|392
+1 Volrath's Stronghold|STH|143
+1 Wayfarer's Bauble|BRC|171
+1 Withered Wretch|LGN|86
+1 Wooded Foothills|ONS|330
+1 Zombie Master|4ED|174
+1 Zul Ashur, Lich Lord|FDN|77
+
+
+[Sideboard]
+
+

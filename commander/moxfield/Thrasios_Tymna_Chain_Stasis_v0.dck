@@ -1,0 +1,123 @@
+[metadata]
+Name=Thrasios Tymna Chain Stasis
+Description=This is a Thrasios Tymna midrange deck that also has the option to win at instant speed at any point during the game.
+Format=commander
+Bracket=5
+Author=Tremnek
+Version=0
+URL=https://moxfield.com/decks/3zvonKRG-0adRL5zi2e0Jg
+Date=2026-01-30T09:54:26.557Z
+Created=2021-06-03T12:07:27.12Z
+Updated=2026-01-30T09:54:26.557Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Thrasios, Triton Hero|C16|46
+1 Tymna the Weaver|C16|48
+
+
+[Main]
+1 Ad Nauseam|ALA|63
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|CMM|653
+1 Basalt Monolith|2XM|232
+1 Bayou|3ED|283
+1 Birds of Paradise|RVR|432
+1 Bloom Tender|ECL|390
+1 Borne Upon a Wind|LTR|761
+1 Boseiju, Who Endures|NEO|501
+1 Breeding Pool|RNA|246
+1 Carpet of Flowers|FCA|44
+1 Cavern of Souls|LTC|362
+1 Chain Stasis|HML|23
+1 Chord of Calling|SLD|1595
+1 Chrome Mox|MRD|152
+1 City of Brass|CHR|112
+1 Command Tower|CMM|659
+1 Culling Ritual
+1 Cyclonic Rift|SLD|1869
+1 Dark Ritual|SLD|2001
+1 Deathrite Shaman|SLC|2012
+1 Demonic Consultation|ICE|121
+1 Demonic Tutor|SLD|1856
+1 Devoted Druid|SPG|138
+1 Diabolic Intent|FCA|34
+1 Drannith Magistrate|IKO|11
+1 Eldritch Evolution
+1 Elvish Spirit Guide|SLD|423
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|SLD|1231
+1 Faeburrow Elder|ELD|380
+1 Faerie Mastermind|MOM|352
+1 Fierce Guardianship|C20|35
+1 Finale of Devastation|WAR|160
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH3|496
+1 Force of Negation|MH1|52
+1 Force of Will|ALL|28
+1 Freed from the Real|SLD|425
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Grand Abolisher|SLD|1285
+1 Hazel's Brewmaster|BLC|52
+1 Kinnan, Bonder Prodigy|IKO|338
+1 Legolas's Quick Reflexes|LTC|537
+1 Lotho, Corrupt Shirriff|LTR|781
+1 Lotus Petal|TMP|294
+1 Mana Confluence|JOU|163
+1 Mana Vault|3ED|263
+1 Marsh Flats|MH2|248
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|MH2|250
+1 Mnemonic Betrayal|GRN|189
+1 Mockingbird|BLB|305
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mystic Remora|ICE|87
+1 Nature's Rhythm|TDM|349
+1 Noble Hierarch|2XM|352
+1 Opposition Agent|CMR|651
+1 Orcish Bowmasters|LTR|433
+1 Otawara, Soaring City|NEO|503
+1 Pact of Negation|A25|68
+1 Polluted Delta|KTK|239
+1 Ranger-Captain of Eos|MH1|21
+1 Rhystic Study|PCY|45
+1 Savannah|3ED|285
+1 Scalding Tarn|MH2|254
+1 Scrubland|3ED|286
+1 Seedborn Muse|LGN|138
+1 Silence|SLD|7003
+1 Smothering Tithe|CMM|693
+1 Sol Ring|CMR|700
+1 Spellseeker|BBD|41
+1 Survival of the Fittest|EXO|129
+1 Swan Song|THS|65
+1 Swift Reconfiguration|NEC|45
+1 Tainted Pact|ODY|164
+1 Tarnished Citadel|ODY|329
+1 Thassa's Oracle|THB|73
+1 The Cabbage Merchant|TLE|203
+1 The One Ring|LTR|451
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Tyvar, Jubilant Brawler|ONE|218
+1 Underground Sea|3ED|290
+1 Valley Floodcaller|BLB|308
+1 Vampiric Tutor|DMR|430
+1 Verdant Catacombs|MH2|260
+1 Voice of Victory|TDM|33
+1 Wan Shi Tong, Librarian|TLA|320
+1 Watery Grave|GRN|259
+1 Windswept Heath|KTK|248
+1 Wishclaw Talisman|ELD|110
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|MIR|255
+
+
+[Sideboard]
+
+

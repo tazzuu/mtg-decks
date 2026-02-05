@@ -1,0 +1,105 @@
+[metadata]
+Name=Toshiro Umezawa, Samurai Spellslinger [EDH Primer]
+Description=A mono-B spellslinger deck with a deadly flavor: use kill spells to dominate the board while assembling a combo win. 
+  🖤->List, 👀->Primer
+Format=commander
+Bracket=4
+Author=Yugischmoe
+Version=0
+URL=https://moxfield.com/decks/ddIdnDKnV0ujnmV4S2LpuA
+Date=2025-06-05T14:47:46.58Z
+Created=2020-07-27T21:47:47.917Z
+Updated=2025-06-05T14:47:46.58Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Toshiro Umezawa|BOK|89
+
+
+[Main]
+1 Aetherflux Reservoir|BRR|2
+1 Animate Dead|5ED|140
+1 Arcane Signet|BRC|132
+1 Bitter Triumph|LCI|91
+1 Black Market Connections
+1 Blasphemous Edict|FDN|57
+1 Bolas's Citadel|WAR|79
+1 Boseiju, Who Shelters All|CHK|273
+1 Bubbling Muck|UDS|54
+1 Cabal Coffers|HOP|132
+1 Cabal Ritual|TOR|51
+1 Cabal Stronghold|DOM|238
+1 Castle Locthwain|CLB|884
+1 Chain of Smog|ONS|132
+1 Crypt Ghast|RVR|322
+1 Cut Down|DMU|432
+1 Dark Confidant|RVR|323
+1 Dark Ritual|MIR|116
+1 Darkness|LEG|94
+1 Dauthi Voidwalker|MH2|397
+1 Defile|MH1|86
+1 Demonic Tutor|3ED|105
+1 Dismember|TSR|322
+1 Doom Blade|E02|18
+1 Emergence Zone|WAR|245
+1 Entomb|DMR|304
+1 Expedition Map|MM2|213
+1 Fellwar Stone|SLD|708
+1 Forbidden Orchard|CHK|276
+1 Force of Despair|MH1|92
+1 Geier Reach Sanitarium|AFC|241
+1 Go for the Throat|C17|114
+1 Grim Tutor|M21|103
+1 Heartless Act|IKO|366
+1 Horizon of Progress|M3C|130
+1 Illness in the Ranks|GTC|69
+1 Imp's Mischief|PLC|72
+1 Imperial Seal|2X2|79
+1 Infernal Grasp|INR|385
+1 Insidious Dreams|TOR|66
+1 Jet Medallion|TMP|292
+1 Lake of the Dead|ALL|140
+1 Liliana's Triumph|TSR|327
+1 Long Goodbye|MKM|92
+1 Malicious Affliction|EMA|96
+1 Maralen of the Mornsong|MOR|65
+1 Meathook Massacre II|DSK|108
+1 Mikokoro, Center of the Sea|C21|302
+1 Necromancy|VIS|64
+1 Necropotence|ICE|154
+1 Nowhere to Run|DSK|111
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|103
+1 Power Word Kill|AFR|114
+1 Professor Onyx|STX|83
+1 Reanimate|TMP|151
+1 Revel in Riches
+1 Scheming Symmetry
+1 Sedgemoor Witch|STX|86
+1 Sensei's Divining Top|CHK|268
+1 Shadowspear|THB|236
+1 Sheoldred's Edict|ONE|279
+1 Snuff Out|MMQ|162
+1 Sol Ring|3ED|274
+21 Swamp|MIR|339
+1 Séance Board|DSC|40
+1 Tainted Aether|USG|161
+1 Tainted Strike|SOM|80
+1 The Meathook Massacre|MID|112
+1 The One Ring|LTR|246
+1 Toxic Deluge|MH3|412
+1 Tragic Slip|INR|390
+1 Urborg, Tomb of Yawgmoth|UMA|254
+1 Vampiric Tutor|VIS|72
+1 Vona's Hunger|RIX|90
+1 War Room|CMR|361
+1 Wishclaw Talisman
+1 Withering Boon|MIR|152
+1 Withering Torment|DSK|124
+
+
+[Sideboard]
+1 Slaughter Pact|MMA|97
+
+

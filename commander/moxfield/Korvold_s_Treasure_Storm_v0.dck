@@ -1,0 +1,125 @@
+[metadata]
+Name=Korvold's Treasure Storm
+Description=In matters of life and death, he trusts his gut.
+Format=commander
+Bracket=4
+Author=Braden,Vasher
+Version=0
+URL=https://moxfield.com/decks/-MV1EWXwH0u-K4j7KYTpvA
+Date=2022-03-18T16:30:48.453Z
+Created=2020-07-29T04:17:06.08Z
+Updated=2022-03-18T16:30:48.453Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+3 Korvold, Fae-Cursed King|ELD|329
+
+
+[Main]
+3 Abrupt Decay
+3 Ad Nauseam|ALA|63
+3 Ancient Tomb|TMP|315
+3 Animate Dead|EMA|78
+3 Arcane Signet|CMR|297
+3 Arid Mesa|SLU|4
+3 Autumn's Veil|M12|164
+3 Badlands|3ED|282
+3 Bayou|3ED|283
+3 Birds of Paradise
+3 Blood Crypt|RTR|238
+3 Bloodstained Mire|KTK|230
+3 Boseiju, Who Endures|NEO|266
+3 Cabal Ritual|V16|2
+3 Carpet of Flowers
+3 Chrome Mox|MPS|9
+3 City of Brass
+3 Command Tower
+3 Corpse Dance|TMP|116
+3 Crop Rotation
+3 Culling Ritual|STX|172
+3 Culling the Weak|EXO|55
+3 Dark Ritual|MMQ|129
+3 Deathrite Shaman|RTR|213
+3 Deflecting Swat|C20|50
+3 Demonic Tutor
+3 Diabolic Intent|PLS|42
+3 Dockside Extortionist|C19|24
+3 Eldritch Evolution|EMN|155
+3 Elves of Deep Shadow
+3 Elvish Spirit Guide|ALL|89
+3 Emergence Zone|WAR|245
+3 Entomb|EMA|87
+3 Eternal Witness|MMA|144
+3 Exotic Orchard|CON|142
+3 Fellwar Stone|DRK|102
+3 Final Fortune|7ED|182
+3 Finale of Devastation
+3 Forbidden Orchard|V12|6
+3 Fyndhorn Elves|V13|4
+3 Gamble|UMA|132
+3 Gemstone Caverns|TSP|274
+3 Grim Hireling|AFC|25
+3 Grim Monolith|ULG|126
+3 Grinding Station|5DN|127
+3 Ignoble Hierarch|MH2|355
+3 Imperial Seal
+3 Infernal Plunge|ISD|148
+3 Jeska's Will|CMR|668
+3 Jeweled Lotus|CMR|319
+3 Lion's Eye Diamond|MIR|307
+3 Llanowar Elves
+3 Lotus Petal|V09|7
+3 Luxury Suite|ZNE|18
+3 Mana Confluence|JOU|163
+3 Mana Crypt
+3 Mana Vault|5ED|388
+3 Marsh Flats|MM3|239
+3 Misty Rainforest|MM3|240
+3 Mox Diamond|V10|10
+3 Mox Opal|2XM|275
+3 Nature's Claim|EMA|178
+3 Necromancy
+3 Necropotence|DKM|7
+3 Noxious Revival|NPH|118
+3 Nurturing Peatland|MH1|243
+3 Overgrown Tomb|GRN|253
+3 Peer into the Abyss
+3 Polluted Delta|KTK|239
+3 Praetor's Grasp|NPH|71
+3 Pyroblast|SS3|5
+3 Ragavan, Nimble Pilferer|MH2|138
+3 Rain of Filth|USG|151
+3 Reanimate|UMA|110
+3 Red Elemental Blast|3ED|171
+3 Scalding Tarn|MM3|244
+3 Simian Spirit Guide|PLC|122
+3 Skirk Prospector|DOM|144
+3 Slaughter Pact|MMA|97
+3 Sol Ring
+3 Spire Garden|BBD|85
+3 Stomping Ground|GTC|247
+3 Summoner's Pact|TSR|234
+3 Taiga|3ED|287
+3 Tainted Pact|ODY|164
+3 Talisman of Indulgence|MRD|255
+3 Tinder Wall|ICE|270
+3 Undergrowth Stadium|CMR|359
+3 Underworld Breach|THB|161
+3 Unearth|MH1|113
+3 Vampiric Tutor
+3 Veil of Summer|M20|198
+3 Verdant Catacombs|MM3|249
+3 Wheel of Fortune|3ED|185
+3 Wheel of Misfortune|CMR|211
+3 Windswept Heath|KTK|248
+3 Wishclaw Talisman|ELD|357
+3 Wooded Foothills|KTK|249
+3 Worldly Tutor|MIR|255
+
+
+[Sideboard]
+3 Force of Vigor|MH1|164
+3 Temur Sabertooth|FRF|141
+
+

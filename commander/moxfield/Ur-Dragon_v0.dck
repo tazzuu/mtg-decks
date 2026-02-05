@@ -1,0 +1,123 @@
+[metadata]
+Name=Ur-Dragon
+Description=
+Format=commander
+Bracket=3
+Author=Kibler
+Version=0
+URL=https://moxfield.com/decks/LgXkxNpBH0qzcd5MvGUO0w
+Date=2025-07-21T17:45:27.147Z
+Created=2022-07-29T15:52:24.55Z
+Updated=2025-07-21T17:45:27.147Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 The Ur-Dragon|C17|48
+
+
+[Main]
+1 Ancient Copper Dragon|CLB|161
+1 Arcane Signet|SLD|589
+1 Arid Mesa|MH2|244
+1 Badlands|2ED|278
+1 Bayou|2ED|279
+1 Birds of Paradise|SLD|176
+1 Bloodstained Mire|KTK|230
+1 Bloom Tender|EVE|66
+1 Brainstorm|ICE|61
+1 Breeding Pool|RNA|246
+1 Cavern of Souls|AVR|226
+1 Coalition Relic|TSR|266
+1 Command Tower|CMR|479
+1 Crux of Fate|C17|107
+1 Cyclonic Rift|2XM|47
+1 Delighted Halfling|LTR|158
+1 Dragon Tempest
+1 Dragon's Hoard|M19|232
+1 Dragonlord Dromoka
+1 Dragonlord Kolaghan|DTK|218
+1 Dragonlord Silumgar|DTK|220
+1 Escape to the Wilds|ELD|189
+1 Explore|AFC|157
+1 Farseek|M13|170
+1 Fellwar Stone|4ED|319
+1 Flooded Strand|KTK|233
+1 Forest|M10|246
+1 Galazeth Prismari|STX|189
+1 Garruk's Uprising|M21|186
+1 Goldlust Triad|TDC|74
+1 Goldspan Dragon|KHM|139
+1 Gruul Signet|SLD|288
+1 Haven of the Spirit Dragon|AFC|245
+1 Hellkite Courser|CMR|183
+1 Heroic Intervention
+1 Hinterland Harbor|DOM|240
+1 Ketria Triome
+1 Klauth, Unrivaled Ancient|AFC|50
+1 Lathliss, Dragon Queen
+1 Maelstrom of the Spirit Dragon|TDM|260
+1 Magda, Brazen Outlaw|KHM|142
+1 Marsh Flats|MH2|248
+1 Miirym, Sentinel Wyrm|CLB|431
+1 Mirari's Wake|JUD|139
+1 Misty Rainforest|MH2|250
+1 Morophon, the Boundless|MH1|1
+1 Mountain|C19|298
+1 Nature's Lore|5ED|316
+1 Old Gnawbone|AFR|197
+1 Oracle of Mul Daya|ZEN|172
+1 Overgrown Tomb|GRN|253
+1 Plateau|3ED|284
+1 Polluted Delta|KTK|239
+1 Protector of the Wastes|TDC|14
+1 Reflecting Pool|CNS|210
+1 Return of the Wildspeaker|ZNC|79
+1 Rhythm of the Wild|RNA|201
+1 Roaming Throne|LCI|258
+1 Rootbound Crag|C16|317
+1 Sarkhan Unbroken|DTK|230
+1 Sarkhan, Soul Aflame|TDC|301
+1 Savannah|3ED|285
+1 Scalding Tarn|MH2|254
+1 Scavenger Regent|TDM|90
+1 Scion of Draco|MH2|234
+1 Scrubland|3ED|286
+1 Selesnya Signet|SLD|290
+1 Shadrix Silverquill|STX|230
+1 Silumgar, the Drifting Death|FRF|157
+1 Simic Signet|SLD|295
+1 Skyshroud Claim|BBD|213
+1 Smothering Tithe|2X2|31
+1 Smuggler's Surprise|OTJ|180
+1 Sol Ring|CMR|700
+1 Stinging Study|C21|44
+1 Stomping Ground|RNA|259
+1 Stubborn Denial|KTK|56
+1 Sulfur Falls|DOM|247
+1 Sunpetal Grove|M12|229
+1 Swan Song|THS|65
+1 Sylvan Library|CC1|5
+1 Taiga|3ED|287
+1 Temple Garden|RTR|248
+1 Temur Ascendancy|KTK|207
+1 Terror of the Peaks|M21|164
+1 The Great Henge|ELD|161
+1 Three Visits|CMR|261
+1 Tiamat|AFR|235
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Underground Sea|3ED|290
+1 Up the Beanstalk|WOE|195
+1 Ureni of the Unwritten|TDC|9
+1 Vaevictis Asmadi, the Dire|M19|225
+1 Verdant Catacombs|MH2|260
+1 Volcanic Island|3ED|291
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Zurgo and Ojutai|MOM|258
+
+
+[Sideboard]
+
+

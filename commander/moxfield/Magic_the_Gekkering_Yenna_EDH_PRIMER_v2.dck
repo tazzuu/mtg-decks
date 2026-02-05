@@ -1,0 +1,127 @@
+[metadata]
+Name=Magic the Gekkering: Yenna EDH [PRIMER]
+Description=...Yen-nah? Who's Yenna? That's a strange way to pronounce "Light-Paws"! This is an adaptable (and fox-themed) hybrid enchantress/token combo/control deck, shifting between value engines and fast combo.
+Format=commander
+Bracket=3
+Author=Daedalus19876
+Version=2
+URL=https://moxfield.com/decks/Z2ncRwIRXkCVlTemWtYo7Q
+Date=2026-02-01T06:22:37.193Z
+Created=2023-05-02T21:28:53.84Z
+Updated=2026-02-01T06:22:37.193Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Yenna, Redtooth Regent|WOE|365
+
+
+[Main]
+1 A Realm Reborn|FIN|196
+1 Adagia, Windswept Bastion|EOE|250
+1 Ancient Tomb|V12|1
+1 Arbor Elf|WWK|95
+1 Argothian Enchantress|EMA|158
+1 Arid Mesa|MH2|244
+1 Bear Umbra|ROE|177
+1 Boseiju, Who Endures|NEO|501
+1 Bountiful Promenade|BBD|81
+1 Brilliant Wings|FIC|454
+1 Brushland|10E|349
+1 Buried in the Garden|MKM|191
+1 Calix, Guided by Fate|MAT|76
+1 Candelabra of Tawnos
+1 Caretaker's Talent|BLB|6
+1 Carpet of Flowers|SLD|279
+1 City of Death|WHO|99
+1 Cloudstone Curio|MPS|10
+1 Collector Ouphe|MH1|158
+1 Command Tower
+1 Curse of Silence|MID|326
+1 Dawn's Reflection|5DN|85
+1 Deserted Temple|MH3|301
+1 Doubling Season|RAV|158
+1 Earthcraft|TMP|222
+1 Eidolon of Blossoms|JOU|122
+1 Enchantress's Presence|ONS|261
+1 Fanatic of Rhonas|MH3|458
+1 Fertile Ground|LRW|211
+1 Flickering Ward|TMP|19
+1 Flooded Strand|KTK|233
+1 Formidable Speaker|ECL|176
+1 Grasp of Fate|WOT|3
+1 Hallowed Haunting|VOW|349
+1 Heliod's Punishment|THB|21
+1 Horizon Canopy|FUT|177
+1 Hushwood Verge|DSK|261
+1 Instill Energy|LEB|203
+1 Kenrith's Transformation|ELD|395
+1 Kor Spiritdancer|ROE|31
+1 Legolas's Quick Reflexes|LTC|493
+1 Leyline Immersion|MAT|21
+1 Light-Paws, Emperor's Voice|NEO|367
+1 Lignify|LRW|228
+1 Lush Portico|MKM|263
+1 Mana Vault|PUMA|U29
+1 Market Festival|JOU|130
+1 Marsh Flats|ZEN|219
+1 Meticulous Excavation|BRO|16
+1 Misty Rainforest|MM3|240
+1 Monumental Henge|MH3|222
+1 Nature's Chosen|ALL|97
+1 Null Rod|WTH|154
+1 Nykthos, Shrine to Nyx
+1 On Thin Ice|MH1|20
+1 Ondu Spiritdancer|CMM|756
+1 Ossification|ONE|26
+1 Overgrowth|9ED|262★
+1 Pearl-Ear, Imperial Advisor|MH3|477
+1 Prismatic Vista|MH1|244
+1 Replenish|UDS|15
+1 Reverent Mantra|MMQ|44
+1 Rite of Harmony|MID|374
+1 Sage's Reverie|FRF|23
+1 Sanctum Weaver|MH2|462
+1 Serra's Sanctum|USG|325
+1 Setessan Champion|THB|198
+1 Shardmage's Rescue|DSK|411
+1 Sheltered by Ghosts|DSK|30
+1 Shimmerwilds Growth|ECL|194
+4 Snow-Covered Forest|SLD|1477★
+4 Snow-Covered Plains|SLD|1473★
+1 Sol Ring|V10|12
+1 Sram, Senior Edificer
+1 Stony Silence|ISD|36
+1 Super State|SLD|2081
+1 Sylvan Library|DMR|441
+1 Sythis, Harvest's Hand|MH2|377
+1 Talon Gates of Madara|M3C|134
+1 Tanglespan Lookout|WOE|188
+1 Tempest Technique|TDC|56
+1 Temple Garden|EXP|10
+1 Three Blind Mice|WOE|35
+1 Unbridled Growth|AER|126
+1 Urza's Saga|MH2|380
+1 Utopia Sprawl|SLD|409
+1 Verdant Catacombs|MM3|249
+1 Voyaging Satyr|THS|182
+1 Wild Growth|7ED|282★
+1 Windswept Heath|KTK|248
+1 Wolfwillow Haven|THB|357
+1 Wooded Foothills|KTK|249
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+1 Abundance|10E|249
+1 Alseid of Life's Bounty|THB|353
+1 Ancestral Mask|EMA|157
+1 Aura of Silence|10E|6
+1 Brightglass Gearhulk|DFT|191
+1 Canopy Cover|WWK|98
+1 Chains of Custody|J22|3
+1 Concordant Crossroads|2X2|141
+1 Defense of the Heart|WOT|51
+1 Dog Umbra|MH3|22
+
+

@@ -1,0 +1,116 @@
+[metadata]
+Name=Jurassic Park A New World...Fear
+Description=A ETB Dinosaur tribal deck packed to the brim with fun!
+Format=commander
+Bracket=3
+Author=Kelemi_chillin
+Version=0
+URL=https://moxfield.com/decks/Wwcu34oIU0CQWFHGty_lKQ
+Date=2026-01-22T02:12:50.467Z
+Created=2020-10-10T16:32:47.41Z
+Updated=2026-01-22T02:12:50.467Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Gishath, Sun's Avatar|XLN|222
+
+
+[Main]
+1 Agonasaur Rex|DFT|151
+1 Apex Altisaur|C19|31
+1 Arid Mesa|ZEN|211
+1 Austere Command|LRW|3
+1 Bala Ged Recovery|ZNR|180
+1 Beast Within|NPH|103
+1 Blasphemous Act|ISD|130
+1 Bonehoard Dracosaur|LCI|134
+1 Boros Charm|GTC|148
+1 Boseiju, Who Endures|NEO|266
+1 Bountiful Promenade|BBD|81
+1 Bronzebeak Foragers|LCC|69
+1 Burning Sun's Avatar|XLN|135
+1 Cavern of Souls|AVR|226
+1 Command Beacon|C15|56
+1 Command Tower|CMD|269
+1 Curious Altisaur|LCC|90
+1 Deflecting Swat|C20|50
+1 Delighted Halfling|LTR|158
+1 Dinosaurs on a Spaceship|WHO|122
+1 Don't Move|REX|1
+1 Earthshaker Dreadmaw|LCI|183
+1 Etali, Primal Conqueror|MOM|137
+1 Exotic Orchard|CON|142
+1 Faith's Reward|M13|14
+1 Farseek|RAV|163
+1 Final Showdown|OTJ|11
+1 Finale of Devastation|WAR|160
+1 Flawless Maneuver|C20|26
+9 Forest|JMP|73
+1 Ghalta, Primal Hunger|RIX|130
+1 Ghalta, Stampede Tyrant|LCI|185
+1 Goring Ceratops|XLN|13
+1 Heroic Intervention|AER|109
+1 Jetmir's Garden|SNC|250
+1 Jungle Shrine|ALA|226
+1 Kinjalli's Sunwing|XLN|19
+1 Kodama's Reach|CHK|225
+1 Lurking Predators|M10|190
+1 Mirari's Wake|JUD|139
+2 Mountain|LEA|293
+1 Pantlaza, Sun-Favored|LCC|4
+1 Patchwork Banner|BLB|247
+1 Path of Ancestry|C17|56
+2 Plains|LEA|287
+1 Quartzwood Crasher|IKO|201
+1 Regal Behemoth|CN2|69
+1 Return the Favor|OTJ|142
+1 Rootbound Crag|XLN|256
+1 Runic Armasaur|M19|200
+1 Sacred Foundry|RAV|280
+1 Sakura-Tribe Elder|CHK|239
+1 Savage Beating|DST|67
+1 Savannah|3ED|285
+1 Sawhorn Nemesis|M3C|112
+1 Scroll Rack|TMP|308
+1 Shinka, the Bloodsoaked Keep|CHK|282
+1 Skyshroud Claim|NEM|117
+1 Sol Ring|3ED|274
+1 Spire Garden|BBD|85
+1 Springbloom Druid|MH1|181
+1 Stomping Ground|GPT|165
+1 Sunfrill Imitator|LCC|94
+1 Sunhome, Fortress of the Legion|RAV|282
+1 Swooping Pteranodon|REX|19
+1 Sylvan Library|LEG|207
+1 Taiga|3ED|287
+1 Teferi's Protection|C17|8
+1 Temple Altisaur|RIX|28
+1 Temple Garden|RAV|284
+1 The Skullspore Nexus|LCI|212
+1 Thrashing Brontodon|J22|92
+1 Three Visits|PTK|153
+1 Topiary Stomper|SNC|160
+1 Tranquil Frillback|MAT|24
+1 Trumpeting Carnosaur|LCI|171
+1 Vaultborn Tyrant|BIG|20
+1 Verdant Sun's Avatar|XLN|213
+1 Wakening Sun's Avatar|XLN|44
+1 Wayward Swordtooth|RIX|150
+1 Welcome to . . .|REX|7
+1 Windswept Heath|ONS|328
+1 Wood Elves|POR|195
+1 Wooded Foothills|ONS|330
+1 Yavimaya Hollow|UDS|143
+1 Yavimaya, Cradle of Growth|MH2|441
+1 Yidaro, Wandering Monster|IKO|375
+1 Zacama, Primal Calamity|RIX|174
+1 Zetalpa, Primal Dawn|RIX|30
+
+
+[Sideboard]
+1 Redirect Lightning|TLA|151
+1 Triceraton Commander|TMT|25
+1 Untimely Malfunction|DSK|161
+
+

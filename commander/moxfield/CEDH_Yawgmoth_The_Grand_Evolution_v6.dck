@@ -1,0 +1,111 @@
+[metadata]
+Name=[CEDH] Yawgmoth: The Grand Evolution
+Description=Mono Black list which leverages the strength of multiple concurrent gameplans in order to be one of the most flexible beasts in the format
+Format=commander
+Bracket=5
+Author=BadDog,Tarsam
+Version=6
+URL=https://moxfield.com/decks/G5bcrNhUjUiUP7D5keEs_g
+Date=2026-02-02T19:46:11.597Z
+Created=2020-05-28T04:46:53.343Z
+Updated=2026-02-02T19:46:11.597Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Yawgmoth, Thran Physician|MH1|116
+
+
+[Main]
+1 Ad Nauseam|2XM|76
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|C20|237
+1 Beseech the Mirror|WOE|336
+1 Bloodstained Mire|KTK|230
+1 Bolas's Citadel|WAR|79
+1 Bridge from Below|UMA|87
+1 Butcher Ghoul|INR|99
+1 Cabal Ritual|V16|2
+1 Chrome Mox|EMA|219
+1 City of Traitors|EXO|143
+1 Culling the Weak|EXO|55
+1 Dark Ritual|A25|82
+1 Defense Grid|BRR|13
+1 Demonic Counsel|DSK|310
+1 Demonic Tutor|UMA|93
+1 Diabolic Intent|BBD|141
+1 Duress|DMR|81
+1 Emergence Zone|WAR|245
+1 Entomb|UMA|94
+1 Fatal Push|2XM|93
+1 Forsaken Miner|OTJ|88
+1 Gemstone Caverns|TSP|274
+1 Genesis Chamber|DST|122
+1 Geralf's Messenger|DKA|63
+1 Greedy Freebooter|LCI|109
+1 Grief|MH2|87
+1 Grim Monolith|ULG|126
+1 Hancock, Ghoulish Mayor|PIP|382
+1 Imperial Seal|2X2|354
+1 Infestation Sage|FDN|64
+1 Jet Medallion|C14|243
+1 K'rrik, Son of Yawgmoth|MH3|274
+1 Lake of the Dead|ALL|140
+1 Lion's Eye Diamond|MIR|307
+1 Lively Dirge|OTJ|93
+1 Lotus Petal|V09|7
+1 Mana Vault|UMA|229
+1 Marsh Flats|SLU|1
+1 Master of Dark Rites|LCC|83
+1 Memnite
+1 Mox Diamond|V10|10
+1 Mox Opal|MM2|223
+1 Necropotence|IMA|98
+1 Nest of Scarabs|AKH|101
+1 Nested Shambler|MH2|95
+1 Nezumi Linkbreaker|OTJ|96
+1 Ophiomancer|CC2|3
+1 Orcish Bowmasters|LTR|433
+1 Ornithopter|AER|167
+1 Overeager Apprentice|ODY|154
+1 Paradise Mantle|SLD|1236
+1 Pawn of Ulamog|C17|120
+1 Peat Bog|MMQ|322
+1 Phyrexian Tower|UMA|248
+1 Phyrexian Walker|VIS|152
+1 Pitiless Plunderer|LCC|208
+1 Polluted Delta|KTK|239
+1 Priest of Gix|J25|121
+1 Prismatic Vista|SPG|38
+1 Reanimate|UMA|110
+1 Scheming Symmetry|M20|113
+1 Sensei's Divining Top|2X2|314
+1 Shallow Grave|MIR|141
+1 Shambling Ghast|AFR|119
+1 Shield Sphere|ALL|129
+13 Snow-Covered Swamp|MH1|252
+1 Sol Ring|C20|252
+1 Songs of the Damned|UMA|115
+1 Springleaf Drum|2XM|291
+1 Susurian Voidborn|EOE|118
+1 Tezzeret, Cruel Captain|EOE|2
+1 Thoughtseize|2XM|109
+1 Treacherous Pit-Dweller|AVR|121
+1 Unearth|A25|113
+1 Unmarked Grave|MH2|106
+1 Urborg, Tomb of Yawgmoth|UMA|254
+1 Urza's Saga
+1 Vampiric Tutor|EMA|112
+1 Vault of Whispers|40K|305★
+1 Verdant Catacombs|SLU|3
+1 Vexing Bauble|MH3|212
+1 Warren Soultrader|MH3|110
+1 Wishclaw Talisman|ELD|110
+1 Wriggling Grub|J25|12
+1 Yawgmoth's Will|USG|171
+1 Zulaport Cutthroat|C20|142
+
+
+[Sideboard]
+
+

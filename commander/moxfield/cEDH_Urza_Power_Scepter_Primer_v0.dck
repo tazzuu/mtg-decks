@@ -1,0 +1,119 @@
+[metadata]
+Name=[cEDH] Urza Power Scepter [Primer]
+Description=Midrange Urza focused around value engines and layered combos.
+Format=commander
+Bracket=5
+Author=Eisenherz
+Version=0
+URL=https://moxfield.com/decks/UCZpPdZhHESE1BgFVge3OA
+Date=2026-01-18T11:00:06.893Z
+Created=2021-01-28T19:19:06.747Z
+Updated=2026-01-18T11:00:06.893Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Urza, Lord High Artificer|MB2|244
+
+
+[Main]
+1 Aether Spellbomb|MRD|141
+1 Ancient Tomb|EXP|36
+1 Arcane Signet
+1 Banishing Knack|EVE|17
+1 Basalt Monolith|2XM|232
+1 Battered Golem|5DN|106
+1 Borne Upon a Wind|LTR|761
+1 Cephalid Coliseum|V12|3
+1 Chain of Vapor|MB2|156
+1 Chrome Mox|MPS|9
+1 City of Traitors|EXO|143
+1 Codex Shredder|RTR|228
+1 Commandeer|CSP|29
+1 Consecrated Sphinx|MBS|21
+1 Copy Artifact|FBB|53
+1 Crystal Vein|PD3|24
+1 Dispel|WWK|26
+1 Disrupting Shoal|BOK|33
+1 Dramatic Reversal|KLD|44
+1 Emergence Zone|WAR|245
+1 Energy Tap|LEG|54
+1 Everflowing Chalice
+1 Faerie Mastermind|MOM|352
+1 Fellwar Stone|CMM|382
+1 Fierce Guardianship|CMM|94
+1 Flooded Strand|EXP|16
+1 Flusterstorm
+1 Fomori Vault|BIG|94
+1 Force of Negation|MH1|52
+1 Force of Will
+1 Forensic Gadgeteer|MKM|57
+1 Gemstone Caverns|TSP|274
+1 Grafdigger's Cage|DKA|149
+1 Grim Monolith|ULG|126
+1 High Fae Trickster|FDN|453
+1 Hullbreaker Horror|VOW|359
+1 Hydroelectric Specimen|MH3|240
+1 Imposter Mech|NEC|49
+1 Ipnu Rivulet|HOU|180
+5 Island|UND|90
+1 Isochron Scepter
+1 Jeweled Amulet|ICE|326
+1 Liquimetal Torque|MH2|228
+1 Lotus Petal|MPS|15
+1 Mana Vault|MPS|17
+1 Manifold Key|M20|230
+1 Mental Misstep|NPH|38
+1 Minamo, School at Water's Edge|CHK|279
+1 Mindbreak Trap|ZEN|57
+1 Mirrormade|ELD|347
+1 Misdirection|CNS|102
+1 Mishra's Bauble|CSP|138
+1 Misty Rainforest|EXP|25
+1 Mockingbird
+1 Mox Diamond|V10|10
+1 Mox Opal|MPS|19
+1 Mystic Remora|DMR|59
+1 Mystical Tutor|V09|8
+1 Oboro, Palace in the Clouds|SOK|164
+1 Otawara, Soaring City|NEO|271
+1 Pact of Negation|TSR|77
+1 Phyrexian Metamorph|NPH|42
+1 Polluted Delta|EXP|17
+1 Pollywog Prodigy|BLC|50
+1 Pongify|PLC|44
+1 Power Artifact|ATQ|11
+1 Prismatic Vista|ZNE|27
+1 Prized Statue|CLB|334
+1 Reshape|DST|31
+1 Retraction Helix|BNG|49
+1 Rhystic Study
+1 Rings of Brighthearth|MPS|21
+1 Scalding Tarn|EXP|22
+1 Scour for Scrap|EOE|73
+1 Sea Gate Restoration|ZNR|333
+1 Seat of the Synod|MRD|283
+1 Sink into Stupor|MH3|241
+1 Sol Ring|MPS|24
+1 Spellskite
+1 Submerge|NEM|48
+1 Swan Song|THS|65
+1 Talon Gates of Madara|M3C|82
+1 Tezzeret the Seeker|MED|WS4
+1 Tezzeret, Cruel Captain|EOE|287
+1 The One Ring|LTR|246
+1 Tolaria|LEG|308
+1 Tormod's Crypt
+1 Transmute Artifact|ATQ|14
+1 Unwinding Clock|NPH|164
+1 Urza's Bauble|MB2|237
+1 Urza's Saga|MH2|380
+1 Valley Floodcaller|BLB|79
+1 Voltaic Key
+1 Wan Shi Tong, Librarian|TLA|78
+1 Whir of Invention|AER|49
+
+
+[Sideboard]
+
+

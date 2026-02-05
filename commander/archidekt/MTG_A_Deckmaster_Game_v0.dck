@@ -1,0 +1,133 @@
+[metadata]
+Name=MTG:  A Deckmaster Game
+Description={"ops":[{"attributes":{"header":1},"insert":"\n"},{"insert":"****Under Construction After Several Mechanically Unique Secret Lair Announcements****"},{"attributes":{"header":1},"insert":"\n"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"v2.0.0"},{"attributes":{"header":2},"insert":"\n"},{"insert":"\nA fever dream of a Bracket 1 (Exhibition) deck based around making as \"non-Magic\" a deck as possible"},{"attributes":{"strike":true},"insert":" that is officially in v1.0 and beyond!"},{"insert":" "},{"attributes":{"strike":true},"insert":"Now that there is a critical mass of generically good cards, it will soon come to the point where things will need to go on the chopping block"},{"insert":". With the addition of Universes Beyond Standard-legal sets, starting at Final Fantasy, we have moved in to version 2.0.0!\n\nCurrent inclusions are:"},{"attributes":{"header":2},"insert":"\n"},{"insert":"Originally printed, mechanically unique Secret Lairs"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Mechanically unique Universes Beyond cards"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Mechanically unique cards from the Lord of the Rings and Assassin's Creed sets"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Mechanically unique cards from the LotR, Warhammer 40K, Dr. Who, Fallout, and Final Fantasy Commander decks"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"D&D Battle for Baulder's Gate gates (as a concession that DnD is technically not MtG IP, but close enough to not want to include normally)"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Clue exclusive Suspects"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Basic Lands (of the Jurassic Park and Spongebob variety)"},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"underline":true},"insert":"New "},{"insert":"and "},{"attributes":{"underline":true},"insert":"mechanically unique"},{"insert":", print-to-standard, Universes Beyond cards"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRule-Zero pitch:"},{"attributes":{"header":2},"insert":"\n"},{"insert":"\"So, you want to play Magic: the Gathering, a Deckmaster Game?\"\n\nNotes:  "},{"attributes":{"header":3},"insert":"\n"},{"attributes":{"strike":true},"insert":"Fblthp still found their way here."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Atogatog is the commander because it sets the tone of the deck. There are several Universes Beyond choices, but those don't set the tone anywhere near as close as Atogatog. Since"},{"attributes":{"bold":true},"insert":" I never intend to cast the commander"},{"insert":", I am looking to have a Rule 0 conversation with the table to have Rainbow Dash or Spongebob (Jodah) as the commander."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Lands have been removed from price to allow personal landbase choice and whether or not to include a super expensive card."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"The One Ring has, sadly, been removed to keep it in the spirit of a Bracket 1 (Exhibition) deck."},{"attributes":{"list":"bullet"},"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=KnightKadosh
+Version=0
+URL=https://archidekt.com/decks/5221510
+Date=2025-10-13
+Created=2023-08-23
+Updated=2025-10-13
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Atogatog|ODY|286
+
+
+[Main]
+1 Abstergo Entertainment|ACR|265
+1 Agility Bobblehead|PIP|126
+1 Alpha Deathclaw|PIP|91
+1 Baldur's Gate
+1 Biophagus|40K|87
+1 Birth of the Imperium|40K|107
+1 Black Dragon Gate|CLB|347
+1 Black Panther, Wakandan King|SLD|1747
+1 Bohn, Beguiling Balladeer|SLD|1242
+1 Buster Sword|FIN|255
+1 Call of the Ring|LTR|79
+1 Capital City|FIN|274
+1 Cast into the Fire|LTR|118
+1 Chaos Defiler|40K|110
+1 Charisma Bobblehead|PIP|130
+1 Citadel Gate|CLB|349
+1 Cleopatra, Exiled Pharaoh|ACR|52
+1 Cliffgate|CLB|350
+1 Daily Bugle Building|SPM|179
+1 Davros, Dalek Creator|WHO|606
+1 Deadpool, Trading Card|SLD|1753
+1 Diamond City|PIP|967
+1 Dino DNA|REX|20
+1 Ellie and Alan, Paleontologists|REX|10
+1 Endurance Bobblehead|PIP|132
+1 Estinien Varlineau|FIC|82
+1 Excalibur, Sword of Eden|ACR|72
+1 Exterminate!|WHO|68
+1 Fblthp, the Lost|SLD|583
+1 Fire Lord Ozai|TLE|104
+1 Forest|SLD|1943
+1 Forest|REX|25
+1 Frodo, Adventurous Hobbit|LTC|2
+1 Gallifrey Council Chamber|WHO|188
+1 Gandalf the White|LTR|19
+1 Gond Gate|CLB|353
+1 Great Hall of the Citadel|LTR|705
+1 Havengul Laboratory|SLD|609
+1 Havi, the All-Father|ACR|56
+1 Heap Gate|CLB|354
+1 In the Darkness Bind Them|LTC|58
+1 Inquisitor Greyfax|40K|173
+1 Intelligence Bobblehead|PIP|134
+1 Ishgard, the Holy See|FIN|310
+1 Island|REX|22
+1 Island|SLD|1940
+1 Jaws, Relentless Predator|SLD|2175
+1 Jodah, the Unifier|SLD|1932
+1 Knuckles the Echidna|SLD|2082
+1 Lara Croft, Tomb Raider|SLD|1501
+1 Lindblum, Industrial Regency|FIN|312
+1 Luck Bobblehead|PIP|135
+1 Malik, Grim Manipulator|SLD|147
+1 Manor Gate|CLB|356
+1 Marneus Calgar|40K|175
+1 Miles Morales|SPM|108
+1 Mines of Moria|LTR|342
+1 Mount Doom|LTR|343
+1 Mountain|REX|24
+1 Mountain|SLD|1942
+1 Multiversal Passage|SPM|206
+1 Mysterious Stranger|PIP|63
+1 Nathan Drake, Treasure Hunter|SLD|2216
+1 Nuka-Cola Vending Machine|PIP|137
+1 Optimus Prime, Hero|BOT|13
+1 Overkill|FIN|109
+1 Perception Bobblehead|PIP|139
+1 Permission Denied|REX|17
+1 Peter Parker|SPM|10
+1 Plains|REX|21
+1 Plains|SLD|1939
+1 Sam, Loyal Attendant|LTC|7
+1 Sauron, the Dark Lord|LTR|224
+1 Sea Gate|CLB|359
+1 Senator Peacock|CLU|2
+1 Sephiroth, Fabled SOLDIER|FIN|115
+1 Shire Terrace|LTR|712
+1 Sister Hospitaller|40K|141
+1 Sonic the Hedgehog|SLD|2087
+1 Space Marine Devastator|40K|14
+1 Starscream, Power Hungry|BOT|5
+1 Starting Town|FIN|289
+1 Strength Bobblehead|PIP|143
+1 Suplex|FIN|164
+1 Swamp|REX|23
+1 Swamp|SLD|1941
+1 TARDIS|WHO|551
+1 The Cabbage Merchant|TLE|134
+1 The Day of the Doctor|WHO|121
+1 The Fourth Doctor|WHO|2
+1 The Gold Saucer|FIN|279
+1 The Grey Havens|LTR|706
+1 The Night of the Doctor|WHO|24
+1 The Regalia|FIN|267
+1 The Shire|LTR|756
+1 The Tenth Doctor|WHO|3
+1 The Wandering Minstrel|FIN|249
+1 This Is How It Ends|WHO|70
+1 Toxicrene|40K|101
+1 Trenzalore Clocktower|WHO|1054
+1 Urban Retreat|SPM|187
+1 V.A.T.S.|PIP|333
+1 Vanguard Suppressor|40K|27
+1 Venat, Heart of Hydaelyn|FIN|39
+1 Vibrant Cityscape|SPM|188
+1 Wakka, Devoted Guardian|FIC|97
+1 Weeping Angel|WHO|168
+1 You Cannot Pass!|LTR|38
+1 Zanarkand, Ancient Metropolis|FIN|314
+
+
+[Sideboard]
+
+

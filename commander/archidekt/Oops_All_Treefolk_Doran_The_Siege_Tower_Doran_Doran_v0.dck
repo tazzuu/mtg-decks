@@ -1,0 +1,115 @@
+[metadata]
+Name=Oops, All Treefolk (Doran, The Siege Tower, "Doran, Doran")
+Description={"ops":[{"insert":"NEED to replace something for For The Ancestors (Path? Kenrith's?)\nCut Dusk to Dawn, add Akroma's Will\nPotential Finisher: Akroma's Will?\nCut Primal Rage, Add Overrun?\nCut (land? Terramorphic Expanse?), add Unclaimed Territory?\n\nPotential Draw Package: Night's Whisper, Sign in Blood, Read the Bones, Momentous Fall, Pact of the Serpents\n\nCut mortify, add descendant's path\n"}]}
+Format=commander
+Bracket=0
+Author=JMUNGO
+Version=0
+URL=https://archidekt.com/decks/5117231
+Date=2026-01-30
+Created=2023-08-10
+Updated=2026-01-30
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Doran, the Siege Tower|LTC|517
+
+
+[Main]
+1 Abundant Growth|DMC|128
+1 Abzan Charm|DMC|138
+1 Akroma's Will|LCC|125
+1 Ancient Lumberknot|VOW|230
+1 Arcane Signet|CMM|367
+1 Assault Formation
+1 Assemble the Entmoot|LTC|36
+1 Behind the Scenes|SOI|100
+1 Black Poplar Shaman|LRW|99
+1 Bojuka Bog|MOC|391
+1 Bosk Banneret|MOR|114
+1 Brave the Sands|CM2|19
+1 Canopy Vista|LTC|298
+1 Colfenor's Urn|LRW|254
+1 Colfenor, the Last Yew|CMR|274
+1 Command Tower|CMM|420
+1 Concordant Crossroads|CHR|60
+1 Dauntless Dourbark
+1 Descendants' Path|LCC|238
+1 Dusk|CLB|691
+1 Evolving Wilds|WOE|256
+1 Exotic Orchard|LTC|307
+1 Ezzaroot Channeler|C21|60
+1 Faeburrow Elder|DMC|149
+1 Fangorn, Tree Shepherd|LTR|415
+1 Farseek|LTC|244
+1 For the Ancestors|CMM|770
+9 Forest|WOE|266
+1 Godless Shrine|RNA|248
+1 Great Forest Druid|ECL|178
+1 Guardian Project|RNA|130
+1 Harmonize|SCD|187
+1 Haunted Mire|DMU|248
+1 Herald's Horn|CMM|953
+1 Heroic Intervention|WHO|476
+1 Huatli, the Sun's Heart|WAR|230
+1 Indomitable Ancients|MOR|13
+1 Kenrith's Transformation|WOC|128
+1 Krosan Verge|WOC|163
+1 Last March of the Ents|LTR|739
+1 Leaf-Crowned Elder
+1 Lignify
+1 Magnigoth Treefolk
+1 Meekstone|6ED|299
+1 Murmuring Bosk|LTC|320
+1 Nature's Lore
+1 Nemata, Primeval Warden|DMU|209
+1 Orchard Warden|MOR|131
+1 Overgrown Tomb|RVR|283
+1 Path of Ancestry|LTC|322
+1 Path to Exile
+1 Patriarch's Bidding|MH2|275
+4 Plains|WOE|262
+1 Primal Rage|STH|112
+1 Putrefy
+1 Quickbeam, Upstart Ent|LTR|419
+1 Radiant Grove|DMU|253
+1 Rampant Growth|CMM|908
+1 Reach of Branches|MMA|158
+1 Read the Bones
+1 Roots of Life|MIR|237
+1 Sapling Nursery|ECL|192
+1 Sapling of Colfenor|C21|228
+1 Scurry Oak|MH2|172
+1 Seedguide Ash|LRW|235
+1 Sol Ring|CMM|410
+1 Spidersilk Armor|MMQ|273
+1 Stoneskin|CLB|45
+1 Stroke of Midnight|WOE|33
+1 Sunpetal Grove|LTC|336
+3 Swamp|WOE|264
+1 Swords to Plowshares|TDC|134
+1 Tainted Field|CMM|1039
+1 Tainted Wood|CMM|1040
+1 Talisman of Hierarchy|MOC|385
+1 Talisman of Unity|SCD|284
+1 Temple Garden|GRN|258
+1 Terramorphic Expanse|CMM|428
+1 Thorntooth Witch|LRW|144
+1 Timber Protector|LTC|533
+1 Tower Defense|RNA|147
+1 Treebeard, Gracious Host|LTC|73
+1 Treefolk Harbinger|LRW|239
+1 Unstoppable Ash
+1 Up the Beanstalk|WOE|195
+1 Utopia Sprawl|WOT|63
+1 Wave of Reckoning|C16|79
+1 Wickerbough Elder|NCC|320
+1 Woodland Cemetery|DMR|261
+1 Yavimaya, Cradle of Growth|LTC|377
+1 Yedora, Grave Gardener|MUL|30
+
+
+[Sideboard]
+
+

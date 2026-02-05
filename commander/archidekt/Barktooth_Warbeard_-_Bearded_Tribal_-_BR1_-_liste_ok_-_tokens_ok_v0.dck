@@ -1,0 +1,94 @@
+[metadata]
+Name=Barktooth Warbeard - Bearded Tribal - BR1 - liste ok - tokens ok
+Description={"ops":[{"insert":"Deckbuilding constraint : every card must feature a beard (except for basic land !)\nv1.10 maj 29/09/2024 - dockside extorsionist + royal assassin\n"}]}
+Format=commander
+Bracket=0
+Author=Max@Arkanes.net
+Version=0
+URL=https://archidekt.com/decks/69012
+Date=2025-02-24
+Created=2019-04-24
+Updated=2025-02-24
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Barktooth Warbeard|LEG|221
+
+
+[Main]
+1 Angrath, the Flame-Chained|RIX|152
+1 Arguel's Blood Fast
+1 Avalanche Riders|TSB|55
+1 Axelrod Gunnarson|CHR|72
+1 Balduvian Trading Post|ALL|137
+1 Besmirch|CN2|49
+1 Blood Reckoning|M13|81
+1 Bog Witch|MMQ|118
+1 Bojuka Bog|C19|232
+1 Boldwyr Intimidator|BBD|169
+1 Builder's Bane|MIR|160
+1 Capital Punishment|CN2|40
+1 Cat Burglar|EXO|54
+1 Chain Reaction|WWK|74
+1 Choice of Damnations|SOK|62
+1 Corrupt Official|MMQ|128
+1 Curse of Disturbance|C17|16
+1 Curse of Opulence|C17|24
+1 Dark Ritual|A25|82
+1 Deadeye Tracker|XLN|99
+1 Disciple of Griselbrand|ISD|98
+1 Dismissive Pyromancer|M19|136
+1 Dwarven Vigilantes|VIS|77
+1 Faithless Salvaging|MH2|349
+1 Feed the Swarm|ZNR|102
+1 Feldon of the Third Path|CM2|6
+1 Fervor|WTH|99
+1 Fiery Emancipation|WOT|42
+1 Forsaken Wastes|MIR|125
+1 Grafted Skullcap|7ED|298
+1 Graven Cairns|IMA|237
+1 Grenzo, Havoc Raiser|CN2|54
+1 Guiltfeeder|JUD|68
+1 Herald of Leshrac
+1 Hero's Downfall|CP2|2
+1 Ill-Tempered Loner|VOW|378
+1 Inevitable End|THB|102
+1 Inferno Titan
+1 Kargan Intimidator|J25|569
+1 Kazuul, Tyrant of the Cliffs|WWK|84
+1 King Macar, the Gold-Cursed|JOU|74
+1 Kumano, Master Yamabushi|CHK|176
+1 Lim-Dûl the Necromancer|TSP|114
+1 Memorial to Folly|DOM|242
+1 Mines of Moria|LTR|342
+16 Mountain|BFZ|266
+1 Murder
+1 Murderous Compulsion|SOI|126
+1 Nightmare Unmaking|C19|20
+1 Ogre Arsonist|P02|110
+1 Pain Magnification|DIS|121
+1 Plargg and Nassari|MAT|118
+1 Price of Knowledge|C13|89
+1 Prosper, Tome-Bound|OAFC|2
+1 Quicksilver Amulet|ULG|130
+1 Raking Claws|IKO|131
+1 Reckless Spite|CNS|123
+1 Royal Assassin|ACR|213
+1 Sarkhan, the Dragonspeaker|KTK|119
+1 Shackles of Treachery|KHM|150
+1 Sigiled Sword of Valeron
+1 Simulacrum|4ED|161
+1 Song-Mad Treachery|ZNR|165
+1 Suffer the Past|ROE|128
+16 Swamp|BFZ|261
+1 Thieving Amalgam|C19|21
+1 Thran Foundry|UDS|140
+1 Thrill of Possibility|THB|356
+1 Twinstrike|DIS|134
+1 Uncle Istvan|TSB|51
+
+
+[Sideboard]
+
+

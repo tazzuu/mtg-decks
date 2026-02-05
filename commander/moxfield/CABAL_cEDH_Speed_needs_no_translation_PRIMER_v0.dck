@@ -1,0 +1,128 @@
+[metadata]
+Name=[CABAL] cEDH 🧭 Speed needs no translation 🧭 [PRIMER]
+Description=This is a proactive deck that seeks to pressure the opponents from different angles to end the game fast with one of its supreme winning options.
+Format=commander
+Bracket=5
+Author=Coach_Memo,FNiggl,Nevy
+Version=0
+URL=https://moxfield.com/decks/Kjmsu_ClUkq0uDHRXdMyuw
+Date=2026-01-22T15:47:30.003Z
+Created=2022-11-04T17:41:05.92Z
+Updated=2026-01-22T15:47:30.003Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Najeela, the Blade-Blossom|CMR|514
+
+
+[Main]
+1 Ad Nauseam|ALA|63
+1 Ancient Tomb|TMP|315
+1 Arcane Signet
+1 Arid Mesa|MH2|436
+1 Badlands|3ED|282
+1 Bayou|3ED|283
+1 Birds of Paradise|DMR|336
+1 Bloodstained Mire|MH3|435
+1 Brain Freeze
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|MRD|152
+1 City of Brass|2X2|403
+1 City of Traitors|EXO|143
+1 Command Tower|BRC|178
+1 Culling Ritual|ONC|117
+1 Culling the Weak|EXO|55
+1 Dark Ritual|4BB|129
+1 Deathrite Shaman|RVR|363
+1 Deflecting Swat|CMM|532
+1 Delighted Halfling|LTR|363
+1 Demonic Consultation|ICE|121
+1 Demonic Tutor|PUMA|U8
+1 Derevi, Empyrial Tactician|BLC|87
+1 Diabolic Intent|PLS|42
+1 Eladamri's Call|PLS|106
+1 Eldritch Evolution|EMN|155
+1 Elvish Spirit Guide|DMR|338
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|H2R|2
+1 Exotic Orchard|BRC|185
+1 Fellwar Stone|BRC|141
+1 Fierce Guardianship|C20|35
+1 Final Fortune|MIR|173
+1 Flooded Strand|MH3|436
+1 Flusterstorm|IMA|55
+1 Force of Will|DMR|284
+1 Gamble|USG|188
+1 Gemstone Caverns|LTC|364
+1 Green Sun's Zenith|2X2|461
+1 Grim Hireling|CLB|755
+1 Hexing Squelcher|ECL|317
+1 Ignoble Hierarch|MH2|414
+1 Intuition|TMP|70
+1 Kutzil, Malamet Exemplar|LCI|304
+1 Lim-Dûl's Vault|ALL|107
+1 Lion's Eye Diamond|MIR|307
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Lotus Petal
+1 Mana Confluence|JOU|163
+1 Mana Vault|5ED|388
+1 Manamorphose|MMA|191
+1 Marsh Flats|MH2|437
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|MH2|438
+1 Mnemonic Betrayal|GRN|189
+1 Mox Amber|BRR|35
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Mystic Remora|DMR|288
+1 Mystical Tutor|MIR|80
+1 Noble Hierarch|CON|87
+1 Pact of Negation|A25|68
+1 Plateau|3ED|284
+1 Polluted Delta|MH3|438
+1 Ragavan, Nimble Pilferer|MUL|21
+1 Ranger-Captain of Eos
+1 Rhystic Study|WOT|25
+1 Rite of Flame|CSP|96
+1 Samut, Vizier of Naktamun|MAT|95
+1 Savannah|3ED|285
+1 Scalding Tarn|MH2|439
+1 Scrubland|3ED|286
+1 Sevinne's Reclamation|DMR|273
+1 Silence|TSR|302
+1 Simian Spirit Guide|TSR|190
+1 Sol Ring|BRC|160
+1 Summoner's Pact|MMA|164
+1 Swan Song|THS|65
+1 Swords to Plowshares|FBB|41
+1 Taiga|3ED|287
+1 Tainted Pact|ODY|164
+1 Tarnished Citadel|ODY|329
+1 Thassa's Oracle|THB|73
+1 Tinder Wall|CST|270
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Underground Sea|3ED|290
+1 Underworld Breach|SPG|9
+1 Vampiric Tutor|VIS|72
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MH2|440
+1 Voice of Victory|TDM|33
+1 Volcanic Island|3ED|291
+1 Warrior's Oath|PTK|124
+1 Windswept Heath|MH3|440
+1 Wishclaw Talisman|ELD|110
+1 Wooded Foothills|MH3|441
+1 Worldly Tutor|MIR|255
+
+
+[Sideboard]
+1 Chatterfang, Squirrel General|MH2|410
+1 Gifts Ungiven|CHK|62
+1 Grand Abolisher|CMM|460
+1 Knuckles the Echidna|SLD|2082
+1 Warren Soultrader|MH3|414
+
+

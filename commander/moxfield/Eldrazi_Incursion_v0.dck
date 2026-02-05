@@ -1,0 +1,135 @@
+[metadata]
+Name=Eldrazi Incursion 👽
+Description="The emergence of the Eldrazi isn't necessarily a bad thing, as long as you've already lived a fulfilling and complete life without regrets."
+- Javad Nasrin, Ondu relic hunter
+
+Format=commander
+Bracket=4
+Author=aaronconlin
+Version=0
+URL=https://moxfield.com/decks/nRfrl3fny0SjYdgsnT2q4g
+Date=2025-09-10T16:52:32.06Z
+Created=2023-03-02T23:27:07.567Z
+Updated=2025-09-10T16:52:32.06Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Ulalek, Fused Atrocity|M3C|4
+
+
+[Main]
+1 All Is Dust|M3C|152
+1 Ancient Tomb|ZNE|21
+1 Arcane Signet|SLD|1492★
+1 Awakening Zone|M3C|222
+1 Azlask, the Swelling Scourge|M3C|5
+1 Basalt Monolith|2XM|232
+1 Benthic Anomaly|M3C|46
+1 Blast Zone|M3C|322
+1 Bonders' Enclave|M3C|323
+1 Breeding Pool|EXP|15
+1 Cascading Cataracts|M3C|326
+1 Cavern of Souls|ZNE|22
+1 Chittering Dispatcher|M3C|63
+1 City of Brass|2X2|403
+1 Command Tower|SLD|1496★
+1 Conduit of Ruin|BFZ|4
+1 Crop Rotation|2XM|161
+1 Desecrate Reality|CMM|714
+1 Echoes of Eternity|MH3|320
+1 Eldrazi Conscription|M3C|155
+1 Eldrazi Displacer|M3C|169
+1 Eldrazi Linebreaker|MH3|117
+1 Eldrazi Mimic|OGW|2
+1 Eldrazi Temple|SLD|1154
+1 Eldritch Immunity|M3C|33
+1 Endbringer|M3C|156
+1 Eternal Scourge|EMN|7
+1 Exotic Orchard|M3C|341
+1 Eye of Ugin|EXP|38
+1 Flayer of Loyalties|CMM|715
+1 Food Chain|MMQ|246
+1 Forest|MH3|308
+1 Forsaken Monument|M3C|293
+1 From Beyond|BFZ|167
+1 Glaring Fleshraker|MH3|7
+1 Herald of Kozilek|BFZ|205
+1 Hideous Taskmaster|M3C|109
+1 Island|MH3|305
+1 It That Heralds the End|MH3|9
+1 Karplusan Forest|DMU|379
+1 Ketria Triome|IKO|310
+1 Kozilek's Command|MH3|11
+1 Kozilek's Return|M3C|214
+1 Kozilek's Unsealing|MH3|65
+1 Kozilek, the Broken Reality|MH3|10
+1 Kozilek, the Great Distortion|SLD|493
+1 Mana Confluence|SLD|1012a
+1 Mana Drain|2X2|57
+1 Mana Vault|2X2|394
+1 Misty Rainforest|ZNE|10
+1 Mountain|MH3|307
+1 Nature's Lore|MKC|178
+1 Null Elemental Blast|MH3|12
+1 Nulldrifter|MH3|13
+1 Path of Ancestry|CMM|661
+1 Path of Annihilation|MH3|165
+1 Prismatic Vista|ZNE|27
+1 Reality Smasher|SLD|1153
+1 Reflecting Pool
+1 Sanctum of Ugin|BFZ|242
+1 Scalding Tarn|ZNE|7
+1 Selective Obliteration|M3C|35
+1 Shadow in the Warp|40K|140
+1 Shamanic Revelation|NCC|311
+1 Shivan Reef|DMU|380
+1 Sire of Stagnation|M3C|272
+1 Skittering Cicada|CMM|717
+1 Snow-Covered Wastes|MH3|309
+1 Sol Ring|SLD|1494★
+1 Sowing Mycospawn|MH3|340
+1 Steam Vents|EXP|12
+1 Stomping Ground|EXP|9
+1 Stubborn Denial|KTK|56
+1 Summon: Bahamut|FIN|1
+1 Sylvan Scrying|M3C|248
+1 Talisman of Curiosity|SLD|1061
+1 Talisman of Impulse|SLD|1055
+1 The Great Henge|ELD|161
+1 Thief of Existence|MH3|174
+1 Thought-Knot Seer|SLD|1151
+1 Three Tree City|BLB|338
+1 Three Visits|OTC|209
+1 Tomb of the Spirit Dragon|M3C|397
+1 Ugin's Binding|MH3|328
+1 Ugin's Labyrinth|MH3|359
+1 Ugin, Eye of the Storms|TDM|382
+1 Ugin, the Ineffable|SLD|1243
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger|CMM|5
+1 Ulamog, the Defiler|MH3|15
+1 Ultima, Origin of Oblivion|FIN|324
+1 Urza's Incubator|DMR|453
+1 Warping Wail|M3C|162
+1 Wasteland|ZNE|30
+1 Wooded Foothills|ZNE|4
+1 World Breaker|OGW|126
+1 Yavimaya Coast|DMU|382
+1 Yavimaya, Cradle of Growth|M3C|409
+1 Zhulodok, Void Gorger|CMM|704
+
+
+[Sideboard]
+1 Abstruse Archaic|CMM|712
+1 Adventurer's Inn|FIN|271
+1 Ancient Stirrings|M3C|219
+1 Animar, Soul of Elements|2X2|171
+1 Anticausal Vestige|EOE|1
+1 Bismuth Mindrender|M3C|51
+1 Corrupted Crossroads|M3C|332
+1 Dark Depths|M3C|334
+1 Decimator of the Provinces|EMN|2
+1 Devourer of Destiny|MH3|2
+
+

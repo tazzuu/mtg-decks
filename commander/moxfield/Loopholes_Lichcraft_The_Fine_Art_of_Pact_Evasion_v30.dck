@@ -1,0 +1,133 @@
+[metadata]
+Name=Loopholes & Lichcraft: The Fine Art of Pact Evasion
+Description=You read the whole contract, right?
+Format=commander
+Bracket=3
+Author=ReallyBadWizard
+Version=30
+URL=https://moxfield.com/decks/T0zqbVcBKEWIjPIm3cdM6g
+Date=2026-02-03T13:42:55.123Z
+Created=2022-08-18T17:14:59.71Z
+Updated=2026-02-03T13:42:55.123Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Zur, Eternal Schemer
+
+
+[Main]
+1 Adarkar Wastes|DMU|377
+1 Aetherflux Reservoir|BRR|65
+1 Arcane Signet|40K|229★
+1 Athreos, Shroud-Veiled|DSC|212
+1 Azorius Chancery|2X2|400
+1 Black Market Connections|ACR|161
+1 Buster Sword|FIN|351
+1 Caves of Koilos|DMU|378
+1 City of Brass|2X2|403
+1 Command Tower|CC2|8
+1 Court of Vantress|WOC|30
+1 Demon of Fate's Design|CMM|762
+1 Demonic Pact|FDN|602
+1 Doomwake Giant|DSC|138
+1 Dowsing Dagger|XLN|235
+1 Duelist's Heritage|JMP|101
+1 Enduring Curiosity|DSK|388
+1 Enduring Tenacity|DSK|390
+1 Entity Tracker|DSK|307
+1 Estrid's Invocation|MH3|269
+1 Exchange of Words|UNF|331
+1 Exotic Orchard|FIC|390
+1 Fear of Sleep Paralysis|DSC|43
+1 Fell the Profane|MH3|244
+1 Fetid Heath|FIC|391
+1 Flooded Strand|MH3|353
+1 Force of Negation|2X2|346
+1 Glasspool Mimic|ZNR|60
+1 Godless Shrine|CLU|276
+1 Gwenom, Remorseless|SPM|256
+1 Hall of Heliod's Generosity|DSC|283
+1 Hallowed Fountain|CLU|277
+1 Impostor Syndrome|SPM|251
+1 Inquisitive Glimmer|DSK|217
+1 Invasion of Theros
+1 Ishgard, the Holy See|FIN|310
+1 Island|SLD|47
+1 Lich's Mastery|DOM|98
+1 Mana Confluence|SLD|1012a
+1 Mana Drain|2X2|348
+1 Marina Vendrell's Grimoire|DSK|308
+1 Marsh Flats|SPG|110
+1 Mesa Enchantress|DSC|68
+1 Meticulous Archive|MKM|328
+1 Mirror Room|DSK|337
+1 Mirrorform|ECL|308
+1 Morphic Pool|CLB|603
+1 Mystic Reflection|KHM|346
+1 Mystic Remora|SLD|406
+1 Nefarious Lich|ODY|153
+1 Nine Lives|MAR|3
+1 Nykthos, Shrine to Nyx
+1 O'aka, Traveling Merchant|FIC|144
+1 Omniscience|FDN|312
+1 Ondu Spiritdancer|CMM|756
+1 One with the Multiverse|BRO|316
+1 Overlord of the Balemurk|DSK|391
+1 Overlord of the Floodpits|DSK|389
+1 Overlord of the Mistmoors|DSK|387
+1 Pact of Negation|LTC|523
+1 Plains|SLD|46
+1 Polluted Delta|MH3|356
+1 Raffine's Tower|SNC|292
+1 Replenish|UDS|15
+1 Rhystic Study|WOT|25
+1 Saw in Half|SLD|1755
+1 Scholar of New Horizons|BRC|53
+1 Sea Gate Restoration|ZNR|333
+1 Sea of Clouds|ZNE|16
+1 Serra's Sanctum|USG|325
+1 Shadowy Backstreet|MKM|330
+1 Sink into Stupor|MH3|241
+1 Smothering Tithe
+1 Soaring Lightbringer|DSC|42
+1 Sol Ring|SLD|913
+1 Spider-Sense|SPM|254
+1 Staff of Compleation|ONE|358
+1 Starfield of Nyx|ORI|33
+1 Stiltzkin, Moogle Merchant|FIN|327
+1 Summon: Primal Odin|FIN|365
+1 Summon: Shiva|FIN|362
+1 Summon: Valefor|FIC|197
+1 Summon: Yojimbo|FIC|196
+1 Swamp|SLD|48
+1 Talisman of Dominance|FIC|364
+1 Talisman of Hierarchy|FIC|365
+1 Talisman of Progress|LTC|286
+1 Thassa, Deep-Dwelling|SLD|1279
+1 The Master of Keys|DSC|4
+1 The Trickster-God's Heist|KHM|232
+1 Undercity Sewers|MKM|332
+1 Underground River|BRO|300
+1 Urborg, Tomb of Yawgmoth|LTC|375
+1 Urza's Saga|SLC|21
+1 Valkyrie's Call|FDN|302
+1 Vault of Champions|CMM|667
+1 Watery Grave|GTC|249
+1 Witch Enchanter|MH3|239
+1 Wrong Turn|CMR|107
+
+
+[Sideboard]
+1 Angel's Grace|TSR|4
+1 Blind Obedience|SLD|2246
+1 Domineering Will|CLB|719
+1 Doomskar|KHM|334
+1 Fractured Identity|OTP|76
+1 Greed's Gambit|BIG|38
+1 Heliod, the Radiant Dawn|MOM|293
+1 Jace, Wielder of Mysteries
+1 Jin-Gitaxias
+1 Killian, Decisive Mentor|SOC|4
+
+

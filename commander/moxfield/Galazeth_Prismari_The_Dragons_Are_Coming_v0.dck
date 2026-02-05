@@ -1,0 +1,86 @@
+[metadata]
+Name=Galazeth Prismari: The Dragons Are Coming
+Description=1. Cast Dragon's Approach. 2. Draw more Dragon's Approach. 3. Cast those, too.
+Format=commander
+Bracket=3
+Author=wachelreeks
+Version=0
+URL=https://moxfield.com/decks/BpM2MPyb6Uuu8F9ZXHeYlQ
+Date=2025-03-25T03:18:18.713Z
+Created=2021-04-07T05:40:08.13Z
+Updated=2025-03-25T03:18:18.713Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Galazeth Prismari|STX|189
+
+
+[Main]
+1 Arcane Signet|ELD|331
+1 Archmage Emeritus|STX|377
+1 Archmage of Runes|FDN|30
+1 Arena of Glory|MH3|215
+1 Birgi, God of Storytelling|KHM|123
+1 Bonehoard Dracosaur|LCI|134
+1 Bothersome Quasit|CLB|674
+1 Cascade Bluffs|EVE|175
+1 Chrome Host Seedshark|MOM|51
+1 Collected Conjuring|MH1|196
+1 Command Tower|C21|284
+1 Demand Answers|MKM|122
+25 Dragon's Approach|STX|97
+1 Epic Experiment|C15|216
+1 Exotic Orchard|C21|288
+1 Experimental Synthesizer|NEO|138
+1 Fabled Passage|ELD|244
+1 Faithless Looting|STA|38
+1 Frostboil Snarl|STX|265
+1 Goblin Electromancer|RTR|163
+1 Grab the Prize|DSK|138
+1 Howling Mine|M10|212
+3 Island|STX|368
+1 Izzet Signet|C20|243
+1 Jeska's Will|CMR|187
+1 Knollspine Dragon|SHM|98
+1 Locket of Yesterdays|TSP|258
+1 Lunar Insight|FDN|46
+1 Mathise, Surge Channeler|SLD|1238
+1 Mind Bomb|DRK|33
+1 Molten Tributary|DMU|251
+13 Mountain|STX|372
+1 Niv-Mizzet, Visionary|FDN|123
+1 Notorious Throng|MOR|45
+1 Pentad Prism|5DN|143
+1 Pinnacle Monk|MH3|246
+1 Prismari Campus|STX|270
+1 Public Enemy|SNC|55
+1 Riverglide Pathway|ZNR|289
+1 Ruby Medallion|C14|265
+1 Sea Gate Restoration|ZNR|76
+1 Shivan Reef|M15|246
+1 Sink into Stupor|MH3|241
+1 Sol Ring|C21|263
+1 Steam Vents|GRN|257
+1 Stormcarved Coast|VOW|284
+1 Stormcatch Mentor|BLB|234
+1 Sulfur Falls|ISD|248
+1 Talisman of Creativity|MH1|231
+1 The Reality Chip|NEO|74
+1 Themberchaud|SLD|728
+1 Thundering Falls|MKM|269
+1 Trail of Evidence|SOI|93
+1 Training Center|CMR|358
+1 Twinflame Tyrant|FDN|97
+1 Unstable Amulet|MH3|142
+1 Valakut Awakening|ZNR|174
+1 Volatile Fjord|KHM|273
+1 Wheel of Fortune|3ED|185
+1 Wheel of Misfortune|CMR|211
+1 Windfall|C20|128
+
+
+[Sideboard]
+1 Thrumming Stone|CSP|142
+
+

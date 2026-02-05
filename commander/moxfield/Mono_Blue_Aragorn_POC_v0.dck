@@ -1,0 +1,125 @@
+[metadata]
+Name=Mono Blue Aragorn POC
+Description=
+Format=commander
+Bracket=3
+Author=chookiemon
+Version=0
+URL=https://moxfield.com/decks/0FVRb9KYu0GnHG7GNRXNHg
+Date=2026-01-30T20:23:26.727Z
+Created=2024-10-26T04:35:35.563Z
+Updated=2026-01-30T20:23:26.727Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Aragorn, the Uniter|LTR|192
+
+
+[Main]
+1 Abjure|WTH|31
+1 Alter Reality|TOR|22
+1 Arcane Signet|DSC|92
+1 Azorius Chancery|DSC|261
+1 Azorius Signet|DSC|240
+1 Brainstorm|DSC|113
+1 Brazen Borrower|ELD|39
+1 Breeding Pool|RVR|275
+1 Candlekeep Inspiration|CLB|59
+1 Captain of the Mists|DDQ|24
+1 Change of Plans|NCC|24
+1 City of Brass|2X2|321
+1 Command Tower|DSC|96
+1 Consuming Tide|VOW|53
+1 Crystal Spray|INV|50
+1 Curator's Ward|DOM|49
+1 Defiler of Dreams|DMU|46
+1 Distant Melody|LCC|154
+1 Evacuation|LCC|156
+1 Exotic Orchard|DSC|275
+1 Fable of Wolf and Owl|EVE|150
+1 Flooded Strand|MH3|220
+1 Fortune Teller's Talent|BLC|14
+1 Frantic Search|CMM|96
+1 Frontier Bivouac|ECC|150
+1 Glacial Fortress|EOC|160
+1 Glamerdye|EVE|21
+1 Grand Coliseum|ONS|319
+1 Great Hall of the Citadel|LTR|254
+1 Hallowed Fountain|RVR|280
+1 Harmonized Crescendo|ECL|54
+1 Hinterland Harbor|TDC|371
+1 Hydroelectric Specimen|MH3|240
+1 Ioreth of the Healing House|LTR|56
+1 Island|FDN|274
+1 Izzet Boilerworks|OTC|302
+1 Izzet Signet|LCC|306
+1 Katara, Bending Prodigy|TLA|59
+1 Keep Watch|HOP|10
+1 Kelpie Guide|STX|45
+1 Ketria Triome|IKO|250
+1 Lazotep Plating|WAR|59
+1 Lórien Revealed|LTR|60
+1 Mana Confluence|JOU|163
+1 March of Swirling Mist|NEO|61
+1 Matoya, Archon Elder|FIN|62
+1 Meeting of Minds|MOM|66
+1 Mind Bend
+1 Mirrorweave|CM2|162
+1 Misty Rainforest|MH2|250
+1 Mockingbird|BLB|61
+1 Mystical Tutor|DMR|60
+1 Nykthos, Shrine to Nyx|THS|223
+1 Ojer Pakpatiq, Deepest Epoch|LCI|315
+1 Oona's Grace|C19|91
+1 Path of Ancestry|OTC|310
+1 Perplexing Test|MOC|229
+1 Polluted Delta|MH3|224
+1 Pongify|OTC|106
+1 Pristine Talisman|C21|258
+1 Rapid Hybridization|CLU|93
+1 Raugrin Triome|IKO|251
+1 Reality Ripple|MIR|87
+1 Recall|ME3|46
+1 Reflecting Pool|CLB|358
+1 Reins of Power|CLB|734
+1 Rejuvenating Springs|CMM|424
+1 Resculpt|CMM|115
+1 Rowdy Research|WOE|312
+1 Scalding Tarn|MH2|254
+1 Sea Gate Restoration|ZNR|76
+1 Shared Discovery|ROE|87
+1 Shielding Plax|AFC|192
+1 Shrieking Drake|MH3|272
+1 Silundi Vision|ZNR|80
+1 Simic Growth Chamber|DSC|298
+1 Simic Signet|DSC|252
+1 Sleight of Mind|ICE|99
+1 Slip Out the Back|CLU|99
+1 Snap|DMR|66
+1 Sol Ring|ECC|57
+1 Spara's Headquarters|SNC|257
+1 Spectral Shift|5DN|37
+1 Spellseeker|CMM|120
+1 Spirit Water Revival|TLA|73
+1 Steam Vents|RVR|288
+1 Stubborn Denial|KTK|56
+1 Swirl the Mists|CHK|94
+1 Talisman of Creativity|M3C|308
+1 The Water Crystal|FIN|85
+1 Three Tree City|BLB|260
+1 Training Center|CMM|434
+1 Transcendent Message|MOM|83
+1 Unexpected Assistance|ECL|80
+1 Urban Retreat|SPM|187
+1 Vanishing|VIS|48
+1 Volatile Fault|LCI|286
+1 Waterbender Ascension|TLA|79
+1 Whim of Volrath|TMP|102
+
+
+[Sideboard]
+1 Glasspool Mimic|ZNR|60
+1 Trait Doctoring|DGM|18
+
+

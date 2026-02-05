@@ -1,0 +1,155 @@
+[metadata]
+Name=Choose Your Destiny (Prismatic Piper)
+Description={"ops":[{"insert":"The only combo in this deck forces a tie game using Assault Suit to give Lurebound Scarecrow to an opponent who then infinitely fails to sacrifice it, resulting in a draw. You must also have a coloured creature on board to make this work, so you need Prismatic Piper, Alloy Golem, Volraths Laboratory, Riptide Replicator, or Sarpadian Empires Vol. VII.\n\nPlease don't make this deck.\n\nPower Level: X/10\n"}]}
+Format=commander
+Bracket=0
+Author=LeapingLizard14
+Version=0
+URL=https://archidekt.com/decks/3771703
+Date=2026-01-31
+Created=2023-01-04
+Updated=2026-01-31
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 The Prismatic Piper|CMR|1
+
+
+[Main]
+1 Alloy Golem|INV|297
+1 Amber Prison
+1 Assault Suit|CMM|369
+1 Astral Cornucopia|BRR|5
+1 Blightsteel Colossus
+1 Caged Sun|40K|231
+1 Capital City|FIN|274
+1 Cavern of Souls|LCI|269
+1 Coldsteel Heart|2X2|301
+1 Command Tower|SCD|297
+1 Commander's Sphere|SCD|261
+1 Crawling Barrens|ZNR|262
+1 Crossroads Village|FIN|276
+1 Cryptic Caves|KHC|109
+1 Crystal Grotto|WOE|254
+1 Damping Sphere|DOM|213
+1 Darksteel Citadel|BRC|180
+1 Darksteel Colossus
+1 Demolition Field|BRO|260
+1 Desolation Twin|C21|82
+1 Diamond Knight|M20|224
+1 Diamond Mare
+1 Disruptor Flute|MH3|209
+1 Diviner's Lockbox|M20|225
+1 Dreamstone Hedron|CMR|307
+1 Edgewall Inn|WOE|255
+1 Elsewhere Flask|BRR|15
+1 Emergence Zone|WAR|245
+1 Emrakul, the World Anew|MH3|6
+1 Entrancing Lyre|THB|233
+1 Everflowing Chalice|TSR|394
+1 Extinguisher Battleship|EOE|242
+1 Eye of Vecna|AFR|243
+1 Faceless One|CLB|1
+1 Field of Ruin|MID|262
+1 Firemind Vessel|CMM|383
+1 Fireshrieker|MRD|171
+1 Forsaken Monument|ZNR|244
+1 Gauntlet of Power|DMR|223
+1 Gearsmith Guardian|J22|767
+1 God-Pharaoh's Statue|WAR|238
+1 Hall of Triumph|JOU|162
+1 Heap Gate|CLB|354
+1 Hedron Archive|BLC|275
+1 Heraldic Banner|SCD|267
+1 Hidden Grotto|BLB|254
+1 Howling Mine|BRR|20
+1 Icy Manipulator
+1 Introduction to Annihilation|STX|3
+1 Invasion of Ravnica|MOM|1
+1 Jeweled Torque|MMQ|301
+1 Kozilek's Command|MH3|11
+1 Kozilek, Butcher of Truth|2X2|2
+1 Kozilek, the Broken Reality|MH3|10
+1 Kozilek, the Great Distortion|OGW|4
+1 Lurebound Scarecrow|SHM|256
+1 Magnifying Glass|2XM|269
+1 Mana Geode|JMP|472
+1 Matter Reshaper|OGW|6
+1 Meteor Crater|PLS|140
+1 Meteor Golem|J22|786
+1 Mind's Eye|BRR|33
+1 Mirage Mesa|OTJ|262
+1 Mirrorpool
+1 Multiversal Passage|SPM|180
+1 Night Market|DFT|258
+1 Null Elemental Blast|MH3|12
+1 Nyx Lotus|THB|235
+1 Oracle's Vault|AKH|234
+1 Orazca Relic|AFC|213
+1 Pacification Array|AER|168
+1 Painter's Servant|SHM|257
+1 Palantír of Orthanc|LTR|247
+1 Paradise Plume|C21|255
+1 Perilous Vault|M15|224
+1 Phyrexian Revoker|CLB|868
+1 Pinnacle Kill-Ship|EOE|244
+1 Planar Bridge|AER|171
+1 Planar Nexus|M3C|80
+1 Platinum Angel
+1 Portal to Phyrexia|BRO|240
+1 Prism Ring|ORI|235
+1 Racers' Scoreboard|DFT|239
+1 Radiant Fountain|C21|310
+1 Riptide Replicator|ONS|309
+1 Roadside Reliquary|NEO|272
+1 Sanctuary Blade|C20|69
+1 Sarpadian Empires, Vol. VII|TSP|263
+1 Scrap Trawler|C21|260
+1 Scuttlemutt|JMP|484
+1 Seal of the Guildpact|C15|54
+1 Secluded Courtyard|FDN|267
+1 Sequestered Stash|KLD|248
+1 Shimmerdrift Vale|KHM|267
+1 Sire of Seven Deaths|FDN|1
+1 Sisay's Ring|CMR|340
+1 Snow-Covered Wastes|MH3|309
+1 Sol Grail|ALL|130
+1 Sol Ring|ONC|140
+1 Solemn Simulacrum|J22|797
+1 Spare Supplies|ZNR|254
+1 Spatial Contortion|OGW|8
+1 Sunken Citadel|LCI|285
+1 Sunscorched Desert|AKH|249
+1 Sunset Pyramid|CMR|345
+1 Survivors' Encampment|HOU|184
+1 Symmetry Matrix|BRO|252
+1 Tablet of the Guilds|RTR|235
+1 Temple of the Dragon Queen|AFR|260
+1 The Gold Saucer|FIN|279
+1 The Grey Havens|LTR|443
+1 The One Ring|LTR|246
+1 Thought-Knot Seer|OGW|9
+1 Throne of Eldraine|WOC|28
+1 Titan's Presence|J22|749
+1 Tocasia's Dig Site|BRO|266
+1 Triplicate Titan|C21|79
+1 Ugin's Labyrinth|MH3|233
+1 Ugin, the Ineffable|WAR|2
+1 Ugin, the Spirit Dragon|M21|279
+1 Ulamog, the Ceaseless Hunger|BFZ|15
+1 Ulamog, the Defiler|MH3|15
+1 Uncharted Haven|NEO|281
+1 Valgavoth's Lair|DSK|271
+1 Volrath's Laboratory|STH|142
+1 Wandering Archaic
+1 Warping Wail|OGW|12
+1 Wastes
+4 Wastes|OGW|184
+1 Worn Powerstone|MH3|298
+1 Zhalfirin Void|AFC|273
+
+
+[Sideboard]
+
+

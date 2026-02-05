@@ -1,0 +1,95 @@
+[metadata]
+Name=(UN) Happy Holidays!
+Description={"ops":[{"insert":"A Christmas-themed deck, focused on pop culture Christmas (rather than Biblical). The goal is to give Sisay trample or make her unblockable, and then pump her up bigger than a Christmas tree with spells and her \"Flavor\" ability. \n"}]}
+Format=commander
+Bracket=0
+Author=DamienX207
+Version=0
+URL=https://archidekt.com/decks/6129126
+Date=2025-11-21
+Created=2023-12-13
+Updated=2025-11-21
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Meet and Greet "Sisay"|UNF|172
+
+
+[Main]
+1 Academy Manufactor|MH2|219
+1 Angelic Armaments|CMR|296
+1 Audacious Swap|NCC|44
+1 Bag of Tricks|AFC|37
+1 Birgi, God of Storytelling|KHM|123
+1 Blessing of Frost|KHM|161
+1 Bonder's Ornament|C20|67
+1 Bootleggers' Stash|BLC|207
+1 Burnished Hart|CLB|303
+1 Candles of Leng|TSP|250
+1 Cathartic Reunion|KLD|109
+1 Chaos Confetti|UGL|72
+1 Chaos Wrap|HHO|22
+1 Chorus of Might|RTR|119
+1 Coldsteel Heart|C15|249
+1 Crack Open|MOC|294
+1 Elvish House Party|UNH|94
+1 Enduring Vitality|DSK|176
+1 Exponential Growth|STX|130
+1 Feldon of the Third Path|C14|35
+1 Fruitcake Elemental|HHO|6
+1 Fyndhorn Elves|ICE|244
+1 Genesis Storm|C18|30
+1 Ghost Quarter
+1 Gift of Strength|THB|171
+1 Gingerbread Cabin|C21|290
+1 Goblin Sleigh Ride|HHO|15
+1 Goblin Smuggler|M20|144
+1 Goblin Snowman|TSB|64
+1 Heartwood Storyteller|TSR|209
+1 Heirloom Epic|BLB|246
+1 Highland Weald|CSP|147
+1 Hoard Hauler|SNC|109
+1 Inspired Tinkering|CLB|183
+1 Into the North|CSP|111
+1 Jaheira, Friend of the Forest|CLB|237
+1 Karplusan Forest|C16|305
+1 Kenrith's Transformation|ELD|164
+1 Key to the City|BRR|27
+1 Larger Than Life|KLD|160
+1 Life of the Party|NCC|48
+1 Manakin|IMA|218
+1 Might of the Masses|GRN|137
+1 Myntasha, Honored One|PH19|5
+1 Pendant of Prosperity|C19|56
+1 Pinecrest Ridge|CHK|281
+1 Rain of Riches|BLC|200
+1 Reforge the Soul|AVR|151
+1 Rime Tender|MH1|176
+1 Sculptor of Winter|KHM|193
+1 Season of Gathering|BLB|192
+1 Season's Beatings|HHO|9
+1 Share the Spoils|AFC|34
+15 Snow-Covered Forest|SLD|5
+15 Snow-Covered Mountain|SLD|4
+1 Stampeding Elk Herd|DTK|208
+1 Stocking Tiger|HHO|13
+1 Syr Ginger, the Meal Ender|WOE|252
+1 Tchotchke Elemental|UNF|158
+1 Temple Bell|C13|265
+1 The Sound of Drums|WHO|97
+1 Threefold Thunderhulk|LCI|265
+1 Tough Cookie|WOE|193
+1 Trading Post|M14|225
+1 Tranquil Domain|MIR|245
+1 Tread Upon|DTK|211
+1 Treasure Chest|AFR|252
+1 Two-Handed Axe|CLB|203
+1 Wall of Pine Needles|ICE|274
+1 Xenagos, God of Revels|SLD|81
+1 Yule Ooze|HHO|11
+
+
+[Sideboard]
+
+

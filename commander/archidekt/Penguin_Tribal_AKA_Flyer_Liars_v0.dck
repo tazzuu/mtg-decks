@@ -1,0 +1,129 @@
+[metadata]
+Name=Penguin Tribal (AKA 'Flyer Liars')
+Description={"ops":[{"attributes":{"bold":true},"insert":"Have you ever looked at a magic card and been surprised to discover that it "},{"attributes":{"underline":true,"italic":true,"bold":true},"insert":"doesn't"},{"attributes":{"bold":true},"insert":" have flying? "},{"attributes":{"header":2},"insert":"\n\n"},{"insert":"MTG is full of these sad 'penguins' that seem deserving of flight but, for whatever reason, were denied the keyword. This Bracket 1 Exhibition deck was designed to honor these aeronautical rejects and fufill their destiny to take to the sky! "},{"attributes":{"header":3},"insert":"\n"},{"insert":"\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________\n\nFlavor Breakdown"},{"attributes":{"header":2},"insert":"\n"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Hoverers"},{"insert":"\nFirst in this deck is the family of 'hoverers'.  These critters seem capable of floating, but still can't quite tango with the birds. Why were creatures such as  "},{"insert":{"card-link":"Dreamcatcher"}},{"insert":" and "},{"insert":{"card-link":"Rose, Cutthroat Raider"}},{"insert":" denied access to the flying keyword, we may never know. \n\n"},{"attributes":{"bold":true},"insert":"Fake Wings"},{"insert":"\nPerhaps creatures such as "},{"insert":{"card-link":"Petra Sphinx"}},{"insert":" and "},{"insert":{"card-link":"Whippoorwill"}},{"insert":" just skipped wing day, because these creatures have atrwork that suggests they have a skyworthy physiology but were perhaps cursed with penguin wings. \n\n"},{"attributes":{"bold":true},"insert":"How'd they get up there!?"},{"insert":"\nFinally, my favorite category of flier liars includes creatures such as "},{"insert":{"card-link":"Myojin of Night's Reach"}},{"insert":" and "},{"insert":{"card-link":"Sovereigns of Lost Alara"}},{"insert":". I have no idea how these creatures manage to chill among the clouds without flying, but at this point I'm too afraid to ask.\n\n"},{"attributes":{"bold":true},"insert":"At the helm:"},{"insert":"\nTo get a representative sample of penguins from across the color pie, "},{"insert":{"card-link":"Karona, False God"}},{"insert":" was a natural pick to command our army of flier liers. I mean, look at the art! How does "},{"insert":{"card-link":"Karona, False God"}},{"insert":" even stay suspended like that?\n_____________________________________________________________________________________________________________________________________________________"},{"attributes":{"header":2},"insert":"\n"},{"insert":"\nMission: Ungroundable"},{"attributes":{"header":2},"insert":"\n"},{"insert":"\nNow that we have assembled our posse of penguins, it is time to fufill their true destiny to take to the skies! With cards such as "},{"insert":{"card-link":"Take Flight"}},{"insert":", "},{"insert":{"card-link":"Akroma's Memorial"}},{"insert":", and "},{"insert":{"card-link":"Levitation"}},{"insert":" , this deck aims to grant its grounded fliers their true dream of soaring to victory!\n_____________________________________________________________________________________________________________________________________________________"},{"attributes":{"header":2},"insert":"\n"},{"insert":"\nDeckbuilding Restrictions"},{"attributes":{"header":2},"insert":"\n"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"No flying or reach: "},{"insert":"As you may have guessed, every creature card in this deck must have"},{"attributes":{"bold":true},"insert":" artwork that implies flight, but the textbox cannot have the keywords 'flying' or 'reach'."},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Sky-themed support:"},{"insert":" While this may be a creature-centric exhibition, this deck still needs a few of the support cards that enable any functioning commander deck. As such, this deck has a self impsoed restriction that "},{"attributes":{"bold":true},"insert":"all noncreature spells must have a name that references the sky or celestial objects."},{"insert":" This allows the deck to have a modest suite of ramp and interaction in the form of thematic cards such as "},{"insert":{"card-link":"Broken Wings"}},{"insert":", "},{"insert":{"card-link":"Sol Ring"}},{"insert":", "},{"insert":{"card-link":"Shatter the Sky"}},{"insert":", and "},{"insert":{"card-link":"Skyshroud Claim"}},{"insert":". "},{"attributes":{"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Sky-themes Lands: "},{"insert":"A final deckbuilding restriction requires that every land in this deck contains artwork in which the sky is visible. Bonus points for lands that are explicitly sky-themes such as "},{"insert":{"card-link":"Otawara, Soaring City"}},{"insert":" and "},{"insert":{"card-link":"Skycloud Expanse"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"\nAnd there you have it! This deck may not be the most competitive, but as long as it achieves its objective to grant its team the keyword they deserve, this bracket 1 exhibition deck has lived up to its purpose. And who knows! You may even be able to scrap out a few wins here and there with Karona rallying a critcal mass of hovering spirits! "},{"attributes":{"header":3},"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=TTSJ
+Version=0
+URL=https://archidekt.com/decks/11777459
+Date=2025-03-26
+Created=2025-03-07
+Updated=2025-03-26
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Karona, False God|SCG|138
+
+
+[Main]
+1 Akroma's Memorial|TSR|262
+1 Ancient Ziggurat|CON|141
+1 Arcane Sanctum|DRC|146
+1 Arid Mesa|MH2|244
+1 Banshee of the Dread Choir|CMA|47
+1 Bloodstained Mire|MH3|216
+1 Broken Wings|FDN|214
+1 Cascading Cataracts|M3C|326
+1 City of Brass|MD1|15
+1 Coffin Queen
+1 Command Tower|PIP|360
+1 Cosi's Trickster|ZEN|45
+1 Death Tyrant|AFC|23
+1 Dimir Infiltrator
+1 Dragon Wings|SCG|34
+1 Dreamcatcher|SOK|34
+1 Drowner of Hope|M3C|182
+1 Drowner of Truth|MH3|253
+1 Elder Pine of Jukai|SOK|128
+1 Exotic Orchard|DRC|155
+1 Flooded Strand|MH3|220
+1 Fly|AFR|59
+1 Forest|THB|254
+1 Frontier Bivouac|WHO|281
+1 Ghastly Death Tyrant|CLB|127
+1 Ghostly Pilferer|OTC|98
+1 Go-Shintai of Shared Purpose|NEO|14
+1 Grand Coliseum|C16|299
+1 Graveborn Muse
+1 Iname, Death Aspect|CHK|118
+1 Iname, Life Aspect|CHK|215
+1 Indatha Triome|IKO|309
+1 Intrepid Stablemaster|OTJ|169
+2 Island|THB|251
+1 Kami of Celebration|NEC|20
+1 Karador, Ghost Chieftain|CMM|342
+1 Karazikar, the Eye Tyrant|AFC|49
+1 Ketria Triome|IKO|310
+1 Kjeldoran Elite Guard|ME2|21
+1 Levitation|M12|61
+1 Liliana's Shade|M13|98
+1 Maelstrom Wanderer|CMM|344
+1 Magus of the Abyss|2XM|97
+1 Mana Confluence|JOU|163
+1 Marsh Flats|MH2|248
+1 Misery's Shadow|BRO|107
+1 Mountain|THB|253
+1 Myojin of Cryptic Dreams|NEC|33
+1 Myojin of Night's Reach|FDN|610
+1 Mystic Monastery|WHO|291
+1 Nesting Bot|DFT|22
+1 Nomad Outpost|C16|311
+1 Nova Cleric
+1 Ondu Inversion
+1 Opulent Palace|PIP|278
+1 Otawara, Soaring City|NEO|271
+1 Overlord of the Hauntwoods|DSK|194
+1 Pain Kami|CHK|183
+1 Path of Ancestry|DRC|166
+1 Petra Sphinx|ME1|23
+1 Phantom Nishoba|DMR|193
+1 Phantom Nomad|VMA|38
+1 Plains|THB|250
+1 Progenitor Mimic|PIO|238
+1 Raugrin Triome|IKO|251
+1 Reckless Stormseeker|MID|157
+1 Rose, Cutthroat Raider|PIP|66
+1 Sandsteppe Citadel|CMM|1024
+1 Savai Triome|IKO|253
+1 Scalding Viper|WOE|235
+1 Sea of Clouds|CLB|360
+1 Seaside Citadel|CMM|1029
+1 Shatter the Sky|THB|37
+1 Shimmering Wings|10E|107
+1 Shyft|ME2|66
+1 Sky Diamond|SCD|273
+1 Skyclave Apparition|BLC|154
+1 Skyclave Relic|MOC|380
+1 Skyscribing|C13|57
+1 Skyshroud Claim
+1 Sol Ring|CMM|703
+1 Sovereigns of Lost Alara|UMA|207
+1 Sphere of the Suns|MM2|231
+1 Spirit en-Dal
+1 Sunscape Apprentice|INV|41
+1 Sustaining Spirit|ALL|18
+1 Swamp|THB|252
+1 Take Flight|BRO|65
+1 The Celestus|MID|252
+1 Thief of Hope|MM2|100
+1 Time Elemental|5ED|129
+1 Transcendent Master|MB2|23
+1 Urborg, Tomb of Yawgmoth|UMA|254
+1 Uro, Titan of Nature's Wrath
+1 Void Stalker|M13|77
+1 Watery Grave|UNF|278
+1 Weeping Angel|WHO|168
+1 Whippoorwill|DRK|91
+1 Windfall|OTC|123
+1 Windswept Heath|MH3|235
+1 Wooded Foothills|MH3|361
+1 Wrathful Raptors|LCC|56
+1 Yavimaya, Cradle of Growth|M3C|409
+1 Yore-Tiller Nephilim
+1 Zodiac Rooster|PTK|163
+
+
+[Sideboard]
+
+

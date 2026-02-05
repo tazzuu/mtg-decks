@@ -1,0 +1,123 @@
+[metadata]
+Name=Sisay, Blessed Soul cEDH Primer
+Description=A cEDH deck that utilizes the powerful and consistent tutor ability from Captain Sisay to lock out opponents and assemble combos.
+Format=commander
+Bracket=5
+Author=Choirboy2020,Vasher
+Version=0
+URL=https://moxfield.com/decks/P_HpAjOOsEW7a12ir626FA
+Date=2025-11-30T20:17:41.99Z
+Created=2020-11-24T20:22:11.93Z
+Updated=2025-11-30T20:17:41.99Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Captain Sisay|INV|237
+
+
+[Main]
+1 Ancient Tomb|UMA|236
+1 Arbor Elf
+1 Arid Mesa|MM3|229
+1 Ashaya, Soul of the Wild|ZNR|179
+1 Avacyn's Pilgrim|ISD|170
+1 Badgermole Cub|TLA|167
+1 Birds of Paradise|CN2|176
+1 Blind Obedience|GTC|6
+1 Boseiju, Who Endures|NEO|412
+1 Bountiful Promenade|BBD|81
+1 Bridgeworks Battle|MH3|249
+1 Brushland|BRO|298
+1 Carpet of Flowers|USG|240
+1 Cavern of Souls|UMA|237
+1 Chord of Calling|M15|172
+1 Chrome Mox|EMA|219
+1 Collector Ouphe|MH1|158
+1 Command Tower|CMD|269
+1 Concordant Crossroads|2X2|367
+1 Crop Rotation|DMR|154
+1 Deafening Silence|ELD|10
+1 Delighted Halfling|LTR|402
+1 Drannith Magistrate|IKO|11
+1 Eiganjo Castle|CHK|275
+1 Eiganjo, Seat of the Empire|NEO|413
+1 Eladamri's Call|MH1|197
+1 Elesh Norn, Grand Cenobite|IMA|18
+1 Elvish Mystic|DDU|7
+1 Emiel the Blessed|JMP|3
+1 Endurance|MH2|317
+1 Enlightened Tutor|6ED|19
+1 Esper Sentinel|MH2|12
+1 Finale of Devastation|WAR|160
+1 Flash Thompson, Spider-Fan|SPM|7
+1 Flooded Strand|KTK|233
+1 Forest|UNF|244
+1 Fyndhorn Elves|ICE|244
+1 Gaea's Cradle|USG|321
+1 Gandalf the White
+1 Gemstone Caverns|TSP|274
+1 Grand Abolisher|M12|19
+1 Green Sun's Zenith|EMA|169
+1 Growing Rites of Itlimoc|XLN|191
+1 Homeward Path|C16|301
+1 Hope Tender|HOU|119
+1 Kamahl, Fist of Krosa|ARC|61
+1 Karn, the Great Creator|WAR|1★
+1 Kutzil, Malamet Exemplar|LCI|304
+1 Legolas's Quick Reflexes|LTC|493
+1 Lightning Greaves|CMD|253
+1 Linvala, Keeper of Silence|MM3|13
+1 Living Plane|LEG|193
+1 Llanowar Elves|M11|184
+1 Lush Portico|MKM|327
+1 Magus of the Candelabra|BBD|206
+1 Mana Vault|5ED|388
+1 Marsh Flats|MM3|239
+1 Marvin, Murderous Mimic|DSK|367
+1 Misty Rainforest|MM3|240
+1 Mox Diamond|STH|138
+1 Nature's Chosen|ALL|97
+1 Nature's Rhythm|TDM|150
+1 Nissa, Resurgent Animist|MAT|22
+1 Nykthos, Shrine to Nyx
+1 Path to Exile
+1 Plains|UNF|240
+1 Quirion Ranger|VIS|117
+1 Ranger-Captain of Eos|MH1|21
+1 Savannah|3ED|285
+1 Seedborn Muse|LGN|138
+1 Selvala, Heart of the Wilds|CN2|70
+1 Shalai, Voice of Plenty|SLD|244
+1 Sigarda, Font of Blessings|MAT|182
+1 Silence|M14|35
+1 Snow-Covered Forest|SLD|5
+1 Snow-Covered Plains|SLD|1
+1 Sol Ring|CC1|7
+1 Solitude|MH2|307
+1 Swords to Plowshares|V13|2
+1 Sylvan Library|CC1|5
+1 Sylvan Safekeeper|JUD|133
+1 Talon Gates of Madara|M3C|82
+1 Temple Garden|UNF|281
+1 Thalia, Guardian of Thraben|DKA|24
+1 The Cabbage Merchant|TLE|134
+1 The One Ring|LTR|380
+1 Thousand-Year Elixir|C13|266
+1 Touch the Spirit Realm
+1 Utopia Sprawl|WOT|63
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MM3|249
+1 Voice of Victory|TDM|33
+1 Wild Growth|ICE|277
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|CC1|6
+1 Yasharn, Implacable Earth|ZNR|371
+1 Yavimaya, Cradle of Growth|MH2|261
+1 Yisan, the Wanderer Bard|M15|209
+
+
+[Sideboard]
+
+

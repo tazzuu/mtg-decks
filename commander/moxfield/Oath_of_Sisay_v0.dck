@@ -1,0 +1,124 @@
+[metadata]
+Name=Oath of Sisay
+Description="For the Legendary and Resolute, I will keep watch"
+Format=commander
+Bracket=5
+Author=Tolaria_East
+Version=0
+URL=https://moxfield.com/decks/4_8wod4y7ECmFZi-d_drpA
+Date=2026-01-29T17:47:08.31Z
+Created=2021-06-24T13:58:29.323Z
+Updated=2026-01-29T17:47:08.31Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Sisay, Weatherlight Captain|H1R|6
+
+
+[Main]
+1 Abrupt Decay|TSR|370
+1 Agatha's Soul Cauldron|WOE|366
+1 Aminatou, the Fateshifter|SLD|1421
+1 Ancient Tomb|EOS|46
+1 Arcane Signet|SLD|1492
+1 Ashiok, Dream Render|SLD|399
+1 Bayou|LEB|279
+1 Birds of Paradise|RVR|432
+1 Bloom Tender|SLD|284
+1 Boseiju, Who Endures|NEO|412
+1 Chord of Calling|SLD|1595
+1 Chrome Mox|SPG|92
+1 City of Brass|2X2|403
+1 Colossal Skyturtle|NEO|216
+1 Command Tower|SLD|1496
+1 Crop Rotation|2XM|349
+1 Cultist of the Absolute|CLB|123
+1 Deadpool, Trading Card|SLD|1753
+1 Deafening Silence|SLD|1219
+1 Deflecting Swat|CMM|698
+1 Delighted Halfling|LTR|402
+1 Demonic Tutor|CMM|696
+1 Derevi, Empyrial Tactician|BLC|87
+1 Dihada, Binder of Wills|DMC|1
+1 Elvish Spirit Guide|SLD|423
+1 Emiel the Blessed|2X2|338
+1 Enlightened Tutor|DMR|412
+1 Esper Sentinel|H2R|2
+1 Exotic Orchard|SLD|1231
+1 Faeburrow Elder|ELD|380
+1 Faerie Mastermind
+1 Fierce Guardianship|CMM|694
+1 Flash Thompson, Spider-Fan|SPM|7
+1 Flooded Strand|MH3|353
+1 Flusterstorm|MB2|163
+1 Force of Will|DMR|418
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|EOS|61
+1 Gran-Gran
+1 Imposter Mech|NEC|49
+1 Into the Flood Maw|BLB|52
+1 Jegantha, the Wellspring|MUL|44
+1 Kinnan, Bonder Prodigy|FCA|55
+1 Kutzil, Malamet Exemplar|LCI|304
+1 Lavinia, Azorius Renegade|TSR|380
+1 Legolas's Quick Reflexes|LTC|493
+1 Lotho, Corrupt Shirriff|LTR|370
+1 Lotus Petal|TMP|294
+1 Mana Confluence|SLD|1012a
+1 Mana Vault|2X2|394
+1 Mental Misstep|SLD|1179
+1 Mindbreak Trap|MAR|11
+1 Misty Rainforest|SPG|111
+1 Mount Doom|LTR|343
+1 Mox Amber|BRR|98
+1 Mox Diamond|STH|138
+1 Mystic Remora|TLE|16
+1 Neoform|WAR|206
+1 Nicol Bolas, Dragon-God
+1 Noble Hierarch|2XM|352
+1 Oath of Teferi|DOM|200
+1 Orcish Bowmasters|LTR|433
+1 Orim's Chant|MH3|323
+1 Otawara, Soaring City|NEO|414
+1 Plateau|LEB|280
+1 Polluted Delta|MH3|356
+1 Ragavan, Nimble Pilferer|MH2|315
+1 Relic of Legends|FIC|354
+1 Rhystic Study|WOT|71
+1 Saheeli Rai|KLD|186
+1 Savannah|LEB|281
+1 Scalding Tarn|SPG|112
+1 Scrubland|LEB|282
+1 Selvala, Heart of the Wilds|CMM|681
+1 Silence|SLD|1816
+1 Simian Spirit Guide|SLD|1548
+1 Smothering Tithe|WOT|67
+1 Sol Ring|SLD|1494
+1 Spider-Woman, Stunning Savior|SPM|230
+1 Starting Town|FIN|289
+1 Strix Serenade|MH3|327
+1 Suspend|MH2|448
+1 Swan Song|SLD|1591
+1 Taiga|LEB|283
+1 Tam, Mindful First-Year|ECL|380
+1 Tarnished Citadel|TLE|59
+1 Teferi, Time Raveler|BLC|92
+1 The Cabbage Merchant|TLE|203
+1 Tinder Wall|MB2|215
+1 Tropical Island|LEB|284
+1 Tundra|LEB|285
+1 Tyvar, Jubilant Brawler|ONE|344
+1 Underground Sea|LEB|286
+1 Vampiric Tutor|DMR|430
+1 Verdant Catacombs|SPG|113
+1 Volcanic Island|LEB|287
+1 Wan Shi Tong, Librarian|TLA|320
+1 Windswept Heath|MH3|360
+1 Wooded Foothills|MH3|361
+
+
+[Sideboard]
+1 Frantic Search|DMR|285
+
+

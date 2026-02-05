@@ -1,0 +1,114 @@
+[metadata]
+Name=Minecraft
+Description={"ops":[{"insert":"When choosing the commander, I knew that it had to be five-color. There were too many cards of each color to cut one.\n\nAt first, I looked at Niv-Mizzet Reborn, because it's a decent creature (stat-wise) and can draw me some cards on top of that. However, I decided it wasn't on-theme enough.\n\nThen, I look at The Ur-Dragon because it's similar in title to The Ender Dragon. However, its mana cost and functional irrelevance to the deck (only one other dragon card) make me look elsewhere.\n\nFinally, I looked to Golos, Tireless Pilgrim as the answer. It reminded me of all the times that I've run off to explore in the world of Minecraft, and its land ability makes for great mana fixing. On top of that, its humanoid build makes it seem like it could be represented by a player skin. While it's not perfect for a Minecraft-themed deck, I think it's my best option for now.\n\n"}]}
+Format=commander
+Bracket=0
+Author=SmashPortal
+Version=0
+URL=https://archidekt.com/decks/464254
+Date=2025-10-21
+Created=2020-03-23
+Updated=2025-10-21
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 The Ur-Dragon|SLD|11
+
+
+[Main]
+1 Aggressive Mining|M15|127
+1 Allay|EXO|1
+1 Badlands|ME4|241
+1 Bee Sting|POR|159
+1 Blaze|10E|190
+1 Blind Creeper|5DN|42
+1 Breach|USG|120
+1 Caged Zombie|M21|91
+1 Campfire|CMM|374
+1 Cartographer|EXO|107
+1 Cinderbones|SHM|59
+1 Command Tower|SLD|758
+1 Coral Reef|HML|24
+1 Desert|SPG|37
+1 Diamond Pick-Axe|LCI|143
+1 Dragon Breath
+1 Dragon Egg|CMR|173
+1 Drowned|DRK|24
+1 Expose to Daylight|RNA|8
+1 Eye Spy|S99|38
+1 Far|DGM|127
+1 Fire|APC|128
+1 Fire Diamond|CLB|445
+1 Fireball|BTD|37
+1 Forest|DDG|44
+1 Frantic Inventory|M21|394
+1 Frost Walker|FRF|35
+1 Goldvein Pick|FDN|253
+1 Grief|MH2|311
+1 Grindstone|OTP|62
+1 Ignite the Beacon|WAR|18
+1 Into the Void|CN2|112
+1 Iron Golem|AFR|348
+1 Irrigated Farmland|EOC|162
+1 Island|THB|251
+5 Island|MH3|313
+1 Island|DDF|79
+1 Jack-o'-Lantern|MID|254
+1 Jump|4ED|79
+1 Jungle Creeper|RIX|161
+1 Jungle Shrine|FIC|406
+1 Lava Zombie|PLS|113
+1 Leather Armor|AFR|248
+1 Library|CLU|18
+1 Lightning Bolt
+1 Lure|5ED|314
+1 Memory Leak|IKO|95
+1 Mob|MH1|97
+1 Mountain
+1 Mountain|ACR|305
+1 Mountain Stronghold|LEG|304
+1 Night|APC|131
+1 Plains|XLN|262
+1 Plains
+1 Plateau|ME4|249
+1 Poison Arrow|PTK|80
+1 Potion of Healing|AFR|34
+1 Relic Ward|VIS|16
+1 Remove Enchantments|LEG|33
+1 Riptide|DRK|35
+1 Sand Squid|MMQ|96
+1 Savannah|ME4|250
+1 Shipwreck Looter
+1 Skeleton Archer|M20|324
+1 Sleep
+1 Smelt
+1 Smite|GTC|25
+1 Spawning Bed|M3C|380
+1 Spider Spawning|2X2|158
+1 Strider Harness|RIX|183
+1 Strip Mine|EOS|85
+6 Swamp|ONS|340
+1 Swamp|THB|252
+1 Taiga|ME4|253
+1 Teferi's Puzzle Box|SLD|368
+1 Teleport|CHR|26
+1 Terraformer|RAV|70
+1 Terrain Generator|EOS|88
+1 The End|WOE|337
+1 Treasure Chest|AFR|397
+1 Treasure Map|LCI|391
+1 Tundra|ME4|255
+1 Vial of Dragonfire|CMM|417
+1 Vial of Poison|M14|226
+1 Village Bell-Ringer|ISD|41
+1 Void|EMA|211
+1 Warrant|RVR|240
+1 Witch's Cauldron|M21|129
+1 Witch's Cottage|ELD|249
+1 Zombie Mob|MIR|153
+
+
+[Sideboard]
+
+

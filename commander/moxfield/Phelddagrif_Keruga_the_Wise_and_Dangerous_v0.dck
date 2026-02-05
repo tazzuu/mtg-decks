@@ -1,0 +1,116 @@
+[metadata]
+Name=Phelddagrif & Keruga, the Wise and Dangerous
+Description=A silly combo deck with essence of group hug. Win by giving your opponents too many hippos. 
+Format=commander
+Bracket=4
+Author=wachelreeks
+Version=0
+URL=https://moxfield.com/decks/QghOFkWZEE2QRDMnPQ_YcA
+Date=2025-03-25T17:19:46.79Z
+Created=2021-01-29T16:43:03.2Z
+Updated=2025-03-25T17:19:46.79Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Phelddagrif|ALL|115
+
+
+[Main]
+1 Ancient Tomb|TMP|315
+1 Angel's Trumpet|ULG|121
+1 Arachnogenesis|C15|32
+1 Bala Ged Recovery|ZNR|180
+1 Barkchannel Pathway|KHM|290
+1 Beck|DGM|123
+1 Boseiju, Who Endures|NEO|412
+1 Bountiful Promenade|CLB|601
+1 Branchloft Pathway|ZNR|284
+1 Breeding Pool|RVR|399
+1 Careful Cultivation|NEO|178
+1 Castle Garenbrig|ELD|240
+1 Command Tower|SLD|1697
+1 Consecrated Sphinx|SLD|165
+1 Crafty Cutpurse|RIX|33
+1 Cultivate|STA|114
+1 Defense of the Heart|ULG|100
+1 Dictate of Kruphix
+1 Dingus Staff|WTH|149
+1 Dryad of the Ilysian Grove|SLD|191
+1 Endless Detour|SNC|305
+1 Ezuri's Predation|CMM|287
+1 Fabled Passage
+1 Fierce Guardianship|CMM|94
+1 Flare of Cultivation|MH3|425
+1 Flooded Strand|ONS|316
+1 Forbidden Orchard|CHK|276
+1 Force of Will|DMR|418
+5 Forest|UNH|140
+1 Fractured Identity|SLD|272
+1 Freestrider Lookout|OTJ|340
+1 Generous Gift|H1R|2
+1 Ghostly Prison
+1 Hallowed Fountain|RVR|404
+1 Heartbeat of Spring|CHK|212
+1 High Fae Trickster|FDN|307
+1 Hinterland Harbor|ISD|241
+1 Insight|TMP|68
+1 Intruder Alarm|STH|34
+3 Island|UNH|137
+1 Kodama's Reach|CMR|681
+1 Lair of the Hydra|AFR|259
+1 Ley Weaver|BBD|21
+1 Leyline of Anticipation|M11|61
+1 Lore Weaver|BBD|22
+1 Master of Ceremonies|NCC|119
+1 Maze of Ith|DRK|117
+1 Mercy Killing|SHM|231
+1 Mirari's Wake|JUD|139
+1 Misty Rainforest|MH2|438
+1 Mystic Confluence|TSR|312
+1 Nyxbloom Ancient
+1 Octomancer|BLC|37
+1 Overgrowth|STH|111
+1 Perch Protection|BLC|11
+1 Pir's Whim|BBD|73
+3 Plains|UNH|136
+1 Prismatic Vista|H1R|40
+1 Propaganda|TMP|80
+1 Psychic Possession|DIS|30
+1 Questing Phelddagrif|PLS|119
+1 Reins of Power|STH|41
+1 Rejuvenating Springs|CMM|662
+1 Rift Sower|MH2|170
+1 Sea of Clouds|CLB|605
+1 Search for Tomorrow|TSR|229
+1 Selvala, Explorer Returned|CNS|51
+1 Sink into Stupor|MH3|241
+1 Solitude|SPG|44
+1 Spara's Headquarters|SNC|355
+1 Struggle for Project Purity|PIP|380
+1 Sunpetal Grove|M10|228
+1 Supreme Verdict|2X2|388
+1 Teferi's Protection|SLD|1691
+1 Temple Garden|RVR|414
+1 Temporary Lockdown|DMU|389
+1 Tempt with Bunnies|BLC|13
+1 The Council of Four|CLB|271
+1 Treetop Village|ULG|143
+1 Trouble in Pairs|MKC|15
+1 Unexplained Absence|MKC|17
+1 Vanquish the Horde|MID|333
+1 Wargate|ARB|129
+1 Wedding Ring|WHO|468
+1 Wilderness Reclamation|RNA|149
+1 Windfall
+1 Windswept Heath|ONS|328
+1 Witch Enchanter|MH3|239
+1 Wood Elves
+1 Wrath of God
+1 Yavimaya, Cradle of Growth|MH2|441
+
+
+[Sideboard]
+1 Keruga, the Macrosage|IKO|354
+
+

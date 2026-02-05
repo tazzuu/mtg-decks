@@ -1,0 +1,127 @@
+[metadata]
+Name=Selfmill like a lunatic
+Description=Mill baby, mill! Dump your deck into your graveyard, it's all trash anyway!
+Format=commander
+Bracket=3
+Author=ChrispyMTG
+Version=0
+URL=https://moxfield.com/decks/-7JlQ4TicEuaXgQQAJIy9w
+Date=2026-01-10T15:02:03.673Z
+Created=2022-12-18T13:35:01.167Z
+Updated=2026-01-10T15:02:03.673Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 The Mycotyrant|LCI|305
+
+
+[Main]
+1 Aftermath Analyst|MKM|148
+1 Agadeem's Awakening|ZNR|90
+1 Altar of Dementia|MH1|218
+1 Arcane Signet|C21|234
+1 Ashnod's Altar|CMM|368
+1 Attrition|CMD|72
+1 Ayara, First of Locthwain|MUL|13
+1 Bala Ged Recovery|ZNR|180
+1 Birds of Paradise|RVR|133
+1 Blood Artist|INR|97
+1 Blooming Marsh|OTJ|300
+1 Blossoming Tortoise|WOE|163
+1 Broodheart Engine|DFT|193
+1 Caustic Caterpillar|ORI|170
+1 Cemetery Tampering|SNC|69
+1 Chatterfang, Squirrel General|MH2|151
+1 Command Tower|MIC|170
+1 Craterhoof Behemoth|AVR|172
+1 Crawling Infestation|CMM|281
+1 Crawling Sensation|J22|642
+1 Dakmor Salvage|FUT|169
+1 Dark Confidant|RAV|81
+1 Darkmoss Bridge|MH2|245
+1 Deadly Brew|STX|176
+1 Deathrite Shaman|EMA|215
+1 Dread Return|TSR|111
+1 Drownyard Temple|SOI|271
+1 Dryad Arbor|FUT|174
+1 Eden, Seat of the Sanctum|FIN|355
+1 Elves of Deep Shadow|DDJ|47
+1 Elvish Mystic|CMM|648
+1 Evolving Wilds|J22|813
+1 Exotic Orchard|C21|288
+1 Fabled Passage
+4 Forest|LCI|291
+1 Funeral Room|DSK|338
+1 Grist, the Hunger Tide|MH2|306
+1 Hedge Shredder|DSK|183
+1 Hermit Druid|STH|108
+1 Icetill Explorer|EOE|192
+1 Insidious Fungus|DSK|186
+1 Jarad, Golgari Lich Lord|GK1|65
+1 Kishla Village|TDM|396
+1 Lasyd Prowler|TDM|348
+1 Life from the Loam|DDJ|69
+1 Llanowar Wastes|C19|258
+1 Malakir Rebirth|ZNR|111
+1 Meren of Clan Nel Toth|CMM|685
+1 Mesmeric Orb|MRD|204
+1 Millikin|MH2|297
+1 Mirkwood Bats|LTR|421
+1 Morbid Opportunist|TDC|188
+1 Myriad Landscape|C19|261
+1 Nurturing Peatland|ACR|114
+1 Nyx Weaver|C20|226
+1 Out of the Tombs|40K|46
+1 Outland Liberator|MID|303
+1 Palantír of Orthanc|LTR|247
+1 Perpetual Timepiece|KLD|227
+1 Priest of Forgotten Gods|RVR|90
+1 Restless Cottage|WOE|258
+1 Ripples of Undeath|MH3|107
+1 Sakura-Tribe Elder|C13|168
+1 Scavenger's Talent|BLB|111
+1 Seedship Broodtender|EOE|227
+1 Sephiroth, Fabled SOLDIER|FIN|115
+1 Sequestered Stash|KLD|248
+1 Shigeki, Jukai Visionary
+1 Six|MH3|370
+1 Skull Prophet|IKO|206
+1 Skullclamp|C16|271
+1 Sol Ring|SLD|2063
+1 Splinterfright|2X2|159
+1 Spymaster's Vault|MH3|358
+1 Stitcher's Supplier|M19|121
+4 Swamp|LCI|289
+1 Sylvan Library|SLD|2058
+1 Syr Konrad, the Grim|ELD|107
+1 Tainted Wood|DDM|78
+1 Takenuma, Abandoned Mire
+1 Temple of Malady|C21|323
+1 The Meathook Massacre
+1 Tomb Fortress|40K|168
+1 Tortured Existence|STH|74
+1 Twilight Mire|TDC|409
+1 Umbral Collar Zealot|EOE|395
+1 Undercity Informer|GTC|82
+1 Underrealm Lich
+1 Verdant Catacombs|ZNE|8
+1 Wight of the Reliquary|MH3|207
+1 Woe Strider|THB|123
+1 Woodland Cemetery|DMR|261
+1 Yawgmoth, Thran Physician|MH1|116
+
+
+[Sideboard]
+1 Avatar of Woe|CM2|57
+1 Festering Thicket|EOC|21
+1 Fiend Artisan|SPG|83
+1 Hell's Caretaker|A25|92
+1 Journey to Eternity|RIX|160
+1 Lazotep Quarry|M3C|131
+1 Lluwen, Imperfect Naturalist|ECL|232
+1 Overlord of the Balemurk|DSK|113
+1 The Gitrog Monster|EOC|117
+1 Trystan, Callous Cultivator|ECL|199
+
+

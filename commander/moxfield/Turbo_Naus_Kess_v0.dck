@@ -1,0 +1,123 @@
+[metadata]
+Name=Turbo Naus Kess
+Description=
+Format=commander
+Bracket=5
+Author=Famjii
+Version=0
+URL=https://moxfield.com/decks/6tdUx3hbGUq8Oz2Y6Q6W-w
+Date=2025-10-04T08:29:03.22Z
+Created=2020-04-22T06:46:09.503Z
+Updated=2025-10-04T08:29:03.22Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Kess, Dissident Mage|MH1|206
+
+
+[Main]
+1 Ad Nauseam|ALA|63
+1 An Offer You Can't Refuse|SNC|464
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|ONC|125
+1 Arid Mesa|ZEN|211
+1 Badlands|3ED|282
+1 Beseech the Mirror|WOE|82
+1 Birgi, God of Storytelling|KHM|311
+1 Blood Crypt
+1 Bloodstained Mire|KTK|230
+1 Brain Freeze|SCG|29
+1 Brainstorm|DDJ|13
+1 Cabal Ritual|TOR|51
+1 Chain of Vapor|C16|84
+1 Chrome Mox|2XM|240
+1 Command Tower|NCC|395
+1 Cyclonic Rift|RTR|35
+1 Dark Ritual|MMQ|129
+1 Demonic Consultation|ICE|121
+1 Demonic Counsel|DSK|92
+1 Demonic Tutor|UMA|93
+1 Dimir Signet|RAV|260
+1 Electro, Assaulting Battery|SPM|76
+1 Exotic Orchard|C21|288
+1 Faerie Mastermind|MOM|58
+1 Fellwar Stone|DMC|182
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Negation|2X2|50
+1 Force of Will|2XM|51
+1 Gamble|DMR|121
+1 Gemstone Caverns|TSP|274
+1 Gifts Ungiven|MMA|46
+1 Gitaxian Probe|NPH|35
+1 Gloomlake Verge|DSK|260
+1 Grim Monolith|ULG|126
+1 Imperial Seal|2X2|79
+1 Into the Flood Maw|BLB|52
+1 Intuition|TMP|70
+1 Island|INR|290
+1 Izzet Signet|GPT|152
+1 Ledger Shredder|SNC|46
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|TMP|294
+1 Mana Vault|UMA|229
+1 Marsh Flats|ZEN|219
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|ZEN|220
+1 Mizzix's Mastery|STA|43
+1 Morphic Pool|CLB|357
+1 Mox Diamond|STH|138
+1 Mox Opal|SOM|179
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|EMA|62
+1 Orcish Bowmasters|LTR|103
+1 Otawara, Soaring City|NEO|271
+1 Pact of Negation|A25|68
+1 Peer into the Abyss|M21|117
+1 Polluted Delta|KTK|239
+1 Ponder|M12|73
+1 Praetor's Grasp|NPH|71
+1 Reanimate|UMA|110
+1 Rhystic Study|PCY|45
+1 Rite of Flame|CSP|96
+1 Riverpyre Verge|DFT|260
+1 Scalding Tarn|MM3|244
+1 Simian Spirit Guide|PLC|122
+1 Snow-Covered Island|KHM|279
+1 Sol Ring|C15|268
+1 Spellseeker|BBD|41
+1 Starting Town|FIN|289
+1 Steam Vents
+1 Storm-Kiln Artist|STX|115
+1 Swamp|INR|293
+1 Swan Song|THS|65
+1 Tainted Pact|STA|33
+1 Talion, the Kindly Lord|WOE|215
+1 Talisman of Creativity|CMM|979
+1 Talisman of Dominance|MRD|253
+1 Thassa's Oracle|THB|73
+1 The One Ring|LTR|246
+1 Timetwister|2ED|85
+1 Toxic Deluge|CMM|191
+1 Training Center|CMR|358
+1 Undercity Sewers|MKM|270
+1 Underground Sea|3ED|290
+1 Underworld Breach|THB|161
+1 Vampiric Tutor|EMA|112
+1 Verdant Catacombs|ZEN|229
+1 Volatile Stormdrake|MH3|79
+1 Volcanic Island|3ED|291
+1 Watery Grave|RAV|286
+1 Wheel of Fortune|3ED|185
+1 Wheel of Misfortune|CMR|211
+1 Windfall|C16|104
+1 Wishclaw Talisman
+1 Wooded Foothills|KTK|249
+1 Yawgmoth's Will|USG|171
+
+
+[Sideboard]
+
+

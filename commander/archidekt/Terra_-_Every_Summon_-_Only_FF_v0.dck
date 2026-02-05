@@ -1,0 +1,116 @@
+[metadata]
+Name=Terra - Every Summon - Only FF
+Description={"ops":[{"insert":"The Summon mechanic is super interesting; this decks primarily goal is to include every summon. \n"}]}
+Format=commander
+Bracket=0
+Author=beesk
+Version=0
+URL=https://archidekt.com/decks/13177283
+Date=2025-12-08
+Created=2025-05-16
+Updated=2025-12-08
+Retrieved=2026-02-05
+ExportedBy=mtgconv v1.1-5-g364e0e8
+
+[Commander]
+1 Terra, Magical Adept|FIN|245
+
+
+[Main]
+1 Arcane Sanctum|FIC|373
+1 Arcane Signet|FIC|332
+1 Balamb Garden, SeeD Academy|FIN|272
+1 Baron, Airship Kingdom|FIN|273
+1 Birds of Paradise|FIC|483
+1 Celes, Rune Knight|FIC|220
+1 Chocobo Knights|FIC|12
+1 Chromatic Lantern|FCA|61
+1 Clash of the Eikons|FIN|180
+1 Clive, Ifrit's Dominant|FIN|133
+1 Command Tower|FIC|484
+1 Crystal Fragments|FIN|13
+1 Dion, Bahamut's Dominant|FIN|16
+1 Eden, Seat of the Sanctum|FIN|277
+1 Elena, Turk Recruit|FIC|18
+1 Esper Origins|FIN|185
+1 Exotic Orchard|FIC|390
+1 Farseek|FIC|302
+2 Forest|FIC|482
+1 Garnet, Princess of Alexandria|FIN|222
+1 Gohn, Town of Ruin|FIN|278
+1 Gongaga, Reactor Town|FIN|280
+1 Guadosalam, Farplane Gateway|FIN|281
+1 Heroic Intervention|SLD|1872
+1 Insomnia, Crown City|FIN|282
+1 Ishgard, the Holy See|FIN|283
+2 Island|FIC|479
+1 Jecht, Reluctant Guardian|FIN|104
+1 Jidoor, Aristocratic Capital|FIN|284
+1 Jill, Shiva's Dominant|FIN|58
+1 Joshua, Phoenix's Dominant|FIN|229
+1 Jungle Shrine|FIC|406
+1 Kefka, Court Mage|FIN|231
+1 Lindblum, Industrial Regency|FIN|285
+1 Luminous Broodmoth|FIC|246
+1 Midgar, City of Mako|FIN|286
+2 Mountain|FIC|481
+1 Nesting Grounds|FIC|408
+1 Nomad Outpost|FIC|409
+1 O'aka, Traveling Merchant|FIC|39
+1 Path of Ancestry|FIC|411
+4 Plains|FIC|478
+1 Prishe's Wanderings|FIN|193
+1 Rabanastre, Royal City|FIN|287
+1 Reach the Horizon|FIN|195
+1 Reanimate|FIC|282
+1 Rhystic Study|FCA|31
+1 Rikku, Resourceful Guardian|FIC|41
+1 Rise of the Dark Realms|FIC|283
+1 Ruinous Ultimatum|FIC|329
+1 Rydia, Summoner of Mist|FIN|239
+1 Scholar of New Horizons|FIC|252
+1 Seaside Citadel|FIC|420
+1 Sharlayan, Nation of Scholars|FIN|288
+1 Sin, Unending Cataclysm|FIC|95
+1 Sol Ring|FIC|356
+1 Starting Town|FIN|289
+1 Summon: Anima|FIN|120
+1 Summon: Bahamut|FIN|1
+1 Summon: Brynhildr|FIN|160
+1 Summon: Choco/Mog|FIN|35
+1 Summon: Esper Ramuh|FIN|161
+1 Summon: Esper Valigarmanda|FIC|60
+1 Summon: Fat Chocobo|FIN|202
+1 Summon: Fenrir|FIN|203
+1 Summon: G.F. Cerberus|FIN|162
+1 Summon: G.F. Ifrit|FIN|163
+1 Summon: Good King Mog XII|FIC|26
+1 Summon: Ixion|FIC|27
+1 Summon: Knights of Round|FIN|36
+1 Summon: Kujata|FIC|61
+1 Summon: Leviathan|FIN|77
+1 Summon: Magus Sisters|FIC|71
+1 Summon: Primal Garuda|FIN|37
+1 Summon: Primal Odin|FIN|121
+1 Summon: Shiva|FIN|78
+1 Summon: Titan|FIN|204
+1 Summon: Valefor|FIC|42
+1 Summon: Yojimbo|FIC|28
+2 Swamp|FIC|480
+1 Terra, Herald of Hope|FIC|223
+1 The Wandering Minstrel|FIN|249
+1 Tidus, Yuna's Guardian|FIC|224
+1 Together Forever|FIC|257
+1 Treno, Dark City|FIN|290
+1 Vector, Imperial Capital|FIN|291
+1 Vincent's Limit Break|FIN|126
+1 Windurst, Federation Center|FIN|292
+1 Yuna's Decision|FIC|74
+1 Yuna, Grand Summoner|FIC|227
+1 Yuna, Hope of Spira|FIN|250
+1 Zanarkand, Ancient Metropolis|FIN|293
+
+
+[Sideboard]
+
+

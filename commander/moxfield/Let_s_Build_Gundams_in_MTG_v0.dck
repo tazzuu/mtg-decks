@@ -1,0 +1,114 @@
+[metadata]
+Name=Let's Build Gundams in MTG!
+Description=
+Format=commander
+Bracket=3
+Author=WolfSajin
+Version=0
+URL=https://moxfield.com/decks/NdAEM_QnoU22fSNuvWBbwA
+Date=2025-10-12T19:47:00.29Z
+Created=2022-02-19T23:46:50.137Z
+Updated=2025-10-12T19:47:00.29Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Shorikai, Genesis Engine|NEC|76
+
+
+[Main]
+1 Academy Ruins|2XM|369
+1 Adarkar Wastes|10E|347
+1 Ancient Den|C21|276
+1 Arcane Signet|NEC|144
+1 Arcum Dagsson|CSP|27
+1 Azorius Signet|VOC|161
+1 Born to Drive|NEO|6
+1 Command Tower|CMR|479
+1 Containment Construct|NEO|243
+1 Cosima, God of the Voyage|KHM|303
+1 Crawlspace|C13|240
+1 Cultivator's Caravan|DRC|127
+1 Cyberdrive Awakener|NEC|48
+1 Darksteel Citadel|C16|288
+1 Darksteel Forge|HOP|111
+1 Dispatch|NEC|83
+1 Disruption Protocol|NEO|51
+1 Dovin's Veto|WAR|193
+1 Drumbellower|NEC|6
+1 Echo of Eons|MH1|46
+1 Eiganjo, Seat of the Empire|NEO|413
+1 Esper Sentinel|MH2|12
+1 Etherium Sculptor|NEC|92
+1 Fabricate|SLD|1084
+1 Farewell|NEO|417
+1 Fierce Guardianship|C20|35
+1 Fleetwheel Cruiser|KLD|214
+1 Futurist Sentinel|NEO|54
+1 Glacial Fortress|M13|225
+1 Glimmervoid|2XM|319
+1 Hallowed Fountain|RTR|241
+1 Imposter Mech|NEC|49
+1 Interface Ace|DFT|17
+1 Inventors' Fair
+1 Invoke Justice|NEO|437
+1 Ironsoul Enforcer|NEC|41
+7 Island|NEO|296
+1 Junk Diver|CM2|195
+1 Kotori, Pilot Prodigy|NEC|75
+1 Liquimetal Torque|MH2|228
+1 Lita, Mechanical Engineer|J22|6
+1 Manifold Key|M20|230
+1 Mech Hangar|NEO|270
+1 Mechtitan Core|NEO|402
+1 Mendicant Core, Guidelight|DFT|365
+1 Metalwork Colossus|KLD|222
+1 Mighty Servant of Leuk-o|CLB|324
+1 Minamo, School at Water's Edge
+1 Mindlink Mech|NEO|373
+1 Mobilizer Mech|NEO|65
+1 Mox Opal|MM2|223
+1 Mystical Tutor|EMA|62
+1 Nautiloid Ship|CLB|328
+1 Nimbus Maze|FUT|178
+1 Otawara, Soaring City|NEO|414
+1 Padeem, Consul of Innovation|KLD|59
+1 Palladium Myr|SOM|190
+6 Plains|NEO|294
+1 Prairie Stream|AFC|256
+1 Prodigy's Prototype|NEO|231
+1 Pull from Eternity|TSP|35
+1 Razortide Bridge|MH2|252
+1 Reaver Titan|40K|163
+1 Render Silent|GK2|18
+1 Salvation Engine|DFT|407
+1 Scaretiller|C19|57
+1 Sea of Clouds|ZNE|16
+1 Seat of the Synod|DDF|74
+1 Smuggler's Copter|KLD|235
+1 Sol Ring|NEC|161
+1 Spire of Industry|NEC|178
+1 Sram, Senior Edificer|NEC|88
+1 Strip Mine|ZNE|28
+1 Suit Up|NEO|81
+1 Supreme Verdict
+1 Surgehacker Mech|NEO|405
+1 Swift Reconfiguration|NEC|45
+1 Swords to Plowshares|NEC|89
+1 Talisman of Progress|MRD|256
+1 Tameshi, Reality Architect|NEO|375
+1 Teferi's Protection|STA|74
+1 Throne of the God-Pharaoh|AKH|237
+1 Time Wipe|WAR|223
+1 Tranquil Cove|NEO|280
+1 Unwinding Clock|NPH|164
+1 Urza's Saga|MH2|259
+1 Weatherlight|DOM|237
+1 Workshop Assistant|CMR|348
+
+
+[Sideboard]
+1 Parhelion II|WAR|24
+1 Skysovereign, Consul Flagship|KLD|234
+
+

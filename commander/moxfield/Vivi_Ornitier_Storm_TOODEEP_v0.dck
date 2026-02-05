@@ -1,0 +1,126 @@
+[metadata]
+Name=Vivi Ornitier Storm [TOODEEP]
+Description=a cEDH deck that is very curious
+Format=commander
+Bracket=5
+Author=kenbaumann,rfoxley,theegwenchler,xoophy
+Version=0
+URL=https://moxfield.com/decks/nBKRWuYyckqPxpCmWBjIBg
+Date=2025-08-19T23:16:01.287Z
+Created=2025-05-10T17:51:10.023Z
+Updated=2025-08-19T23:16:01.287Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Vivi Ornitier|FIN|321
+
+
+[Main]
+1 An Offer You Can't Refuse|FDN|160
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|OTC|252
+1 Arid Mesa|MH2|244
+1 Bloodstained Mire|MH3|216
+1 Borne Upon a Wind|LTR|44
+1 Brain Freeze|MB2|24
+1 Chain of Vapor|MB2|156
+1 Chrome Mox|EMA|219
+1 City of Brass|5ED|413
+1 City of Traitors|EXO|143
+1 Command Tower|SCD|297
+1 Crowd's Favor
+1 Curiosity
+1 Daze|MB2|26
+1 Deflecting Swat|C20|50
+1 Desperate Ritual|CHK|163
+1 Dizzy Spell|RAV|43
+1 Dragon's Rage Channeler|MH2|121
+1 Emergence Zone|WAR|245
+1 Everflowing Chalice|EOC|137
+1 Faithless Looting|SLD|1779
+1 Fierce Guardianship|CMM|94
+1 Fiery Islet|WHO|278
+1 Final Fortune|MB2|190
+1 Flooded Strand|MH3|220
+1 Flusterstorm|MH1|255
+1 Force of Negation|2X2|50
+1 Force of Will|DMR|284
+1 Gamble|DMR|321
+1 Gemstone Caverns
+1 Gitaxian Probe|MB2|28
+1 Gut Shot|MM2|117
+1 Hullbreaker Horror|INR|357
+1 Into the Flood Maw|BLB|52
+1 Intuition|TMP|70
+1 Island|M14|236
+1 Jeska's Will|MKC|156
+1 Jeweled Amulet|ICE|326
+1 Last Chance|DMR|325
+1 Light Up the Stage|CLU|140
+1 Lightning Bolt|CLB|401
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|MB2|226
+1 Magic Damper|FIN|61
+1 Mana Confluence|JOU|163
+1 Mana Vault|5ED|388
+1 Mental Misstep|MB2|30
+1 Mindbreak Trap|MB2|168
+1 Misdirection|DDT|15
+1 Mishra's Bauble|BRR|34
+1 Misty Rainforest|MH2|250
+1 Mogg Salvage|MH2|282
+1 Mountain|C13|349
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|DMR|289
+1 Ophidian Eye|TSP|70
+1 Otawara, Soaring City|NEO|271
+1 Pact of Negation|MMA|56
+1 Paradise Mantle|5DN|142
+1 Polluted Delta|MH3|224
+1 Ponder|TDC|159
+1 Pyretic Ritual|M11|153
+1 Pyroblast|SS3|5
+1 Pyrokinesis
+1 Quicksilver Elemental|MRD|47
+1 Ragavan, Nimble Pilferer|MUL|21
+1 Red Elemental Blast|4ED|218
+1 Rite of Flame|MB2|59
+1 Riverpyre Verge
+1 Scalding Tarn|MH2|254
+1 Shivan Reef|BLC|331
+1 Simian Spirit Guide|MB2|61
+1 Sink into Stupor|MH3|241
+1 Snapback|TSP|78
+1 Sol Ring|C13|259
+1 Springleaf Drum|BRR|55
+1 Starting Town|FIN|289
+1 Steam Vents|GRN|257
+1 Strike It Rich|MH2|143
+1 Submerge
+1 Swan Song|LTC|197
+1 Talisman of Creativity|M3C|308
+1 Tandem Lookout|MM3|53
+1 The One Ring|LTR|451
+1 Thundering Falls
+1 Tormod's Crypt|DMR|235
+1 Training Center|CMR|358
+1 Twisted Image
+1 Underworld Breach|MB2|200
+1 Urza's Bauble|5ED|406
+1 Volcanic Island|3ED|291
+1 Warrior's Oath|2X2|130
+1 Wheel of Fortune|3ED|185
+1 Wild Ride|TDM|132
+1 Wooded Foothills|MH3|236
+
+
+[Sideboard]
+1 Drill Too Deep|EOE|133
+1 In Too Deep|NCC|27
+1 Too Greedily, Too Deep|LTC|72
+
+

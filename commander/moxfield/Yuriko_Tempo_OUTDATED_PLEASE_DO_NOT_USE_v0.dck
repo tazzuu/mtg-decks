@@ -1,0 +1,133 @@
+[metadata]
+Name=Yuriko Tempo (OUTDATED PLEASE DO NOT USE)
+Description="Yuriko Tempo"; a Yuriko strategy that aims to get ninjas out steadily and control the board thereafter into an inevitable win. Combos off when necessary or when the opportunity presents itself.
+Format=commander
+Bracket=4
+Author=KOKO,WizardAdept,Yuriko_Discord
+Version=0
+URL=https://moxfield.com/decks/RM9tBCjdsEOUQQpleGI4Gw
+Date=2025-12-04T17:07:56.03Z
+Created=2022-02-16T21:10:14.38Z
+Updated=2025-12-04T17:07:56.03Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Yuriko, the Tiger's Shadow
+
+
+[Main]
+1 Agadeem's Awakening|ZNR|336
+1 An Offer You Can't Refuse|SNC|464
+1 Bloodchief Ascension|ZEN|82
+1 Bloodstained Mire|MH3|352
+1 Boggart Trawler|MH3|243
+1 Brainstorm|STA|76
+1 Changeling Outcast|MH1|82
+1 Chrome Mox
+1 City of Brass|2X2|403
+1 Command Tower|CMM|659
+1 Commandeer|CSP|29
+1 Consign|HOU|149
+1 Contagion|ALL|45
+1 Cursed Totem|MIR|299
+1 Dark Ritual|STA|89
+1 Dauthi Voidwalker
+1 Deadly Rollick|CMM|695
+1 Demonic Consultation|SLD|1127
+1 Demonic Tutor|STA|90
+1 Dismember|NPH|57
+1 Faerie Seer|MH1|51
+1 Fell the Profane|MH3|244
+1 Fierce Guardianship|CMM|694
+1 Flare of Denial|MH3|326
+1 Flare of Malice|MH3|331
+1 Flooded Strand|MH3|353
+1 Flusterstorm
+1 Force of Despair|MH1|92
+1 Force of Negation|MH1|52
+1 Force of Will|2XM|340
+1 Fourth Bridge Prowler|AER|60
+1 Gemstone Caverns|TSR|280
+1 Hydroelectric Specimen|MH3|240
+1 Imperial Seal
+1 Ingenious Infiltrator|MH1|204
+1 Ingenious Prodigy|WOE|333
+1 Island|NEO|296
+1 Kaito, Bane of Nightmares|DSK|409
+1 Lim-Dûl's Vault|SLC|1996
+1 Lotus Petal
+1 Mana Confluence|JOU|163
+1 Marsh Flats|MH2|248
+1 Memnite|SOM|174
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Misdirection|CNS|102
+1 Mistblade Shinobi|BOK|43
+1 Misty Rainforest|MH2|477
+1 Mockingbird|BLB|305
+1 Moon-Circuit Hacker|NEO|334
+1 Morphic Pool|BBD|83
+1 Mothdust Changeling|MOR|42
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mystic Remora|SLD|406
+1 Mystical Tutor|EMA|62
+1 Ninja of the Deep Hours|BOK|44
+1 Null Rod|WTH|154
+1 Opposition Agent|CMR|651
+1 Orcish Bowmasters|LTR|433
+1 Ornithopter|SLD|604
+1 Otawara, Soaring City
+1 Phyrexian Walker|VIS|152
+1 Polluted Delta|MH3|356
+1 Prismatic Vista|H1R|40
+1 Prosperous Thief|NEO|336
+1 Rhystic Study|WOT|91
+1 Roaming Throne|LCI|258
+1 Sakashima's Student|PCA|24
+1 Satoru, the Infiltrator|OTJ|298
+1 Scalding Tarn|MH2|478
+1 Sea Gate Restoration|ZNR|333
+1 Shadow of Mortality|SNC|287
+1 Sheoldred, the Apocalypse|DMU|436
+1 Shizo, Death's Storehouse|CHK|283
+1 Silver-Fur Master|NEO|353
+1 Sink into Stupor|MH3|241
+1 Skullsnatcher|BOK|84
+1 Snow-Covered Island|SLD|1474★
+1 Snow-Covered Swamp|SLD|1475★
+1 Snuff Out|MMQ|162
+1 Sol Ring|SLD|1494★
+1 Spectral Sailor|M20|76
+1 Submerge|NEM|48
+1 Swamp|NEO|297
+1 Tainted Pact|STA|33e
+1 Talion, the Kindly Lord|WOE|301
+1 Temporal Trespass|FRF|55
+1 Tetsuko Umezawa, Fugitive|DOM|69
+1 Thassa's Oracle|THB|308
+1 Thousand-Faced Shadow|NEO|337
+1 Underground River
+1 Underground Sea|3ED|290
+1 Universal Automaton|MH1|235
+1 Vampiric Tutor|CMR|656
+1 Verdant Catacombs|MH2|479
+1 Watery Grave|RVR|301
+1 Weathered Runestone|KHM|247
+1 Wingcrafter|MM3|58
+
+
+[Sideboard]
+1 Chain of Vapor|ONS|73
+1 Dispel|RTR|36
+1 Doomsday
+1 Dystopia|ALL|47
+1 Hope of Ghirapur
+1 Mausoleum Wanderer|EMN|69
+1 Saiba Cryptomancer|MOM|76
+1 Sickening Shoal|BOK|82
+1 Stern Scolding|LTR|71
+1 Thieves' Guild Enforcer|M21|125
+
+

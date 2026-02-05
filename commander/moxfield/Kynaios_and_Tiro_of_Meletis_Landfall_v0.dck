@@ -1,0 +1,127 @@
+[metadata]
+Name=Kynaios and Tiro of Meletis (Landfall)
+Description=Check the primer for the latest updates! A landfall deck that prioritizes the playgroup's fun over winning, but maybe probably still wins (probably with tokens). 
+Format=commander
+Bracket=3
+Author=harry
+Version=0
+URL=https://moxfield.com/decks/9OntxpFr0E-M7h_OtgSvcA
+Date=2026-01-14T16:01:40.167Z
+Created=2018-04-27T18:03:14.21Z
+Updated=2026-01-14T16:01:40.167Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Kynaios and Tiro of Meletis|C16|36
+
+
+[Main]
+1 Abstergo Entertainment|ACR|79
+1 Admonition Angel|SLD|154
+1 Aesi, Tyrant of Gyre Strait|DSC|210
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Greenwarden|ZNR|178
+1 Arcane Denial|WOC|84
+1 Arid Mesa|MM3|229
+1 Avenger of Zendikar|SLD|158
+1 Azusa, Lost but Seeking|A25|161
+1 Boseiju, Who Endures|NEO|266
+1 Canopy Vista|BFZ|234
+1 Case of the Locked Hothouse|MKM|155
+1 Collective Restraint|INV|49
+1 Command Tower|CC2|8
+1 Commit|AKH|211
+1 Crop Rotation|DMR|154
+1 Delay|TSR|61
+1 Disallow|AER|31
+1 Dovin's Veto|WAR|193
+1 Dragonback Assault|TDM|179
+1 Dryad of the Ilysian Grove|THB|169
+1 Elvish Reclaimer|M20|169
+1 Emeria Shepherd|BFZ|22
+1 Exploration|2XM|167
+1 Fabled Passage|M21|246
+1 Farewell|NEO|13
+1 Farseek|RVR|138
+1 Field of the Dead|M20|247
+1 Finale of Devastation|WAR|160
+1 Flooded Strand|KTK|233
+1 Forest|ZNR|280
+1 Geode Rager|ZNC|6
+1 Ghost Quarter|ISD|240
+1 Ghostly Prison|TDC|116
+1 Gifts Ungiven|2X2|51
+1 Gladiolus Amicitia|FIN|224
+1 Hallowed Fountain
+1 Icetill Explorer|EOE|192
+1 Into the North|CSP|111
+1 Izzet Boilerworks|M3C|350
+1 Jetmir's Garden|SNC|250
+1 Life from the Loam|UMA|172
+1 Loot, Exuberant Explorer|FDN|106
+1 Marsh Flats|MM3|239
+1 Maze of Ith|DRK|117
+1 Misty Rainforest|MM3|240
+1 Mystic Sanctuary|ELD|247
+1 Nature's Lore|MKC|178
+1 Nissa, Vital Force|KLD|163
+1 Oboro, Palace in the Clouds|SOK|164
+1 Omnath, Locus of Rage|BFZ|217
+1 Omnath, Locus of the Roil|M20|216
+1 Otawara, Soaring City|NEO|271
+1 Path to Exile|MKC|78
+1 Perch Protection|BLC|11
+1 Plains|ZNR|266
+1 Plateau|3ED|284
+1 Prismatic Vista|MH1|244
+1 Propaganda|M3C|191
+1 Rampaging Baloths|IMA|184
+1 Rampant Growth|CMM|908
+1 Ramunap Excavator|CMR|433
+1 Raugrin Triome
+1 Reap and Sow|DST|81
+1 Reliquary Tower|MKC|282
+1 Sandwurm Convergence|CMM|911
+1 Savannah|3ED|285
+1 Scalding Tarn|MM3|244
+1 Selesnya Sanctuary|CMM|1031
+1 Settle the Wreckage|XLN|34
+1 Shared Roots|TLA|196
+3 Snow-Covered Forest|MH1|254
+1 Snow-Covered Island|MH1|251
+1 Snow-Covered Mountain|MH1|253
+2 Snow-Covered Plains|MH1|250
+1 Sowing Mycospawn|MH3|170
+1 Spara's Headquarters|SNC|257
+1 Swords to Plowshares|MKC|88
+1 Taiga|3ED|287
+1 Tatyova, Benthic Druid|DOM|206
+1 Taunt from the Rampart|LTC|71
+1 Teferi's Ageless Insight|M21|76
+1 Temple Garden|GRN|258
+1 Tempt with Discovery|BLC|124
+1 Three Visits|MKC|189
+1 Titania's Command|BRO|194
+1 Trade Routes|MMQ|112
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Urza's Cave|MH3|234
+1 Volcanic Island|3ED|291
+1 Wargate|ARB|129
+1 Winds of Abandon|MH1|37
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Zacama, Primal Calamity|RIX|174
+
+
+[Sideboard]
+1 Crib Swap|ECL|11
+1 Glen Elendra's Answer|ECL|52
+1 Hexing Squelcher|ECL|145
+1 Prismatic Undercurrents|ECL|189
+1 Sapling Nursery|ECL|192
+1 Tend the Sprigs|ECL|197
+1 Toph, the First Metalbender|TLA|247
+
+

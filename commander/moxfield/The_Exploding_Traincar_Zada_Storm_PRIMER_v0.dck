@@ -1,0 +1,102 @@
+[metadata]
+Name=The Exploding Traincar: Zada Storm (PRIMER)
+Description=A mono-red combo deck for your inner Jenny/Johnny. Make tokens, cast rituals, and draw your whole library in this glass-cannon storm deck.
+Format=commander
+Bracket=3
+Author=ACCollection,Sacraliel
+Version=0
+URL=https://moxfield.com/decks/T0cB9lGnU0i0gXsfcVmh9Q
+Date=2024-09-27T14:21:01.653Z
+Created=2020-10-13T05:00:02.163Z
+Updated=2024-09-27T14:21:01.653Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Zada, Hedron Grinder|CMM|268
+
+
+[Main]
+1 Academic Dispute|STX|91
+1 Accelerate|TOR|90
+1 Ancestors' Aid|LCI|132
+1 Ancestral Anger|VOW|142
+1 Arcane Signet|PIP|224
+1 Ardent Elementalist|DBL|128
+1 Battle Hymn|AVR|128
+1 Big Score|OTC|155
+1 Birgi, God of Storytelling|KHM|123
+1 Blazing Crescendo|ONE|123
+1 Blazing Shoal
+1 Brightstone Ritual|ONS|191
+1 Cathartic Reunion|KLD|109
+1 Coldsteel Heart|2X2|301
+1 Crimson Wisps|SHM|88
+1 Desperate Ritual|UMA|127
+1 Devastating Summons|ROE|140
+1 Dragon Fodder|CMM|217
+1 Expedite|OGW|108
+1 Fable of the Mirror-Breaker|NEO|141
+1 Faithless Looting|CMM|220
+1 Fear, Fire, Foes!|LTR|125
+1 Fiery Gambit|MRD|90
+1 Finale of Promise|OTC|166
+1 Fists of Flame|CMM|223
+1 Flick a Coin|WOE|128
+1 Gamble|DMR|433
+1 Gleeful Demolition|ONE|134
+1 Goblin Instigator|M19|142
+1 Great Furnace|MRD|282
+1 Haze of Rage|TSR|169
+1 Hordeling Outburst|DDT|51
+1 Imperial Recruiter|2XM|131
+1 Indomitable Creativity|OTP|25
+1 Inner Fire|SOK|105
+1 Iron Myr|MRD|187
+1 Jeska's Will|CMR|187
+1 Kari Zev's Expertise|AER|88
+1 Kher Keep|MKC|270
+1 Kick in the Door|AFR|153
+1 Krenko's Command|CLU|139
+1 Krenko, Mob Boss|RVR|114
+1 Krenko, Tin Street Kingpin|MOC|287
+1 Kuldotha Rebirth|SOM|96
+1 Mana Echoes|2XM|136
+1 Mana Geyser|SCD|151
+1 Mines of Moria|LTR|257
+1 Mirrex
+1 Mizzix's Mastery|OTC|175
+22 Mountain|BFZ|267
+1 Nahiri's Warcrafting
+1 Ornithopter of Paradise|MH2|430
+1 Past in Flames|ISD|155
+1 Renegade Tactics|CMR|195
+1 Ruby Medallion|MH3|295
+1 Runaway Steam-Kin|GRN|115
+1 Seasoned Pyromancer|MH1|145
+1 Seething Song|MRD|104
+1 Shatterskull Smashing|ZNR|161
+1 Skullclamp
+1 Sokenzan, Crucible of Defiance|NEO|276
+1 Sol Ring|OTC|267
+1 Song of Totentanz|WOE|150
+1 Spark of Creativity|J22|602
+1 Star Compass|IMA|229
+1 Storm-Kiln Artist|OTC|181
+1 Stun|TMP|207
+1 Sudden Breakthrough|STX|116
+1 Tempt with Vengeance|CMM|263
+1 The Autonomous Furnace|ONE|247
+1 Thought Vessel|CMR|346
+1 Treasonous Ogre|CNS|36
+1 Underworld Breach|THB|161
+1 Unexpected Windfall|PIP|193
+1 Valakut Awakening
+1 War Room|MKC|310
+1 Witch's Mark|WOE|158
+1 Young Pyromancer|OTC|185
+
+
+[Sideboard]
+
+

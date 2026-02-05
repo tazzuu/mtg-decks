@@ -1,0 +1,133 @@
+[metadata]
+Name=Dawnwaker Thrasios
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Version=0
+URL=https://moxfield.com/decks/kLygDHVCskGtvwAWsL2MNw
+Date=2025-04-15T02:12:22.29Z
+Created=2020-04-18T21:33:56.067Z
+Updated=2025-04-15T02:12:22.29Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 Bruse Tarl, Boorish Herder|CMR|517
+1 Thrasios, Triton Hero|CMR|538
+
+
+[Main]
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb
+1 Arcane Signet|MIC|157
+1 Archdruid's Charm|MKM|151
+1 Archivist of Oghma|CLB|553
+1 Arid Mesa|ZNE|9
+1 Avacyn's Pilgrim|MM3|119
+1 Basalt Monolith|2XM|232
+1 Birds of Paradise|CN2|176
+1 Bloom Tender|EVE|66
+1 Boseiju, Who Endures|NEO|501
+1 Breeding Pool|RNA|246
+1 Carpet of Flowers|USG|240
+1 Chord of Calling|2XM|158
+1 Chrome Mox
+1 City of Brass|2X2|403
+1 Colossal Skyturtle|NEO|216
+1 Command Tower|CMR|705
+1 Crop Rotation
+1 Cyclonic Rift|RTR|35
+1 Deflecting Swat|C20|50
+1 Delay|SLD|1788
+1 Delighted Halfling|LTR|774
+1 Derevi, Empyrial Tactician|CMA|176
+1 Devoted Druid|NCC|286
+1 Eladamri's Call|MH1|197
+1 Elvish Spirit Guide|DMR|157
+1 Emergence Zone|WAR|245
+1 Emiel the Blessed|2X2|417
+1 Enduring Vitality
+1 Enlightened Tutor
+1 Esper Sentinel|MH2|328
+1 Eternal Witness|5DN|86
+1 Exotic Orchard|CON|142
+1 Fellwar Stone|MKC|228
+1 Fierce Guardianship|C20|35
+1 Finale of Devastation|WAR|160
+1 Flooded Strand|ZNE|1
+1 Flusterstorm|IMA|55
+1 Forbidden Orchard|CHK|276
+1 Force of Negation|MH1|52
+1 Force of Will|2XM|340
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Green Sun's Zenith|EMA|169
+1 Grim Monolith|ULG|126
+1 Hallowed Fountain|RNA|251
+1 Kinnan, Bonder Prodigy|IKO|338
+1 Lightning Bolt|STA|105
+1 Lotus Petal|V09|7
+1 Mana Confluence|JOU|163
+1 Mana Vault|3ED|263
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Minsc & Boo, Timeless Heroes
+1 Miscast|M21|57
+1 Misty Rainforest|ZNE|10
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Muddle the Mixture|RAV|60
+1 Mystic Remora|ICE|87
+1 Noble Hierarch|UMA|174
+1 Otawara, Soaring City|NEO|271
+1 Polluted Delta|ZNE|2
+1 Ranger-Captain of Eos|H1R|5
+1 Resculpt|STX|51
+1 Rhystic Study|PCY|45
+1 Savannah|3ED|285
+1 Scalding Tarn|ZNE|7
+1 Seedborn Muse|BBD|212
+1 Silence|M14|35
+1 Sink into Stupor|MH3|241
+1 Smothering Tithe|CMM|57
+1 Snap|ULG|43
+1 Sol Ring
+1 Spellseeker|BBD|41
+1 Spellskite|CLB|873
+1 Springleaf Drum|BRR|55
+1 Swan Song|THS|65
+1 Swift Reconfiguration|NEC|10
+1 Sylvan Library|CM1|17
+1 Taiga|3ED|287
+1 Talon Gates of Madara|M3C|134
+1 Tarnished Citadel|ODY|329
+1 Tezzeret the Seeker|DDF|39
+1 The One Ring|LTR|451
+1 Training Grounds|MAT|59
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Verdant Catacombs|ZNE|8
+1 Voice of Victory|TDM|33
+1 Volcanic Island|3ED|291
+1 Wargate|ARB|129
+1 Wild Growth|4ED|289
+1 Windswept Heath|ZNE|5
+1 Wooded Foothills|ZNE|4
+1 Worldly Tutor|6ED|269
+1 Zirda, the Dawnwaker|IKO|360
+
+
+[Sideboard]
+1 Borne Upon a Wind|LTR|44
+1 Consecrated Sphinx|MBS|21
+1 Gilded Drake|USG|76
+1 Grand Abolisher|M12|19
+1 Hullbreaker Horror|VOW|63
+1 Neoform|WAR|206
+1 Plateau|3ED|284
+1 Sevinne's Reclamation|OTC|86
+1 Simian Spirit Guide|TSR|190
+1 Spell Snare|BBD|132
+
+

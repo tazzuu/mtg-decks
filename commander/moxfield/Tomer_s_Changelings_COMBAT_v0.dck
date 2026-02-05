@@ -1,0 +1,130 @@
+[metadata]
+Name=Tomer's Changelings COMBAT
+Description=Restriction: every nonland card must mention a creature type
+Format=commander
+Bracket=3
+Author=BudgetCommander
+Version=0
+URL=https://moxfield.com/decks/NKlpPd4S8kKCpZVwzWqWfQ
+Date=2026-01-21T13:41:33.7Z
+Created=2021-11-14T16:33:38.12Z
+Updated=2026-01-21T13:41:33.7Z
+Retrieved=2026-02-03
+ExportedBy=mtgconv v1.0-17-gba7911e
+
+[Commander]
+1 The Ur-Dragon|SLD|11
+
+
+[Main]
+1 Amoeboid Changeling|LRW|51
+1 Arid Mesa|MH2|244
+1 Blades of Velis Vel|LRW|152
+1 Blood Crypt|RTR|238
+1 Bloodstained Mire|MH3|216
+1 Breeding Pool|GTC|240
+1 Cateran Summons|MMQ|126
+1 Changeling Outcast|H1R|12
+1 Changeling Wayfinder|ECL|1
+1 Choco, Seeker of Paradise|FIN|215
+1 Chomping Changeling|ECL|172
+1 City of Brass|2X2|403
+1 Cloudshredder Sliver|SLD|660
+1 Command Tower|CM1|2
+1 Concerted Defense|ZNR|52
+1 Coveted Prize|ZNR|95
+1 Crib Swap|LRW|11
+1 Eagle Vision|ACR|190
+1 Exotic Orchard|CON|142
+1 Feisty Spikeling|ECL|223
+1 Flock Impostor|ECL|16
+1 Flooded Strand|KTK|233
+1 Forest|8ED|348★
+1 Fortified Area|4ED|26
+1 Godless Shrine|RNA|248
+1 Greymond, Avacyn's Stalwart|SLX|18
+1 Griffin Canyon|VIS|163
+1 Haakon, Stromgald Scourge|CSP|61
+1 Hakoda, Selfless Commander|TLA|23
+1 Hallowed Fountain|RTR|241
+1 Harabaz Druid|WWK|105
+1 Harmonic Sliver
+1 Haru, Hidden Talent|TLA|182
+1 Heronblade Elite|MIC|64
+1 Island|INV|335
+1 Liliana's Contract|M19|107
+1 Magda, Brazen Outlaw|KHM|312
+1 Mana Confluence|SLD|1012a
+1 Marsh Flats|ZNE|6
+1 Masked Vandal|KHM|405
+1 Maskwood Nexus|KHM|369
+1 Merrow Reejerey|LRW|74
+1 Mirror Entity|LRW|31
+1 Mischievous Sneakling|ECL|235
+1 Misty Rainforest|MH2|250
+1 Morophon, the Boundless|MH1|1
+1 Mountain|INV|344
+1 Mox Jasper|TDM|246
+1 Muerra, Trash Tactician|BLB|227
+1 Murmuring Bosk|MOR|147
+1 Mutable Explorer|ECL|186
+1 Mutavault
+1 Nameless Inversion|LRW|128
+1 Nimble Trapfinder|ZNR|332
+1 Notorious Throng|MOR|45
+1 Omni-Changeling|ECL|62
+1 Overgrown Tomb|RTR|243
+1 Path of Ancestry
+1 Peer Pressure|ONS|101
+1 Plains
+1 Plateau|3ED|284
+1 Polluted Delta|KTK|239
+1 Prideful Feastling|ECL|238
+1 Priest of Titania
+1 Realmwalker|KHM|366
+1 Reaper King|SLD|9
+1 Reflecting Pool|SHM|278★
+1 Risen Reef|M20|217
+1 Scalding Tarn|MH2|254
+1 Shapesharer|LRW|85
+1 Sidequest: Raise a Chocobo|FIN|201
+1 Silumgar, the Drifting Death|FRF|157
+1 Spellstutter Sprite|LRW|89
+1 Stalactite Dagger|ECL|261
+1 Starting Town|FIN|289
+1 Steam Vents|GRN|257
+1 Stomping Ground|RNA|259
+1 Summon: Leviathan|FIN|361
+1 Swamp
+1 Swarmyard|SLD|199
+1 Taurean Mauler|MOR|109
+1 Temple Garden|RTR|248
+1 The Bears of Littjara|KHM|205
+1 The World Tree|KHM|275
+1 Throne of the Grim Captain|LCI|266
+1 Thrumming Hivepool|EOE|247
+1 Tiamat|AFR|298
+1 Torgal, A Fine Hound|FIN|345
+1 Tovolar, Dire Overlord|MID|311
+1 Universal Automaton|H1R|38
+1 Unsettled Mariner|MH1|216
+1 Valiant Changeling|MH1|34
+1 Verdant Catacombs|MH2|260
+1 Viewpoint Synchronization|ACR|43
+1 Watery Grave|GTC|249
+1 Widespread Brutality|WAR|226
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Yuriko, the Tiger's Shadow|CMR|542
+
+
+[Sideboard]
+1 Abundant Countryside|ECC|22
+1 Champions of the Perfect|ECL|171
+1 Gornog, the Red Reaper|J25|49
+1 Kindred Discovery|CLB|565
+1 Oko, Lorwyn Liege|ECL|61
+1 Sunderflock|ECL|74
+1 Winnowing|ECL|43
+
+
