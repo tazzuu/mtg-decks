@@ -1,0 +1,112 @@
+[metadata]
+Name=[cEDH] - The Wizards of Ozu {Primer} 🧙‍♂️⏰
+Description=Last Updated: ECL
+Format=commander
+Bracket=5
+Author=_Silence_,ChkndevourerofgalaXIInae,Noobzaurs
+Tags=Competitive,Control,Extra Turns,Primer
+Version=0
+URL=https://moxfield.com/decks/yyT7nOHW-EObwuNvwvyCaA
+Date=2026-02-01T15:11:48.357Z
+Created=2022-01-19T14:29:40.83Z
+Updated=2026-02-01T15:11:48.357Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Azami, Lady of Scrolls|C17|82
+
+
+[Main]
+1 Amphibian Downpour|MH3|51
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|EOS|1
+1 Aphetto Alchemist
+1 Arcane Signet|ECC|55
+1 Bender's Waterskin|TLA|255
+1 Capture of Jingzhou|CMM|79
+1 Cavern of Souls
+1 Chrome Mox|EMA|219
+1 Counterbalance|MB2|157
+1 Cursecatcher|A25|53
+1 Cyclonic Rift|SLD|1869
+1 Deranged Assistant|INR|61
+1 Dispel|RTR|36
+1 Disrupting Shoal|BOK|33
+1 Dramatic Reversal|TLE|158
+1 Fierce Guardianship|CMM|94
+1 Flare of Denial|MH3|62
+1 Flooded Strand|MH3|220
+1 Flusterstorm|MH3|496
+1 Force of Negation|TLE|13
+1 Force of Will|DMR|50
+1 Frantic Search|DMR|51
+1 Gemstone Caverns
+1 Into the Flood Maw|BLB|52
+13 Island|ICE|368
+1 Karfell Harbinger|KHM|65
+1 Kitsa, Otterball Elite
+1 Long-Term Plans|SCG|38
+1 Lost in the Maze|MKM|64
+1 Lotus Petal
+1 Malevolent Hermit|MID|61
+1 Mana Drain|OTP|11
+1 Mana Vault|3ED|263
+1 Martyr of Frost|DD2|2
+1 Mental Misstep|NPH|38
+1 Minamo, School at Water's Edge|CHK|279
+1 Mind Over Matter|EXO|40
+1 Mindbreak Trap|MAR|11
+1 Misdirection|DDT|15
+1 Mistcaller|M19|62
+1 Misty Rainforest|MH2|250
+1 Mockingbird
+1 Mox Diamond|STH|138
+1 Mutavault
+1 Mystic Remora|ICE|87
+1 Mystic Sanctuary|ELD|247
+1 Mystical Tutor|DMR|289
+1 Nykthos, Shrine to Nyx|THS|223
+1 Oboro Breezecaller|SOK|48
+1 Otawara, Soaring City|NEO|271
+1 Patron Wizard|ODY|89
+1 Phantasmal Image|AFC|89
+1 Phyrexian Metamorph|EOC|75
+1 Polluted Delta|KTK|239
+1 Rhystic Study|PCY|45
+1 Sapphire Medallion|MH3|296
+1 Saprazzan Skerry|MMQ|328
+1 Scalding Tarn|MH2|254
+1 Sea Scryer|MIR|90
+1 Sidisi's Faithful|DTK|74
+1 Sigil Tracer|MOR|49
+1 Sink into Stupor|MH3|241
+1 Siren Stormtamer|LCC|171
+1 Snap|DMR|66
+1 Snapcaster Mage
+1 Sol Ring|ECC|57
+1 Spellseeker|CMM|120
+1 Spellstutter Sprite
+1 Step Through|MH2|392
+1 Stonybrook Banneret|LCC|173
+1 Strix Serenade|MH3|71
+1 Swan Song|EOC|46
+1 Talon Gates of Madara|M3C|134
+1 The One Ring|LTR|451
+1 Three Tree City
+1 Tishana's Tidebinder|LCI|335
+1 Tolaria West
+1 Unstoppable Plan|DFT|72
+1 Urza's Cave|MH3|234
+1 Urza's Saga|MB2|114
+1 Valley Floodcaller
+1 Vedalken Aethermage|FUT|61
+1 Voidmage Prodigy|ONS|120
+1 Volatile Stormdrake|MH3|79
+1 Volshe Tideturner|DMU|77
+1 Winter Moon|MH3|213
+
+
+[Sideboard]
+1 Captain of the Mists|DDQ|24
+
+

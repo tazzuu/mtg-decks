@@ -1,0 +1,128 @@
+[metadata]
+Name=Collaborative Grolnok Midrange cEDH Primer
+Description=
+
+Format=commander
+Bracket=5
+Author=Bird_Emissary_StAr,ComedIan,CptKidd31,Filipi_Ferreira,Franck8666,GrolnokServer,HOPMONSTER,Mateus_Nogueira,outtawack311,TheSheeplesChamp,ZeeRaaks
+Tags=Combo,Competitive,Primer,Simic (GU)
+Version=0
+URL=https://moxfield.com/decks/UbCt1_jFq0OUhXZT6kieyw
+Date=2024-09-09T11:48:42.507Z
+Created=2022-02-28T16:35:58.547Z
+Updated=2024-09-09T11:48:42.507Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Grolnok, the Omnivore|VOW|238
+
+
+[Main]
+1 Allosaurus Shepherd|JMP|28
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|CLB|298
+1 Barkchannel Pathway|KHM|251
+1 Basalt Monolith|CM2|173
+1 Birds of Paradise
+1 Boseiju, Who Endures|NEO|266
+1 Brainstorm|C21|115
+1 Brazen Borrower
+1 Breeding Pool|GTC|240
+1 Carpet of Flowers
+1 Cavern of Souls|UMA|237
+1 Cephalid Coliseum|ODY|317
+1 Cephalid Illusionist|TOR|28
+1 Chrome Mox|EMA|219
+1 City of Brass|5ED|413
+1 Command Tower|CLB|351
+1 Concordant Crossroads|CHR|60
+1 Crop Rotation|2XM|161
+1 Crystal Vein|MIR|325
+1 Cyclonic Rift|RTR|35
+1 Destiny Spinner|THB|168
+1 Dryad Arbor
+1 Eldritch Evolution
+1 Elvish Mystic|M15|173
+1 Emergence Zone|WAR|245
+1 Endurance|MH2|157
+1 Eternal Witness
+1 Exotic Orchard|C19|242
+1 Exploration|2XM|167
+1 Fierce Guardianship|C20|35
+1 Finale of Devastation|WAR|160
+1 Flusterstorm|MH1|255
+1 Force of Will|2XM|51
+1 Fyndhorn Elves|CMR|228
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSR|280
+1 Gilded Drake|USG|76
+1 Green Sun's Zenith|EMA|169
+1 Hermit Druid
+1 Homeward Path|C13|295
+1 Intuition|TMP|70
+1 Jeweled Lotus|CMR|319
+1 Lightning Greaves|2XM|267
+1 Lion's Eye Diamond|MIR|307
+1 Llanowar Elves|M11|184
+1 Lotus Petal
+1 Malevolent Hermit|MID|61
+1 Mana Confluence|CMR|721
+1 Mana Crypt
+1 Mana Drain|IMA|65
+1 Mana Vault|5ED|388
+1 Mental Misstep|NPH|38
+1 Merchant Scroll|HML|33
+1 Mesmeric Orb|2XM|272
+1 Misty Rainforest|MH2|250
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|SOM|179
+1 Muddle the Mixture|RAV|60
+1 Mutavault
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|SS1|6
+1 Neoform|WAR|206
+1 Noxious Revival
+1 Oko, Thief of Crowns|ELD|197
+1 Otawara, Soaring City|NEO|271
+1 Outland Liberator|MID|303
+1 Pact of Negation|A25|68
+1 Phantasmal Image|AFC|89
+1 Rapid Hybridization|GK2|109
+1 Rejuvenating Springs|CMR|354
+1 Rhystic Study
+1 Seal of Removal|MH2|269
+1 Snapcaster Mage
+1 Sol Ring|C20|252
+1 Solve the Equation|STX|54
+1 Spellseeker|BBD|41
+1 Swan Song|THS|65
+1 Sylvan Library|5ED|329
+1 Sylvan Safekeeper|CMA|152
+1 Sylvan Tutor
+1 Talisman of Curiosity|MH1|232
+1 Tarnished Citadel|ODY|329
+1 Thassa's Oracle|THB|73
+1 Transmute Artifact|ATQ|14
+1 Traumatize|M11|77
+1 Tribute Mage|MH1|73
+1 Tropical Island|3ED|288
+1 Turn the Earth|MID|205
+1 Urza's Saga|MH2|259
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MH2|260
+1 Waterlogged Grove|MH1|249
+1 Winds of Rebuke|AKH|76
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|CC1|6
+1 Yavimaya Coast|C19|287
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+1 City of Traitors|EXO|143
+1 Forbidden Orchard|CHK|276
+1 Spire of Industry|NEC|178
+1 Windswept Heath|KTK|248
+
+

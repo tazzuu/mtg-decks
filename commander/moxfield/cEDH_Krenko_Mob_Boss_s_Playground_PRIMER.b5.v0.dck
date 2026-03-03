@@ -1,0 +1,127 @@
+[metadata]
+Name=[cEDH] Krenko, Mob Boss’s Playground [[PRIMER]]
+Description= 
+Format=commander
+Bracket=5
+Author=Kiko1337
+Tags=cEDH,Combo,Competitive,Mono Red,Primer,Tempo
+Version=0
+URL=https://moxfield.com/decks/S2FtF0bqKUiQnvWf9xQczA
+Date=2026-02-20T11:54:47.26Z
+Created=2022-01-19T10:52:48.977Z
+Updated=2026-02-20T11:54:47.26Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Krenko, Mob Boss|RVR|335z
+
+
+[Main]
+1 Abrade|DBL|406
+1 Agate Instigator|BLC|56
+1 Altar of Dementia|BRR|66
+1 Ancient Tomb|EOS|136
+1 Arena of Glory|MH3|351
+1 Arid Mesa|SPG|114
+1 Ashnod's Altar|BRR|67
+1 Battle Hymn|AVR|128
+1 Blood Moon|MP2|46
+1 Bloodstained Mire|ONS|313
+1 Brightstone Ritual|ONS|191
+1 Buried Ruin|M12|224
+1 Cavern of Souls|LTC|392
+1 Chaos Warp|SLD|741★
+1 Chrome Mox|MPS|9
+1 City of Traitors|EXO|143
+1 Cloudstone Curio|MPS|10
+1 Conspicuous Snoop|M21|364
+1 Crystal Vein|PD3|24
+1 Deflecting Swat|CMM|698
+1 Dualcaster Mage
+1 Flare of Duplication|MH3|333
+1 Gamble|SPG|24
+1 Gemstone Caverns|EOS|151
+1 General Kreat, the Boltbringer|J25|48
+1 Goblin Bombardment
+1 Goblin Chirurgeon|FEM|54a
+1 Goblin Engineer|TSR|345
+1 Goblin Matron|7ED|191★
+1 Goblin Recruiter|SLD|1313★
+1 Goblin Sharpshooter|ONS|207
+1 Goblin Warchief|SCG|97
+1 Goblin Welder|ULG|80
+1 Goro-Goro, Disciple of Ryusei|NEO|320
+1 Great Furnace|SLD|303
+1 Grim Monolith|ULG|126
+1 Heat Shimmer|LRW|175
+1 Hexing Squelcher|ECL|317
+1 Howlsquad Heavy|DFT|541
+1 Illusionist's Bracers|GTC|231
+1 Impact Tremors|SLD|313
+1 Imperial Recruiter
+1 Inventors' Fair|EOS|156
+1 Jeska's Will|CMR|668
+1 Kiki-Jiki, Mirror Breaker|TSR|346
+1 Lightning Greaves|MPS|14
+1 Lotus Petal|MPS|15
+1 Magewright's Stone|RVR|462
+1 Mana Echoes|ONS|218
+1 Mana Vault|MPS|17
+1 Marvin, Murderous Mimic|DSK|367
+1 Mogg Fanatic
+1 Mogg Salvage|NEM|94
+1 Moggcatcher|NEM|96
+1 Molten Duplication|BIG|79
+1 Mox Diamond|V10|10
+1 Mox Opal|MPS|19
+1 Nykthos, Shrine to Nyx
+1 Phyrexian Altar|INV|306
+1 Pinnacle Monk|MH3|246
+1 Powerbalance|MH3|335
+1 Prismatic Vista|SPG|38
+1 Purphoros, God of the Forge|SLD|77
+1 Pyre of Heroes|KHM|370
+1 Pyroblast|MB2|198
+1 Ragavan, Nimble Pilferer
+1 Red Elemental Blast|A25|147
+1 Redirect Lightning|TLA|343
+1 Rings of Brighthearth|MPS|21
+1 Sandstone Needle|MMQ|326
+1 Scalding Tarn|SPG|117
+1 Shatterskull Smashing|ZNR|354
+1 Simian Spirit Guide|PLC|122
+1 Skirk Prospector|ONS|230
+1 Skullclamp|SLD|1112
+7 Snow-Covered Mountain|SLD|1476★
+1 Sol Ring|MPS|24
+1 Staff of Domination|MPS|48
+1 Sting, the Glinting Dagger|LTR|701
+1 Sundering Eruption|MH3|248
+1 Swiftfoot Boots|SLD|606
+1 The One Ring|LTR|748
+1 Thornbite Staff|MOR|145
+1 Thousand-Year Elixir|LRW|263
+1 Treasonous Ogre|CNS|36
+1 Twinflame|SLD|1810
+1 Umbral Mantle|SHM|267
+1 Underworld Breach|MB2|200
+1 Urza's Saga
+1 Vexing Bauble|MH3|212
+1 Wheel of Fortune
+1 Wooded Foothills|ONS|330
+1 _____ Goblin|UNF|393
+
+
+[Sideboard]
+1 Ancestral Hot Dog Minotaur|SUNF|23
+1 Eldrazi Guacamole Tightrope|SUNF|1
+1 Misunderstood Trapeze Elf|SUNF|5
+1 Narrow-Minded Baloney Fireworks|SUNF|12
+1 Phyrexian Midway Bamboozle|SUNF|18
+1 Playable Delusionary Hydra|SUNF|30
+1 Trained Blessed Mind|SUNF|44
+1 Unassuming Gelatinous Serpent|SUNF|36
+1 Unglued Pea-Brained Dinosaur|SUNF|45
+1 Unsanctioned Ancient Juggler|SUNF|13
+
+

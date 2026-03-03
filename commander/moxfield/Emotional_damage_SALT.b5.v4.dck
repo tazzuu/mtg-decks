@@ -1,0 +1,124 @@
+[metadata]
+Name=Emotional damage [SALT] [cEDH]
+Description=Some of you may die, but that is a sacrifice I am willing to make.                                                                                - Top16 Salt City Con -  Top16 Silence is golden - Top4 Jam City - 
+Format=commander
+Bracket=5
+Author=joebassss
+Tags=cEDH,Combo,Primer,Rakdos (BR),Storm
+Version=4
+URL=https://moxfield.com/decks/hraUlzrXJE-73XP5y38sdQ
+Date=2026-02-27T23:52:53.943Z
+Created=2024-03-27T03:36:06.747Z
+Updated=2026-02-27T23:52:53.943Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Rakdos, the Muscle|OTJ|297
+
+
+[Main]
+1 Agadeem's Awakening|ZNR|90
+1 Ancient Tomb|ZNE|21
+1 Arcane Signet|BRC|132
+1 Ashnod's Altar|ATQ|38
+1 Badlands|LEB|278
+1 Birgi, God of Storytelling|KHM|311
+1 Blood Crypt|RVR|397
+1 Blood Pet
+1 Bloodstained Mire|MH3|435
+1 Boggart Trawler|MH3|243
+1 Burnt Offering|ICE|116
+1 Cabal Ritual|TOR|51
+1 Cabal Therapy|JUD|62
+1 Carnival of Souls|UDS|55
+1 Cavern of Souls|LCI|269
+1 Chrome Mox|SLC|2003
+1 Chthonian Nightmare|MH3|406
+1 City of Brass|ARN|71
+1 City of Traitors|EXO|143
+1 Command Tower|BRC|178
+1 Culling the Weak|EXO|55
+1 Dargo, the Shipwrecker|SPG|7
+1 Dark Ritual|LEB|99
+1 Deflecting Swat|CMM|532
+1 Demonic Tutor|LEB|105
+1 Desperate Plea|TLE|185
+1 Entomb|DMR|304
+1 Flamekin Harbinger|HOP|53
+1 Flare of Duplication|MH3|416
+1 Foggy Swamp Visions|TLA|339
+1 Forsaken Miner|OTJ|88
+1 Fury|MH2|313
+1 Gemstone Caverns|LTC|364
+1 Goblin Recruiter|VIS|80
+1 Great Furnace|BRC|187
+1 Greedy Freebooter|LCI|109
+1 Grief|H2R|7
+1 Grim Monolith|ULG|126
+1 Hexing Squelcher|ECL|317
+1 Impulsive Pilferer|CMM|234
+1 Infernal Plunge|ISD|148
+1 Ingot Chewer|UMA|135
+1 Into the Pit|DSC|50
+1 K'rrik, Son of Yawgmoth|MH3|479
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|TMP|294
+1 Luxury Suite|BBD|82
+1 Mana Confluence|SLD|1012a
+1 Mana Vault|LEB|260
+1 Marsh Flats|MH2|437
+1 Master of Dark Rites|LCC|83
+1 Mox Amber|BRR|35
+1 Mox Opal|SLD|1072
+1 Myr Moonvessel|DST|133
+1 Nightscape Familiar|PLS|48
+1 Offalsnout|UMA|108
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|103
+1 Party Thrasher|MH3|419
+1 Patron of the Arts|CLB|191
+1 Phyrexian Altar|SLC|16
+1 Phyrexian Tower|USG|322
+1 Pinnacle Monk|MH3|246
+1 Polluted Delta|MH3|438
+1 Popular Egotist|DSK|114
+1 Poxwalkers|40K|49
+1 Priest of Gix|USG|150
+1 Priest of Urabrask
+1 Ragavan, Nimble Pilferer|MUL|21
+1 Reanimate|OTP|18
+1 Reckless Barbarian|CLB|193
+1 Red Elemental Blast|LEB|170
+1 Rite of Flame
+1 Sacrifice|LEB|125
+1 Sephiroth, Fabled SOLDIER|FIN|317
+1 Shambling Ghast|J25|124
+1 Shriekmaw|TSR|331
+1 Simian Spirit Guide|PLC|122
+1 Skirk Prospector|DOM|144
+1 Skittering Precursor|MH3|137
+1 Sol Ring|SLD|1664
+1 Songs of the Damned|ICE|160
+1 Spider-Punk|SPM|207
+1 Springleaf Drum|BRR|55
+1 Sulfurous Springs|ICE|360
+1 Swamp|SLD|1654
+1 Talisman of Indulgence|SLD|1054
+1 Talon Gates of Madara|M3C|82
+1 Thunderscape Familiar|PLS|76
+1 Timeline Culler|EOE|121
+1 Treasonous Ogre|CNS|36
+1 Underworld Breach|THB|324
+1 Valki, God of Lies|KHM|308
+1 Vampiric Tutor|VIS|72
+1 Vault of Whispers|BRC|211
+1 Verdant Catacombs|MH2|440
+1 Viscera Seer
+1 Warren Soultrader|MH3|414
+1 _____ Goblin|UNF|107
+
+
+[Sideboard]
+1 Mayhem Devil|DSC|225
+
+

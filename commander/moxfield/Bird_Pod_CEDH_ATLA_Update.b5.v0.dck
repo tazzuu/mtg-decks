@@ -1,0 +1,123 @@
+[metadata]
+Name=Bird Pod [CEDH] (ATLA Update)
+Description=A toolbox combo/control deck
+Format=commander
+Bracket=5
+Author=Droptimal
+Tags=Bant (GWU),Birthing Pod / Pod,cEDH,Combo,Competitive,Control,Primer,Toolbox
+Version=0
+URL=https://moxfield.com/decks/13Balfcpc0Wxb3H8JlVfLg
+Date=2026-01-14T23:01:28.43Z
+Created=2022-11-21T20:37:20.38Z
+Updated=2026-01-14T23:01:28.43Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Derevi, Empyrial Tactician|BLC|87
+
+
+[Main]
+1 Agatha's Soul Cauldron|WOE|366
+1 An Offer You Can't Refuse|FDN|311
+1 Angel's Grace
+1 Arcane Signet|CMR|689
+1 Archdruid's Charm|MKM|408
+1 Archon of Emeria|ZNR|315
+1 Arid Mesa|MH2|475
+1 Badgermole Cub|TLA|167
+1 Birds of Paradise|BLC|81
+1 Birthing Pod|NPH|104
+1 Birthing Ritual|MH3|337
+1 Bloom Tender|SLD|284
+1 Boseiju, Who Endures|NEO|412
+1 Breeding Pool|RVR|293
+1 Chord of Calling|EA3|6
+1 Chromatic Orrery|M21|382
+1 Chrome Mox|SPG|92
+1 City of Brass|2X2|403
+1 Command Tower|CMR|705
+1 Crop Rotation|2XM|349
+1 Cyclonic Rift|RVR|419
+1 Deafening Silence|ELD|10
+1 Delighted Halfling|LTR|363
+1 Delney, Streetwise Lookout|MKM|337
+1 Eladamri's Call|MH1|197
+1 Eldritch Evolution
+1 Elesh Norn, Mother of Machines|ONE|10
+1 Emiel the Blessed|2X2|338
+1 Enlightened Tutor|DMR|412
+1 Ephemerate|STA|5
+1 Esper Sentinel|MH2|12
+1 Eternal Witness|2X2|368
+1 Exotic Orchard|M3C|341
+1 Faeburrow Elder|ELD|380
+1 Faerie Mastermind|MOM|352
+1 Felidar Guardian|SLD|1487
+1 Fellwar Stone|CMM|657
+1 Fierce Guardianship|CMM|694
+1 Finale of Devastation|CMM|700
+1 Flare of Denial|MH3|326
+1 Flesh Duplicate|WHO|44
+1 Flooded Strand|MH3|353
+1 Flusterstorm|MH1|255
+1 Force of Negation|2X2|346
+1 Force of Will|2XM|340
+1 Forest|LCI|291
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Gilded Drake|USG|76
+1 Grand Abolisher|BIG|2
+1 Grand Arbiter Augustin IV|2X2|379
+1 Hallowed Fountain|RVR|295
+1 Island|LCI|288
+1 Kinnan, Bonder Prodigy|IKO|192
+1 Linvala, Keeper of Silence|JMP|119
+1 Louisoix's Sacrifice|FIN|59
+1 Mana Confluence|JOU|163
+1 Mana Vault|2X2|394
+1 Marsh Flats|MH2|476
+1 Mindbreak Trap|ZEN|57
+1 Mistrise Village|TDM|397
+1 Misty Rainforest|MH2|477
+1 Mockingbird|BLB|61
+1 Mystic Remora|SLD|406
+1 Nature's Rhythm|TDM|150
+1 Neoform|WAR|206
+1 Noble Hierarch|2XM|352
+1 Otawara, Soaring City|NEO|414
+1 Pact of Negation|LTC|523
+1 Phyrexian Metamorph|2XM|341
+1 Plains|LCI|287
+1 Preston, the Vanisher|J22|8
+1 Ranger-Captain of Eos|MH1|21
+1 Rhystic Study|WOT|71
+1 Savannah|3ED|285
+1 Scheming Fence|SNC|349
+1 Shifting Woodland|MH3|228
+1 Silence|M14|35
+1 Sink into Stupor|MH3|241
+1 Sol Ring|SLD|1494
+1 Spellseeker|CMM|635
+1 Swan Song|THS|65
+1 Swords to Plowshares|SPG|54
+1 Talon Gates of Madara|M3C|134
+1 Temple Garden|RVR|300
+1 The One Ring|LTR|451
+1 Transit Mage|DFT|70
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Utopia Sprawl|WOT|63
+1 Verdant Catacombs|MH2|479
+1 Voice of Victory|TDM|331
+1 Volatile Stormdrake|MH3|329
+1 Wan Shi Tong, Librarian|TLA|78
+1 Wargate
+1 White Plume Adventurer|CLB|558
+1 Wild Growth|MKC|195
+1 Windswept Heath|MH3|360
+1 Wooded Foothills|MH3|361
+
+
+[Sideboard]
+
+

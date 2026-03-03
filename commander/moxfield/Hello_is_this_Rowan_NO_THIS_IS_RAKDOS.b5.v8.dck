@@ -1,0 +1,133 @@
+[metadata]
+Name=Hello, is this Rowan? NO, THIS IS RAKDOS [cEDH]
+Description="Does playing Rakdos actually give you... Pleasure?" -questions from Tolarian Community College 
+Format=commander
+Bracket=5
+Author=MisterFringey
+Tags=Primer
+Version=8
+URL=https://moxfield.com/decks/fJqb3vdZAkqnuDhfzhPM6Q
+Date=2026-02-27T02:07:23.25Z
+Created=2020-11-06T22:35:40.197Z
+Updated=2026-02-27T02:07:23.25Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Rakdos, Lord of Riots|RVR|379z
+
+
+[Main]
+1 Ancestral Statue|DTK|234
+1 Ancient Tomb|EXP|36
+1 Arcane Signet|SLD|1492★
+1 Arid Mesa|EXP|24
+1 Artisan of Kozilek|MM2|2
+1 Azra Oddsmaker|BBD|75
+1 Badlands|3ED|282
+1 Birgi, God of Storytelling|KHM|311
+1 Blood Crypt|EXP|8
+1 Blood Pet|7ED|121★
+1 Bloodstained Mire|EXP|18
+1 Burnt Offering|ICE|116
+1 Cavern of Souls|AVR|226
+1 Chrome Mox
+1 City of Brass|MMA|221
+1 Command Tower|SLD|1496★
+1 Culling the Weak
+1 Dark Ritual|MMQ|129
+1 Deadpool, Trading Card|SLD|1753
+1 Deflecting Swat|CMM|698
+1 Demonic Counsel|DSK|92
+1 Demonic Tutor
+1 Diabolic Intent|PLS|42
+1 Emrakul, the Promised End|EMN|6
+1 Fellwar Stone|9ED|297★
+1 Flare of Duplication|MH3|416
+1 Florian, Voldaren Scion|MID|223
+1 Gemstone Caverns|TSP|274
+1 Generous Plunderer|BIG|41
+1 Graven Cairns|FUT|175
+1 Gray Merchant of Asphodel|THB|355
+1 Grim Hireling|AFC|294
+1 Grim Servant|MH3|409
+1 Hexing Squelcher|ECL|145
+1 Hoarding Broodlord|MOM|360
+1 Horizon of Progress|M3C|78
+1 Imperial Recruiter
+1 Imperial Seal
+1 Jeska's Will|CMR|668
+1 Jeweled Amulet|ICE|326
+1 K'rrik, Son of Yawgmoth
+1 Keen Duelist|C21|369
+1 Kellogg, Dangerous Mind|PIP|415
+1 Knuckles the Echidna|SLD|2082
+1 Kozilek, Butcher of Truth|ROE|6
+1 Kozilek, the Great Distortion|OGW|4
+1 Liberator, Urza's Battlethopter|BRO|364
+1 Lotus Petal|SLD|7037
+1 Luxury Suite|BBD|82
+1 Magda, Brazen Outlaw|KHM|312
+1 Mana Confluence|JOU|163
+1 Mana Vault|MPS|17
+1 Marsh Flats|EXP|21
+1 Mayhem Devil
+1 Molten Gatekeeper|MH3|128
+1 Mount Doom|LTR|343
+1 Mox Amber|DOM|224
+1 Mox Diamond|V10|10
+1 Mox Opal|2XM|362
+1 Necropotence|DKM|7
+1 Ob Nixilis, Captive Kingpin|MAT|141
+1 Opposition Agent|MAR|19
+1 Orcish Bowmasters|LTR|433
+1 Pactdoll Terror|DFT|99
+1 Phyrexian Tower|UMA|248
+1 Plaza of Heroes|DMU|421
+1 Polluted Delta|EXP|17
+1 Professional Face-Breaker|SNC|426
+1 Ragavan, Nimble Pilferer|MH2|315
+1 Raucous Theater|MKM|329
+1 Razaketh, the Foulblooded|HOU|73
+1 Reckless Barbarian|CLB|193
+1 Red Elemental Blast|A25|147
+1 Redirect Lightning|TLA|343
+1 Rev, Tithe Extractor|J25|45
+1 Rite of Flame|SS3|7
+1 Rune-Scarred Demon|M12|106
+1 Ruthless Technomancer|NEC|35
+1 Sandstone Oracle|IMA|227
+1 Scalding Tarn|EXP|22
+1 Shimmer Myr|MOC|376
+1 Sidisi, Undead Vizier|DTK|120
+1 Simian Spirit Guide|PLC|122
+1 Skirk Prospector|ONS|230
+1 Skittering Cicada|CMM|750
+1 Sol Ring
+1 Spire of Industry|AER|184
+1 Sulfurous Springs|10E|359
+1 Swamp|UND|92
+1 Tainted Pact|ODY|164
+1 Tainted Peak|M3C|382
+1 Talisman of Indulgence|MRD|255
+1 Treasonous Ogre|CNS|36
+1 Vampiric Tutor
+1 Verdant Catacombs|EXP|23
+1 Wandering Archaic|STX|286
+1 Wishclaw Talisman|ELD|357
+1 Wooded Foothills|EXP|19
+1 Zhentarim Bandit|CLB|158
+
+
+[Sideboard]
+1 Bolt Bend|WAR|115
+1 Deadly Rollick|CMM|695
+1 Geode Golem|CLB|316
+1 Orochi Soul-Reaver|OTC|58
+1 Pyroblast|EMA|142
+1 Shadow, Mysterious Assassin|FIC|50
+1 Shallow Grave|MIR|141
+1 The Last Agni Kai|TLA|144
+1 The One Ring|LTR|791
+1 Thought-Knot Seer|SPG|39
+
+

@@ -1,0 +1,133 @@
+[metadata]
+Name= Krarkashima Of A Thousand Coin Flips By Cyrus CR3 [cEDH]
+Description=a cEDH deck that flips a lot of coins
+Format=commander
+Bracket=5
+Author=ComedIan,kenbaumann,koorosh
+Tags=cEDH
+Version=0
+URL=https://moxfield.com/decks/gblEEqPDtkCXMGYa2NMIVQ
+Date=2026-02-01T02:53:51.173Z
+Created=2024-04-24T22:23:12.413Z
+Updated=2026-02-01T02:53:51.173Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Krark, the Thumbless|SLD|1543★
+1 Sakashima of a Thousand Faces|SLD|1541★
+
+
+[Main]
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Arcane Signet|SLD|820
+1 Archmage Emeritus
+1 Arid Mesa|EXP|24
+1 Ashling, Flame Dancer|MH3|481
+1 Birgi, God of Storytelling|KHM|311
+1 Bloodstained Mire|EXP|18
+1 Borne Upon a Wind|LTR|495
+1 Chrome Mox|MPS|9
+1 City of Brass|2X2|570
+1 City of Traitors|EXO|143
+1 Command Tower
+1 Crimson Wisps|SHM|88
+1 Defense Grid|BRR|13
+1 Deflecting Swat|CMM|698
+1 Desperate Ritual|CHK|163
+1 Dualcaster Mage|2XM|124
+1 End the Festivities|VOW|155
+1 Expedite|BBD|177
+1 Fierce Guardianship|CMM|694
+1 Fiery Islet|WHO|1086
+1 Flooded Strand|EXP|16
+1 Flusterstorm|MH3|496
+1 Forbidden Orchard|EXP|39
+1 Force of Will|2XM|340
+1 Frantic Search|CMM|632
+1 Gamble|DMR|321
+1 Gemstone Caverns
+1 Gitaxian Probe
+1 Grapeshot|STA|39
+1 Great Furnace
+1 Grim Monolith|ULG|126
+1 Gut Shot|NPH|86
+1 Harmonic Prodigy|MH2|132
+1 Heat Shimmer|2XM|130
+1 Hexing Squelcher|ECL|145
+1 Imperial Recruiter|MH2|281
+1 Impulse|DMR|287
+1 Jeska's Will|CLB|799
+1 Krark's Thumb|MRD|190
+1 Lightning Bolt|STA|105
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|V09|7
+1 Mana Confluence|EXP|42
+1 Mana Vault|MPS|17
+1 Mental Misstep
+1 Might of the Meek|BLB|144
+1 Mindbreak Trap|OTP|68
+1 Mistrise Village|TDM|397
+1 Misty Rainforest|EXP|25
+1 Mogg Salvage|NEM|94
+1 Molten Duplication|BIG|14
+1 Mountain|LTR|720
+1 Mox Amber|BRR|98z
+1 Mox Diamond|V10|10
+1 Mox Opal|MPS|19
+1 Mystic Remora|SLD|406
+1 Mystical Tutor|V09|8
+1 Otawara, Soaring City|NEO|414
+1 Overmaster|DMR|327
+1 Pact of Negation|TSR|77
+1 Pinnacle Monk|MH3|246
+1 Polluted Delta|EXP|17
+1 Professional Face-Breaker|M3C|216
+1 Pyretic Ritual|SLD|1064
+1 Pyroblast|SS3|5
+1 Ragavan, Nimble Pilferer
+1 Red Elemental Blast|A25|147
+1 Relic of Legends|DMU|236
+1 Rhystic Study|SLD|478
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|EXP|22
+1 Seat of the Synod|J22|820
+1 Shivan Reef
+1 Simian Spirit Guide|TSR|190
+1 Snap|SLD|412
+1 Snow-Covered Mountain|KHM|283
+1 Sol Ring|MPS|24
+1 Spellseeker|CMM|495
+1 Springleaf Drum
+1 Steam Vents|RVR|298
+1 Storm-Kiln Artist|J21|520
+1 Strike It Rich|H2R|12
+1 Submerge|NEM|48
+1 Sundering Eruption|MH3|248
+1 Swan Song|THS|65
+1 Talisman of Creativity|40K|253★
+1 Tavern Scoundrel|MH2|144
+1 Thundering Falls
+1 Training Center|CMR|713
+1 Treasonous Ogre
+1 Twinflame|2X2|129
+1 Underworld Breach|THB|324
+1 Veyran, Voice of Duality|SLD|1915
+1 Vivi Ornitier|FIN|248
+1 Volcanic Island|OLGC|2023A
+1 Wooded Foothills|EXP|19
+
+
+[Sideboard]
+1 Baral, Chief of Compliance|MUL|8
+1 Brainstorm|2XM|338
+1 Coruscation Mage|BLB|131
+1 Counterbalance|MP2|9
+1 Displacer Kitten|CLB|560
+1 Electroduplicate|FDN|465
+1 Esior, Wardwing Familiar|CMR|67
+1 Faerie Mastermind|MOM|58
+1 Into the Flood Maw|BLB|52
+1 Island|LTR|715
+
+

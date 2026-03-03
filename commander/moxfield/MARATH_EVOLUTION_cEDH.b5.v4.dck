@@ -1,0 +1,129 @@
+[metadata]
+Name=MARATH EVOLUTION🦌🌱 cEDH
+Description=Midrange, layered combos, tons of board control.  ALL HAIL THE ELK.
+Format=commander
+Bracket=5
+Author=HowlingSaltSam
+Tags=cEDH,Combo,Competitive,Midrange,Naya (RGW),Primer
+Version=4
+URL=https://moxfield.com/decks/IF-Eb17Bt02fG8KlaNfVzg
+Date=2026-03-02T13:42:10.067Z
+Created=2023-10-23T15:01:52.62Z
+Updated=2026-03-02T13:42:10.067Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Marath, Will of the Wild|CMR|527
+
+
+[Main]
+1 Allosaurus Shepherd|2X2|132
+1 Ancient Tomb|LTC|357
+1 Arid Mesa|SLU|4
+1 Auriok Salvagers|5DN|4
+1 Avacyn's Pilgrim
+1 Badgermole Cub|TLA|326
+1 Birds of Paradise|LTC|235
+1 Birthing Pod|NPH|104
+1 Bloom Tender|EVE|66
+1 Boseiju, Who Endures|NEO|266
+1 Bountiful Promenade|BBD|81
+1 Brightglass Gearhulk|DFT|547
+1 Cacophodon|RIX|123
+1 Cavern of Souls|LTC|362
+1 Chord of Calling|SLD|1595
+1 Chrome Mox|2XM|240
+1 City of Brass|MD1|15
+1 Command Tower|SLD|7012
+1 Conclave Mentor|M21|216
+1 Crop Rotation|C20|169
+1 Cryptic Trilobite|C20|21
+1 Deflecting Swat|C20|50
+1 Delighted Halfling|LTR|402
+1 Deserted Temple|LTC|363
+1 Eladamri's Call|TLE|48
+1 Eldritch Evolution|SLD|1414
+1 Elvish Spirit Guide|MB2|68
+1 Emergence Zone|WAR|245
+1 Enduring Vitality|DSK|394
+1 Enlightened Tutor|DMR|412
+1 Esper Sentinel|MH2|12
+1 Evolution Witness|MH3|151
+1 Expedition Map|2XM|359
+1 Finale of Devastation|WAR|160
+1 Flooded Strand|KTK|233
+1 Forest|UGL|88
+1 Formidable Speaker|ECL|366
+1 Fyndhorn Elves
+1 Gaea's Cradle|USG|321
+1 Gamble|SLD|188
+1 Gemstone Caverns|LTC|364
+1 Goblin Engineer|SLD|2103
+1 Grand Abolisher|CMM|625
+1 Green Sun's Zenith|2X2|150
+1 Growing Rites of Itlimoc|XLN|191
+1 Hardened Scales|WOT|55
+1 Hexing Squelcher|ECL|317
+1 Invasion of Ikoria|MOM|190
+1 Kami of Whispered Hopes|MOM|383
+1 Legolas's Quick Reflexes|LTC|493
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|TMP|294
+1 Mana Confluence|CMR|721
+1 Mana Vault|2X2|308
+1 Marsh Flats|SLU|1
+1 Misty Rainforest|SLU|5
+1 Mox Diamond|STH|138
+1 Natural Order|MB2|210
+1 Nature's Rhythm|TDM|349
+1 Nightshade Peddler|AVR|187
+1 Noxious Revival|SLD|1416
+1 Orcish Lumberjack|DDL|44
+1 Plateau|SUM|284
+1 Professor Hojo|FIC|161
+1 Pyroblast|ICE|213
+1 Ragavan, Nimble Pilferer|MH2|315
+1 Ranger-Captain of Eos|FCA|2
+1 Red Elemental Blast|4ED|218
+1 Ruby, Daring Tracker
+1 Savannah|3ED|285
+1 Shifting Woodland|MH3|357
+1 Silence|M14|35
+1 Simian Spirit Guide|MB2|61
+1 Skullclamp|SLD|1112
+1 Skyclave Apparition
+1 Smothering Tithe|CMM|57
+1 Sol Ring|LTC|410
+1 Stomping Ground|RNA|259
+1 Swords to Plowshares
+1 Sylvan Library|CC1|5
+1 Sylvan Scrying
+1 Taiga|3ED|287
+1 Talon Gates of Madara|M3C|134
+1 Temple Garden|GRN|258
+1 Terrasymbiosis|EOE|312
+1 The One Ring|LTR|451
+1 Thraben Charm|MH3|45
+1 Unbound Flourishing|SLD|1331
+1 Urza's Saga|MB2|114
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|SLU|3
+1 Vibrance|ECL|295
+1 Voice of Victory|TDM|33
+1 Weathered Wayfarer|2X2|34
+1 Wild Growth|3ED|230
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|CC1|6
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+1 Flare of Duplication|MH3|333
+1 Michelangelo, Weirdness to 11|TMT|298
+1 Mikey & Leo, Chaos & Order|TMT|200
+1 Sacred Foundry|GRN|254
+1 Savage Summoning|M14|194
+1 Springheart Nantuko|MH3|341
+
+

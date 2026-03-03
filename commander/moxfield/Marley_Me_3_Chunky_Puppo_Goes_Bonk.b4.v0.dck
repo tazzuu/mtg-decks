@@ -1,0 +1,127 @@
+[metadata]
+Name=Marley & Me 3: Chunky Puppo Goes Bonk
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/ZNsUwYgeIkesOMmn2Q8TZQ
+Date=2023-07-07T14:40:04.247Z
+Created=2021-08-09T02:06:37.31Z
+Updated=2023-07-07T14:40:04.247Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Haldan, Avid Arcanist|C20|2
+1 Pako, Arcane Retriever|C20|13
+
+
+[Main]
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|TMP|315
+1 Arbor Elf|A25|160
+1 Arid Mesa|MM3|229
+1 Birds of Paradise
+1 Bloodstained Mire|KTK|230
+1 Boseiju, Who Endures|NEO|266
+1 Brain Freeze
+1 Brainstorm|C18|82
+1 Breeding Pool|RNA|246
+1 Capture of Jingzhou
+1 Carpet of Flowers|USG|240
+1 Chrome Mox|MPS|9
+1 City of Brass|MD1|15
+1 Command Tower|C20|264
+1 Counterbalance|CSP|31
+1 Crop Rotation|C20|169
+1 Cyclonic Rift|MM3|35
+1 Decisive Denial|STX|177
+1 Deflecting Swat|C20|50
+1 Delay|FUT|35
+1 Delighted Halfling|LTR|363
+1 Dispel|BFZ|76
+1 Dockside Extortionist|C19|24
+1 Elvish Mystic
+1 Exotic Orchard|C19|242
+1 Exploration|CNS|164
+1 Fierce Guardianship|C20|35
+1 Fiery Islet|MH1|238
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Negation|MH1|52
+1 Force of Will|EMA|49
+1 Fyndhorn Elves|V13|4
+1 Gaea's Cradle|USG|321
+1 Gamble|UMA|132
+1 Gemstone Caverns|TSP|274
+1 Gilded Drake|USG|76
+1 Grim Monolith|ULG|126
+1 Homeward Path|C13|295
+1 Imposter Mech|NEC|13
+1 Intuition|TMP|70
+1 Island|THB|251
+1 Jeweled Lotus|CMR|319
+1 Lightning Bolt|JMP|342
+1 Lion's Eye Diamond|MIR|307
+1 Llanowar Elves|M19|314
+1 Lotus Petal|V09|7
+1 Mana Confluence|JOU|163
+1 Mana Crypt
+1 Mana Vault|UMA|229
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Misdirection|DDT|15
+1 Misty Rainforest|MM3|240
+1 Mox Diamond|V10|10
+1 Mystic Remora|ICE|87
+1 Mystic Sanctuary|ELD|247
+1 Mystical Tutor|EMA|62
+1 Nature's Lore|GVL|17
+1 Noxious Revival|NPH|118
+1 Pact of Negation|MMA|56
+1 Personal Tutor|POR|64
+1 Polluted Delta|KTK|239
+1 Ponder|C18|96
+1 Red Elemental Blast|3ED|171
+1 Regrowth
+1 Rejuvenating Springs|CMR|354
+1 Rhystic Study|JMP|169
+1 Rolling Earthquake|2XM|142
+1 Scalding Tarn|MM3|244
+1 Sensei's Divining Top
+1 Shatterskull Smashing|ZNR|161
+1 Sol Ring|C19|221
+1 Solve the Equation|STX|54
+1 Spell Pierce|MM3|51
+1 Steam Vents|GRN|257
+1 Stomping Ground|RNA|259
+1 Swan Song|C16|98
+1 Sylvan Library|EMA|187
+1 Taiga|3ED|287
+1 Temporal Manipulation|ME2|69
+1 Three Visits|CMR|686
+1 Time Warp|STA|85
+1 Tinder Wall|ICE|270
+1 Training Center|CMR|358
+1 Tropical Island|3ED|288
+1 Underworld Breach|THB|161
+1 Utopia Sprawl|A25|192
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MM3|249
+1 Volcanic Island|3ED|291
+1 Waterlogged Grove|MH1|249
+1 Wild Growth|C18|165
+1 Windswept Heath|KTK|248
+1 Winged Boots|AFC|20
+1 Wooded Foothills|KTK|249
+1 You Come to a River|AFR|83
+
+
+[Sideboard]
+1 Delayed Blast Fireball|CLB|676
+1 Mana Drain|IMA|65
+1 Otawara, Soaring City|NEO|271
+1 Tetzimoc, Primal Death|RIX|86
+
+

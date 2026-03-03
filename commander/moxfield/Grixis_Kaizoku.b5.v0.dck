@@ -1,0 +1,123 @@
+[metadata]
+Name=Grixis Kaizoku💧🏴‍☠️🔥 [cEDH]
+Description=Turbo Necro/Naus Grixis combo deck built around Malcolm’s treasure generation. Wins through Underworld Breach loops, Glint-Horn Buccaneer, or Oracle/Consult lines. Fast, flexible, and deadly at any table.
+Format=commander
+Bracket=5
+Author=ComedIan,nuche
+Tags=cEDH,Grixis (UBR),Primer,Turbo
+Version=0
+URL=https://moxfield.com/decks/vm1vIKmR9EWj0Qrfa4vOKw
+Date=2025-11-13T16:23:29.11Z
+Created=2023-09-25T03:25:36.703Z
+Updated=2025-11-13T16:23:29.11Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Malcolm, Keen-Eyed Navigator|SPG|2
+1 Vial Smasher the Fierce|CMR|540
+
+
+[Main]
+1 Ad Nauseam|2XM|76
+1 Alchemist's Retrieval|VOW|47
+1 An Offer You Can't Refuse|SNC|464
+1 Ancient Tomb|EOS|91
+1 Arcane Signet|LCC|104
+1 Arid Mesa|ZNE|9
+1 Badlands|3ED|282
+1 Beseech the Mirror|WOE|336
+1 Blades of Velis Vel|LRW|152
+1 Blood Crypt|EXP|8
+1 Bloodstained Mire|ZNE|3
+1 Borne Upon a Wind|LTR|761
+1 Brain Freeze|SCG|29
+1 Cabal Ritual|TOR|51
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|SPG|92
+1 City of Brass|2X2|570
+1 City of Traitors|EXO|143
+1 Command Tower|SLD|806
+1 Culling the Weak
+1 Dark Ritual|MMQ|129
+1 Daze|NEM|30
+1 Defense Grid|MPS|34
+1 Deflecting Swat|CMM|698
+1 Demonic Consultation|SLD|1127
+1 Demonic Tutor|CMM|696
+1 Desperate Ritual|SLD|1984
+1 Diabolic Intent|PLS|42
+1 Entomb|DMR|304
+1 Fierce Guardianship|CMM|489
+1 Final Fortune|6ED|175
+1 Flare of Denial|MH3|400
+1 Flooded Strand|ZNE|1
+1 Flusterstorm|MH3|496
+1 Forbidden Orchard|EXP|39
+1 Force of Will|DMR|418
+1 Gamble|SPG|24
+1 Gemstone Caverns|EOS|151
+1 Gemstone Mine|DMR|455
+1 Glint-Horn Buccaneer
+1 Grim Monolith|ULG|126
+1 Grim Tutor|M21|315
+1 Grinding Station|5DN|127
+1 Imperial Seal|2X2|439
+1 Intuition|TMP|70
+1 Jeska's Will|CMR|668
+1 Last Chance|DMR|325
+1 Lion's Eye Diamond|MIR|307
+1 Lively Dirge|OTJ|93
+1 Lotus Petal
+1 Mana Confluence|EOS|160
+1 Mana Vault|2X2|560
+1 Marsh Flats|ZNE|6
+1 Mental Misstep|NPH|38
+1 Misty Rainforest|ZNE|10
+1 Mnemonic Betrayal|GRN|189
+1 Mox Amber|BRR|98
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|275
+1 Mystic Remora|SLD|406
+1 Necrodominance|MH3|411
+1 Necropotence|WOT|74
+1 Pact of Negation|TSR|77
+1 Polluted Delta|ZNE|2
+1 Quicken|RVR|318
+1 Ragavan, Nimble Pilferer|MUL|86
+1 Reanimate
+1 Red Elemental Blast|A25|147
+1 Rhystic Study|WOT|71
+1 Rite of Flame|CSP|96
+1 Scalding Tarn|ZNE|7
+1 Simian Spirit Guide|A25|148
+1 Siren Stormtamer|XLN|79
+1 Sol Ring|SLD|1604
+1 Spectral Sailor|M20|76
+1 Starting Town|FIN|289
+1 Steam Vents|EXP|12
+1 Swan Song|SLD|1591
+1 Tainted Pact|STA|96
+1 Talisman of Dominance|SLD|1053
+1 Talisman of Indulgence|SLD|1054
+1 Thassa's Oracle|THB|308
+1 Undercity Sewers|MKM|332
+1 Underground Sea|3ED|290
+1 Underworld Breach|SPG|9
+1 Unearth|ULG|72
+1 Valley Floodcaller|BLB|308
+1 Vampiric Tutor|DMR|430
+1 Verdant Catacombs|ZNE|8
+1 Vexing Bauble|MH3|212
+1 Volcanic Island|3ED|291
+1 Warrior's Oath|PTK|124
+1 Watery Grave|EXP|7
+1 Weftstalker Ardent|EOE|169
+1 Wheel of Fortune|2ED|184
+1 Wishclaw Talisman|ELD|357
+1 Wooded Foothills|ZNE|4
+1 Yawgmoth's Will|USG|171
+
+
+[Sideboard]
+
+

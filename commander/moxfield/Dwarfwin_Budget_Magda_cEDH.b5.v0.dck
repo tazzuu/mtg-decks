@@ -1,0 +1,99 @@
+[metadata]
+Name=Dwarfwin: Budget Magda cEDH
+Description=Budget build for Magda/Clock of Omens combo. Trying to keep it around $100. See primer for combo details 
+Format=commander
+Bracket=5
+Author=jeffgg
+Tags=Artifacts,Budget,Combo,Competitive,Kindred,Primer,Vehicles
+Version=0
+URL=https://moxfield.com/decks/EMbyQQG-1k-t_DV4pg-sZw
+Date=2026-01-23T17:07:36.963Z
+Created=2021-06-04T11:50:40.963Z
+Updated=2026-01-23T17:07:36.963Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Magda, Brazen Outlaw|KHM|142
+
+
+[Main]
+1 Abrade|INR|139
+1 Adaptive Automaton|FDN|723
+1 Arcane Signet|DRC|51
+1 Ashnod's Transmogrant|CHR|93
+1 Axgard Cavalry|FDN|189
+1 Barkform Harvester|BLB|243
+1 Battered Golem|5DN|106
+1 Bessie, the Doctor's Roadster|WHO|171
+1 Bloodfire Dwarf|APC|56
+1 Bloodline Pretender|J22|757
+1 Buried Ruin|PIP|254
+1 Burnout|ALL|68
+1 Clock of Omens|M13|202
+1 Cursed Mirror|OTC|161
+1 Damping Sphere|DMR|219
+1 Diamond Lion|MH2|427
+1 Dwarven Blastminer
+1 Dwarven Grunt
+1 Dwarven Mine|ELD|243
+1 Dwarven Miner
+1 Dwarven Scorcher|JUD|86
+1 Dwarven Trader|HML|72b
+1 Enslaved Dwarf|TOR|96
+1 Eriette's Tempting Apple|WOE|245
+1 Firdoch Core|ECL|255
+1 Flare of Duplication|MH3|119
+1 Flywheel Racer|MOM|259
+1 Galvanic Blast|2XM|125
+1 Glóin, Dwarf Emissary|LTR|132
+1 Goblin Chirurgeon|FEM|54a
+1 Goblin Matron|DMR|323
+1 God-Pharaoh's Statue
+1 High-Speed Hoverbike|NEO|247
+1 Holdout Settlement|OGW|172
+1 Kavaron, Memorial World
+1 Liberated Dwarf|JUD|95
+1 Lifecraft Engine
+1 Lightning Bolt|CLB|401
+1 Liquimetal Coating|BRR|91
+1 Liquimetal Torque|MH2|428
+1 Lotus Bloom|MMA|208
+1 Magda, the Hoardmaster|OTJ|133
+1 Maskwood Nexus|M3C|299
+1 Metallic Mimic|INR|268
+1 Mines of Moria|LTR|342
+1 Mogg Salvage|MH2|282
+25 Mountain|TD0|A153
+1 Peter Parker's Camera|SPM|171
+1 Plundering Barbarian
+1 Raze the Effigy|MID|156
+1 Reckless Fireweaver|DRC|106
+1 Reckless Handling|MAT|119
+1 Reverberate|40K|207
+1 Ricochet Trap
+1 Scene of the Crime|MKM|267
+1 Smuggler's Copter
+1 Sol Ring|BLC|129
+1 Soul-Guide Lantern|THB|237
+1 Spark Mage|ODY|222
+1 Spine of Ish Sah|BLC|285
+1 Springleaf Drum|ECL|260
+1 Sticky Fingers
+1 Stoke the Flames|M15|164
+1 Sundering Eruption|MH3|248
+1 Survivors' Encampment
+1 Three Tree Mascot|FDN|682
+1 Thunderclap
+1 Treasure Vault
+1 Tyrant of Kher Ridges
+1 Universal Automaton
+1 Vexing Bauble|MH3|212
+1 Wild Magic Surge|CLB|206
+1 Xorn|AFR|322
+1 You Find Some Prisoners
+1 Zhao, the Moon Slayer|TLA|162
+
+
+[Sideboard]
+
+

@@ -1,0 +1,133 @@
+[metadata]
+Name=[[CEDH]] Haiti Chérie
+Description=Blink value with a side of Thoracle
+Format=commander
+Bracket=5
+Author=Franck8666
+Tags=Competitive,Primer
+Version=0
+URL=https://moxfield.com/decks/vD6HM11Xh0KAJX2_fs5FLA
+Date=2025-11-28T22:06:29.483Z
+Created=2020-04-13T22:02:39.7Z
+Updated=2025-11-28T22:06:29.483Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Aminatou, the Fateshifter|SLD|1421
+
+
+[Main]
+1 Altar of the Brood|KTK|216
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|PUMA|U31
+1 Arcane Signet|SLD|589
+1 Archivist of Oghma|CLB|553
+1 Arid Mesa|MH2|475
+1 Bloodstained Mire|KTK|230
+1 Cabal Ritual|V16|2
+1 Chain of Vapor|C16|84
+1 Chrome Mox|MRD|152
+1 City of Brass|2X2|403
+1 Cloud of Faeries|DMR|43
+1 Command Tower|CMR|705
+1 Counterbalance|CSP|31
+1 Cursed Totem|MIR|299
+1 Cyclonic Rift|MM3|35
+1 Dark Ritual|SLD|1170
+1 Dauthi Voidwalker
+1 Delney, Streetwise Lookout|MKM|12
+1 Demonic Consultation|ICE|121
+1 Demonic Tutor|CMM|696
+1 Displacer Kitten|CLB|560
+1 Dour Port-Mage|BLB|47
+1 Drannith Magistrate|IKO|314
+1 Enlightened Tutor|DMR|263
+1 Esper Sentinel|MH2|328
+1 Exotic Orchard|C19|242
+1 Faerie Mastermind|MOM|352
+1 Felidar Guardian|SLD|1487
+1 Fellwar Stone|SLD|708
+1 Flesh Duplicate|WHO|44
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Negation|MH1|52
+1 Force of Will|2XM|340
+1 Gemstone Caverns|TSR|280
+1 Gilded Drake|USG|76
+1 Godless Shrine|RNA|248
+1 Grafdigger's Cage|M20|227
+1 Grand Abolisher|CMM|27
+1 Grim Monolith|ULG|126
+1 Hallowed Fountain|RNA|251
+1 Imperial Seal|2X2|79
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Lotus Petal|TMP|294
+1 Mana Confluence|JOU|163
+1 Mana Vault|PUMA|U29
+1 Marsh Flats|MH2|476
+1 Mental Misstep|NPH|38
+1 Meticulous Archive|MKM|328
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|MH2|477
+1 Mockingbird|BLB|305
+1 Morphic Pool|CLB|603
+1 Mox Diamond|STH|138
+1 Mox Opal|SOM|179
+1 Mystic Remora|DMR|288
+1 Mystical Tutor|DMR|289
+1 Necropotence|IMA|98
+1 Opposition Agent|CMR|651
+1 Orcish Bowmasters|LTR|433
+1 Otawara, Soaring City|NEO|414
+1 Pact of Negation|A25|68
+1 Phyrexian Metamorph|2XM|341
+1 Polluted Delta|KTK|239
+1 Ranger-Captain of Eos|H1R|5
+1 Recruiter of the Guard
+1 Rhystic Study|WOT|25
+1 Scalding Tarn|MH2|478
+1 Scrubland|VMA|313
+1 Sea of Clouds|CLB|605
+1 Shrieking Drake|MH3|272
+1 Silence|M14|35
+1 Sink into Stupor|MH3|241
+1 Smothering Tithe|2X2|342
+1 Sol Ring|SLD|1494
+1 Spark Double|WAR|68
+1 Spellseeker|CMM|120
+1 Static Prison|MH3|44
+1 Swan Song|C16|98
+1 Swords to Plowshares|SLD|364
+1 Tainted Pact|ODY|164
+1 Talisman of Dominance|SLD|1053
+1 Talisman of Progress|SLD|1052
+1 Tataru Taru|FIC|138
+1 Teferi, Time Raveler|RVR|232
+1 Thassa's Oracle|THB|308
+1 The One Ring|LTR|451
+1 Tundra|VMA|322
+1 Underground Sea|VMA|323
+1 Urza's Saga|SLC|21
+1 Vampiric Tutor|CMR|656
+1 Vault of Champions|CMR|715
+1 Verdant Catacombs|MH2|479
+1 Voice of Victory|TDM|33
+1 Wan Shi Tong, Librarian|TLA|320
+1 Watery Grave|GRN|259
+1 Windswept Heath|KTK|248
+1 Wishclaw Talisman|ELD|357
+
+
+[Sideboard]
+1 Ad Nauseam|ALA|63
+1 Blind Obedience|WOT|1
+1 Brainstorm|C18|82
+1 Corpse Knight
+1 Dauntless Dismantler|LCI|8
+1 Delay
+1 Dress Down|MH2|334
+1 Gitaxian Probe
+1 Grasp of Fate|WOT|3
+1 Imposter Mech|NEC|49
+
+

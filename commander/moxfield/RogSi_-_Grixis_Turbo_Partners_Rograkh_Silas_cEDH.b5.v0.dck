@@ -1,0 +1,133 @@
+[metadata]
+Name=RogSi - Grixis Turbo Partners (Rograkh/Silas) [cEDH]
+Description=Welcome to one of the fastest decks in the format. GO HARD OR GO HOME! Life is just a ressource, right?
+Format=commander
+Bracket=5
+Author=Force_of_Will,SmilodeX
+Tags=cEDH,Combo,Competitive,Grixis (UBR),Primer,Storm,Tempo,Wheels
+Version=0
+URL=https://moxfield.com/decks/zVM8SS8nVkuj1Ap483S88w
+Date=2026-02-04T17:05:56.133Z
+Created=2020-11-06T00:03:27.81Z
+Updated=2026-02-04T17:05:56.133Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Rograkh, Son of Rohgahh|CMR|575
+1 Silas Renn, Seeker Adept|CMR|536
+
+
+[Main]
+1 Ad Nauseam|2XM|76
+1 An Offer You Can't Refuse|SNC|464
+1 Ancient Tomb|ZNE|21
+1 Arcane Signet|LCC|104
+1 Arid Mesa|ZNE|9
+1 Badlands|30A|273
+1 Birgi, God of Storytelling|KHM|311
+1 Blood Crypt|UNF|279
+1 Bloodstained Mire|ZNE|3
+1 Borne Upon a Wind|LTR|350
+1 Brain Freeze|SLD|410
+1 Cabal Ritual|V16|2
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|2XM|358
+1 City of Brass|2X2|403
+1 City of Traitors|EXO|143
+1 Command Tower|SLD|806
+1 Copy Artifact|30A|53
+1 Culling the Weak|EXO|55
+1 Dark Ritual|STA|26
+1 Deflecting Swat|CMM|698
+1 Demonic Consultation|SLD|1127
+1 Demonic Tutor|STA|27
+1 Diabolic Intent|BRO|324
+1 Fellwar Stone|CMM|657
+1 Fierce Guardianship|CMM|694
+1 Final Fortune|7ED|182★
+1 Flare of Duplication|MH3|333
+1 Flooded Strand|ZNE|1
+1 Flusterstorm|MH1|255
+1 Force of Negation|2X2|346
+1 Force of Will|2XM|340
+1 Gamble|DMR|433
+1 Gemstone Caverns|LTC|364
+1 Grim Monolith|ULG|126
+1 Hexing Squelcher|ECL|317
+1 Imperial Seal|2X2|354
+1 Jeska's Will|CMR|668
+1 Last Chance|DMR|435
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|TPR|225
+1 Mana Confluence|CMR|721
+1 Mana Drain|2X2|348
+1 Mana Vault|2X2|394
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|OTP|68
+1 Misty Rainforest|ZNE|10
+1 Mnemonic Betrayal|GRN|189
+1 Morphic Pool|ZNE|17
+1 Mox Amber|DOM|224
+1 Mox Diamond|TPR|228
+1 Mox Opal|2XM|362
+1 Mystic Remora|DMR|420
+1 Mystical Tutor|DMR|421
+1 Necrodominance|MH3|102
+1 Necropotence|WOT|74
+1 Orcish Bowmasters|LTR|433
+1 Otawara, Soaring City|NEO|414
+1 Pact of Negation
+1 Paradise Mantle|5DN|142
+1 Phyrexian Tower|UMA|248
+1 Polluted Delta|ZNE|2
+1 Praetor's Grasp|SLD|1023
+1 Pyroblast|SS3|5
+1 Ragavan, Nimble Pilferer
+1 Red Elemental Blast|A25|147
+1 Retraction Helix|A25|71
+1 Rhystic Study|WOT|71
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|ZNE|7
+1 Simian Spirit Guide|PLC|122
+1 Sink into Stupor|MH3|241
+1 Snap|SLD|412
+1 Sol Ring|40K|249★
+1 Springleaf Drum|2XM|291
+1 Starting Town|FIN|289
+1 Steal Enchantment|TMP|90
+1 Steam Vents|UNF|283
+1 Swan Song|LTC|197
+1 Tainted Pact|STA|33e
+1 Talisman of Dominance|WHO|250
+1 Thassa's Oracle|THB|308
+1 The One Ring|LTR|451
+1 Timetwister|30A|84
+1 Toxic Deluge|CMM|523
+1 Training Center|CMR|713
+1 Underground Sea|30A|281
+1 Underworld Breach|SPG|9
+1 Valley Floodcaller|BLB|308
+1 Vampiric Tutor|DMR|430
+1 Verdant Catacombs|ZNE|8
+1 Volcanic Island|30A|282
+1 Watery Grave|UNF|278
+1 Wheel of Fortune
+1 Windfall|SLD|1775
+1 Wishclaw Talisman
+1 Wooded Foothills|ZNE|4
+1 Yawgmoth's Will|USG|171
+
+
+[Sideboard]
+1 Beseech the Mirror|WOE|336
+1 Crystal Vein|PD3|24
+1 Cyclonic Rift|2XM|339
+1 Daze|EMA|44
+1 Deadly Rollick|CMM|695
+1 Fire Covenant|SLD|271
+1 Gitaxian Probe
+1 Infernal Plunge|ISD|148
+1 Louisoix's Sacrifice|FIN|59
+1 Mistrise Village|TDM|397
+
+

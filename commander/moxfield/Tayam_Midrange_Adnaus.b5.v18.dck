@@ -1,0 +1,123 @@
+[metadata]
+Name=Tayam Midrange Adnaus [cEDH]
+Description=Updated since Lorwyn 
+Format=commander
+Bracket=5
+Author=RylandL
+Tags=Abzan (WBG),cEDH,Combo,Competitive,Midrange,Primer
+Version=18
+URL=https://moxfield.com/decks/rVEjo7IdpECuP96MlsjcrQ
+Date=2026-03-02T22:02:44.28Z
+Created=2020-05-22T16:38:43.81Z
+Updated=2026-03-02T22:02:44.28Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Tayam, Luminous Enigma|C20|16
+
+
+[Main]
+1 Abrupt Decay|OTP|34
+1 Ad Nauseam|2XM|76
+1 Allosaurus Shepherd|2X2|365
+1 Archivist of Oghma|CLB|553
+1 Arid Mesa|MM3|229
+1 Avacyn's Pilgrim
+1 Badgermole Cub|TLA|167
+1 Bayou|3ED|283
+1 Birds of Paradise
+1 Bloodstained Mire|MH3|216
+1 Boseiju, Who Endures|NEO|266
+1 Carpet of Flowers|WHO|229
+1 Centaur Garden|ODY|316
+1 Chord of Calling|2XM|158
+1 Chrome Mox|2XM|240
+1 City of Brass|MD1|15
+1 Command Tower|VOC|172
+1 Crop Rotation
+1 Culling Ritual|ONC|117
+1 Dark Ritual|TMP|118
+1 Deafening Silence|MB2|9
+1 Deathrite Shaman|MB2|81
+1 Delighted Halfling|LTR|402
+1 Demonic Tutor
+1 Devoted Druid|SHM|110
+1 Diabolic Intent|BRO|89
+1 Drannith Magistrate|IKO|314
+1 Earthcraft|TMP|222
+1 Eladamri's Call|A25|203
+1 Eldritch Evolution
+1 Elves of Deep Shadow|GK1|56
+1 Emergence Zone|WAR|245
+1 Endurance|ECC|51
+1 Enlightened Tutor
+1 Entomb|UMA|94
+1 Esper Sentinel|MH2|12
+1 Eternal Witness|2X2|145
+1 Exotic Orchard|C20|273
+1 Finale of Devastation|WAR|160
+1 Forbidden Orchard|C16|296
+1 Forest|WAR|262
+1 Formidable Speaker|ECL|176
+1 Fyndhorn Elves|CMR|228
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSR|280
+1 Godless Shrine|EOE|254
+1 Grand Abolisher|BIG|2
+1 Green Sun's Zenith|EMA|169
+1 Hashep Oasis|HOU|177
+1 Imperial Seal|2X2|354
+1 Joraga Treespeaker
+1 Legolas's Quick Reflexes|LTC|493
+1 Lion's Eye Diamond|MIR|307
+1 Llanowar Elves|EMA|175
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Lotus Petal
+1 Marsh Flats|SLU|1
+1 Marvin, Murderous Mimic
+1 Misty Rainforest|MH2|250
+1 Mox Diamond|STH|138
+1 Nature's Rhythm|TDM|150
+1 Necropotence|EMA|98
+1 Noxious Revival|MB2|70
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|103
+1 Overgrown Tomb|ECL|266
+1 Path to Exile
+1 Phyrexian Tower|UMA|248
+1 Polluted Delta|MH3|224
+1 Prismatic Vista|MH1|244
+1 Ranger-Captain of Eos|MH1|21
+1 Root Maze|10E|292
+1 Savannah|3ED|285
+1 Scrubland|3ED|286
+1 Seal of Primordium|MM3|135
+1 Sevinne's Reclamation|DMR|27
+1 Shield Mate|EXO|19
+1 Silence
+1 Sol Ring|ZNC|120
+1 Starting Town|FIN|289
+1 Survival of the Fittest|EXO|129
+1 Swamp|XLN|270
+1 Sylvan Library|EMA|187
+1 Sylvan Safekeeper|MH3|287
+1 Talon Gates of Madara|M3C|134
+1 Tangle Wire|V13|8
+1 Temple Garden|ECL|268
+1 Touch the Spirit Realm|NEO|40
+1 Trinisphere|V09|15
+1 Vampiric Tutor|EMA|112
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MM3|249
+1 Voice of Victory|TDM|33
+1 Wall of Roots
+1 Wild Growth|3ED|230
+1 Windswept Heath|MH3|235
+1 Wishclaw Talisman|ELD|110
+1 Wooded Foothills|MH3|441
+1 Worldly Tutor|DMR|353
+
+
+[Sideboard]
+
+

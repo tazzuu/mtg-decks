@@ -1,0 +1,123 @@
+[metadata]
+Name=Y'shtola - Maximum Cattitude (cEDH)
+Description=Esper midrange deck that looks to control the board while assembling a wincon.
+Format=commander
+Bracket=5
+Author=pandapete
+Tags=Aristocrats,cEDH,Combo,Competitive,Control,Esper (WUB),Primer,Spellslinger,Stax
+Version=0
+URL=https://moxfield.com/decks/KKtTohTtr0SeWOrpRtkrfg
+Date=2026-02-23T13:09:42.483Z
+Created=2025-02-17T20:20:40.837Z
+Updated=2026-02-23T13:09:42.483Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Y'shtola, Night's Blessed|FIC|207
+
+
+[Main]
+1 An Offer You Can't Refuse
+1 Ancient Tomb|TMP|315
+1 Arcane Signet|SLD|589
+1 Archivist of Oghma|CLB|4
+1 Arid Mesa|MH2|436
+1 Ashiok, Dream Render|SLD|399
+1 Beseech the Mirror
+1 Bloodchief Ascension|CMM|636
+1 Bloodstained Mire|ONS|313
+1 Borne Upon a Wind|LTR|44
+1 Cabal Ritual|TOR|51
+1 Chrome Mox|SLC|2003
+1 City of Brass|7ED|327
+1 City of Traitors|EXO|143
+1 Command Tower|BRC|178
+1 Curiosity|EXO|29
+1 Cursed Totem|MIR|299
+1 Dark Ritual|SLD|1170
+1 Deadly Rollick|CMM|147
+1 Delney, Streetwise Lookout|MKM|12
+1 Demonic Consultation|MB2|181
+1 Demonic Tutor|3ED|105
+1 Diabolic Intent|BRO|324
+1 Dismember|SLD|7011
+1 Displacer Kitten
+1 Drannith Magistrate|IKO|11
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|H2R|2
+1 Exotic Orchard|BRC|185
+1 Faerie Mastermind|MOM|352
+1 Fierce Guardianship|CMM|94
+1 Flooded Strand|ONS|316
+1 Flusterstorm|MH3|496
+1 Force of Despair|SLD|1936
+1 Force of Will|ALL|28
+1 Gemstone Caverns|TSP|274
+1 Godless Shrine|RVR|401
+1 Grand Abolisher|SLD|1285
+1 Hallowed Fountain|RVR|404
+1 Helm of the Ghastlord|SHM|166
+1 Imperial Seal|2X2|79
+1 Into the Flood Maw|BLB|52
+1 Kambal, Consul of Allocation|2X2|237
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Lotus Petal|TMP|294
+1 Mai, Scornful Striker|TLA|374
+1 Mana Confluence|JOU|163
+1 Mana Vault|4ED|334
+1 Marsh Flats|MH2|437
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|ZEN|57
+1 Mindcrank|NPH|144
+1 Misty Rainforest|MH2|438
+1 Mnemonic Betrayal|GRN|189
+1 Mockingbird|BLB|61
+1 Morphic Pool|CLB|357
+1 Mox Amber|BRR|35
+1 Mox Diamond|STH|138
+1 Mox Opal|SLD|1072
+1 Mystic Remora|SLD|406
+1 Mystical Tutor|MIR|80
+1 Orcish Bowmasters|LTR|103
+1 Otawara, Soaring City|NEO|414
+1 Pact of Negation|TSR|77
+1 Papalymo Totolymo|FIC|90
+1 Polluted Delta|ONS|321
+1 Praetor's Grasp|NPH|71
+1 Ranger-Captain of Eos|H1R|5
+1 Ravenous Trap|2XM|103
+1 Retraction Helix|BNG|49
+1 Rhystic Study|WOT|71
+1 Scalding Tarn|MH2|439
+1 Scrubland|3ED|286
+1 Serra Ascendant|SLD|1125
+1 Sevinne's Reclamation|DMR|273
+1 Sheoldred, the Apocalypse|DMU|107
+1 Silence|TSR|302
+1 Smothering Tithe|WOT|67
+1 Snap|ULG|43
+1 Snuff Out|MMQ|162
+1 Sol Ring|SLD|1074
+1 Starting Town|FIN|289
+1 Tainted Pact|ODY|164
+1 Talisman of Dominance|SLD|1053
+1 Talisman of Progress|SLD|1052
+1 Tataru Taru|FIC|30
+1 Teferi, Time Raveler|SLD|252
+1 Thassa's Oracle|THB|73
+1 The One Ring|LTR|451
+1 Tundra|3ED|289
+1 Undercity Sewers|MKM|332
+1 Underground Sea|3ED|290
+1 Valley Floodcaller|BLB|79
+1 Vampiric Tutor|VIS|72
+1 Verdant Catacombs|MH2|440
+1 Voice of Victory|TDM|331
+1 Wan Shi Tong, Librarian|TLA|78
+1 Watery Grave|RVR|415
+1 Wishclaw Talisman|ELD|357
+
+
+[Sideboard]
+
+

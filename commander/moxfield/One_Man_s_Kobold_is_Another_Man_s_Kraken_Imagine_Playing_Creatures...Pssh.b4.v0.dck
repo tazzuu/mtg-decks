@@ -1,0 +1,126 @@
+[metadata]
+Name=One Man's Kobold is Another Man's Kraken (Imagine Playing Creatures...Pssh)
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/DkzxlucWIUWc8NYNMO-QJA
+Date=2023-02-12T13:45:03.63Z
+Created=2022-01-10T03:06:53.967Z
+Updated=2023-02-12T13:45:03.63Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Rograkh, Son of Rohgahh|CMR|197
+1 Thrasios, Triton Hero|CMR|538
+
+
+[Main]
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|C20|237
+1 Arid Mesa|SLU|4
+1 Blasphemous Act|2XM|117
+1 Bloodstained Mire|KTK|230
+1 Boseiju, Who Endures|NEO|266
+1 Brainstorm|2XM|44
+1 Breeding Pool|GTC|240
+1 Chain of Vapor|ONS|73
+1 Chaos Mutation|40K|111
+1 Chrome Mox|2XM|240
+1 City of Brass|MMA|221
+1 Command Tower|C16|286
+1 Copy Artifact|3ED|53
+1 Counterbalance|CSP|31
+1 Cyclonic Rift|MM3|35
+1 Deflecting Swat|C20|50
+1 Delay|TSR|61
+1 Dispel|BFZ|76
+1 Divergent Transformations|C16|17
+1 Dramatic Reversal|KLD|44
+1 Emergence Zone|WAR|245
+1 Exotic Orchard|C19|242
+1 Fellwar Stone|5ED|369
+1 Fierce Guardianship|C20|35
+1 Fiery Islet|MH1|238
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Forbidden Orchard|C16|296
+1 Force of Negation|MH1|52
+1 Force of Will|2XM|51
+1 Gemstone Caverns|TSP|274
+1 Grim Monolith|ULG|126
+1 Hullbreaker Horror|VOW|359
+1 Intuition|TMP|70
+1 Isochron Scepter|DDJ|16
+1 Jeska's Will|CMR|187
+1 Lightning Bolt
+1 Lotus Petal|TMP|294
+1 Lukka, Coppercoat Outcast|IKO|125
+1 Mana Confluence|JOU|163
+1 Mana Crypt|2XM|270
+1 Mana Vault|4ED|334
+1 Mental Misstep|NPH|38
+1 Merchant Scroll|8ED|91
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|SLU|5
+1 Moonsnare Prototype|NEO|69
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|275
+1 Muddle the Mixture|RAV|60
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|MIR|80
+1 Narset, Parter of Veils|WAR|61
+1 Noxious Revival|NPH|118
+1 Oath of Druids|C16|159
+1 Otawara, Soaring City|NEO|271
+1 Pact of Negation|FUT|42
+1 Paradise Mantle|5DN|142
+1 Polluted Delta|KTK|239
+1 Polymorph|9ED|90
+1 Ponder|M10|68
+1 Proteus Staff|MRD|230
+1 Reality Scramble
+1 Relic of Legends|DMU|236
+1 Rhystic Study|PCY|45
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|SLU|2
+1 Sensei's Divining Top|EMA|232
+1 Sol Ring|AFC|215
+1 Solve the Equation|STX|54
+1 Spell Pierce|XLN|81
+1 Spire of Industry|AER|184
+1 Springleaf Drum|2XM|291
+1 Steam Vents|GRN|257
+1 Swan Song|THS|65
+1 Sylvan Library|4BB|273
+1 Taiga|3ED|287
+1 Talisman of Creativity|MH1|231
+1 Talisman of Curiosity|MH1|232
+1 Tidespout Tyrant|BBD|134
+1 Timetwister|2ED|85
+1 Torpor Orb|NPH|162
+1 Training Center|CMR|358
+1 Training Grounds|ROE|91
+1 Transmogrify|M21|167
+1 Tropical Island|3ED|288
+1 Verdant Catacombs|SLU|3
+1 Volcanic Island|3ED|291
+1 Waterlogged Grove|MH1|249
+1 Wheel of Fortune|3ED|185
+1 Wheel of Misfortune|CMR|211
+1 Wild Growth|4ED|289
+1 Windfall|CMD|70
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+1 Mystic Sanctuary|ELD|247
+1 Personal Tutor|POR|64
+1 Resculpt|STX|51
+
+

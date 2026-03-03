@@ -1,0 +1,122 @@
+[metadata]
+Name=Tatyova Turns [cEDH]
+Description=Tatyova Turns is a midrange deck that aims to navigate the early game through interaction and playing key stax pieces, and is able to dominate the mid-late game thanks to having a very powerful value engine on the command zone that is able to draw a lot of cards without casting spells and functions through the most commonly played stax.
+Format=commander
+Bracket=5
+Author=Tremnek
+Tags=cEDH,Combo,Competitive,Extra Turns,Lands Matter,Midrange,Primer,Ramp,Simic (GU)
+Version=0
+URL=https://moxfield.com/decks/shJXCKZkEECtSx1XpN_J3A
+Date=2025-12-23T13:30:09.38Z
+Created=2021-08-17T12:35:15.26Z
+Updated=2025-12-23T13:30:09.38Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Tatyova, Benthic Druid|DOM|206
+
+
+[Main]
+1 Ancient Tomb|LTC|357
+1 Ashaya, Soul of the Wild|ZNR|358
+1 Azusa, Lost but Seeking|SLD|1234
+1 Birds of Paradise|DMR|439
+1 Boseiju, Who Endures|NEO|412
+1 Boseiju, Who Shelters All|LTC|359
+1 Breeding Pool|UNF|286
+1 Bridgeworks Battle|MH3|249
+1 Burgeoning|SLD|408
+1 Capture of Jingzhou
+1 Carpet of Flowers|FCA|44
+1 Chrome Mox|2XM|358
+1 Collector Ouphe|MH1|158
+1 Colossal Skyturtle|NEO|216
+1 Commandeer|CMM|80
+1 Crop Rotation|2XM|349
+1 Cyclonic Rift|2XM|339
+1 Delighted Halfling|LTR|402
+1 Dosan the Falling Leaf|CHK|205
+1 Exploration|2XM|351
+1 Exploration Broodship|EOC|34
+1 Faerie Mastermind
+1 Fierce Guardianship|SLD|1823
+1 Finale of Devastation|CMM|700
+1 Flooded Strand|MH3|464
+1 Flusterstorm|MH3|496
+1 Force of Negation|MH1|52
+1 Force of Will|DMR|418
+1 Forest|FIC|482
+1 Gaea's Cradle
+1 Gemstone Caverns|LTC|364
+1 Ghostly Flicker|SLD|2229
+1 Gilded Drake|USG|76
+1 Green Sun's Zenith|2X2|461
+1 Hedge Maze|MKM|326
+1 Horizon of Progress|M3C|78
+1 Icetill Explorer|EOE|362
+1 Island|FIC|479
+1 Karn's Temporal Sundering|DOM|55
+1 Loot, Exuberant Explorer|FDN|398
+1 Lotus Cobra|ZNR|193
+1 Lotus Petal|SLD|7031
+1 Lórien Revealed|LTR|60
+1 Mana Drain|CMR|637
+1 Mana Vault
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|OTP|68
+1 Mistrise Village|TDM|397
+1 Misty Rainforest|MH2|477
+1 Mockingbird|BLB|305
+1 Mystic Remora|DMR|420
+1 Mystic Sanctuary|ELD|247
+1 Mystical Tutor|DMR|421
+1 Nature's Rhythm|TDM|349
+1 Nexus of Fate|M19|306
+1 Nissa, Resurgent Animist|MAT|162
+1 Noxious Revival|SPG|73
+1 Oboro Breezecaller|SOK|48
+1 Oboro, Palace in the Clouds|LTC|371
+1 Otawara, Soaring City
+1 Pact of Negation|TSR|77
+1 Polluted Delta|MH3|465
+1 Pongify|2XM|62
+1 Prismatic Vista|SPG|38
+1 Quirion Ranger|MH2|285
+1 Rhystic Study|WOT|71
+1 Sakura-Tribe Scout|SOK|144
+1 Scalding Tarn|MH2|478
+1 Sea Gate Restoration|ZNR|333
+1 Shifting Woodland|MH3|357
+1 Sink into Stupor|MH3|241
+1 Six|MH3|370
+1 Snow-Covered Forest|SLD|1477★
+2 Snow-Covered Island|SLD|1474★
+1 Sol Ring|SLD|1905
+1 Sowing Mycospawn|MH3|340
+1 Strip Mine|SLD|472
+1 Summoner's Pact|TSR|234
+1 Swan Song|THS|65
+1 Sylvan Library|DMR|441
+1 Sylvan Safekeeper|SLD|2109
+1 Talon Gates of Madara|M3C|82
+1 Temporal Manipulation|PUMA|U6
+1 Temporal Mastery|INR|307
+1 The Cabbage Merchant|TLE|203
+1 Time Warp|STA|85
+1 Tireless Provisioner|SLD|2057
+1 Traveling Chocobo|FIN|406
+1 Tropical Island|3ED|288
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MH2|479
+1 Walk-In Closet|DSK|341
+1 Wan Shi Tong, Librarian|TLA|78
+1 Waterlogged Grove|ACR|116
+1 Windswept Heath|MH3|466
+1 Wooded Foothills|MH3|467
+1 Worldly Tutor|DMR|442
+1 Yavimaya, Cradle of Growth|LTC|377
+
+
+[Sideboard]
+
+

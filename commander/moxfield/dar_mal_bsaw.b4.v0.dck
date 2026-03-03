@@ -1,0 +1,129 @@
+[metadata]
+Name=dar mal bsaw
+Description=
+Format=commander
+Bracket=4
+Author=Bsaw31,ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/r1kEaCtxS0OFukUxtL5prQ
+Date=2024-06-13T19:35:21.59Z
+Created=2024-06-13T19:05:43.993Z
+Updated=2024-06-13T19:35:21.59Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Dargo, the Shipwrecker|CMR|172
+1 Malcolm, Keen-Eyed Navigator|LCC|161
+
+
+[Main]
+1 Altar of Dementia|MH1|218
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|TMP|315
+1 Arcane Signet|OTC|252
+1 Arid Mesa|MM3|229
+1 Birgi, God of Storytelling|KHM|311
+1 Blood Moon|2XM|346
+1 Bloodstained Mire|MH3|463
+1 Borne Upon a Wind|LTR|44
+1 Brain Freeze
+1 Breeches, Brazen Plunderer|LCC|217
+1 Cavern of Souls|LCI|269
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|2XM|240
+1 City of Brass|8ED|322
+1 Cloudstone Curio|RAV|257
+1 Command Tower|C19|237
+1 Counterbalance
+1 Cyclonic Rift|MM3|35
+1 Defense Grid|BRR|13
+1 Deflecting Swat|CMM|214
+1 Dockside Extortionist|C19|24
+1 Fierce Guardianship|C20|35
+1 Fiery Islet|WHO|278
+1 Flare of Denial|MH3|62
+1 Flooded Strand|MH3|220
+1 Flusterstorm|IMA|55
+1 Force of Negation|2X2|50
+1 Force of Will|DMR|284
+1 Gamble|DMR|321
+1 Gemstone Caverns|TSR|280
+1 Glint-Horn Buccaneer|M20|141
+1 Goblin Bombardment
+1 Grazilaxx, Illithid Scholar|CLB|723
+1 Harbinger of the Seas|MH3|63
+1 Imperial Recruiter|A25|136
+3 Island|BRO|270
+1 Jeska's Will|CMR|187
+1 Jeska, Thrice Reborn|CMR|186
+1 Jeweled Lotus|CMR|319
+1 Karn, the Great Creator|WAR|1
+1 Kozilek's Unsealing|MH3|65
+1 Lightning Greaves|WHO|243
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal
+1 Magda, Brazen Outlaw|KHM|142
+1 Magus of the Moon|TSR|175
+1 Malcolm, the Eyes|OTJ|219
+1 Mana Confluence|JOU|163
+1 Mana Crypt|EMA|225
+1 Mana Vault|5ED|388
+1 Mental Misstep|NPH|38
+1 Minamo, School at Water's Edge
+1 Mindbreak Trap|OTP|12
+1 Misty Rainforest|MM3|240
+3 Mountain|SUM|303
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Muddle the Mixture|RVR|50
+1 Mystic Remora|DMR|288
+1 Otawara, Soaring City|NEO|271
+1 Pact of Negation|TSR|77
+1 Phyrexian Altar|UMA|232
+1 Phyrexian Metamorph
+1 Polluted Delta|MH3|224
+1 Powerbalance|MH3|131
+1 Prismatic Vista|MH1|244
+1 Professional Face-Breaker|SLD|1706
+1 Pyroblast|ICE|213
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Red Elemental Blast|3ED|171
+1 Rhystic Study|PCY|45
+1 Rite of Flame|CSP|96
+1 Runaway Steam-Kin|GRN|115
+1 Scalding Tarn|MH2|254
+1 Sensei's Divining Top|EMA|232
+1 Shivan Reef|OTC|320
+1 Simian Spirit Guide|A25|148
+1 Sink into Stupor|MH3|241
+1 Siren Stormtamer|LCC|171
+1 Sol Ring|WOC|149
+1 Spectral Sailor|LCC|172
+1 Spellskite|MM2|230
+1 Steam Vents|RTR|247
+1 Swan Song|THS|65
+1 Talisman of Creativity|PIP|244
+1 Tezzeret the Seeker|SLD|1619
+1 The One Ring|LTR|451
+1 Training Center|CMR|358
+1 Transmute Artifact|ATQ|14
+1 Underworld Breach
+1 Volcanic Island|3ED|291
+1 Wandering Archaic|STX|6
+1 Wooded Foothills|MH3|236
+
+
+[Sideboard]
+1 Back to Basics|UMA|46
+1 Breeches, Eager Pillager|LCI|294
+1 Candlekeep Sage|CLB|60
+1 Grim Monolith|ULG|126
+1 Kitesail Larcenist|LCI|61
+1 Lavaspur Boots|OTJ|243
+1 Lightning Bolt|CLB|401
+1 Mana Drain|OTP|11
+1 Mox Amber|BRR|35
+1 Mystical Tutor|DMR|289
+
+

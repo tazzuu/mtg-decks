@@ -1,0 +1,124 @@
+[metadata]
+Name=Snoop(-less) Tharry Tharr [Primer]: Gruul Was the Hand They Dealt Me
+Description=
+Format=commander
+Bracket=4
+Author=Surreal
+Tags=Combo,Competitive,Gruul (RG),Midrange,Primer,Stax
+Version=0
+URL=https://moxfield.com/decks/wHkTll0w6EuJPkqNTGfkig
+Date=2026-02-25T19:28:48.827Z
+Created=2020-05-21T16:10:27.557Z
+Updated=2026-02-25T19:28:48.827Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Ruric Thar, the Unbowed|GK2|80
+
+
+[Main]
+1 Allosaurus Shepherd|2X2|365
+1 Ancient Tomb|EXP|36
+1 Archdruid's Charm|MKM|151
+1 Arid Mesa|EXP|24
+1 Badgermole Cub|TLA|167
+1 Beast Whisperer|TSR|356
+1 Birds of Paradise|SLD|92
+1 Blood Moon|2XM|346
+1 Bloodstained Mire|EXP|18
+1 Bolt Bend|WAR|115
+1 Boseiju, Who Endures|NEO|412
+1 Bridgeworks Battle|MH3|249
+1 Cavern of Souls|ZNE|22
+1 Chandra's Incinerator|M21|302
+1 Chord of Calling|RVR|345
+1 Chrome Mox|2XM|358
+1 Collector Ouphe|SLD|1077
+1 Craterhoof Behemoth|TDM|404
+1 Crop Rotation|2XM|349
+1 Deflecting Swat|CMM|698
+1 Delighted Halfling
+1 Dragonborn Champion|AFC|314
+1 Eidolon of the Great Revel|SLD|422
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Elvish Spirit Guide|SLD|423
+1 Eternal Witness|SLD|43
+1 Fanatic of Rhonas|MH3|458
+1 Finale of Devastation|CMM|700
+8 Forest|UST|216
+1 Formidable Speaker|ECL|176
+1 Fyndhorn Elves|CMR|678
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Goblin Anarchomancer|MH2|421
+1 Goblin Sharpshooter|SLD|18
+1 Green Sun's Zenith|MBS|81
+1 Haywire Mite|BRO|199
+1 Hexing Squelcher|ECL|145
+1 Hyrax Tower Scout|THB|173
+1 Invasion of Ikoria|MOM|190
+1 Jeska's Will|SLD|1744
+1 Kiki-Jiki, Mirror Breaker|CHK|175
+1 Kogla, the Titan Ape|SLD|1274
+1 Llanowar Elves
+1 Magebane Lizard|OTJ|134
+1 Magus of the Moon|SLD|1761
+1 Mana Vault|2X2|394
+1 Manglehorn|AKH|175
+1 Misty Rainforest|ZNE|10
+3 Mountain|UST|215
+1 Mox Diamond|STH|138
+1 Natural Order|STA|117
+1 Nature's Rhythm
+1 Nykthos, Shrine to Nyx|THS|223
+1 Prismatic Vista|MH1|244
+1 Ragavan, Nimble Pilferer|MH2|315
+1 Red Elemental Blast|4ED|218
+1 Redirect Lightning|TLA|151
+1 Saryth, the Viper's Fang|MID|304
+1 Scalding Tarn|MH2|254
+1 Selvala, Heart of the Wilds|CMM|681
+1 Shadowspear|THB|345
+1 Shaman of Forgotten Ways|DTK|204
+1 Shatterskull Smashing|ZNR|354
+1 Silverback Elder|DMU|418
+1 Simian Spirit Guide|SLD|1548
+1 Sol Ring|2ED|270
+1 Stomping Ground|UNF|280
+1 Sylvan Library|DMR|441
+1 Sylvan Safekeeper|CMA|152
+1 Taiga|3ED|287
+1 Talon Gates of Madara|M3C|134
+1 The Cabbage Merchant|TLE|134
+1 The One Ring|LTR|451
+1 Treasonous Ogre|CNS|36
+1 Trinisphere|MPS|52
+1 Urza's Saga|MH2|259
+1 Veil of Summer|SLD|1024
+1 Verdant Catacombs|EXP|23
+1 Vivien, Champion of the Wilds|SLD|519
+1 Waltz of Rage|DSK|318
+1 Wandering Archaic|STX|286
+1 Wild Growth|ICE|277
+1 Windswept Heath|EXP|20
+1 Winter Moon|MH3|462
+1 Witch's Clinic|DSC|325
+1 Wooded Foothills|EXP|19
+1 Worldly Tutor|DMR|442
+1 Zoyowa's Justice|LCI|173
+
+
+[Sideboard]
+1 Final Fortune|6ED|175
+1 Gleeful Arsonist|DSC|27
+1 Professional Face-Breaker|SNC|426
+1 Pyroblast|ICE|213
+1 Rampaging Yao Guai|PIP|401
+1 Ruination|CMD|134
+1 Torpor Orb|BIG|27
+1 Twinflame Tyrant|FDN|333
+1 Vexing Shusher|SHM|222
+1 Vivien, Monsters' Advocate|IKO|277
+
+

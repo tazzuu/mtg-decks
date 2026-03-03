@@ -1,0 +1,133 @@
+[metadata]
+Name=🥣 Koll fruity pebbles 🥛 [cEDH]
+Description=Koll Fruity Pebbles is an equipment based fast combo deck, utilising free or net positive creatures (e.g. Crimson Kobolds) alongside equipment like Skullclamp and Mortarpod to generate wins. This strategy reflects that of magic's historical extended deck Fruity Pebbels, using Koll, the Forgemaster the same way as fruity pebbles used Enduring Renewal. What makes this combo deck viable in commander setting is the layered and redundant combo pieces, with Koll, the Forgemaster acting as the crux the same way Enduring Renewal had in the past.
+Format=commander
+Bracket=5
+Author=Avaloon,Iraruel,Kokuryuha,Sickrobot
+Tags=Boros (RW),cEDH,Combo,Competitive,Equipment,Primer
+Version=0
+URL=https://moxfield.com/decks/BPErFu24x0S37bFE_Ibp8w
+Date=2025-10-04T04:11:06.2Z
+Created=2021-01-07T20:56:03.183Z
+Updated=2025-10-04T04:11:06.2Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Koll, the Forgemaster|KHM|325
+
+
+[Main]
+1 Ancient Den|MRD|278
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|CMR|297
+1 Archivist of Oghma|CLB|553
+1 Arid Mesa|ZEN|211
+1 Battlefield Forge|ORI|244
+1 Birgi, God of Storytelling|KHM|123
+1 Bladehold War-Whip|ONE|197
+1 Bloodstained Mire|KTK|230
+1 Bureau Headmaster|ACR|296
+1 Chrome Mox|2XM|240
+1 City of Brass|5ED|413
+1 Cloud, Midgar Mercenary|FIN|10
+1 Command Tower|CMR|350
+1 Conqueror's Flail|C16|53
+1 Crimson Kobolds|LEG|139
+1 Defense Grid|BRR|13
+1 Deflecting Swat|C20|50
+1 Elegant Parlor
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|MH2|12
+1 Fervent Champion|ELD|124
+1 Fighter Class|AFR|222
+1 Final Fortune|7ED|182★
+1 Flare of Duplication|MH3|119
+1 Flooded Strand|KTK|233
+1 Forbidden Orchard|C16|296
+1 Galadriel's Dismissal|LTC|500
+1 Gamble|UMA|132
+1 Gemstone Caverns|TSP|274
+1 Goblin Engineer|MH1|128
+1 Goblin Welder|C14|177
+1 Grand Abolisher|C14|74
+1 Great Furnace
+1 Imperial Recruiter|MH2|281
+1 Impulsive Pilferer|OTC|171
+1 Infernal Plunge|ISD|148
+1 Inspiring Vantage|KLD|246
+1 Jeska's Will|CLB|799
+1 Jeweled Amulet|ICE|326
+1 Kellan, the Fae-Blooded|WOE|291
+1 Kobolds of Kher Keep|LEG|157
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|TMP|294
+1 Mana Confluence|JOU|163
+1 Mana Vault|4ED|334
+1 Marsh Flats|ZEN|219
+1 Mask of Immolation|M20|151
+1 Memnite|SOM|174
+1 Mortarpod
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|275
+1 Myr Moonvessel|DST|133
+1 Orim's Chant|MH3|265
+1 Oswald Fiddlebender|AFR|28
+1 Paradise Mantle|5DN|142
+1 Plateau|3ED|284
+1 Puresteel Paladin|NPH|20
+1 Pyroblast|ICE|213
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Ranger-Captain of Eos|MH1|21
+1 Reckless Handling|MAT|19
+1 Recruiter of the Guard
+1 Red Elemental Blast|3ED|171
+1 Redirect Lightning|TLA|151
+1 Rite of Flame|SS3|7
+1 Rograkh, Son of Rohgahh|CMR|197
+1 Sacred Foundry|GTC|245
+1 Scalding Tarn|SLU|2
+1 Sevinne's Reclamation|DMR|27
+1 Silence|M14|35
+1 Simian Spirit Guide
+1 Skullclamp|40K|248
+1 Smothering Tithe|WOT|13
+1 Snow-Covered Plains|KHM|277
+1 Sol Ring|LEA|269
+1 Spectator Seating|CMR|356
+1 Spire of Industry|AER|184
+1 Springleaf Drum|2XM|291
+1 Starting Town|FIN|289
+1 Static Prison|MH3|44
+1 Steelshaper's Gift|5DN|19
+1 Stoneforge Mystic|2XM|31
+1 Sunbaked Canyon|MH1|247
+1 Talisman of Conviction|MH1|230
+1 Tataru Taru|FIC|30
+1 Tezzeret, Cruel Captain|EOE|2
+1 The One Ring|LTR|451
+1 Touch the Spirit Realm|NEO|40
+1 Underworld Breach
+1 Untimely Malfunction|DSK|161
+1 Urza's Saga|MH2|259
+1 Voice of Victory|TDM|33
+1 Wheel of Fortune|FBB|185
+1 Windswept Heath|KTK|248
+1 Witch Enchanter|MH3|239
+1 Wooded Foothills|KTK|249
+1 _____ Goblin|UNF|107
+
+
+[Sideboard]
+1 Buster Sword|FIN|255
+1 Crookshank Kobolds|LEG|141
+1 Firion, Wild Rose Warrior|FIN|531
+1 Flare of Fortitude|MH3|26
+1 Forge Anew|LTR|17
+1 Glimmervoid|2XM|319
+1 Grinding Station|5DN|127
+1 Jolted Awake|MH3|33
+1 Kassandra, Eagle Bearer|ACR|59
+1 Open the Armory|CMR|34
+
+

@@ -1,0 +1,125 @@
+[metadata]
+Name=Thalia Gitrog Live Brew 4.5.23
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/YVcPy3xcHEaNigCa4w7UyA
+Date=2023-04-06T00:03:06.963Z
+Created=2023-04-05T23:00:02.99Z
+Updated=2023-04-06T00:03:06.963Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Thalia and The Gitrog Monster|MOM|255
+
+
+[Main]
+1 Abrupt Decay
+1 Academy Rector|UDS|1
+1 Activated Sleeper|DMC|74
+1 Allosaurus Shepherd|JMP|28
+1 Apprentice Necromancer|C17|97
+1 Archivist of Oghma|CLB|4
+1 Arid Mesa|MH2|475
+1 Assassin's Trophy|2X2|175
+1 Aven Mindcensor|CLB|688
+1 Bayou|3ED|283
+1 Birds of Paradise|DMR|151
+1 Bloodstained Mire|KTK|230
+1 Body Launderer|SNC|68
+1 Boseiju, Who Endures
+1 Buried Alive|WTH|63
+1 Carrion Feeder|EMA|84
+1 Cavern of Souls|AVR|226
+1 Chord of Calling|M15|172
+1 Chrome Mox|EMA|219
+1 City of Brass|MD1|15
+1 Collector Ouphe
+1 Command Tower|SCD|297
+1 Corpse Knight|M20|206
+1 Crop Rotation|DMR|154
+1 Dauthi Voidwalker|MH2|81
+1 Deafening Silence|ELD|10
+1 Deathrite Shaman|RTR|213
+1 Demonic Tutor
+1 Diabolic Intent|BRO|89
+1 Drana and Linvala|MOM|222
+1 Drannith Magistrate|IKO|11
+1 Eladamri's Call|MH1|197
+1 Elas il-Kor, Sadistic Pilgrim|DMU|297
+1 Eldritch Evolution
+1 Elves of Deep Shadow|RAV|161
+1 Elvish Mystic|M14|169
+1 Enlightened Tutor|DMR|263
+1 Entomb|DMR|304
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|C21|288
+1 Finale of Devastation|WAR|160
+1 Flagstones of Trokair|TSR|278
+1 Flooded Strand|KTK|233
+1 Forbidden Orchard|2X2|323
+1 Fyndhorn Elves|CMR|228
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Godless Shrine|GTC|242
+1 Grand Abolisher|E01|12
+1 Horizon Canopy|IMA|240
+1 Imperial Seal|2X2|354
+1 Invasion of Ikoria|MOM|190
+1 Karmic Guide|VOC|90
+1 Llanowar Elves|M12|182
+1 Lotus Petal|TMP|294
+1 Mana Confluence|CMR|721
+1 Mana Crypt|EMA|225
+1 Marsh Flats|MH2|476
+1 Misty Rainforest|MH2|477
+1 Mox Diamond|STH|138
+1 Natural Order|STA|54
+1 Necromancy
+1 Nurturing Peatland|MH1|243
+1 Ohran Frostfang
+1 Opposition Agent|CMR|141
+1 Overgrown Tomb|GRN|253
+1 Path to Exile|ARC|4
+1 Pattern of Rebirth|UMA|176
+1 Persist|MH2|345
+1 Phyrexian Tower|SLD|208
+1 Polluted Delta|KTK|239
+1 Priest of Fell Rites|MH2|372
+1 Protean Hulk|DIS|90
+1 Ranger-Captain of Eos|MH1|21
+1 Reanimate|BRB|57
+1 Saffi Eriksdotter|TSR|260
+1 Savannah|3ED|285
+1 Scrubland|3ED|286
+1 Silence|M14|35
+1 Silent Clearing|MH1|246
+1 Skyclave Apparition|ZNR|39
+1 Snuff Out|MMQ|162
+1 Sol Ring|C20|252
+1 Survival of the Fittest|EXO|129
+1 Swords to Plowshares|IMA|36
+1 Sylvan Library|DMR|179
+1 Sylvan Safekeeper|C14|217
+1 Temple Garden|RTR|248
+1 Toski, Bearer of Secrets|KHM|319
+1 Unmarked Grave|MH2|106
+1 Vampiric Tutor|DMR|314
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|MH2|479
+1 Viscera Seer|CMR|158
+1 Winds of Abandon|MH1|37
+1 Windswept Heath|KTK|248
+1 Wishclaw Talisman
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|DMR|353
+
+
+[Sideboard]
+1 Craterhoof Behemoth|JMP|385
+1 Elesh Norn, Grand Cenobite|MUL|3
+
+

@@ -1,0 +1,130 @@
+[metadata]
+Name=✨Benevolent Suppression 🥊 [cEDH]
+Description=Top 16 deck at Mythic Lotus 11/25/23! Drop early stax pieces to slow down our opponents, then use buffed up creatures (Like a Gilded Goose hehe) to kill people at a rapid pace! Check out the primer for an in-depth look at how the deck works and for in-depth statsistics on games played! Now updated with MH3 cards after testing!
+Format=commander
+Bracket=5
+Author=DMage,Spyzer64
+Tags=cEDH,Enchantments,Hatebears,Midrange,Primer,Stax
+Version=0
+URL=https://moxfield.com/decks/T9MLVqc49USBFE5g3iuzmQ
+Date=2025-10-14T01:25:48.4Z
+Created=2023-08-30T21:41:13.547Z
+Updated=2025-10-14T01:25:48.4Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Ellivere of the Wild Court|WOC|2
+
+
+[Main]
+1 Ancient Tomb|UMA|236
+1 Angel's Grace|TSP|3
+1 Archivist of Oghma|CLB|4
+1 Archon of Emeria|ZNR|4
+1 Archon of the Wild Rose|WOE|1
+1 Avacyn's Pilgrim|MM3|119
+1 Aven Interrupter|OTJ|4
+1 Aven Mindcensor|CLB|688
+1 Birds of Paradise|GK2|82
+1 Boseiju, Who Endures
+1 Bountiful Promenade|CLB|601
+1 Branchloft Pathway|ZNR|284
+1 Bridgeworks Battle|MH3|249
+1 Brushland|BRO|298
+1 Carpet of Flowers|SLD|279
+1 Cavern of Souls|LCI|410c
+1 Chrome Mox|EMA|219
+1 City of Brass|2X2|403
+1 Clarion Conqueror
+1 Collector Ouphe|SLD|1077
+1 Command Tower|CMM|659
+1 Containment Priest
+1 Crop Rotation|C20|169
+1 Damping Sphere|DOM|213
+1 Dauntless Dismantler|LCI|8
+1 Deafening Silence|ELD|10
+1 Delighted Halfling|LTR|402
+1 Doorkeeper Thrull|MKM|13
+1 Drannith Magistrate
+1 Eiganjo, Seat of the Empire|NEO|268
+1 Eladamri's Call|A25|203
+1 Elvish Spirit Guide|DMR|157
+1 Endurance|MH2|157
+1 Enlightened Tutor|DMR|6
+1 Esper Sentinel|MH2|12
+2 Forest|THB|254
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gemstone Caverns|TSR|280
+1 Gilded Goose
+1 Grafdigger's Cage|MM3|221
+1 Greater Auramancy
+1 Green Sun's Zenith|2X2|150
+1 Horizon Canopy|WHO|287
+1 Kodama of the West Tree
+1 Kutzil, Malamet Exemplar|LCI|232
+1 Land Tax|CMM|37
+1 Legolas's Quick Reflexes|LTC|493
+1 Leonin Arbiter|C17|64
+1 Linvala, Keeper of Silence|MM3|13
+1 Llanowar Elves|GN3|101
+1 Lotus Petal|TPR|225
+1 Lush Portico
+1 Mana Vault
+1 Marsh Flats|MH2|248
+1 Misty Rainforest|MH2|250
+1 Mox Diamond|TPR|228
+1 Nature's Rhythm|TDM|150
+1 Null Rod|WTH|154
+1 Ocelot Pride|MH3|322
+1 Orim's Chant|MH3|265
+1 Path to Exile|2X2|23
+1 Pick Your Poison|MKM|170
+3 Plains|WOE|267
+1 Ranger-Captain of Eos|MH1|21
+1 Razorgrass Ambush|MH3|238
+1 Rest in Peace|SLD|96
+1 Root Maze|TMP|250
+1 Rug of Smothering|CLB|336
+1 Sanctum Weaver|WOC|131
+1 Savannah|30A|276
+1 Serra Ascendant|IMA|31
+1 Serra's Sanctum|USG|325
+1 Sigarda, Font of Blessings|MAT|182
+1 Silence|M11|30
+1 Sol Ring|WOC|149
+1 Soulless Jailer|ONE|241
+1 Springheart Nantuko|MH3|171
+1 Stony Silence|MM3|25
+1 Suppression Field|RAV|31
+1 Surge of Salvation|MOM|41
+1 Survival of the Fittest|TPR|199
+1 Sylvan Library|DMR|179
+1 Sylvan Safekeeper|CMA|152
+1 Talon Gates of Madara|M3C|134
+1 Temple Garden|GRN|258
+1 Touch the Spirit Realm|NEO|40
+1 Unyielding Gatekeeper|MKM|35
+1 Urza's Saga
+1 Vexing Bauble|MH3|212
+1 Weathered Wayfarer|LTC|183
+1 Wild Growth|DMR|184
+1 Windswept Heath|KTK|248
+1 Witch Enchanter|MH3|239
+1 Worldly Tutor|DMR|185
+1 Yasharn, Implacable Earth|ZNR|240
+
+
+[Sideboard]
+1 Charitable Levy|MH3|21
+1 Command Beacon
+1 Dollmaker's Shop|DSK|4
+1 Dryad Militant
+1 Elesh Norn, Mother of Machines|ONE|10
+1 Galadriel's Dismissal|LTC|500
+1 Hushbringer|ELD|18
+1 Hushwing Gryff|M15|15
+1 Karn, the Great Creator|BLC|73
+1 Phelia, Exuberant Shepherd|MH3|40
+
+

@@ -1,0 +1,130 @@
+[metadata]
+Name=Live Brew 5.11.22 Jetmir
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/Rcof6RLoVEimnuAqS0HmxA
+Date=2022-05-12T02:21:59.197Z
+Created=2022-05-12T00:32:46.66Z
+Updated=2022-05-12T02:21:59.197Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Jetmir, Nexus of Revels
+
+
+[Main]
+1 Adeline, Resplendent Cathar|MID|1
+1 Arbor Elf|M13|160
+1 Archon of Valor's Reach|C20|202
+1 Arid Mesa|MH2|244
+1 Avabruck Caretaker|VOW|187
+1 Avacyn's Pilgrim|MM3|119
+1 Aven Mindcensor|TSR|5
+1 Birds of Paradise|GK2|82
+1 Bloodstained Mire|KTK|230
+1 Bloom Tender
+1 Boseiju, Who Endures|NEO|266
+1 Bountiful Promenade|BBD|81
+1 Brushland|ATH|71
+1 Captain Sisay|INV|237
+1 Chord of Calling|M15|172
+1 City of Brass|6ED|321
+1 Collector Ouphe|MH1|158
+1 Command Tower|CMR|479
+1 Crop Rotation
+1 Cryptolith Rite|SOI|200
+1 Deafening Silence|ELD|10
+1 Dockside Extortionist|C19|24
+1 Drannith Magistrate|IKO|11
+1 Eiganjo, Seat of the Empire|NEO|268
+1 Eladamri's Call|A25|203
+1 Elesh Norn, Grand Cenobite|IMA|18
+1 Elvish Mystic|DDU|7
+1 Emeria's Call|ZNR|12
+1 Endurance|MH2|157
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|NCC|400
+1 Finale of Devastation
+1 Flooded Strand|KTK|233
+1 Fyndhorn Elves|CMR|228
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns
+1 Giver of Runes|MH1|13
+1 Glowrider|LGN|15
+1 Green Sun's Zenith|MBS|81
+1 Horizon Canopy|IMA|240
+1 Kataki, War's Wage|MD1|24
+1 Katilda, Dawnhart Prime|MID|230
+1 Linvala, Keeper of Silence|MM3|13
+1 Llanowar Elves|M11|184
+1 Loyal Apprentice|AFC|132
+1 Mana Confluence|JOU|163
+1 Manglehorn
+1 Marsh Flats|MH2|248
+1 Misty Rainforest|MH2|250
+1 Mother of Runes|CMA|17
+1 Mox Diamond|STH|138
+1 Natural Order|EMA|177
+1 Null Rod|WTH|154
+1 Ohran Frostfang|C19|33
+1 Outland Liberator|MID|303
+1 Path to Exile|NCC|208
+1 Phyrexian Revoker|2XM|282
+1 Plateau|3ED|284
+1 Professional Face-Breaker|SNC|116
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Ranger-Captain of Eos|MH1|21
+1 Rest in Peace|RTR|18
+1 Root Maze|10E|292
+1 Sacred Foundry
+1 Sanctum Prelate|MH2|491
+1 Saryth, the Viper's Fang|MID|304
+1 Savannah|3ED|285
+1 Scalding Tarn|MH2|254
+1 Serra Ascendant|M11|28
+1 Shatterskull Smashing|ZNR|161
+1 Silence|M11|30
+1 Skyclave Apparition|ZNR|39
+1 Snow-Covered Forest|MH1|254
+1 Sol Ring|C20|252
+1 Solitude|MH2|32
+1 Somberwald Sage|MIC|144
+1 Stomping Ground|GTC|247
+1 Sunbaked Canyon|MH1|247
+1 Swords to Plowshares|NCC|211
+1 Sylvan Library|5ED|329
+1 Sylvan Safekeeper|C14|217
+1 Taiga|3ED|287
+1 Temple Garden
+1 Tendershoot Dryad|RIX|147
+1 Thalia, Guardian of Thraben|VOW|38
+1 Thorn of Amethyst|LRW|262
+1 Toski, Bearer of Secrets|KHM|319
+1 Turntimber Symbiosis|ZNR|215
+1 Utopia Sprawl|AFC|172
+1 Verdant Catacombs|MH2|260
+1 Vryn Wingmare|M21|43
+1 Weathered Wayfarer
+1 Wild Growth|4ED|289
+1 Windswept Heath|KTK|248
+1 Winota, Joiner of Forces
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|6ED|269
+1 Yavimaya, Cradle of Growth|MH2|261
+1 Yisan, the Wanderer Bard|M15|209
+
+
+[Sideboard]
+1 Augur of Autumn
+1 Carpet of Flowers
+1 Deflecting Swat|C20|50
+1 Forbidden Orchard|C16|296
+1 Rocco, Cabaretti Caterer|SNC|332
+1 Stony Silence|ISD|36
+1 Tarnished Citadel|ODY|329
+
+

@@ -1,0 +1,133 @@
+[metadata]
+Name=jeskai bralcolm
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/jQQ0yoouN0u2nYgDIIpBbg
+Date=2023-11-02T00:28:12.963Z
+Created=2021-10-05T23:44:32.23Z
+Updated=2023-11-02T00:28:12.963Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Bruse Tarl, Boorish Herder|C16|30
+1 Malcolm, Keen-Eyed Navigator|CMR|79
+
+
+[Main]
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb
+1 Arcane Signet|MIC|157
+1 Arid Mesa|MH2|244
+1 Artificial Evolution|ONS|67
+1 Blasphemous Act|WHO|472
+1 Bloodstained Mire|KTK|230
+1 Brain Freeze
+1 Cavern of Souls|AVR|226
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|EMA|219
+1 City of Brass|5ED|413
+1 City of Traitors|EXO|143
+1 Command Tower|CMR|350
+1 Curiosity|JMP|147
+1 Cyclonic Rift|RTR|35
+1 Deflecting Swat|C20|50
+1 Delay|TSR|61
+1 Dispel|BFZ|76
+1 Dockside Extortionist|C19|24
+1 Drift of Phantasms|RAV|46
+1 Enlightened Tutor
+1 Esper Sentinel|MH2|328
+1 Exotic Orchard|C21|288
+1 Fellwar Stone|AFC|206
+1 Fierce Guardianship|C20|35
+1 Fiery Islet|MH1|238
+1 Final Fortune|MIR|173
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Forbidden Orchard|C16|296
+1 Force of Negation|MH1|52
+1 Force of Will|2XM|51
+1 Gamble|UMA|132
+1 Gemstone Caverns
+1 Glint-Horn Buccaneer|M20|141
+1 Grand Abolisher|E01|12
+1 Grazilaxx, Illithid Scholar|AFR|60
+1 Hallowed Fountain|RNA|251
+1 Hedron Detonator|MOC|31
+1 Imperial Recruiter|MH2|281
+1 Intuition|TMP|70
+1 Jeweled Lotus|CMR|319
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal
+1 Magda, Brazen Outlaw
+1 Malcolm, Alluring Scoundrel|LCI|63
+1 Mana Confluence|CMR|721
+1 Mana Crypt
+1 Mana Vault|3ED|263
+1 Marsh Flats|MH2|248
+1 Maskwood Nexus
+1 Mental Misstep|NPH|38
+1 Minamo, School at Water's Edge
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|MH2|250
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|275
+1 Muddle the Mixture|RAV|60
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|MIR|80
+1 Niv-Mizzet, Parun|GRN|192
+1 Pact of Negation
+1 Phyrexian Metamorph|NPH|42
+1 Plateau|3ED|284
+1 Polluted Delta|KTK|239
+1 Ponder|M10|68
+1 Professional Face-Breaker
+1 Pyre of Heroes|KHM|241
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Ranger-Captain of Eos|MH1|21
+1 Reckless Fireweaver|KLD|126
+1 Rhystic Study|PCY|45
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|MH2|254
+1 Sevinne's Reclamation|C19|5
+1 Silence
+1 Simian Spirit Guide
+1 Siren Stormtamer|CMR|96
+1 Sol Ring|MIC|162
+1 Spectral Sailor|M20|76
+1 Spell Pierce|XLN|81
+1 Spellskite|MM2|230
+1 Steam Vents|RTR|247
+1 Sunbaked Canyon|MH1|247
+1 Swan Song|THS|65
+1 Swords to Plowshares|MIC|94
+1 Talisman of Creativity|MH1|231
+1 The One Ring|LTR|451
+1 Touch the Spirit Realm|NEO|40
+1 Training Center|CMR|358
+1 Trickery Charm|ONS|119
+1 Tundra|3ED|289
+1 Underworld Breach|THB|161
+1 Volcanic Island|2ED|287
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+1 Arcane Adaptation|XLN|46
+1 Combat Research|DMU|44
+1 Dire Fleet Daredevil|AFC|121
+1 Dualcaster Mage|C14|34
+1 Heat Shimmer|LRW|175
+1 Ingenious Artillerist|CLB|182
+1 Merchant Scroll|HML|33
+1 Sacred Foundry|GTC|245
+1 Unsettled Mariner|MH1|216
+1 Warkite Marauder|RIX|60
+
+

@@ -1,0 +1,95 @@
+[metadata]
+Name=NAZGUL
+Description=
+Format=commander
+Bracket=3
+Author=ComedIan,luastardust,toriofthevast
+Tags=
+Version=0
+URL=https://moxfield.com/decks/6iviMtgKm0qf_vVMKBbbIw
+Date=2024-01-13T22:04:00.267Z
+Created=2023-11-19T15:58:39.03Z
+Updated=2024-01-13T22:04:00.267Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Lord of the Nazgûl|LTC|60
+
+
+[Main]
+1 An Offer You Can't Refuse|SNC|51
+1 Arcane Signet|LCC|299
+1 Archmage Emeritus
+1 Birthday Escape|LTR|43
+1 Bojuka Bog|LCC|320
+1 Brainstorm|2XM|44
+1 Cabal Coffers|TOR|139
+1 Call of the Ring|LTR|766
+1 Canoptek Wraith|40K|153
+1 Claim the Precious|LTR|81
+1 Command Tower|LCC|325
+1 Consider|MID|44
+1 Counterspell|5ED|77
+1 Dark Ritual|SLD|1170
+1 Delver of Secrets|MID|47
+1 Distortion Strike|IMA|52
+1 Fatal Push|2XM|93
+1 Feed the Swarm|ZNR|102
+1 Gitaxian Probe|NPH|35
+1 Glasspool Mimic|ZNR|60
+1 Go for the Throat|C17|114
+1 Gurmag Angler|UMA|102
+11 Island|UND|89
+1 Isochron Scepter|DDJ|16
+1 Kindred Discovery|LCC|159
+1 Lightning Greaves
+1 Mana Drain|IMA|65
+1 Minas Morgul, Dark Fortress|LTC|514
+1 Morphic Pool|CLB|357
+1 Murktide Regent|MH2|52
+1 Mystic Sanctuary|ELD|247
+9 Nazgûl|LTR|100
+1 Nazgûl Battle-Mace|LTC|510
+1 Negate|BBD|123
+1 One Ring to Rule Them All|LTR|102
+1 Opt|ELD|59
+1 Otawara, Soaring City|NEO|271
+1 Path of Ancestry|C20|298
+1 Polluted Delta|KTK|239
+1 Ponder|WHO|217
+1 Pongify|C14|120
+1 Preordain|WHO|218
+1 Professor Onyx|STX|83
+1 Quick Study|WOE|65
+1 Reanimate|CC2|5
+1 Ringsight|LTR|220
+1 Ringwraiths|LTR|284
+1 Rivendell|LTR|259
+1 Roaming Throne|LCI|258
+1 Sam's Desperate Rescue|LTR|105
+1 Sauron's Ransom|LTR|225
+1 Sauron, the Necromancer|LTR|106
+1 Serum Visions|C21|129
+1 Shipwreck Marsh|WHO|305
+1 Snap|DMR|66
+1 Sol Ring|SLD|1494
+1 Soothing of Sméagol|LTR|70
+1 Storm of Saruman|LTR|72
+1 Sunken Hollow|AFC|265
+11 Swamp|ELD|258
+1 Swan Song|THS|65
+1 Sword of Once and Future|MOM|265
+1 Syr Konrad, the Grim
+1 The One Ring|LTR|451
+1 Toxic Deluge|EMA|108
+1 Treasure Cruise|C21|133
+1 Underground River|BRO|267
+1 Urborg, Tomb of Yawgmoth|UMA|254
+1 Watery Grave|GRN|259
+1 Witch-king of Angmar|LTR|565
+1 Witch-king, Bringer of Ruin|LTR|293
+
+
+[Sideboard]
+
+

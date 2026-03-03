@@ -1,0 +1,131 @@
+[metadata]
+Name=Pod King
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/YfISzhGJeE6jf88bdjX3RA
+Date=2023-01-24T06:00:45.683Z
+Created=2021-07-28T13:33:10.737Z
+Updated=2023-01-24T06:00:45.683Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Kenrith, the Returned King|ELD|303
+
+
+[Main]
+1 Abrupt Decay|RTR|141
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|TMP|315
+1 Archon of Emeria|ZNR|4
+1 Arid Mesa|MH2|244
+1 Assassin's Trophy|GRN|152
+1 Avacyn's Pilgrim|MM3|119
+1 Bayou|3ED|283
+1 Birds of Paradise|M11|165
+1 Birthing Pod|NPH|104
+1 Boseiju, Who Endures|NEO|266
+1 Bountiful Promenade|BBD|81
+1 Breaching Hippocamp|THS|43
+1 Breeding Pool|GTC|240
+1 Chord of Calling|M15|172
+1 Chrome Mox|2XM|240
+1 City of Brass|5ED|413
+1 Command Tower|CMR|479
+1 Corridor Monitor|ELD|41
+1 Cyclonic Rift|RTR|35
+1 Deafening Silence|ELD|10
+1 Deathrite Shaman|RTR|213
+1 Deceiver Exarch|CN2|106
+1 Demonic Tutor|UMA|93
+1 Diabolic Intent|BBD|141
+1 Dockside Extortionist|C19|24
+1 Drannith Magistrate
+1 Eidolon of Rhetoric|JOU|10
+1 Eldritch Evolution|EMN|155
+1 Elves of Deep Shadow|RAV|161
+1 Elvish Mystic|M15|173
+1 Emiel the Blessed|JMP|3
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|MH2|12
+1 Ethersworn Canonist|MMA|14
+1 Exotic Orchard|AFC|236
+1 Felidar Guardian
+1 Fiend Artisan
+1 Finale of Devastation
+1 Flooded Strand|KTK|233
+1 Forbidden Orchard|C16|296
+1 Fyndhorn Elves|CMR|228
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSR|280
+1 Gilded Drake|USG|76
+1 Grand Abolisher|C14|74
+1 Horizon Canopy|IMA|240
+1 Ignoble Hierarch|MH2|355
+1 Imperial Seal
+1 Jeweled Lotus|CMR|319
+1 Karmic Guide|AFC|68
+1 Kiki-Jiki, Mirror Breaker|TSR|346
+1 Lavinia, Azorius Renegade|RNA|189
+1 Llanowar Elves|4ED|261
+1 Lotus Petal|TMP|294
+1 Mana Confluence|JOU|163
+1 Mana Crypt
+1 Mana Vault|5ED|388
+1 Marsh Flats|MH2|248
+1 Mental Misstep|NPH|38
+1 Misty Rainforest|MH2|250
+1 Mox Diamond|STH|138
+1 Mystic Remora|ICE|87
+1 Neoform|WAR|206
+1 Noble Hierarch|2XM|177
+1 Noxious Revival|NPH|118
+1 Opposition Agent|CMR|141
+1 Phantasmal Image|AFC|89
+1 Plateau|3ED|284
+1 Polluted Delta|KTK|239
+1 Prime Speaker Vannifar|RNA|195
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Ranger-Captain of Eos|MH1|21
+1 Rhystic Study
+1 Rule of Law|M20|35
+1 Savannah|3ED|285
+1 Scalding Tarn|MH2|254
+1 Scrubland|3ED|286
+1 Seedborn Muse|BBD|212
+1 Silence|M14|35
+1 Sol Ring|C19|221
+1 Survival of the Fittest|EXO|129
+1 Swan Song|THS|65
+1 Swords to Plowshares|AFC|75
+1 Sylvan Library|CC1|5
+1 Sylvan Safekeeper|C14|217
+1 Taiga|2ED|283
+1 Tarnished Citadel|ODY|329
+1 Temple Garden|SLD|127
+1 Training Grounds|ROE|91
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Underground Sea|2ED|286
+1 Vampiric Tutor|CMR|156
+1 Verdant Catacombs|MH2|260
+1 Wild Growth|4ED|289
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Worldly Tutor|CC1|6
+
+
+[Sideboard]
+1 Dauthi Voidwalker|MH2|81
+1 Eladamri's Call|A25|203
+1 Green Sun's Zenith|MBS|81
+1 Mayhem Devil|WAR|204
+1 Ohran Frostfang|C19|33
+1 Seedborn Muse|C19|179
+1 Veil of Summer
+1 Yisan, the Wanderer Bard|M15|209
+
+

@@ -1,0 +1,124 @@
+[metadata]
+Name=Oath of Sisay [cEDH]
+Description=*This list is out of date, check the primer for the Sisay Discord and Current Database link*
+Format=commander
+Bracket=5
+Author=RiledUpWhiteKid,Tolaria_East
+Tags=+1/+1 Counters,Blink / Flicker,cEDH,Combo,Competitive,Five Color (WUBRG),Goodstuff,Historic,Legends Matter,Primer,Super Friends,Toolbox
+Version=0
+URL=https://moxfield.com/decks/GMft59MvVkq0po8hUB2Ccg
+Date=2025-10-23T20:47:57.433Z
+Created=2020-04-20T23:07:18.12Z
+Updated=2025-10-23T20:47:57.433Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Sisay, Weatherlight Captain|H1R|6
+
+
+[Main]
+1 Abrupt Decay|TSR|370
+1 Agatha's Soul Cauldron|WOE|366
+1 Aminatou, the Fateshifter|SLD|1421
+1 Ancient Tomb|TMP|315
+1 Arcane Signet|SLD|589
+1 Bayou|LEB|279
+1 Birds of Paradise|LEB|187
+1 Bloom Tender|SLD|284
+1 Boseiju, Who Endures|NEO|412
+1 Chromatic Orrery|LCC|107
+1 Chrome Mox|SLC|2003
+1 City of Brass|ARN|71
+1 Colossal Skyturtle|NEO|216
+1 Command Tower|BRC|178
+1 Cultist of the Absolute|CLB|123
+1 Cyclonic Rift|RVR|313
+1 Deadpool, Trading Card|SLD|1753
+1 Deathrite Shaman|RVR|363
+1 Deflecting Swat|CMM|698
+1 Delighted Halfling|LTR|609
+1 Demonic Tutor|LEB|105
+1 Derevi, Empyrial Tactician|BLC|87
+1 Dihada, Binder of Wills|DMC|1
+1 Dispel|WWK|26
+1 Eladamri's Call|PLS|106
+1 Elvish Spirit Guide|DMR|338
+1 Emiel the Blessed|2X2|338
+1 Enlightened Tutor|DMR|263
+1 Esika, God of the Tree|KHM|314
+1 Esper Sentinel|H2R|2
+1 Exotic Orchard|BRC|185
+1 Faeburrow Elder|ELD|380
+1 Fellwar Stone|DRK|102
+1 Fierce Guardianship|CMM|694
+1 Flooded Strand|MH3|436
+1 Flusterstorm|MB2|163
+1 Force of Will|ALL|28
+1 Gaea's Cradle|USG|321
+1 Galadriel's Dismissal|LTC|500
+1 Gemstone Caverns|LTC|364
+1 Ignoble Hierarch|MH2|414
+1 Into the Flood Maw|BLB|52
+1 Katilda, Dawnhart Prime|DBL|230
+1 Kinnan, Bonder Prodigy|IKO|338
+1 Kutzil, Malamet Exemplar|LCI|304
+1 Legolas's Quick Reflexes|LTC|493
+1 Lotho, Corrupt Shirriff|LTR|664
+1 Lotus Petal|TMP|294
+1 Mana Confluence|SLD|1012a
+1 Mana Vault|LEB|260
+1 Marsh Flats|MH2|437
+1 Marvin, Murderous Mimic|DSK|367
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|MB2|168
+1 Misty Rainforest|MH2|438
+1 Mount Doom|LTR|709
+1 Mox Amber|BRR|98
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|362
+1 Mystic Remora|DMR|288
+1 Nicol Bolas, Dragon-God
+1 Noble Hierarch|2XM|352
+1 Oath of Teferi|DOM|200
+1 Orcish Bowmasters|LTR|554
+1 Otawara, Soaring City|NEO|414
+1 Pippin, Guard of the Citadel|LTR|669
+1 Plateau|LEB|280
+1 Polluted Delta|MH3|438
+1 Ragavan, Nimble Pilferer|H2R|11
+1 Relic of Legends|DMU|236
+1 Rhystic Study|PCY|45
+1 Ruby, Daring Tracker|WOE|212
+1 Saheeli Rai|KLD|186
+1 Savannah|LEB|281
+1 Scalding Tarn|MH2|439
+1 Scrubland|LEB|282
+1 Selvala, Heart of the Wilds|CMM|681
+1 Silence|TSR|302
+1 Skrelv, Defector Mite|ONE|33
+1 Smothering Tithe|2X2|342
+1 Sol Ring|LEB|270
+1 Strix Serenade|MH3|327
+1 Swan Song|SLD|1591
+1 Swords to Plowshares|LEB|41
+1 Taiga|LEB|283
+1 Tarnished Citadel|ODY|329
+1 Teferi, Time Raveler|SLD|252
+1 The One Ring|LTR|697
+1 Touch the Spirit Realm
+1 Tropical Island|LEB|284
+1 Tundra|LEB|285
+1 Tyvar, Jubilant Brawler|ONE|344
+1 Underground Sea|LEB|286
+1 Vampiric Tutor|DMR|314
+1 Verdant Catacombs|MH2|440
+1 Volcanic Island|LEB|287
+1 Windswept Heath|MH3|440
+1 Wooded Foothills|MH3|441
+1 Worldly Tutor|DMR|353
+
+
+[Sideboard]
+1 Frantic Search|DMR|285
+
+

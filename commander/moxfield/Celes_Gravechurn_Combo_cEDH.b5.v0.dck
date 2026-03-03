@@ -1,0 +1,123 @@
+[metadata]
+Name=Celes Gravechurn Combo [cEDH]
+Description=A graveyard-centered mardu deck focusing on presenting fast wins with the resilency to pivot into the later game
+Format=commander
+Bracket=5
+Author=Snakeman772,SQR_Team
+Tags=Aristocrats,cEDH,Combo,Competitive,Mardu (RWB),Primer,Reanimator
+Version=0
+URL=https://moxfield.com/decks/HKtGTFQFP0mtPGqoEhfaHg
+Date=2026-02-26T06:45:04.877Z
+Created=2025-03-14T23:37:29.98Z
+Updated=2026-02-26T06:45:04.877Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Celes, Rune Knight|FIC|209
+
+
+[Main]
+1 Abdel Adrian, Gorion's Ward|CLB|375
+1 Ad Nauseam|ALA|63
+1 Ancient Tomb|TMP|315
+1 Animate Dead|MKC|125
+1 Arcane Signet|SLD|589
+1 Archivist of Oghma|CLB|553
+1 Arid Mesa|MH2|436
+1 Badlands|3ED|282
+1 Beseech the Mirror|WOE|82
+1 Blasting Station|5DN|107
+1 Blood Crypt|RVR|273
+1 Bloodstained Mire|KTK|230
+1 Burnt Offering|ICE|116
+1 Cabal Ritual|V16|2
+1 Cavern of Souls|AVR|226
+1 Chrome Mox|SLC|2003
+1 City of Brass|CHR|112
+1 Cloudshift|AVR|12
+1 Command Tower|SLD|1697
+1 Dark Ritual|ICE|120
+1 Defense Grid|BRR|13
+1 Deflecting Swat|CMM|698
+1 Demonic Counsel|DSK|92
+1 Demonic Tutor|UMA|93
+1 Diabolic Intent|FCA|34
+1 Dihada, Binder of Wills|DMC|1
+1 Dualcaster Mage|2XM|124
+1 Enlightened Tutor|DMR|412
+1 Entomb|DMR|426
+1 Ephemerate|STA|68
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|C20|273
+1 Fellwar Stone|4ED|319
+1 Final Fortune|7ED|182
+1 Flicker|UDS|9
+1 Flooded Strand|KTK|233
+1 Gamble|DMR|321
+1 Gemstone Caverns|EOS|16
+1 Goblin Bombardment|WOT|43
+1 Godless Shrine|EOE|254
+1 Grand Abolisher|CMM|625
+1 Hexing Squelcher|ECL|317
+1 Hoarding Broodlord|MOM|360
+1 Imperial Seal|2X2|354
+1 Lesser Masticore|MH1|225
+1 Lotho, Corrupt Shirriff|LTR|781
+1 Lotus Petal|TMP|294
+1 Magda, Brazen Outlaw|KHM|312
+1 Mana Confluence|SLD|1012a
+1 Mana Vault|4ED|334
+1 Marionette Apprentice|MH3|410
+1 Marsh Flats|MH2|248
+1 Molten Duplication|BIG|14
+1 Mox Diamond|STH|138
+1 Mox Opal
+1 Murderous Redcap|MMA|192
+1 Necromancy|VIS|64
+1 Opposition Agent|CMR|651
+1 Orcish Bowmasters|LTR|103
+1 Persist|MH2|345
+1 Phelia, Exuberant Shepherd|MH3|364
+1 Pinnacle Monk|MH3|246
+1 Plateau|3ED|284
+1 Polluted Delta|KTK|239
+1 Praetor's Grasp|NPH|71
+1 Pyroblast|ICE|213
+1 Ranger-Captain of Eos|MH1|21
+1 Reanimate|LTC|206
+1 Red Elemental Blast|4ED|218
+1 Redirect Lightning|TLA|343
+1 Rite of Flame|CSP|96
+1 Sacred Foundry|EOE|256
+1 Saw in Half|SLD|1755
+1 Scalding Tarn|MH2|254
+1 Scrubland|3ED|286
+1 Sevinne's Reclamation|MH3|267
+1 Shadowy Backstreet
+1 Silence|M14|35
+1 Simian Spirit Guide|PLC|122
+1 Smothering Tithe|2X2|31
+1 Sol Ring
+1 Soul Partition|BRO|307
+1 Spectator Seating|CMM|664
+1 Springleaf Drum|BRR|118
+1 Swamp|DSK|274
+1 Swords to Plowshares|LCC|137
+1 Talisman of Hierarchy|MH1|233
+1 Tataru Taru|FIC|138
+1 Touch the Spirit Realm
+1 Twinflame|2X2|129
+1 Underworld Breach|THB|161
+1 Unmarked Grave|MH2|453
+1 Vampiric Tutor
+1 Vault of Champions|CMM|667
+1 Verdant Catacombs|MH2|260
+1 Voice of Victory|TDM|331
+1 Windswept Heath|MH3|440
+1 Wishclaw Talisman|ELD|110
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+
+

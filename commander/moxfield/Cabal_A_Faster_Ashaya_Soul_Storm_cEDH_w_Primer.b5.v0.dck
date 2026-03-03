@@ -1,0 +1,114 @@
+[metadata]
+Name=[Cabal] A Faster Ashaya Soul Storm 🧝🍃 (cEDH w/ Primer)
+Description=A leaner, grind-worthy Ashaya built around Ranger lines, Argothian lines and able to win at instant speed. Drop a ❤️ and ✅ out the Primer. 
+Format=commander
+Bracket=5
+Author=Fonzie_cEDHhub
+Tags=cEDH,Combo,Competitive,Lands Matter,Mono Green,Primer,Storm,Toolbox,Turbo
+Version=0
+URL=https://moxfield.com/decks/AYlvU-im-EWvM967ufa3ug
+Date=2026-01-26T06:25:19.013Z
+Created=2020-10-08T09:44:21.52Z
+Updated=2026-01-26T06:25:19.013Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Ashaya, Soul of the Wild
+
+
+[Main]
+1 Allosaurus Shepherd|JMP|28
+1 Ancient Tomb|EXP|36
+1 Arbor Elf|M13|160
+1 Archdruid's Charm
+1 Argothian Elder|USG|233
+1 Autumn's Veil|M12|164
+1 Badgermole Cub|TLA|167
+1 Birds of Paradise|7ED|231★
+1 Boseiju, Who Endures
+1 Chalice of the Void
+1 Chord of Calling|M15|172
+1 Chrome Mox|MPS|9
+1 Collective Resistance|MH3|147
+1 Collector Ouphe|MH1|158
+1 Command Beacon
+1 Concordant Crossroads|LEG|179
+1 Crop Rotation
+1 Destiny Spinner|THB|168
+1 Disciple of Freyalise|MH3|250
+1 Dosan the Falling Leaf|CHK|205
+1 Duskwatch Recruiter|SOI|203
+1 Earthcraft|TMP|222
+1 Eldritch Evolution
+1 Elvish Harbinger|LRW|207
+1 Elvish Mystic
+1 Elvish Spirit Guide|ALL|89
+1 Emerald Medallion|TMP|283
+1 Emergence Zone|WAR|245
+1 Endurance
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Fertile Ground|INV|188
+1 Fierce Empath|SCG|119
+1 Finale of Devastation
+10 Forest
+1 Formidable Speaker|ECL|176
+1 Fyndhorn Elves|V13|4
+1 Gaea's Cradle
+1 Gemstone Caverns|TSP|274
+1 Genesis Wave|IMA|164
+1 Glimpse of Nature|CHK|210
+1 Green Sun's Zenith|V13|19
+1 Hope Tender|HOU|119
+1 Invasion of Ikoria|MOM|190
+1 Joraga Treespeaker|ROE|190
+1 Legolas's Quick Reflexes|LTC|493
+1 Ley Weaver
+1 Llanowar Elves
+1 Lotus Cobra
+1 Lotus Petal|MPS|15
+1 Mana Vault|MPS|17
+1 Maze of Ith|V12|10
+1 Mikokoro, Center of the Sea|A25|241
+1 Misty Rainforest|EXP|25
+1 Natural Order
+1 Nature's Claim|IMA|177
+1 Nature's Rhythm|TDM|150
+1 Nissa, Resurgent Animist|MAT|72
+1 Null Rod|WTH|154
+1 Priest of Titania
+1 Prismatic Vista|MH1|244
+1 Quirion Ranger
+1 Root Maze|TMP|250
+1 Scryb Ranger
+1 Shaman of Forgotten Ways|DTK|204
+1 Shared Summons
+1 Skyshroud Poacher|NEM|119
+1 Sol Ring|MPS|24
+1 Summoner's Pact|A25|189
+1 Survival of the Fittest
+1 Sylvan Library|EMA|187
+1 Sylvan Tutor
+1 Thousand-Year Elixir|LRW|263
+1 Tireless Provisioner|MH2|180
+1 Turntimber Symbiosis
+1 Uncage the Menagerie
+1 Urza's Cave|MH3|234
+1 Utopia Sprawl|A25|192
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|EXP|23
+1 Vexing Bauble|MH3|212
+1 War Room|CMR|716
+1 Wild Growth|7ED|282★
+1 Windswept Heath|EXP|20
+1 Wooded Foothills|EXP|19
+1 Woodland Bellower|ORI|207
+1 Worldly Tutor|MIR|255
+1 Yavimaya, Cradle of Growth
+1 Yeva, Nature's Herald|M13|197
+1 Yisan, the Wanderer Bard|M15|209
+
+
+[Sideboard]
+
+

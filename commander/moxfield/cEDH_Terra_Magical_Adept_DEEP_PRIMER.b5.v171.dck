@@ -1,0 +1,136 @@
+[metadata]
+Name=cEDH Terra, Magical Adept [DEEP PRIMER]🌞🌳💀🔥🌊 ⁵ᶜ ᵍᵒᵒᵈˢᵗᵘᶠᶠ
+Description=Hybrid turbo / midrange deck aiming to close the game on T2/3 using necro/naus with the flexibility to pivot smoothly into a more midrange & value-oriented game plan when needed.
+In the big primer you’ll find an in-depth guide to all major play patterns and the core philosophy behind the deck, including a comprehensive spreadsheet with all the testing data used during brewing.
+Join the Discord: https://discord.gg/x7zshpMxnP
+Last primer update: Feb 2026
+Format=commander
+Bracket=5
+Author=lucaqualunque
+Tags=cEDH,Clones,Combo,Competitive,Five Color (WUBRG),Goodstuff,Midrange,Primer,Turbo
+Version=171
+URL=https://moxfield.com/decks/rkfPluCxT0yK3ktOuDZAEQ
+Date=2026-03-02T22:54:38.223Z
+Created=2025-06-10T15:12:47.783Z
+Updated=2026-03-02T22:54:38.223Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Terra, Magical Adept|FIN|245
+
+
+[Main]
+1 Ad Nauseam|ALA|63
+1 An Offer You Can't Refuse|FDN|311
+1 Ancient Tomb|EOS|46
+1 Arcane Signet
+1 Badlands|3ED|282
+1 Bayou|3ED|283
+1 Beseech the Mirror
+1 Birds of Paradise|DMR|336
+1 Birgi, God of Storytelling|KHM|311
+1 Bloodstained Mire|ONS|313
+1 Borne Upon a Wind|SLD|2228
+1 Boseiju, Who Endures
+1 Brain Freeze|SLC|2
+1 Cabal Ritual|TOR|51
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|SPG|92
+1 City of Brass|8ED|322
+1 Command Tower|SLD|1697
+1 Crop Rotation|SLC|3
+1 Culling Ritual
+1 Culling the Weak|EXO|55
+1 Dark Ritual|SLD|1170
+1 Daze|NEM|30
+1 Deathrite Shaman|RVR|363
+1 Deflecting Swat|SLD|1552
+1 Demonic Consultation|ICE|121
+1 Demonic Tutor|SLD|1856
+1 Diabolic Intent|PLS|42
+1 Dragon's Rage Channeler|H2R|9
+1 Elves of Deep Shadow|SLD|1710
+1 Elvish Spirit Guide|DMR|338
+1 Emergence Zone|WAR|245
+1 Enlightened Tutor|DMR|6
+1 Esper Sentinel|MH2|328
+1 Final Fortune|MB2|190
+1 Flare of Duplication|MH3|416
+1 Flooded Strand|ONS|316
+1 Flusterstorm|MH3|496
+1 Force of Will|DMR|284
+1 Gamble|SLD|188
+1 Gemstone Caverns|EOS|61
+1 Gemstone Mine|DMR|455
+1 Gifts Ungiven|CHK|62
+1 Gitaxian Probe|NPH|35
+1 Hexing Squelcher|ECL|317
+1 Ignoble Hierarch|MH2|414
+1 Imperial Seal|2X2|79
+1 Into the Flood Maw|BLB|52
+1 Intuition|TMP|70
+1 Lion's Eye Diamond|MIR|307
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Lotus Petal|TMP|294
+1 Mana Confluence|EOS|70
+1 Mana Vault|4ED|334
+1 Manamorphose|SPG|142
+1 Marsh Flats|ZEN|219
+1 Mental Misstep|NPH|38
+1 Mindbreak Trap|OTP|12
+1 Misty Rainforest|MH2|250
+1 Mox Diamond|STH|138
+1 Mystic Remora|SLD|406
+1 Mystical Tutor|6ED|83
+1 Necrodominance|MH3|411
+1 Necropotence|SLC|1995
+1 Noble Hierarch
+1 Pact of Negation|FUT|42
+1 Polluted Delta|ONS|321
+1 Ragavan, Nimble Pilferer|MUL|21
+1 Red Elemental Blast|4ED|218
+1 Rhystic Study|PCY|45
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|MM3|244
+1 Scrubland|3ED|286
+1 Sevinne's Reclamation|MKC|83
+1 Silence|M11|30
+1 Simian Spirit Guide|PLC|122
+1 Smothering Tithe|WOT|13
+1 Sol Ring|SLD|1696
+1 Starting Town|FIN|289
+1 Summoner's Pact|TSR|234
+1 Swan Song|THS|65
+1 Tainted Pact|ODY|164
+1 Tarnished Citadel|ODY|329
+1 Tataru Taru|FIC|466
+1 Thassa's Oracle
+1 Tinder Wall|ICE|270
+1 Tropical Island|3ED|288
+1 Tundra|3ED|289
+1 Underground Sea|2ED|286
+1 Underworld Breach|SLD|2040
+1 Valley Floodcaller|BLB|308
+1 Vampiric Tutor|VIS|72
+1 Veil of Summer|SLD|1024
+1 Verdant Catacombs|MM3|249
+1 Voice of Victory|TDM|33
+1 Volcanic Island|3ED|291
+1 Windswept Heath|ONS|328
+1 Wishclaw Talisman|FDN|617
+1 Wooded Foothills|MH3|236
+
+
+[Sideboard]
+1 Food Chain|SLD|1369
+1 Gloomshrieker|NEO|219
+1 Orim's Chant|MH3|265
+1 Praetor's Grasp|NPH|71
+1 Purphoros, God of the Forge|THS|135
+1 Shifting Woodland|MH3|228
+1 Six|MH3|370
+1 Squee, the Immortal|DOM|146
+1 The Cabbage Merchant|TLE|134
+1 Wild Cantor|GPT|149
+
+

@@ -1,0 +1,127 @@
+[metadata]
+Name=Noctis, Prince of Lucis cEDH w/ Primer
+Description=
+Format=commander
+Bracket=5
+Author=supermas93
+Tags=Primer
+Version=0
+URL=https://moxfield.com/decks/Ro9mdSxaBE6i7DSkUmmx-w
+Date=2026-01-30T17:12:57.81Z
+Created=2025-05-11T08:02:38.433Z
+Updated=2026-01-30T17:12:57.81Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Noctis, Prince of Lucis|FIN|401
+
+
+[Main]
+1 Aetherflux Reservoir|KLD|192
+1 An Offer You Can't Refuse
+1 Ancient Tomb|EOS|1
+1 Arcane Signet|LCC|104
+1 Arid Mesa|ZNE|9
+1 Black Mage's Rod|FIN|90
+1 Blind Obedience|WOT|1
+1 Bloodstained Mire|MH3|352
+1 Bolas's Citadel|WAR|79
+1 Borne Upon a Wind|LTR|350
+1 Brain Freeze|SLC|2
+1 Cabal Ritual|MB2|177
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|2XM|240
+1 City of Brass|2X2|403
+1 Command Tower|CMM|659
+1 Cyclonic Rift|RVR|419
+1 Dark Ritual|STA|26
+1 Defense Grid|ULG|125
+1 Demonic Consultation|SLC|4
+1 Demonic Tutor|SLD|1856
+1 Displacer Kitten|CLB|560
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|NCC|400
+1 Fellwar Stone|CMM|657
+1 Fierce Guardianship|SLD|1823
+1 Flooded Strand|MH3|464
+1 Flusterstorm|MH3|496
+1 Force of Negation|2X2|346
+1 Force of Will|2XM|340
+1 Gemstone Caverns|EOS|16
+1 Gifts Ungiven|2X2|347
+1 Godless Shrine|RVR|294
+1 Grand Abolisher|CMM|625
+1 Grinding Station|5DN|127
+1 Hallowed Fountain|RVR|295
+1 Hex Parasite|NPH|137
+1 Into the Flood Maw|BLB|52
+1 Intuition|TMP|70
+1 Lion's Eye Diamond|MIR|307
+1 Lotho, Corrupt Shirriff|LTR|370
+1 Lotus Petal|TMP|294
+1 Mana Confluence|EOS|25
+1 Mana Vault|UMA|229
+1 Marsh Flats|MH2|476
+1 Mental Misstep|SLD|1179
+1 Meticulous Archive|MKM|328
+1 Mindbreak Trap|MAR|11
+1 Mirrormade|ELD|55
+1 Misty Rainforest|SPG|111
+1 Mockingbird|BLB|305
+1 Morphic Pool|ZNE|17
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Mystic Remora|DMR|420
+1 Mystical Tutor|V09|8
+1 Necropotence|SLC|1995
+1 Opposition Agent|MAR|19
+1 Orcish Bowmasters|LTR|433
+1 Otawara, Soaring City|NEO|503
+1 Phyrexian Metamorph|2XM|341
+1 Polluted Delta|MH3|465
+1 Praetor's Grasp|SLD|1861
+1 Ranger-Captain of Eos|MH1|21
+1 Reanimate|MAR|20
+1 Rhystic Study|WOT|25
+1 Scalding Tarn|SPG|112
+1 Scrubland|3ED|286
+1 Sensei's Divining Top|CHK|268
+1 Sevinne's Reclamation|CLB|707
+1 Silence|SLD|1816
+1 Sink into Stupor|MH3|241
+1 Smothering Tithe|2X2|342
+1 Snapcaster Mage|PUMA|U5
+1 Sol Ring|SLD|1696
+1 Spire of Industry|AER|184
+1 Swan Song|SLD|1591
+1 Swords to Plowshares|SLD|364
+1 Tainted Pact|STA|96
+1 Talisman of Dominance|MRD|253
+1 Talon Gates of Madara|M3C|82
+1 Teferi, Time Raveler|BLC|92
+1 Tezzeret, Cruel Captain|EOE|287
+1 Thassa's Oracle|SLD|1280
+1 The One Ring|LTR|451
+1 Touch the Spirit Realm|NEO|40
+1 Transmute Artifact|ATQ|14
+1 Tundra|3ED|289
+1 Undercity Sewers|MKM|332
+1 Underground Sea|3ED|290
+1 Urza's Saga|SLC|21
+1 Valley Floodcaller|BLB|308
+1 Vampiric Tutor|CMR|656
+1 Verdant Catacombs|SPG|113
+1 Vexing Bauble|MH3|212
+1 Wan Shi Tong, Librarian|TLA|320
+1 Watery Grave|RVR|301
+1 Wishclaw Talisman|ELD|357
+
+
+[Sideboard]
+1 Beseech the Mirror|WOE|336
+1 Chalice of the Void|MRD|150
+1 Mishra's Bauble|IMA|221
+1 Whir of Invention|AER|49
+
+

@@ -1,0 +1,124 @@
+[metadata]
+Name=nau-xa
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/PE7O_MZ_y06Rp6SaoZ14jA
+Date=2022-03-04T14:35:11.633Z
+Created=2020-08-17T02:00:26.327Z
+Updated=2022-03-04T14:35:11.633Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Kroxa, Titan of Death's Hunger|THB|221
+
+
+[Main]
+1 Ad Nauseam|2XM|76
+1 Ancient Tomb|TMP|315
+1 Animate Dead|4ED|118
+1 Arcane Signet|C20|237
+1 Arid Mesa|MM3|229
+1 Badlands|3ED|282
+1 Blood Crypt|RTR|238
+1 Bloodstained Mire|KTK|230
+1 Burglar Rat|GRN|64
+1 Cabal Ritual|TOR|51
+1 Chain of Smog|ONS|132
+1 Chaos Warp
+1 Chrome Mox|2XM|240
+1 City of Brass|6ED|321
+1 Command Tower|C20|264
+1 Culling the Weak|EXO|55
+1 Dance of the Dead|ICE|118
+1 Dark Confidant|2XM|81
+1 Dark Ritual|TMP|118
+1 Dauthi Voidwalker|MH2|81
+1 Demonic Tutor
+1 Diabolic Intent|BBD|141
+1 Dockside Extortionist|C19|24
+1 Dragon's Rage Channeler|MH2|121
+1 Elderfang Disciple|KHM|93
+1 Emergence Zone|WAR|245
+1 Entomb|EMA|87
+1 Exotic Orchard|C19|242
+1 Faithless Looting|C14|175
+1 Fellwar Stone|5ED|369
+1 Final Fortune|6ED|175
+1 Forbidden Orchard|C16|296
+1 Gamble|EMA|132
+1 Gemstone Caverns|TSP|274
+1 Geth's Grimoire|DST|123
+1 Graven Cairns|2XM|320
+1 Grim Monolith|ULG|126
+1 Grim Tutor|M21|103
+1 Grinding Station|5DN|127
+1 Imperial Seal
+1 Impulsive Pilferer|CMR|185
+1 Jeweled Lotus|CMR|319
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal
+1 Luxury Suite|BBD|82
+1 Mana Confluence|JOU|163
+1 Mana Crypt|2XM|270
+1 Mana Vault|4ED|334
+1 Marsh Flats|SLU|1
+1 Mountain|C19|298
+1 Mox Diamond|V10|10
+1 Mox Opal|2XM|275
+1 Necromancy|VIS|64
+1 Opposition Agent|CMR|141
+1 Peer into the Abyss|M21|117
+1 Phyrexian Tower|JMP|493
+1 Polluted Delta|KTK|239
+1 Praetor's Grasp|NPH|71
+1 Prismatic Vista|MH1|244
+1 Pyroblast|SS3|5
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Rain of Filth|USG|151
+1 Rakdos Signet|C20|249
+1 Red Elemental Blast|3ED|171
+1 Rite of Flame|SS3|7
+1 Rotting Rats|CON|51
+1 Scalding Tarn|ZEN|223
+1 Scroll Rack|TMP|308
+1 Simian Spirit Guide|A25|148
+1 Skirk Prospector|DOM|144
+1 Slaughter Pact|MMA|97
+1 Snow-Covered Mountain|MH1|253
+1 Snow-Covered Swamp|MH1|252
+1 Sol Ring|C16|272
+1 Spire of Industry|AER|184
+1 Stitcher's Supplier|M19|121
+1 Storm-Kiln Artist|STX|115
+1 Sulfurous Springs|DKM|40
+1 Swamp|M20|272
+1 Tainted Pact|ODY|164
+1 Talisman of Indulgence|MRD|255
+1 Tarnished Citadel|ODY|329
+1 Tergrid, God of Fright|KHM|112
+1 Thoughtseize|2XM|109
+1 Tinybones, Trinket Thief|JMP|17
+1 Underworld Breach|THB|161
+1 Unearth|MH1|113
+1 Unmarked Grave|MH2|106
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Vampiric Tutor|6ED|161
+1 Verdant Catacombs|MM3|249
+1 Vicious Rumors|GRN|89
+1 Virus Beetle|NEO|128
+1 Waste Not|M15|122
+1 Wheel of Fortune|FBB|185
+1 Wheel of Misfortune|CMR|211
+1 Wishclaw Talisman|ELD|110
+1 Wooded Foothills|KTK|249
+1 Worldgorger Dragon|JUD|103
+
+
+[Sideboard]
+1 Containment Construct|NEO|243
+
+

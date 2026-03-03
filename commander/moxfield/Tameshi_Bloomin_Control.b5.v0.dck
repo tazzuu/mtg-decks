@@ -1,0 +1,121 @@
+[metadata]
+Name=Tameshi Bloomin' Control [cEDH]
+Description=UW combo-control deck that abuses Tameshi's activated ability to recur impactful permanents and enable resilient combo lines.
+Format=commander
+Bracket=5
+Author=DJYavimaya
+Tags=Azorius (WU) ,cEDH,Combo,Competitive,Control,Primer
+Version=0
+URL=https://moxfield.com/decks/bZkoFr3N6EWCRnw4OPSfow
+Date=2026-02-18T17:29:09.397Z
+Created=2022-08-12T17:12:01.157Z
+Updated=2026-02-18T17:29:09.397Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Tameshi, Reality Architect|NEO|375
+
+
+[Main]
+1 Aether Spellbomb|MRD|141
+1 Amphibian Downpour|MH3|449
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Den|BRC|172
+1 Ancient Tomb
+1 Apple of Eden, Isu Relic|ACR|70
+1 Arcane Signet|CMR|297
+1 Arid Mesa|MH2|244
+1 Artificer's Intuition|5DN|23
+1 Blind Obedience|GTC|6
+1 Charitable Levy|MH3|21
+1 Chrome Mox|MRD|152
+1 City of Traitors|EXO|143
+1 Codex Shredder|CMR|304
+1 Command Tower|CMM|659
+1 Copy Artifact|FBB|53
+1 Copy Land|M3C|47
+1 Counterbalance|CSP|31
+1 Cyclonic Rift|MM3|35
+1 Defense Grid|9ED|293
+1 Displacer Kitten|MB2|27
+1 Drownyard Temple|TDC|359
+1 Enlightened Tutor|6ED|19
+1 Esper Sentinel|MH2|12
+1 Expedition Map|2XM|255
+1 Faerie Mastermind|MOM|58
+1 Fierce Guardianship|C20|35
+1 Flooded Strand|KTK|233
+1 Flusterstorm|IMA|55
+1 Fomori Vault|BIG|29
+1 Force of Negation|2X2|50
+1 Force of Will|EMA|49
+1 Gemstone Caverns|TSP|274
+1 Gifts Ungiven|CHK|62
+1 Grafdigger's Cage
+1 Grand Abolisher|E01|12
+1 Grim Monolith|ULG|126
+1 Hallowed Fountain|RTR|241
+1 Imposter Mech|NEC|13
+1 Intuition|TMP|70
+2 Island|WOE|270
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Bloom|TSR|411
+1 Lotus Petal
+1 Mana Drain|OTP|11
+1 Mana Vault|2X2|308
+1 Mental Misstep|NPH|38
+1 Meticulous Archive
+1 Mind Over Matter|EXO|40
+1 Mindbreak Trap|ZEN|57
+1 Mirrormade|DSC|120
+1 Misty Rainforest|MH2|250
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|SS1|6
+1 Otawara, Soaring City|NEO|271
+1 Pact of Negation|TSR|77
+1 Path to Exile|SCD|29
+1 Phyrexian Metamorph|2XM|61
+2 Plains|SNC|263
+1 Polluted Delta|KTK|239
+1 Portable Hole|AFR|33
+1 Ranger-Captain of Eos|MH1|21
+1 Reshape|2XM|64
+1 Rhystic Study|SLD|478
+1 Scalding Tarn|MH2|254
+1 Seal of Cleansing|MH2|264
+1 Seal of Removal|MH2|269
+1 Seat of the Synod|BRC|198
+1 Serra's Sanctum|USG|325
+1 Silence|M11|30
+1 Sink into Stupor|MH3|241
+1 Smothering Tithe|2X2|31
+1 Snow-Covered Island|KHM|278
+1 Snow-Covered Plains|KHM|276
+1 Sol Ring|MIC|162
+1 Soul-Guide Lantern|FDN|680
+1 Spellskite|MM2|230
+1 Static Prison|MH3|44
+1 Supreme Verdict|CLU|211
+1 Surveyor's Scope|C13|262
+1 Swan Song|THS|65
+1 Swords to Plowshares
+1 Talisman of Progress|SLD|1052
+1 Talon Gates of Madara|M3C|134
+1 Teferi, Time Raveler|SLD|526
+1 Tezzeret the Seeker|MM2|62
+1 The One Ring|LTR|451
+1 Transmute Artifact|ATQ|14
+1 Trouble in Pairs|MKC|15
+1 Tundra|3ED|289
+1 Urza's Cave|MH3|234
+1 Urza's Saga|MH2|259
+1 Vexing Bauble|MH3|212
+1 Windswept Heath|KTK|248
+
+
+[Sideboard]
+
+

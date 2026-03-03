@@ -1,0 +1,125 @@
+[metadata]
+Name=The All American Prophet
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/vHQ7l9zuikqZMuY-jhaQ9A
+Date=2025-02-12T21:10:33.03Z
+Created=2021-11-04T16:22:29.27Z
+Updated=2025-02-12T21:10:33.03Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Eruth, Tormented Prophet|VOW|323
+
+
+[Main]
+1 Aetherflux Reservoir|KLD|192
+1 Alchemist's Retrieval|VOW|47
+1 An Offer You Can't Refuse|FDN|160
+1 Ancient Tomb
+1 Arcane Signet|CMR|297
+1 Archmage Emeritus
+1 Arid Mesa|MH2|244
+1 Baral, Chief of Compliance|AER|28
+1 Birgi, God of Storytelling|KHM|123
+1 Bloodstained Mire|KTK|230
+1 Bonus Round|BBD|56
+1 Brain Freeze
+1 Brainstorm|2XM|44
+1 Breakthrough|CNS|92
+1 Burning Inquiry|M10|128
+1 Careful Study|ODY|70
+1 Cephalid Coliseum|ODY|317
+1 Chain of Vapor|ONS|73
+1 Chromatic Sphere|MRD|151
+1 Chromatic Star|TSR|263
+1 Chrome Mox|MRD|152
+1 City of Brass|5ED|413
+1 Command Tower|CMR|479
+1 Control of the Court|PTK|105
+1 Cyclonic Rift|RTR|35
+1 Deflecting Swat|C20|50
+1 Desperate Ravings|C19|137
+1 Desperate Ritual|UMA|127
+1 Dispel|BFZ|76
+1 Displacement Wave|ORI|55
+1 Dramatic Reversal|KLD|44
+1 Faithless Looting
+1 Fellwar Stone|AFC|206
+1 Fierce Guardianship|C20|35
+1 Fiery Islet|MH1|238
+1 Flare of Duplication|MH3|119
+1 Flooded Strand|KTK|233
+1 Flusterstorm|MH1|255
+1 Force of Will|EMA|49
+1 Frantic Search|ULG|32
+1 Gemstone Caverns
+1 Gitaxian Probe|NPH|35
+1 Goblin Lore
+1 Grim Monolith|ULG|126
+1 Gush
+1 Helm of Awakening
+1 Imperial Recruiter|MH2|281
+1 Jeska's Will|CMR|187
+1 Lightning Bolt
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal|TMP|294
+1 Mana Confluence|JOU|163
+1 Mana Vault|4ED|334
+1 Misty Rainforest|MH2|250
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|SS1|6
+1 Otawara, Soaring City|NEO|271
+1 Overmaster|TOR|104
+1 Pact of Negation|TSR|77
+1 Polluted Delta|KTK|239
+1 Ponder|M10|68
+1 Preordain|CMR|84
+1 Prismatic Vista|MH1|244
+1 Pyretic Ritual|M11|153
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Resculpt|STX|51
+1 Rhystic Study
+1 Rite of Flame|SS3|7
+1 Scalding Tarn|MH2|254
+1 Seething Song
+1 Sensei's Divining Top|CHK|268
+1 Snap|ULG|43
+9 Snow-Covered Island|KHM|279
+1 Snow-Covered Mountain|KHM|282
+1 Sol Ring|C16|272
+1 Springleaf Drum|2XM|291
+1 Steam Vents|GRN|257
+1 Storm-Kiln Artist|STX|115
+1 Strike It Rich|MH2|143
+1 Swan Song|THS|65
+1 Talisman of Creativity|MH1|231
+1 Timetwister|2ED|85
+1 Training Center|CMR|358
+1 Underworld Breach|THB|161
+1 Volcanic Island|3ED|291
+1 Wheel of Fortune|3ED|185
+1 Windfall|C15|111
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+1 Ashling, Flame Dancer|MH3|415
+1 Borne Upon a Wind|LTR|44
+1 Displacer Kitten|MB2|27
+1 Dragon's Rage Channeler|MH2|121
+1 Dualcaster Mage|E01|46
+1 Force of Negation|MH1|52
+1 Harmonic Prodigy|MH2|352
+1 Merchant Scroll|MB2|167
+1 Pyroblast|5ED|262
+1 Ral, Monsoon Mage|MH3|247
+
+

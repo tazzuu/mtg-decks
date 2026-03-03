@@ -1,0 +1,125 @@
+[metadata]
+Name=Bad Winota With Hexproof?
+Description=
+Format=commander
+Bracket=4
+Author=ComedIan
+Tags=
+Version=0
+URL=https://moxfield.com/decks/OX9fsEK9fEGX4cWjxSixfg
+Date=2024-02-14T19:59:05.873Z
+Created=2023-07-09T20:43:58.21Z
+Updated=2024-02-14T19:59:05.873Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Narset, Enlightened Master|CMM|931
+
+
+[Main]
+1 Aminatou's Augury|CMM|73
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|40K|228
+1 Arid Mesa|MH2|244
+1 Beacon of Tomorrows|DDS|2
+1 Blind Obedience|RVR|303
+1 Bloodstained Mire|KTK|230
+1 Brain Freeze|SCG|29
+1 Capture of Jingzhou|CMM|79
+1 Cataclysm|V14|3
+1 Cavern of Souls|MM3|232
+1 Chain of Vapor|ONS|73
+1 Chrome Mox|SLC|2003
+1 City of Brass|MD1|15
+1 City of Traitors|EXO|143
+1 Command Tower|40K|272
+1 Cursed Totem|6ED|278
+1 Delayed Blast Fireball|CLB|676
+1 Dockside Extortionist|C19|24
+1 Enlightened Tutor|DMR|263
+1 Enter the Infinite|GTC|34
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|C21|288
+1 Expropriate|CN2|30
+1 Fellwar Stone|WOC|147
+1 Fierce Guardianship|C20|35
+1 Flooded Strand|KTK|233
+1 Flusterstorm
+1 Forbidden Orchard|2X2|405
+1 Force of Negation|2X2|50
+1 Force of Will|DMR|284
+1 Fury of the Horde|DDN|30
+1 Gamble|DMR|321
+1 Gemstone Caverns
+1 Generator Servant|M15|143
+1 Get Lost|LCI|14
+1 Grim Monolith|ULG|126
+1 Hall of the Bandit Lord
+1 Hallowed Fountain|RTR|241
+1 Jeweled Lotus|CMM|396
+1 Karn's Temporal Sundering|DOM|55
+1 Lightning Greaves
+1 Lion's Eye Diamond|MIR|307
+1 Lotus Petal
+1 Mana Confluence|JOU|163
+1 Mana Crypt|EMA|225
+1 Mana Vault|5ED|388
+1 Manifold Key|CLB|319
+1 Marsh Flats|MH2|476
+1 Mindbreak Trap|ZEN|57
+1 Misty Rainforest|MH2|477
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|DMR|421
+1 Need for Speed|ODY|209
+1 Nexus of Fate|M19|306
+1 One with the Multiverse
+1 Otawara, Soaring City
+1 Pact of Negation|A25|68
+1 Path to Exile
+1 Plateau|3ED|284
+1 Polluted Delta|KTK|239
+1 Ragavan, Nimble Pilferer|MUL|21
+1 Rhystic Study|PCY|45
+1 Rise of the Eldrazi|CMM|749
+1 Rite of Flame|CSP|96
+1 Savage Beating|CMM|252
+1 Scalding Tarn|MH2|254
+1 Sea Gate Restoration|ZNR|76
+1 Sea of Clouds
+1 Seize the Day|SLD|1172
+1 Silence|M11|30
+1 Simian Spirit Guide
+1 Smothering Tithe|WOT|13
+1 Sol Ring|WOC|149
+1 Spell Snare|MMA|64
+1 Steam Vents|GRN|257
+1 Swan Song|THS|65
+1 Swords to Plowshares|LCC|137
+1 Talisman of Creativity|CMM|979
+1 Talisman of Progress|CMM|980
+1 Teferi, Time Raveler|WAR|221
+1 Temporal Manipulation|UMA|77
+1 Temporal Mastery
+1 The One Ring|LTR|451
+1 Time Stretch|DMR|294
+1 Time Warp|STA|85
+1 Torch Courier|GRN|119
+1 Torpor Orb|NPH|162
+1 Tragic Arrogance|ORI|38
+1 Training Center|CMR|358
+1 Tundra|3ED|289
+1 Underworld Breach|THB|161
+1 Volcanic Island|3ED|291
+1 Walk the Aeons|TSR|98
+1 Waves of Aggression|EVE|148
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+1 Jeska's Will|CMR|187
+1 Mana Drain|CMR|80
+
+

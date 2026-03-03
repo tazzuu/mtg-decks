@@ -1,0 +1,133 @@
+[metadata]
+Name=Senjutsu - Enchantments cEDH 🐸
+Description=A fun creative cEDH deck focused on midrange value through enchantments and toads. Shout out to ComedIan and zerrickk for the support with the list!
+Format=commander
+Bracket=5
+Author=ComedIan,HighlandercEDH,zerrickk
+Tags=cEDH,Combo,Competitive,Enchantments,Midrange,Primer,Sultai (BGU)
+Version=0
+URL=https://moxfield.com/decks/b0BxdIaFBkWKTAf-gD0Rnw
+Date=2026-01-28T15:52:25.757Z
+Created=2025-02-13T00:20:04.837Z
+Updated=2026-01-28T15:52:25.757Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Tatsunari, Toad Rider|NEO|345
+
+
+[Main]
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|CMM|367
+1 Bayou|3ED|283
+1 Beseech the Mirror|WOE|336
+1 Birds of Paradise|2ED|187
+1 Bloom Tender|2X2|366
+1 Borne Upon a Wind|LTR|761
+1 Boseiju, Who Endures|NEO|501
+1 Breeding Pool|RNA|246
+1 Chain of Vapor|ONS|73
+1 Chord of Calling|2XM|384
+1 Chrome Mox
+1 City of Brass|2X2|403
+1 Command Tower|SLD|1697
+1 Concordant Crossroads|2X2|367
+1 Consecrated Sphinx|2X2|345
+1 Copy Enchantment|RAV|42
+1 Crop Rotation|ULG|98
+1 Cryptolith Rite|INR|408
+1 Culling the Weak|EXO|55
+1 Dark Ritual|MB2|179
+1 Deathrite Shaman|RTR|213
+1 Demonic Tutor|LEA|104
+1 Deserted Temple|LTC|363
+1 Destiny Spinner|THB|168
+1 Elvish Spirit Guide|SLD|423
+1 Emergence Zone|WAR|245
+1 Endurance|MH2|317
+1 Enduring Vitality|DSK|176
+1 Eternal Witness
+1 Exploration|USG|250
+1 Fellwar Stone|DRK|102
+1 Fierce Guardianship|CMM|694
+1 Finale of Devastation|CMM|700
+1 Flooded Strand|ZNE|1
+1 Flusterstorm
+1 Force of Negation|H1R|9
+1 Force of Vigor|H1R|21
+1 Force of Will|2XM|340
+1 Freed from the Real|SLD|425
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Growing Rites of Itlimoc|LCI|188
+1 High Fae Trickster|FDN|307
+1 Hullbreaker Horror|INR|357
+1 Imperial Seal
+1 Kinnan, Bonder Prodigy|IKO|338
+1 Llanowar Elves|FDN|429
+1 Lotus Petal|V09|7
+1 Mana Confluence|SLD|1012a
+1 Mana Vault|5ED|388
+1 Marsh Flats|MH2|437
+1 Mental Misstep|SLD|1179
+1 Minamo, School at Water's Edge
+1 Mindbreak Trap|ZEN|57
+1 Mirrormade|ELD|55
+1 Misty Rainforest|ZNE|10
+1 Mockingbird|BLB|305
+1 Mox Amber|BRR|98
+1 Mox Diamond|STH|138
+1 Mox Opal|MM2|223
+1 Mystic Remora|ICE|87
+1 Nature's Rhythm|TDM|349
+1 Necropotence|DKM|7
+1 Orcish Bowmasters|LTR|433
+1 Otawara, Soaring City|NEO|414
+1 Overgrown Tomb|RTR|243
+1 Pact of Negation|FUT|42
+1 Polluted Delta|ZNE|2
+1 Pollywog Prodigy|BLC|50
+1 Pongify|2XM|62
+1 Rhystic Study|PCY|45
+1 Sanctum Weaver|MH2|462
+1 Scalding Tarn|ZNE|7
+1 Shifting Woodland|MH3|228
+1 Snap|ULG|43
+1 Snow-Covered Forest|ICE|383
+1 Sol Ring
+1 Springheart Nantuko|MH3|341
+1 Springleaf Drum|BRR|55
+1 Swan Song|THS|65
+1 Sylvan Library|DMR|350
+1 Sylvan Safekeeper|MH3|287
+1 Tainted Pact|ODY|164
+1 Talon Gates of Madara|M3C|134
+1 Thassa's Oracle
+1 Thousand-Year Elixir|LRW|263
+1 Thrasios, Triton Hero|C16|46
+1 Tropical Island|3ED|288
+1 Underground Sea|3ED|290
+1 Utopia Sprawl|SLD|409
+1 Valley Floodcaller|BLB|308
+1 Vampiric Tutor|DMR|314
+1 Veil of Summer|M20|198
+1 Verdant Catacombs|ZNE|8
+1 Watery Grave|CLU|283
+1 Whip Silk|INV|225
+1 Windswept Heath|ZNE|5
+1 Wishclaw Talisman|ELD|357
+
+
+[Sideboard]
+1 Ad Nauseam|ALA|63
+1 Amphibian Downpour|MH3|449
+1 An Offer You Can't Refuse
+1 Argothian Enchantress
+1 Basalt Monolith|2XM|232
+1 Bitterblossom|WOT|92
+1 Bolas's Citadel
+1 Cabal Ritual|V16|2
+1 Chain Stasis|HML|23
+1 Chatterstorm|MH2|411
+
+

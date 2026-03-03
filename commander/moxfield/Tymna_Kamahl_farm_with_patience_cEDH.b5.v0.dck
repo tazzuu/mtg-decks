@@ -1,0 +1,123 @@
+[metadata]
+Name=Tymna / Kamahl, farm with patience | cEDH
+Description=A "win condition-less" Rule of Law | Hatebears deck that aims to choke our opponents' resources, and win through a lot of combat damage. (https://www.cedh-analytics.com)
+Format=commander
+Bracket=5
+Author=cococov
+Tags=Abzan (WBG),cEDH,Competitive,Farm,Hatebears,Primer,Stax
+Version=0
+URL=https://moxfield.com/decks/7KQLRdh-cUK5g1p9fSjKSA
+Date=2025-04-04T20:48:15.143Z
+Created=2021-06-13T04:52:45.617Z
+Updated=2025-04-04T20:48:15.143Z
+ExportedBy=mtgconv v1.1-23-g615e4c7
+
+[Commander]
+1 Kamahl, Heart of Krosa|CMR|581
+1 Tymna the Weaver|CMR|539
+
+
+[Main]
+1 Abrupt Decay|TSR|370
+1 Ancient Tomb|TMP|315
+1 Arbor Elf|WWK|95
+1 Archivist of Oghma|CLB|4
+1 Archon of Emeria|ZNR|4
+1 Archon of Valor's Reach|BBD|74
+1 Arid Mesa|MH2|436
+1 Ashaya, Soul of the Wild|ZNR|179
+1 Assassin's Trophy|GRN|152
+1 Avacyn's Pilgrim|ISD|170
+1 Aven Mindcensor|FUT|18
+1 Bayou|LEB|279
+1 Birds of Paradise|LEB|187
+1 Bloodstained Mire|ONS|313
+1 Bloom Tender|EVE|66
+1 Boromir, Warden of the Tower|LTR|4
+1 Boseiju, Who Endures|NEO|266
+1 Bountiful Promenade|BBD|81
+1 Carpet of Flowers|USG|240
+1 Chalice of the Void|TSR|390
+1 Chrome Mox|SLC|2003
+1 City of Brass|ARN|71
+1 Clarion Conqueror|TDM|5
+1 Collector Ouphe|MH1|158
+1 Command Tower|BRC|178
+1 Crop Rotation|ULG|98
+1 Dauthi Voidwalker|MH2|397
+1 Deafening Silence|ELD|10
+1 Deathrite Shaman|RVR|363
+1 Demonic Tutor|LEB|105
+1 Doorkeeper Thrull|MKM|13
+1 Drana and Linvala|MOM|222
+1 Drannith Magistrate|IKO|11
+1 Eidolon of Rhetoric|JOU|10
+1 Eladamri's Call|PLS|106
+1 Elesh Norn, Grand Cenobite|NPH|9
+1 Elves of Deep Shadow|DRK|76
+1 Elvish Mystic|TSR|360
+1 Elvish Spirit Guide|ALL|89
+1 Endurance|H2R|14
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|H2R|2
+1 Ethersworn Canonist|ALA|10
+1 Exotic Orchard|BRC|185
+1 Faeburrow Elder|ELD|190
+1 Finale of Devastation|WAR|160
+1 Flooded Strand|ONS|316
+1 Forest|ICE|381
+1 Fyndhorn Elves|ICE|244
+1 Gaea's Cradle|USG|321
+1 Gemstone Caverns|TSP|274
+1 Godless Shrine|RVR|401
+1 Grafdigger's Cage|M20|227
+1 Grand Abolisher|M12|19
+1 Imperial Seal|ME2|96
+1 Llanowar Elves|LEB|211
+1 Mana Confluence|JOU|163
+1 Marsh Flats|MH2|437
+1 Misty Rainforest|MH2|438
+1 Mox Diamond|STH|138
+1 Null Rod|WTH|154
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|103
+1 Overgrown Tomb|RVR|407
+1 Phyrexian Censor|MOM|31
+1 Plains|ICE|366
+1 Ranger-Captain of Eos|MH1|21
+1 Rest in Peace|RTR|18
+1 Root Maze|TMP|250
+1 Rule of Law|MRD|19
+1 Sanctum Prelate|CN2|23
+1 Sanctum Weaver|MH2|171
+1 Savannah|LEB|281
+1 Scrubland|LEB|282
+1 Serra Ascendant|M11|28
+1 Sheoldred, the Apocalypse|DMU|107
+1 Silence|TSR|302
+1 Snow-Covered Forest|ICE|383
+1 Snow-Covered Plains|ICE|367
+1 Snow-Covered Swamp|ICE|372
+1 Sol Ring|LEB|270
+1 Solitude|H2R|3
+1 Stony Silence|ISD|36
+1 Survival of the Fittest|EXO|129
+1 Swords to Plowshares|LEB|41
+1 Sylvan Safekeeper|JUD|133
+1 Temple Garden|RVR|414
+1 Toxic Deluge|MH3|412
+1 Undergrowth Stadium|CMR|359
+1 Vampiric Tutor|VIS|72
+1 Vault of Champions|CMR|360
+1 Verdant Catacombs|MH2|440
+1 Voice of Victory|TDM|33
+1 Weathered Wayfarer|ONS|59
+1 Windswept Heath|ONS|328
+1 Wooded Foothills|ONS|330
+1 Worldly Tutor|MIR|255
+1 Yasharn, Implacable Earth|ZNR|240
+
+
+[Sideboard]
+
+
