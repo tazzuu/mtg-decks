@@ -1,0 +1,112 @@
+[metadata]
+Name=Upping the Average - Henzie "Toolbox" Torre
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/SBLewUqyzNI"},"insert":"https://youtu.be/SBLewUqyzNI"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\nPainful Truths\nProtection Racket\nEvolving Wilds\nAsh Barrens\nTerramorphic Expanse\n+1 Swamp\n\nElder Brain\nVaevictis Asmadi the Dire\nLurking Predators\nColfenor's Urn\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2832773
+Date=2022-06-15
+Created=2022-06-12
+Updated=2022-06-15
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Henzie "Toolbox" Torre|NCC|2
+
+
+[Main]
+1 Ancient Brass Dragon|CLB|111
+1 Arcane Signet|CLB|298
+1 Ash Barrens|CLB|880
+1 Atsushi, the Blazing Sky|NEO|134
+1 Avenger of Zendikar|NCC|280
+1 Beast Within|CLB|820
+1 Birds of Paradise
+1 Blasphemous Act|CLB|780
+1 Blood Crypt
+1 Cauldron of Souls
+1 Chainer, Nightmare Adept|MH2|289
+1 Chaos Warp|CLB|785
+1 Cinder Glade|CLB|887
+1 Colfenor's Urn|LRW|254
+1 Command Tower|CLB|351
+1 Cultivate|CLB|821
+1 Disciple of Bolas|NCC|247
+1 Elder Brain|CLB|125
+1 Etali, Primal Storm|CLB|793
+1 Evolutionary Leap|NCC|288
+1 Evolving Wilds|CLB|352
+1 Exotic Orchard|CLB|893
+1 Farseek|NCC|290
+1 Fellwar Stone|CLB|860
+7 Forest|CLB|470
+1 Garruk's Uprising|NCC|292
+1 Giant Adephage|NCC|293
+1 Greater Good|AFC|160
+1 Greenwarden of Murasa|NCC|294
+1 Ignoble Hierarch|MH2|166
+1 Ilharg, the Raze-Boar|WAR|133
+1 Industrial Advancement|NCC|47
+1 Inferno Titan|NCC|269
+1 Jaxis, the Troublemaker|SNC|112
+1 Junji, the Midnight Sky|NEO|102
+1 Kessig Wolf Run|CLB|898
+1 Kodama's Reach|CLB|826
+1 Kura, the Boundless Sky|NEO|200
+1 Life's Legacy|NCC|300
+1 Living Death
+1 Lurking Predators|JMP|410
+1 Malakir Rebirth|ZNR|111
+1 Mossfire Valley|CLB|901
+1 Mosswort Bridge|CLB|902
+3 Mountain|CLB|465
+1 Myriad Landscape|CLB|904
+1 Nature's Lore|CLB|244
+1 Noxious Gearhulk|NCC|254
+1 Ognis, the Dragon's Lash|SNC|210
+1 Overgrown Tomb|GRN|253
+1 Painful Truths|NCC|255
+1 Path of Ancestry|CLB|907
+1 Phyrexian Delver|C18|115
+1 Protean Hulk|A25|185
+1 Protection Racket|NCC|39
+1 Rampant Growth|NCC|304
+1 Rampant Rejuvenator|NEC|28
+1 Ravenous Chupacabra|CLB|770
+1 Riveteers Ascendancy|SNC|216
+1 Riveteers Charm|SNC|217
+1 Riveteers Overlook|SNC|255
+1 Sakura-Tribe Elder|CLB|832
+1 Savage Lands|NCC|424
+1 Seedguide Ash|LRW|235
+1 Shadowblood Ridge|NCC|426
+1 Skullclamp|CLB|870
+1 Smoldering Marsh|NCC|428
+1 Sol Ring|CLB|871
+1 Solemn Simulacrum|CLB|872
+1 Spinerock Knoll|CLB|916
+1 Stalking Vengeance|NCC|276
+1 Stomping Ground|RNA|259
+4 Swamp|CLB|459
+1 Terminate|NCC|353
+1 Terramorphic Expanse|AFC|267
+1 Thragtusk|NCC|316
+1 Three Visits|CLB|837
+1 Timeless Witness|MH2|179
+1 Treeshaker Chimera|NCC|318
+1 Twilight Mire|NCC|443
+1 Vaevictis Asmadi, the Dire|M19|225
+1 Victimize|NCC|261
+1 Warstorm Surge|CLB|815
+1 Woodfall Primus|NCC|322
+1 World Shaper|NCC|323
+1 Ziatora's Envoy|SNC|232
+1 Ziatora's Proving Ground|SNC|261
+1 Ziatora, the Incinerator|SNC|231
+
+
+[Sideboard]
+
+

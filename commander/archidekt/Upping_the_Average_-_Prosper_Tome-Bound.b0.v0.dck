@@ -1,0 +1,107 @@
+[metadata]
+Name=Upping the Average - Prosper, Tome-Bound
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/U_nlsZQjrS8 "},"insert":"https://youtu.be/U_nlsZQjrS8 "},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nReckless Impulse\nDeadly Dispute\n\nZhalfirin Void\nTemple of Malice\nGuildless Commons\n\nVolcanic Torrent\nLiquimetal Torque\nViridian Longbow\n\nCut // Ribbons\nInspiring Statuary\nBolas's Citadel\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2057849
+Date=2021-11-17
+Created=2021-11-15
+Updated=2021-11-17
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Prosper, Tome-Bound|AFC|2
+
+
+[Main]
+1 Academy Manufactor|MH2|219
+1 Arcane Signet|VOC|159
+1 Bedevil|AFC|179
+1 Birgi, God of Storytelling|KHM|123
+1 Blasphemous Act|VOC|143
+1 Blood Crypt|RNA|245
+1 Bojuka Bog|MIC|167
+1 Bolas's Citadel|WAR|79
+1 Chandra, Torch of Defiance|KLD|110
+1 Chaos Warp|AFC|117
+1 Command Tower|C21|284
+1 Commander's Sphere|AFC|203
+1 Commune with Lava|AFC|118
+1 Cut|AKH|223
+1 Dauthi Voidwalker|MH2|81
+1 Deadly Dispute|AFR|94
+1 Dire Fleet Daredevil|AFC|121
+1 Disciple of the Vault|2XM|86
+1 Disrupt Decorum|AFC|122
+1 Dockside Extortionist|C19|24
+1 Dragonskull Summit|XLN|252
+1 Dream Devourer|KHM|90
+1 Etali, Primal Storm|AFC|126
+1 Exotic Orchard|VOC|173
+1 Feed the Swarm|VOC|129
+1 Fellwar Stone|AFC|206
+1 Florian, Voldaren Scion|MID|223
+1 Goldspan Dragon|KHM|139
+1 Gonti, Lord of Luxury|AFC|100
+1 Grim Hireling|AFC|25
+1 Guildless Commons|CMR|351
+1 Haunted Ridge|MID|263
+1 Hurl Through Hell|AFC|48
+1 Ignite the Future|AFC|129
+1 Inspiring Statuary|AER|160
+1 Jeska's Will|CMR|187
+1 Kalain, Reclusive Painter|AFR|225
+1 Laelia, the Blade Reforged|C21|53
+1 Light Up the Stage|AFC|131
+1 Lightning Greaves|AFC|331
+1 Liquimetal Torque|MH2|228
+1 Marionette Master|AFC|102
+1 Mayhem Devil|WAR|204
+1 Mind Stone|AFC|211
+1 Mortuary Mire|MIC|176
+10 Mountain|M21|271
+1 Murderous Rider|ELD|97
+1 Nadier's Nightblade|CMR|136
+1 Outpost Siege|AFC|135
+1 Poison the Cup|KHM|103
+1 Rakdos Carnarium|VOC|180
+1 Rakdos Charm|VOC|156
+1 Rakdos Signet|VOC|166
+1 Reckless Endeavor|AFC|33
+1 Reckless Fireweaver
+1 Reckless Impulse|VOW|174
+1 Revel in Riches|XLN|117
+1 Shadowblood Ridge|VOC|181
+1 Share the Spoils|AFC|34
+1 Smoldering Marsh|VOC|183
+1 Sol Ring|C21|263
+1 Spinerock Knoll|AFC|263
+1 Stolen Strategy|BBD|64
+1 Storm-Kiln Artist|STX|115
+8 Swamp|M21|267
+1 Swiftfoot Boots|VOC|169
+1 Tainted Peak|VOC|184
+1 Talisman of Indulgence|AFC|219
+1 Temple of Malice|VOC|186
+1 Terminate|AFC|193
+1 Theater of Horrors|AFC|194
+1 Throes of Chaos|AFC|146
+1 Tibalt's Trickery|KHM|153
+1 Uba Mask|CHK|272
+1 Valakut Exploration|ZNR|175
+1 Valki, God of Lies|KHM|114
+1 Vandalblast|VOC|152
+1 Viridian Longbow|AFC|221
+1 Volcanic Torrent|CMR|208
+1 Wild-Magic Sorcerer|AFC|36
+1 Xorn|AFR|167
+1 You Find Some Prisoners|AFR|169
+1 Zhalfirin Void|AFC|273
+
+
+[Sideboard]
+
+

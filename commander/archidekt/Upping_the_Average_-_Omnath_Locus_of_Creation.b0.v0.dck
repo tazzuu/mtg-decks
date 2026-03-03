@@ -1,0 +1,118 @@
+[metadata]
+Name=Upping the Average - Omnath, Locus of Creation
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/n6x7edZA3gM"},"insert":"https://youtu.be/n6x7edZA3gM"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nWalking Atlas\nLlanowar Scout\nSakura-Tribe Scout\n\nKodama of the East Tree\nIzzet Boilerworks\n\nMeloku, the Clouded Mirror\nTrade Routes\n\nStone-Seeder Hierophant\n\nKrosan Verge\nKessig Wolf Run\nGhost Town\n\nSnow-covered lands\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1066823
+Date=2021-01-20
+Created=2021-01-12
+Updated=2021-01-20
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Omnath, Locus of Creation|ZNR|232
+
+
+[Main]
+1 Aesi, Tyrant of Gyre Strait|CMR|365
+1 Ancient Greenwarden|ZNR|178
+1 Arid Mesa|MM3|229
+1 Ashaya, Soul of the Wild|ZNR|179
+1 Avenger of Zendikar|CMR|422
+1 Azusa, Lost but Seeking|M21|173
+1 Beast Within|CMR|423
+1 Breeding Pool|RNA|246
+1 Command Tower|CMR|350
+1 Courser of Kruphix
+1 Crop Rotation|2XM|161
+1 Crucible of Worlds|M19|229
+1 Cultivate|CMR|424
+1 Cyclonic Rift|2XM|47
+1 Dryad of the Ilysian Grove|THB|169
+1 Eladamri's Call|MH1|197
+1 Emeria Shepherd|ZNC|16
+1 Evolving Wilds|CMR|482
+1 Exotic Orchard|C20|273
+1 Exploration|2XM|167
+1 Fabled Passage|M21|246
+1 Farseek
+1 Felidar Retreat|ZNR|16
+1 Field of the Dead|M20|247
+1 Flooded Strand|KTK|233
+4 Forest|CMR|510
+1 Ghost Town|TMP|318
+1 Gruul Turf|ZNC|131
+1 Hallowed Fountain|RNA|251
+1 Harrow|ZNC|69
+1 Heroic Intervention|M21|188
+1 Island|CMR|507
+1 Izzet Boilerworks|C20|283
+1 Kessig Wolf Run|C20|284
+1 Ketria Triome|IKO|250
+1 Khalni Heart Expedition|CMR|428
+1 Kodama of the East Tree|CMR|239
+1 Kodama's Reach|ZNC|73
+1 Krosan Verge|ZNC|134
+1 Llanowar Scout|DOM|170
+1 Lotus Cobra|ZNR|193
+1 Meloku the Clouded Mirror|CMR|399
+1 Mina and Denn, Wildborn|ZNC|94
+1 Misty Rainforest|MM3|240
+1 Moraug, Fury of Akoum|ZNR|150
+1 Mountain|CMR|509
+1 Nature's Lore
+1 Nissa, Vital Force|KLD|163
+1 Omnath, Locus of Rage
+1 Omnath, Locus of the Roil|M20|216
+1 Oracle of Mul Daya|JMP|415
+1 Path to Exile|2XM|25
+1 Plains|CMR|504
+1 Polluted Delta|KTK|239
+1 Prismatic Vista|MH1|244
+1 Radha, Heart of Keld|M21|224
+1 Rampaging Baloths|CMR|431
+1 Rampant Growth|CMR|432
+1 Ramunap Excavator|CMR|433
+1 Raugrin Triome|IKO|251
+1 Reshape the Earth|CMR|249
+1 Retreat to Coralhelm
+1 Rhystic Study|JMP|169
+1 Risen Reef|M20|217
+1 Roiling Regrowth|ZNR|201
+1 Sacred Foundry|GRN|254
+1 Sakura-Tribe Elder|C20|187
+1 Sakura-Tribe Scout|SOK|144
+1 Scalding Tarn|MM3|244
+1 Scapeshift|M19|201
+1 Scute Swarm|ZNR|203
+1 Selesnya Sanctuary|ZNC|140
+1 Simic Growth Chamber|CMR|492
+1 Skyshroud Claim|BBD|213
+3 Snow-Covered Forest|KHM|285
+1 Snow-Covered Island|KHM|279
+1 Sol Ring|CMR|472
+1 Splendid Reclamation|EMN|171
+1 Springbloom Druid|ZNC|83
+1 Steam Vents|GRN|257
+1 Stomping Ground|RNA|259
+1 Stone-Seeder Hierophant|RAV|184
+1 Swords to Plowshares|CMR|387
+1 Tatyova, Benthic Druid
+1 Temple Garden|GRN|258
+1 Terramorphic Expanse|CMR|497
+1 Tireless Tracker
+1 Trade Routes|9ED|108
+1 Valakut Exploration|ZNR|175
+1 Walking Atlas|WWK|131
+1 Wayward Swordtooth|RIX|150
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Zendikar's Roil|ZNC|88
+
+
+[Sideboard]
+
+

@@ -1,0 +1,110 @@
+[metadata]
+Name=Fly, My Pretties - Mom's Deck
+Description={"ops":[{"attributes":{"underline":true,"bold":true},"insert":"My Mom's Commander Decks:"},{"insert":"\n"},{"attributes":{"link":"https://youtu.be/X35sL7gQp5M"},"insert":"https://youtu.be/X35sL7gQp5M"},{"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/902474
+Date=2023-04-12
+Created=2020-11-05
+Updated=2023-04-12
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Kangee, Sky Warden|CMR|283
+
+
+[Main]
+1 Access Denied|NEC|11
+1 Aerial Extortionist|NCC|11
+1 Akroma's Will|CMR|3
+1 Arcane Signet|ZNC|106
+1 Ash Barrens|NCC|386
+1 Austere Command|2XM|7
+1 Azorius Chancery|C20|256
+1 Azorius Keyrune|C13|236
+1 Azorius Signet|DIS|159
+1 Bident of Thassa|THS|42
+1 Blinkmoth Nexus|2XM|311
+1 Chromatic Lantern
+1 Coastal Piracy|JMP|144
+1 Command Beacon|CMR|349
+1 Command Tower|C18|240
+1 Consecrated Sphinx|IMA|47
+1 Counterspell|TMP|57
+1 Cyclonic Rift|2XM|47
+1 Dawn Charm|CMR|371
+1 Deserted Beach|MID|260
+1 Emeria Angel|ZNC|15
+1 Empyrean Eagle|M20|208
+1 Fact or Fiction|NCC|221
+1 Faerie Conclave
+1 Favorable Winds|CNS|98
+1 Foundry of the Consuls|DDU|66
+1 Generous Gift|MH1|11
+1 Glacial Fortress|M10|226
+1 Gravitational Shift|ROE|69
+1 Hallowed Fountain|RNA|251
+1 Heliod's Intervention|THB|19
+1 Heraldic Banner|ELD|222
+1 Irrigated Farmland|C20|282
+1 Ishai, Ojutai Dragonspeaker|C16|33
+8 Island|M21|265
+1 Jubilant Skybonder|IKO|223
+1 Kangee's Lieutenant|CMR|26
+1 Kira, Great Glass-Spinner|JMP|154
+1 Lightning Greaves|2XM|267
+1 Linvala, Shield of Sea Gate|ZNR|226
+1 Loyal Drake|C18|10
+1 Luminarch Ascension|ZEN|25
+1 Magus of the Moat
+1 Medomai the Ageless|THS|196
+1 Migratory Route|C20|222
+1 Mind Stone|ZNC|114
+1 Myriad Landscape|C17|262
+1 Mystic Confluence|NCC|227
+1 Negate|M20|69
+1 Path of Ancestry|NCC|419
+1 Path to Exile
+8 Plains|ELD|252
+1 Pongify|TSR|79
+1 Port Town|SOI|278
+1 Prairie Stream|C20|299
+1 Pull from Tomorrow|AKH|65
+1 Rapid Hybridization|C21|126
+1 Reality Shift|NEC|95
+1 Reconnaissance Mission|IKO|65
+1 Reliquary Tower|C20|301
+1 Rhystic Study|J22|114
+1 Scattered Thoughts|VOW|74
+1 Scavenger Grounds|C21|314
+1 Sea of Clouds|BBD|84
+1 Selfless Spirit|EMN|40
+1 Sephara, Sky's Blade|M20|36
+1 Serra's Emissary|MH2|30
+1 Skycloud Expanse|NCC|427
+1 Sol Ring|C16|272
+1 Spectral Procession|C14|90
+1 Steel-Plume Marshal|JMP|5
+1 Storm of Souls|VOC|9
+1 Stormtide Leviathan|M15|80
+1 Sunscorch Regent|DTK|41
+1 Swiftfoot Boots|C13|263
+1 Swords to Plowshares|VOC|99
+1 Talisman of Progress|MRD|256
+1 Temple of Enlightenment|THB|246
+1 Thought Vessel|CMR|346
+1 Thunderclap Wyvern|EMA|208
+1 Time Wipe|WAR|223
+1 True Conviction|C14|93
+1 Warden of Evos Isle|M20|79
+1 Watcher of the Spheres|M21|227
+1 Windreader Sphinx|M19|84
+1 Winged Words|M20|80
+
+
+[Sideboard]
+
+

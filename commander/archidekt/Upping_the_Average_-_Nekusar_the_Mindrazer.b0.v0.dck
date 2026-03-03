@@ -1,0 +1,111 @@
+[metadata]
+Name=Upping the Average - Nekusar, the Mindrazer
+Description={"ops":[{"insert":"https://youtu.be/p9xeKaKmsvk\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nKhorvath's Fury\nDiminishing Returns\nCommit // Memory\nRunehorn Hellkite\nMagus of the Jar\n\nWayfarer's Bauble\nGilded Lotus\nThran Dynamo\n\nChaos Warp\nDeadly Tempest\n\nClever Impersonator\n\nPhyresis\nPhyrexian Tyranny\nHive Mind\nUnderworld Breach\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/689005
+Date=2020-08-12
+Created=2020-07-27
+Updated=2020-08-12
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Nekusar, the Mindrazer|C13|201
+
+
+[Main]
+1 Arcane Denial
+1 Arcane Signet|C20|237
+1 Blasphemous Act|2XM|117
+1 Blood Crypt|RNA|245
+1 Bojuka Bog|C20|259
+1 Chaos Warp|C20|146
+1 Chromatic Lantern
+1 Clever Impersonator|C19|82
+1 Command Tower|C20|264
+1 Commit
+1 Counterspell
+1 Crumbling Necropolis
+1 Cyclonic Rift|2XM|47
+1 Dark Deal|FRF|66
+1 Deadly Tempest|C20|131
+1 Diminishing Returns|EMA|46
+1 Dimir Aqueduct|C20|270
+1 Dimir Signet|GK1|22
+1 Dragonskull Summit|XLN|252
+1 Drowned Catacomb|XLN|253
+1 Echo of Eons|MH1|46
+1 Evacuation|C16|91
+1 Evolving Wilds|IKO|247
+1 Fate Unraveler|C15|126
+1 Fell Specter|JMP|233
+1 Fevered Visions|SOI|244
+1 Forced Fruition|LRW|66
+1 Geier Reach Sanitarium|C19|246
+1 Gilded Lotus|DOM|215
+1 Grixis Panorama|C17|254
+1 Hive Mind|M10|54
+1 Incendiary Command|C13|113
+6 Island|IKO|263
+1 Izzet Boilerworks|C20|283
+1 Izzet Signet|C20|243
+1 Jace's Archivist|C15|95
+1 Kederekt Parasite|CON|48
+1 Khorvath's Fury|BBD|59
+1 Library of Leng|5ED|387
+1 Liliana's Caress|M11|103
+1 Magus of the Jar|TSP|67
+1 Magus of the Wheel|C20|156
+1 Megrim|DPA|26
+1 Molten Psyche|SOM|98
+4 Mountain|IKO|271
+1 Nightscape Familiar|E01|35
+1 Niv-Mizzet, the Firemind|C20|225
+1 Ob Nixilis, the Hate-Twisted|WAR|100
+1 Peer into the Abyss|M21|117
+1 Phyresis|MBS|49
+1 Phyrexian Tyranny|PLS|118
+1 Propaganda|C20|123
+1 Psychosis Crawler|C20|248
+1 Raiders' Wake|XLN|116
+1 Rakdos Carnarium|C20|300
+1 Rakdos Signet|C20|249
+1 Reforge the Soul|C16|132
+1 Reliquary Tower|C20|301
+1 Runehorn Hellkite|C16|20
+1 Shivan Reef|C20|310
+1 Sol Ring|C20|252
+1 Spiteful Visions|C13|233
+1 Steam Vents|GRN|257
+1 Sulfur Falls|DOM|247
+5 Swamp|IKO|268
+1 Talisman of Creativity|MH1|231
+1 Teferi's Ageless Insight|M21|76
+1 Teferi's Puzzle Box|8ED|316
+1 Temple of Deceit|THB|245
+1 Temple of the False God|C20|319
+1 Terminate|C20|231
+1 Terramorphic Expanse|JMP|78
+1 The Locust God|C20|219
+1 Thought Vessel
+1 Thran Dynamo
+1 Time Reversal|M12|77
+1 Underworld Breach|THB|161
+1 Underworld Dreams|THB|121
+1 Waste Not|C16|117
+1 Watery Grave|GRN|259
+1 Wayfarer's Bauble|C17|230
+1 Wheel and Deal|ONS|121
+1 Wheel of Fate
+1 Whirlpool Warrior|PCA|29
+1 Whispering Madness|C16|229
+1 Windfall|C20|128
+1 Winds of Change|4ED|232
+
+
+[Sideboard]
+
+

@@ -1,0 +1,62 @@
+[metadata]
+Name=Upping the Average - Rin and Seri, Inseparable
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/0oseF030IEM"},"insert":"https://youtu.be/0oseF030IEM"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nAsh Barrens\nKessig Wolf Run\nMosswort Bridge\nBonders' Enclave\nSungrass Prarie\nMossfire Valley\n(Some lands exchanged for basics; total land count increased from 34 to 36)\n\nAustere Command\nCleansing Nova\nMasked Vandal\nIdol of Oblivion\n\nResolute Watchdog\nBolt Hound\nEsika's Chariot\nChameleon Colossus\nTitanic Ultimatum\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/653916
+Date=2021-10-30
+Created=2020-07-09
+Updated=2021-10-30
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Rin and Seri, Inseparable|M21|278
+
+
+[Main]
+1 Akroma's Will|CMR|3
+1 Animal Sanctuary|M21|242
+1 Anointed Procession|AKH|2
+1 Ash Barrens|2XM|310
+1 Austere Command|CMR|12
+1 Beastmaster Ascension
+1 Bolt Hound|M21|131
+1 Bonders' Enclave|IKO|245
+1 Boros Charm|CMR|442
+1 Camaraderie|GRN|157
+1 Cathars' Crusade|CM2|20
+1 Chameleon Colossus|C15|178
+1 Cleansing Nova|KHC|20
+1 Crib Swap|2XM|12
+1 Esika's Chariot|KHM|169
+1 Farseek|C19|165
+1 Felidar Retreat|ZNR|16
+1 Harmonize|CMR|427
+1 Heroic Intervention|M21|188
+1 Idol of Oblivion|C19|55
+1 Impact Tremors|DTK|140
+1 Irregular Cohort|MH1|15
+1 Masked Vandal|KHM|184
+1 Maskwood Nexus|KHM|240
+1 Mossfire Valley|C20|290
+1 Mosswort Bridge|C20|291
+1 Pack Leader|M21|392
+1 Prava of the Steel Legion|CMR|38
+1 Rampant Growth|CMR|432
+1 Realmwalker|KHM|188
+1 Resolute Watchdog|RNA|19
+1 Sol Ring|C20|252
+1 Sungrass Prairie|C20|317
+1 Swords to Plowshares|CMR|387
+1 Temple of Triumph|M21|256
+1 Terramorphic Expanse|CMR|497
+1 Titanic Ultimatum|DDH|31
+1 Universal Automaton
+
+
+[Sideboard]
+
+

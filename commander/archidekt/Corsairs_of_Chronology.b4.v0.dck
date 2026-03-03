@@ -1,0 +1,102 @@
+[metadata]
+Name=Corsairs of Chronology
+Description={"ops":[{"insert":"Deck tech: https://www.youtube.com/watch?v=Din4kwnOyVI\n"}]}
+Format=commander
+Bracket=4
+Author=SalubriousSnail
+Tags=
+Version=0
+URL=https://archidekt.com/decks/6269535
+Date=2025-03-14
+Created=2023-12-30
+Updated=2025-03-14
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Francisco, Fowl Marauder|LCC|81
+1 Malcolm, Keen-Eyed Navigator|LCC|161
+
+
+[Main]
+1 Academy Manufactor|MOC|346
+1 Arcane Signet|LCC|299
+1 Bident of Thassa|LCC|146
+1 Bitter Triumph|LCI|91
+1 Bloodforged Battle-Axe|MOC|349
+1 Changeling Outcast|MH1|82
+1 Choked Estuary|LCC|322
+1 Clearwater Pathway|ZNR|260
+1 Cloud Pirates|POR|46
+1 Coastal Piracy|MMQ|68
+1 Combat Research|DMU|44
+1 Command Tower|LCC|325
+1 Counterspell|CMM|81
+1 Countersquall|UMA|198
+1 Curious Inquiry|MKM|51
+1 Curious Obsession|JMP|148
+1 Daring Saboteur|LCC|151
+1 Darkslick Shores|ONE|250
+1 Deadeye Tracker|XLN|99
+1 Departed Deckhand|LCC|153
+1 Dig Through Time|OTC|95
+1 Dimir Signet|RVR|256
+1 Dispel|BFZ|76
+1 Exotic Orchard|LCC|329
+1 Fabricate|MRD|35
+1 Fatal Push
+1 Feed the Swarm|LCC|198
+1 Fellwar Stone|WOC|147
+1 Foil
+1 Gemstone Mine|DMR|247
+1 Go for the Throat|MOC|250
+1 Grasping Scoundrel
+1 Grazilaxx, Illithid Scholar|CLB|723
+1 Greedy Freebooter|LCI|109
+1 Haunted One|CLB|654
+1 Infernal Grasp|MID|107
+1 Irenicus's Vile Duplication|CLB|78
+15 Island|SNC|274
+1 Kitesail Freebooter|M21|107
+1 Kitesail Larcenist|LCI|61
+1 Lim-Dûl's Vault|C13|197
+1 Lookout's Dispersal|J22|316
+1 Malcolm, Alluring Scoundrel|LCI|63
+1 Memory Lapse
+1 Mirrex|ONE|400
+1 Miscast|M21|57
+1 Misdirection
+1 Mothdust Changeling|MMA|53
+1 Muddle the Mixture|RAV|60
+1 Negate|MOM|68
+1 Oaken Siren|LCI|66
+1 Perplex|RAV|217
+1 Reconnaissance Mission|WOC|105
+1 Reshape
+1 Ringsight|LTR|220
+1 River of Tears|BRC|197
+1 Secluded Courtyard|LCC|350
+1 Shred Memory|RAV|105
+1 Siren Stormtamer|LCC|171
+1 Slaughter Pact|TSR|138
+1 Sol Ring|LCC|313
+1 Spectral Sailor|LCC|172
+1 Spell Pierce|2X2|63
+1 Spell Snare
+1 Spyglass Siren|LCI|78
+1 Storm Fleet Negotiator|LCC|78
+8 Swamp|SNC|276
+1 Talisman of Dominance|WOC|150
+1 The Indomitable|LCC|75
+1 Thran Portal|DMU|259
+1 Time Sieve|2XM|223
+1 Timestream Navigator|LCC|178
+1 Unclaimed Territory|LCC|366
+1 Underground River|LTC|342
+1 Universal Automaton|J22|803
+1 Warkite Marauder|LCC|179
+1 Whir of Invention|AER|49
+
+
+[Sideboard]
+
+

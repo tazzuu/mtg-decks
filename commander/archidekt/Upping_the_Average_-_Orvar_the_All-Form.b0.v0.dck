@@ -1,0 +1,98 @@
+[metadata]
+Name=Upping the Average - Orvar, the All-Form
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/jSk0Xy8okAg"},"insert":"https://youtu.be/jSk0Xy8okAg"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\nHydroblast\nDizzy Spell\nCaged Sun\nSunscorched Desert\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1794493
+Date=2021-09-08
+Created=2021-09-02
+Updated=2021-09-08
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Orvar, the All-Form|KHM|70
+
+
+[Main]
+1 Agent of Treachery|M20|43
+1 Amphin Mutineer|CMR|55
+1 Aquitect's Will|DDT|2
+1 Arcane Signet|CMR|297
+1 Archaeomancer
+1 Archmage Emeritus|STX|37
+1 Caged Sun
+1 Cerulean Wisps|SHM|31
+1 Clockspinning|TSP|53
+1 Cloudpost|MRD|280
+1 Counterspell|MH2|267
+1 Coveted Jewel|C21|240
+1 Cyclonic Rift|2XM|47
+1 Dive Down|XLN|53
+1 Dizzy Spell|RAV|43
+1 Dream's Grip|MRD|34
+1 Energy Tap|4ED|69
+1 Essence Flux|JMP|151
+1 Fellwar Stone|AFC|206
+1 Fierce Guardianship|C20|35
+1 Fleeting Distraction
+1 Ghostly Flicker|KHC|39
+1 Gigadrowse|GPT|26
+1 Gilded Lotus|DOM|215
+1 Hidden Strings|DGM|12
+1 High Tide|FEM|18c
+1 Hydroblast|EMA|55
+26 Island|M21|265
+1 Isochron Scepter|2XM|264
+1 Leap|STH|35
+1 Lightning Greaves|AFC|331
+1 Master of Waves|THS|53
+1 Mind Games|STH|38
+1 Mind Stone|AFC|211
+1 Mulldrifter|AFC|87
+1 Myriad Landscape|C21|304
+1 Mystic Remora|ICE|87
+1 Mystic Sanctuary|ELD|247
+1 Mystical Tutor|SS1|6
+1 Nykthos, Shrine to Nyx|THS|223
+1 Peregrine Drake|BBD|128
+1 Phyrexian Metamorph|2XM|61
+1 Pongify|TSR|79
+1 Propaganda|AFC|91
+1 Reality Shift
+1 Reliquary Tower|C21|311
+1 Rhystic Study|PCY|45
+1 Sakashima of a Thousand Faces|CMR|89
+1 Sapphire Medallion|C14|266
+1 Scourge of Fleets|CMR|403
+1 Shadow Rift|TMP|86
+1 Shimmering Mirage|APC|30
+1 Shipwreck Dowser|M21|71
+1 Sky Diamond|KHC|103
+1 Slip Through Space|OGW|47
+1 Snap|DDS|10
+1 Sol Ring|CMR|472
+1 Solemn Simulacrum|AFC|216
+1 Solve the Equation|STX|54
+1 Spark Double|WAR|68
+1 Spellseeker|BBD|41
+1 Step Through|MH2|66
+1 Sunscorched Desert|AKH|249
+1 Swan Song|C16|98
+1 Swarmyard|TSR|284
+1 Teferi's Time Twist|WAR|72
+1 Thassa's Oracle|THB|73
+1 Thermal Flux|CSP|49
+1 Thought Vessel|CMR|346
+1 Trait Doctoring|DGM|18
+1 Twiddle|8ED|111
+1 Twisted Image|A25|75
+1 Venser, Shaper Savant|TSR|96
+1 Whim of Volrath|TMP|102
+
+
+[Sideboard]
+
+

@@ -1,0 +1,130 @@
+[metadata]
+Name=Upping the Average - Jodah, the Unifier
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/ab-u7PNBS40"},"insert":"https://youtu.be/ab-u7PNBS40"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nJegantha set as Companion\nPath of Ancestry\nKrosan Verge\nHarmonic Prodigy\nGeneral’s Enforcer\nProsper, Tome-Bound\nLaelia, Blade Reforged\nVega, the Watcher\nDrizzt Do'Urden\nTeshar, Ancestor's Apostle\nLinvala, Shield of Sea Gate\nHofri Ghostforge\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3245172
+Date=2022-09-14
+Created=2022-09-11
+Updated=2022-09-14
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Jodah, the Unifier|DMU|203
+
+
+[Main]
+1 Anguished Unmaking|2X2|170
+1 Arcane Signet|DMC|177
+1 Arid Mesa|MH2|244
+1 Arvad the Cursed|DMC|141
+1 Assassin's Trophy|2X2|175
+1 Bard Class|AFR|217
+1 Beast Within|DMC|129
+1 Birds of Paradise|M10|168
+1 Blood Crypt
+1 Bloom Tender|2X2|138
+1 Breeding Pool|RNA|246
+1 Cadric, Soul Kindler|DMC|10
+1 Captain Sisay|INV|237
+1 Chromatic Lantern|RTR|226
+1 Chromatic Orrery|M21|228
+1 Chulane, Teller of Tales|ELD|326
+1 Command Tower|DMC|204
+1 Cultivate|DMC|130
+1 Day of Destiny|DMC|99
+1 Dihada, Binder of Wills|DMC|1
+1 Drizzt Do'Urden|AFR|220
+1 Esika, God of the Tree|KHM|168
+1 Exotic Orchard|DMC|209
+1 Faeburrow Elder|DMC|149
+1 Farseek|DMC|133
+1 Fellwar Stone|DMC|182
+1 Flooded Strand|KTK|233
+2 Forest|DMU|276
+1 General's Enforcer|IKO|188
+1 Godless Shrine|RNA|248
+1 Halana and Alena, Partners|VOW|239
+1 Hallowed Fountain|RNA|251
+1 Harmonic Prodigy|MH2|132
+1 Heroes' Podium|DMC|185
+1 Heroic Intervention|AFC|161
+1 Hofri Ghostforge|STX|192
+1 Indatha Triome|IKO|248
+1 Island|DMU|265
+1 Jegantha, the Wellspring|IKO|222
+1 Jetmir's Garden|SNC|250
+1 Jhoira, Weatherlight Captain|2XM|203
+1 Kamahl's Druidic Vow|DOM|166
+1 Kaya the Inexorable|KHM|218
+1 Kenrith, the Returned King|ELD|303
+1 Kethis, the Hidden Hand|M20|211
+1 Ketria Triome|IKO|250
+1 Kodama of the East Tree|CMR|239
+1 Kodama's Reach|DMC|134
+1 Kolvori, God of Kinship|KHM|181
+1 Krosan Verge|DMC|216
+1 Laelia, the Blade Reforged|CLB|801
+1 Linvala, Shield of Sea Gate
+1 Maelstrom Wanderer|PCA|101
+1 Marsh Flats|MH2|248
+1 Misty Rainforest|MH2|250
+1 Mountain|DMU|273
+1 Mox Amber|DOM|224
+1 Najeela, the Blade-Blossom|BBD|62
+1 Nature's Lore|CLB|244
+1 Niambi, Esteemed Speaker|M21|222
+1 Overgrown Tomb|GRN|253
+1 Path of Ancestry|CLB|907
+1 Path to Exile|DMC|104
+2 Plains|DMU|263
+1 Plaza of Heroes|DMU|252
+1 Primevals' Glorious Rebirth|DMC|165
+1 Prosper, Tome-Bound|AFC|2
+1 Raff Capashen, Ship's Mage|NEC|141
+1 Ratadrabik of Urborg|DMU|213
+1 Reki, the History of Kamigawa|SOK|142
+1 Relic of Legends|DMU|236
+1 Rhystic Study|JMP|169
+1 Rograkh, Son of Rohgahh|CMR|197
+1 Sacred Foundry|GRN|254
+1 Sakashima of a Thousand Faces|CMR|89
+1 Samut, Voice of Dissent|AKH|205
+1 Scalding Tarn|MH2|254
+1 Selvala, Heart of the Wilds|JMP|429
+1 Shalai, Voice of Plenty|DOM|35
+1 Shanid, Sleepers' Scourge|DMC|4
+1 Sisay, Weatherlight Captain|MH1|29
+1 Smothering Tithe|2X2|31
+1 Sol Ring|CMD|261
+1 Spara's Headquarters|SNC|257
+1 Steam Vents|GRN|257
+1 Stomping Ground|RNA|259
+1 Surrak Dragonclaw|DMC|169
+1 Swamp|DMU|270
+1 Swords to Plowshares|NCC|211
+1 Teferi's Protection|2X2|32
+1 Temple Garden|GRN|258
+1 Teshar, Ancestor's Apostle|DMC|105
+1 The Great Henge|ELD|161
+1 The World Tree|KHM|275
+1 Three Visits|CLB|837
+1 Time of Need|CHK|247
+1 Timeless Lotus|DMU|239
+1 Urza's Ruinous Blast|DMC|107
+1 Vega, the Watcher|KHM|233
+1 Verdant Catacombs|MH2|260
+1 Watery Grave|GRN|259
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 Yoshimaru, Ever Faithful|NEC|32
+1 Zagoth Triome|IKO|259
+1 Ziatora's Proving Ground|SNC|261
+
+
+[Sideboard]
+
+

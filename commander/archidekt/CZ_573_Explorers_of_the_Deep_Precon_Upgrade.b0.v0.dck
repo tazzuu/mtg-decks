@@ -1,0 +1,105 @@
+[metadata]
+Name=CZ 573 | "Explorers of the Deep" Precon Upgrade
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=GameKnights
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5823771
+Date=2023-12-13
+Created=2023-11-08
+Updated=2023-12-13
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Hakbal of the Surging Soul|LCC|3
+
+
+[Main]
+1 Abjure|WTH|31
+1 Aetherize|LCC|142
+1 Alchemist's Refuge
+1 Arcane Signet|LCC|299
+1 Beast Within|LCC|233
+1 Benthic Biomancer|LCC|145
+1 Branching Evolution|LCC|234
+1 Bygone Marvels|LCC|89
+1 Cephalid Coliseum|ODY|317
+1 Cold-Eyed Selkie|AFC|183
+1 Command Tower|WOC|156
+1 Danny Pink|WHO|39
+1 Deeproot Elite|RIX|127
+1 Deeproot Historian|LCC|91
+1 Deeproot Waters|LCC|152
+1 Emperor Mihail II|DMC|23
+1 Evolution Sage|ONC|108
+1 Exploration|DMR|159
+1 Explore|LCC|241
+1 For the Ancestors|CMM|740
+7 Forest|LCI|402
+1 Growth Spiral|LCC|270
+1 Hardened Scales|LCC|243
+1 Herald of Secret Streams|XLN|59
+1 Hinterland Harbor|DMR|248
+1 Inspiring Call|LCC|244
+13 Island|LCI|396
+1 Karn's Bastion|CMM|1007
+1 Kindred Discovery|LCC|159
+1 Kiora's Follower
+1 Kodama's Reach|LCC|245
+1 Kopala, Warden of Waves|XLN|61
+1 Kumena, Tyrant of Orazca|RIX|162
+1 Llanowar Reborn|MOC|413
+1 Master of the Pearl Trident|DDT|9
+1 Merfolk Looter|AFC|86
+1 Merfolk Mistbinder
+1 Merfolk Skydiver|WAR|205
+1 Merfolk Sovereign|J22|321
+1 Merrow Reejerey|J22|61
+1 Metallic Mimic|AER|164
+1 Mist Dancer|LCC|76
+1 Mosswort Bridge|MOC|415
+1 Myriad Landscape|WOC|164
+1 Nicanzil, Current Conductor|LCI|236
+1 Overwhelming Stampede|C19|175
+1 Path of Ancestry|LCC|346
+1 Quandrix Command|LCC|280
+1 Raise the Palisade|LTC|23
+1 Rapid Hybridization|LCC|166
+1 Ravenform|LCC|167
+1 Realmwalker|CMM|909
+1 Reflections of Littjara|LCC|168
+1 Reliquary Tower|CMM|425
+1 Ripples of Potential|LCC|77
+1 Rogue's Passage|CMM|426
+1 Ruinous Intrusion|LCC|255
+1 Sage of Fables|MOR|47
+1 Seafloor Oracle|J22|343
+1 Secluded Courtyard|CMM|1030
+1 Simic Ascendancy|LCC|288
+1 Simic Growth Chamber|MOC|424
+1 Simic Signet|LCC|312
+1 Singer of Swift Rivers|LCC|98
+1 Sol Ring|LCC|313
+1 Stonybrook Banneret
+1 Surgespanner|LRW|92
+1 Svyelun of Sea and Sky|J22|356
+1 Swiftfoot Boots|LCC|314
+1 Tatyova, Benthic Druid|CMM|358
+1 Tempest Caller|XLN|86
+1 Temple of Mystery|MOC|434
+1 Thieving Skydiver|ZNR|85
+1 Tishana, Voice of Thunder|XLN|230
+1 Topography Tracker|LCC|95
+1 Tributary Instructor|LCC|96
+1 Unclaimed Territory|CMM|1050
+1 Vineglimmer Snarl|LCC|368
+1 Vodalian Hexcatcher|DMU|75
+1 Wave Goodbye|LCC|79
+1 Zegana, Utopian Speaker|RNA|214
+
+
+[Sideboard]
+
+

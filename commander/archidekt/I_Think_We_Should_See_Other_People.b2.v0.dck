@@ -1,0 +1,186 @@
+[metadata]
+Name=I Think We Should See Other People
+Description=
+Format=commander
+Bracket=2
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1743320
+Date=2025-03-05
+Created=2021-08-18
+Updated=2025-03-05
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Karazikar, the Eye Tyrant|AFC|49
+
+
+[Main]
+1 Abrade|CMM|203
+1 Alexios, Deimos of Kosmos|ACR|33
+1 Anzrag's Rampage|MKM|111
+1 Arcane Lighthouse|CM2|233
+1 Arcane Signet
+1 Arena of Glory|MH3|215
+1 Arid Archway|OTJ|252
+1 Ash Barrens|2XM|310
+1 Backlash|INV|234
+1 Baleful Mastery|OTC|126
+1 Blasphemous Act|CMR|162
+1 Blazemire Verge|DSK|256
+1 Blightstep Pathway|KHM|252
+1 Blinkmoth Nexus|2XM|311
+1 Blood Artist|EMA|81
+1 Blood Crypt|RNA|245
+1 Bloodsoaked Insight|MH3|252
+1 Bloodstained Mire|KTK|230
+1 Bloodthirster|40K|73
+1 Bloodthirsty Blade|C21|235
+1 Boggart Trawler|MH3|243
+1 Bojuka Bog|LTC|358
+1 Bolt Bend|WAR|115
+1 Bothersome Quasit|CLB|628
+1 Cavern-Hoard Dragon|LTC|31
+1 Champion's Helm|CMM|375
+1 Chandra's Ignition|ORI|137
+1 Chaos Warp|C19|136
+1 Coldsteel Heart|C15|249
+1 Combat Celebrant|AKH|125
+1 Command Beacon|CMR|349
+1 Command Tower|CLB|351
+1 Coronation of Chaos|CLB|168
+1 Cursed Mirror|C21|50
+1 Damnation|PLC|85
+1 Darkness|40K|197
+1 Day of the Moon|WHO|79
+1 Death Tyrant|AFC|292
+1 Decanter of Endless Water|CLB|309
+1 Deflecting Swat|C20|50
+1 Detection Tower|M19|249
+1 Disrupt Decorum|C17|25
+1 Dockside Extortionist|C19|24
+1 Dragonskull Summit|C16|292
+1 Emberwilde Captain|CMR|175
+1 Enduring Courage|DSK|133
+1 Etali, Primal Storm|C20|151
+1 Fabled Passage|M21|246
+1 Feed the Swarm|C21|144
+1 Ferocification|OTJ|123
+1 Frostwalk Bastion|MH1|240
+1 Geode Rager|ZNC|6
+1 Ghoulish Impetus|CMM|732
+1 Gimli of the Glittering Caves|LTC|115
+1 Glaring Spotlight|GTC|229
+1 Glóin, Dwarf Emissary|LTR|132
+1 Grave Titan|C14|145
+1 Graven Cairns|IMA|237
+1 Grim Hireling|CLB|755
+1 Guardian Idol|JMP|467
+1 Guildless Commons|CMR|351
+1 Haunted Ridge|MID|263
+1 Havoc Eater|MKC|31
+1 Hot Pursuit|MKC|32
+1 Hylda's Crown of Winter|WOE|367
+1 Incite Rebellion|CM2|108
+1 Insurrection|CMD|126
+1 Jeska's Will|CMR|187
+1 Jurin, Leading the Charge|SLD|1240
+1 Kalitas, Traitor of Ghet|OGW|86
+1 Kardur, Doomscourge|KHM|216
+1 Karlach, Fury of Avernus|CLB|186
+1 Kaya's Ghostform|WAR|94
+1 Kazuul's Fury|ZNR|146
+1 Kazuul, Tyrant of the Cliffs|MKC|157
+1 Komainu Battle Armor|NEC|21
+1 Krenko, Tin Street Kingpin|WAR|137
+1 Legion Warboss|ONC|101
+1 Life of the Party|NCC|48
+1 Lightning Greaves|2XM|267
+1 Liquimetal Torque|MH2|228
+1 Loyal Apprentice|C18|23
+1 Luxury Suite|BBD|82
+1 Malakir Rebirth|ZNR|111
+1 Mana Geyser|C21|176
+1 Marchesa's Decree|CN2|44
+1 Mercadia's Downfall
+1 Mimic Vat|SOM|175
+1 Mind Stone|MKC|232
+1 Mishra's Factory|2XM|323
+1 Mob Rule|VOC|147
+1 Moraug, Fury of Akoum|ZNR|300
+1 Morbid Opportunist|BLC|183
+1 Mutavault|CLB|903
+1 Myriad Landscape|MIC|177
+1 Nettling Nuisance|WOC|15
+1 Night's Whisper|EMA|100
+1 Nighthawk Scavenger|ZNR|115
+1 Nightmare Shepherd|THB|108
+1 Noxious Gearhulk|KLD|96
+1 Ornithopter of Paradise|MH2|232
+1 Phyrexian Arena|CC2|4
+1 Planar Atlas|J22|51
+1 Port Razer|CMR|193
+1 Prismatic Vista|MH1|244
+1 Professional Face-Breaker|J22|581
+1 Pyroblast|ICE|213
+1 Rakdos Carnarium|2X2|410
+1 Rakdos Charm|AFC|190
+1 Rakdos Signet|C17|221
+1 Rattleback Apothecary|OTJ|100
+1 Raucous Theater|MKM|266
+1 Read the Bones|C17|122
+1 Reliquary Tower|CMR|488
+1 Return the Favor|OTJ|142
+1 Return to Action|NEO|121
+1 Revenge of Ravens|ELD|104
+1 Rising of the Day|LTR|145
+1 Rush of Vitality|KLD|99
+1 Sangromancer|C21|152
+1 Sauron, the Lidless Eye|LTR|396
+1 Savage Beating|DST|67
+1 Shadowblood Ridge|C16|325
+1 Shadowspear|THB|236
+1 Siege-Gang Lieutenant|M3C|113
+2 Snow-Covered Mountain|CSP|154
+3 Snow-Covered Swamp|CSP|153
+1 Sokenzan, Crucible of Defiance|NEO|276
+1 Sol Ring|CMR|472
+1 Solemn Simulacrum|AFC|216
+1 Spectacular Showdown|CLB|679
+1 Sudden Spoiling|TSR|144
+1 Sulfurous Springs|10E|359
+1 Sundering Eruption|MH3|248
+1 Swiftfoot Boots|CMR|474
+1 Talisman of Indulgence|E01|91
+1 Terminate|ARC|95
+1 The Black Gate|LTC|80
+1 The Dalek Emperor|WHO|997
+1 The Lord of Pain|DSC|3
+1 The Master, Multiplied|WHO|146
+1 The Sound of Drums|WHO|391
+1 Thought Vessel|CMR|346
+1 Thrilling Encore|WOC|118
+1 Tibalt's Trickery|KHM|153
+1 Untimely Malfunction|DSK|161
+1 Urabrask the Hidden|SLD|212
+1 Urabrask's Forge|ONE|153
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Valakut Awakening|ZNR|174
+1 Vashta Nerada|WHO|73
+1 Vengeful Ancestor|AFC|35
+1 Vicious Shadows|ALA|119
+1 Vislor Turlough|WHO|74
+1 Vito, Thorn of the Dusk Rose|M21|127
+1 Waltz of Rage|DSK|165
+1 Wayfarer's Bauble|CLB|344
+1 Whip of Erebos|THS|110
+1 Witch's Clinic|C21|81
+1 Wurmcoil Engine|SOM|223
+1 Xantcha, Sleeper Agent|C18|50
+1 You Find Some Prisoners|AFR|169
+
+
+[Sideboard]
+
+

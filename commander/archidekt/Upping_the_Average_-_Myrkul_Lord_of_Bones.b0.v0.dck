@@ -1,0 +1,116 @@
+[metadata]
+Name=Upping the Average - Myrkul, Lord of Bones
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/SE_XnBKQPyk"},"insert":"https://youtu.be/SE_XnBKQPyk"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\nPath of Ancestry\nThieving Amalggam\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3428551
+Date=2022-10-19
+Created=2022-10-19
+Updated=2022-10-19
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Myrkul, Lord of Bones|CLB|287
+
+
+[Main]
+1 Ajani's Chosen|JMP|82
+1 Anointed Procession
+1 Arcane Signet|40K|229
+1 Archon of Sun's Grace|THB|3
+1 Ashnod's Altar
+1 Assassin's Trophy|GRN|152
+1 Avacyn's Pilgrim|ISD|170
+1 Barrenton Medic|SHM|4
+1 Beast Whisperer|KHC|54
+1 Beast Within|DMC|129
+1 Beledros Witherbloom|STX|163
+1 Birds of Paradise|CN2|176
+1 Blood Artist|AVR|86
+1 Bojuka Bog|CLB|882
+1 Bountiful Promenade|CLB|348
+1 Braids, Arisen Nightmare|DMU|84
+1 Canopy Vista|DMC|201
+1 Carrion Feeder|EMA|84
+1 Caves of Koilos|DMU|244
+1 Cinderhaze Wretch|SHM|60
+1 Command Tower|CMR|479
+1 Cruel Celebrant|WAR|188
+1 Cultivate|M21|177
+1 Damn|MH2|80
+1 Dauthi Voidwalker|MH2|81
+1 Destiny Spinner|THB|168
+1 Devoted Druid|2X2|143
+1 Doomwake Giant|JOU|66
+1 Doubling Season|BBD|195
+1 Eidolon of Blossoms
+1 Elas il-Kor, Sadistic Pilgrim|DMU|198
+1 Elesh Norn, Grand Cenobite|MM2|16
+1 Elves of Deep Shadow|DDJ|47
+1 Elvish Mystic|M15|173
+1 Eternal Witness|2X2|145
+1 Exotic Orchard|VOC|173
+1 Farseek|40K|214
+5 Forest|HOP|168
+1 Fyndhorn Elves|CMR|228
+1 Ghostly Prison|C16|66
+1 Gisa, Glorious Resurrector|MID|103
+1 Godless Shrine|GTC|242
+1 Grim Guardian|JOU|73
+1 Grim Haruspex|CLB|754
+1 Heroic Intervention
+1 High Market|CMA|257
+1 Indatha Triome|IKO|248
+1 Isolated Chapel|DOM|241
+1 Jaheira, Friend of the Forest|CLB|237
+1 Kodama's Reach|DMC|134
+1 Lightning Greaves|CLB|864
+1 Llanowar Elves|M10|189
+1 Marsh Flats|MH2|248
+1 Moldervine Reclamation|M20|214
+1 Nature's Lore|CLB|244
+1 Overgrown Tomb|RTR|243
+1 Parallel Lives|ISD|199
+1 Path of Ancestry|CLB|907
+1 Path to Exile|DMC|104
+1 Phyrexian Altar|UMA|232
+1 Phyrexian Tower|UMA|248
+2 Plains|CLB|453
+1 Platinum Angel
+1 Rampant Growth|40K|220
+1 Sakura-Tribe Elder|CLB|832
+1 Sanctum Weaver|MH2|171
+1 Sandsteppe Citadel|DMC|229
+1 Second Harvest|C19|178
+1 Setessan Champion|THB|198
+1 Smothering Tithe|2X2|31
+1 Sol Ring|C20|252
+1 Sphere of Safety|RTR|24
+1 Sterling Grove|MH2|293
+1 Sunpetal Grove|XLN|257
+3 Swamp|DMU|269
+1 Swords to Plowshares|DMR|31
+1 Sylvan Library|CC1|5
+1 Teferi's Protection|2X2|32
+1 Temple Garden|GRN|258
+1 Thieving Amalgam|C19|21
+1 Three Visits|CMR|261
+1 Undergrowth Stadium|CMR|359
+1 Urborg, Tomb of Yawgmoth|TSR|287
+1 Vault of Champions|CMR|360
+1 Verdant Catacombs|MH2|260
+1 Viscera Seer|CMR|158
+1 Weaver of Harmony|NEO|213
+1 Windswept Heath|KTK|248
+1 Woe Strider|CLB|774
+1 Woodland Cemetery|DOM|248
+1 Yavimaya, Cradle of Growth|MH2|261
+1 Zulaport Cutthroat|CLB|775
+
+
+[Sideboard]
+
+

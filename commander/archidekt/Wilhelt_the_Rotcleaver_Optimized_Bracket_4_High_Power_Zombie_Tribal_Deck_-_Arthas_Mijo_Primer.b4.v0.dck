@@ -1,0 +1,132 @@
+[metadata]
+Name=Wilhelt, the Rotcleaver Optimized Bracket 4 High Power Zombie Tribal Deck - Arthas Mijo [Primer]
+Description={"ops":[{"attributes":{"bold":true},"insert":"Wilhelt, the Rotcleaver – Zombie Tribal Bracket 4 Guide."},{"insert":"\nThis is a highly optimized Dimir Zombie tribal deck led by Wilhelt, the Rotcleaver, blending aristocrat value, combo, and reanimation strategies. The primary game plan uses Wilhelt's token generation and card draw to fuel sacrifice outlets like Ashnod's Altar and Phyrexian Altar for infinite mana, death triggers, and mill combos. Key combos involve Gravecrawler, Rooftop Storm, and persist/undying loops with Mikaeus, the Unhallowed and Putrid Goblin to generate infinite death/ETB triggers, enabling wins via Altar of Dementia, Diregraf Captain, or Gray Merchant of Asphodel.\n"},{"attributes":{"bold":true},"insert":"Primer:"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Core Strategy:"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Establish Board & Value:"},{"insert":" Deploy cheap Zombies (Gravecrawler, Cryptbreaker) and Wilhelt to generate tokens and draw cards via sacrifice. Use Rhystic Study and Necropotence for card advantage."},{"attributes":{"indent":1,"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Assemble Combo Lines:Gravecrawler + Altar + Payoff:"},{"insert":" With a Zombie on board, cast Gravecrawler from graveyard infinitely with Phyrexian Altar (sac for B, replay for B) or Ashnod's Altar (sac for CC, replay for B with Rooftop Storm). Pair with Diregraf Captain for infinite damage, Altar of Dementia for infinite mill, or Undead Augur for infinite draw."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Persist/Undying Loops:"},{"insert":" Use Mikaeus, the Unhallowed + Putrid Goblin + a free sacrifice outlet (e.g., Carrion Feeder) to generate infinite death/ETB triggers (sacrifice Putrid Goblin, it returns with persist -1/-1 counter, Mikaeus gives it undying, removing the -1/-1 counter, repeat). Add Altar of Dementia for mill or Diregraf Captain for damage."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Rooftop Storm + Gravecrawler + Phyrexian Altar:"},{"insert":" With Rooftop Storm, Gravecrawler costs 0. Sacrifice it to Phyrexian Altar for B, use that B to cast it from graveyard (since it's free), netting infinite B mana and infinite death/ETB triggers."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Reanimation & Tutors:"},{"insert":" Use Entomb, Buried Alive, and Demonic Tutor to find combo pieces, then reanimate with Reanimate, Animate Dead, or Necromancy. Sidisi, Undead Vizier and Diabolic Intent provide additional tutoring."},{"attributes":{"indent":1,"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Win:"},{"insert":" Execute infinite combo, or grind value with The Scarab God and Gray Merchant of Asphodel until opponents are drained."},{"attributes":{"indent":1,"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Mulligan Priorities:"},{"insert":"\nKeep hands with 2-3 lands, including at least one black source."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"insert":"Prioritize hands with a cheap Zombie, a sacrifice outlet (Carrion Feeder, Ashnod's Altar), or a tutor (Demonic Tutor, Entomb)."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"insert":"Avoid hands with only high-CMC cards (e.g., Rooftop Storm, Mikaeus) without ramp or early plays."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Key Tips:"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Wilhelt's Decayed Tokens:"},{"insert":" Sacrifice decayed tokens before combat to draw with Wilhelt; they die anyway after attacking."},{"attributes":{"indent":1,"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Gravecrawler Loops:"},{"insert":" Ensure you control another Zombie (not a token) to cast Gravecrawler from graveyard."},{"attributes":{"indent":1,"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Sequence Tutors:"},{"insert":" Use Buried Alive to dump Gravecrawler, Phyrexian Altar, and Diregraf Captain into the graveyard, then reanimate the pieces."},{"attributes":{"indent":1,"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Protection:"},{"insert":" Use Counterspell, Fierce Guardianship, and Swan Song to protect combos; Cyclonic Rift as a reset button."},{"attributes":{"indent":1,"list":"ordered"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Weaknesses:"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Critical"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Graveyard Hate:"},{"insert":" Rest in Peace, Leyline of the Void, and Dauthi Voidwalker shut down Gravecrawler loops and reanimation."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Artifact/Enchantment Removal:"},{"insert":" Nature's Claim and Disenchant on Rooftop Storm or Phyrexian Altar disrupt combos."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Rule of Law Effects:"},{"insert":" Eidolon of Rhetoric and Archon of Emeria prevent casting multiple spells per turn, stopping Gravecrawler loops."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Moderate"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Board Wipes:"},{"insert":" While Wilhelt generates value from deaths, repeated wipes (especially exile-based like Farewell) can deplete resources."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Commander Reliance:"},{"insert":" Wilhelt is key for card draw and token generation; repeated removal slows the engine."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Minor"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Life Loss:"},{"insert":" Necropotence, Phyrexian Altar, and Cabal Ritual cost life; aggressive decks can pressure life total."},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Key Cards:"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Gravecrawler:"},{"insert":" Core combo piece; infinitely recastable with a Zombie on board."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Phyrexian Altar:"},{"insert":" Primary infinite mana engine with Gravecrawler and Rooftop Storm."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Ashnod's Altar:"},{"insert":" Alternative infinite mana/sacrifice outlet."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Rooftop Storm:"},{"insert":" Enables free Zombie casting, crucial for Gravecrawler loops."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Mikaeus, the Unhallowed:"},{"insert":" Enables persist/undying loops with Putrid Goblin."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Diregraf Captain:"},{"insert":" Primary aristocrat payoff for infinite damage."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Altar of Dementia:"},{"insert":" Infinite mill win condition with death loops."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Buried Alive:"},{"insert":" Tutors three combo pieces directly to graveyard."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Demonic Tutor:"},{"insert":" Finds any missing piece."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Necropotence:"},{"insert":" Draws massive cards to assemble combos."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Wilhelt, the Rotcleaver:"},{"insert":" Engine for token generation and card draw; enables sacrifice loops."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Gray Merchant of Asphodel:"},{"insert":" Large life swing/reanimation target; can be looped for infinite life drain with reanimation."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Roaming Throne:"},{"insert":" Doubles death triggers from Zombies, amplifying combo payoffs."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Key Combos:"},{"insert":"\n"},{"attributes":{"bold":true},"insert":"Infinite Mana/Death Triggers/Damage:"},{"insert":" Gravecrawler + Phyrexian Altar + Another Zombie + Diregraf Captain | With another Zombie on board, sacrifice Gravecrawler to Phyrexian Altar for B, use that B to cast Gravecrawler from graveyard (costs B). Repeat for infinite B mana, infinite death triggers, and infinite damage via Diregraf Captain. | Requires a Zombie on board (not a token). Tutorable via Entomb/Demonic Tutor. | Impact: High"},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Infinite Mana/Death Triggers/Mill:"},{"insert":" Gravecrawler + Ashnod's Altar + Rooftop Storm + Altar of Dementia (or other payoff) | With Rooftop Storm, Gravecrawler costs 0. Sacrifice it to Ashnod's Altar for CC. Use CC to pay for Altar of Dementia's activation, milling equal to Gravecrawler's power (2). Recast Gravecrawler for 0. Repeat for infinite mill. | Requires Rooftop Storm (6 mana). Tutorable via Demonic Tutor. | Impact: High"},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Infinite Death/ETB Triggers:"},{"insert":" Mikaeus, the Unhallowed + Putrid Goblin + Free Sacrifice Outlet (e.g., Carrion Feeder) | Putrid Goblin enters, gets +1/+1 from Mikaeus. Sacrifice it, it returns with persist (-1/-1 counter). Mikaeus's undying triggers, returning it with a +1/+1 counter, removing the -1/-1 counter. Repeat for infinite death/ETB triggers. Add Diregraf Captain for damage or Altar of Dementia for mill. | Requires Mikaeus and a free sac outlet. Tutorable via Buried Alive. | Impact: High"},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Infinite Mana/Draw:"},{"insert":" Gravecrawler + Phyrexian Altar + Undead Augur + Another Zombie | Loop Gravecrawler as above, each death draws a card and loses 1 life via Undead Augur. Draws deck, can find win condition. | Requires Undead Augur on board. | Impact: High"},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Near-Infinite Mana/Value:"},{"insert":" Wilhelt, the Rotcleaver + Ashnod's Altar + Gravecrawler + Another Zombie | Sacrifice Gravecrawler to Ashnod's Altar for CC, Wilhelt creates a decayed Zombie token. Use CC to recast Gravecrawler from graveyard (B). Sacrifice the decayed token to Altar for CC, draw a card with Wilhelt. Net mana and cards. | Requires setup but generates significant value. | Impact: Medium"},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Infinite Mill:"},{"insert":" Altar of Dementia + Mikaeus, the Unhallowed + Putrid Goblin + Free Sacrifice Outlet | Use the Mikaeus/Putrid Goblin loop, sacrificing to Altar of Dementia each iteration, milling opponents equal to Putrid Goblin's power (2+). | Requires all four pieces. | Impact: High"},{"attributes":{"indent":1,"list":"bullet"},"insert":"\n"},{"attributes":{"header":1},"insert":"\n"}]}
+Format=commander
+Bracket=4
+Author=Wertos
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5072301
+Date=2026-03-02
+Created=2023-08-04
+Updated=2026-03-02
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Wilhelt, the Rotcleaver|MIC|40
+
+
+[Main]
+1 Accursed Marauder|MH3|80
+1 Acererak the Archlich|AFR|372
+1 Agadeem's Awakening|ZNR|336
+1 Altar of Dementia|BRR|3
+1 An Offer You Can't Refuse|SNC|464
+1 Ancient Tomb|TMP|315
+1 Animate Dead|EMA|78
+1 Arcane Signet|MIC|157
+1 Ashnod's Altar|BRR|4
+1 Black Market Connections|CLB|669
+1 Bolas's Citadel
+1 Buried Alive|UMA|88
+1 Butcher Ghoul|AVR|89
+1 Cabal Coffers|TOR|139
+1 Carrion Feeder|EMA|84
+1 Cavern of Souls|2X2|320
+1 City of Brass|MD1|15
+1 Clearwater Pathway|ZNR|260
+1 Command Tower|CC2|8
+1 Counterspell|CMM|630
+1 Cryptbreaker
+1 Culling the Weak|EXO|55
+1 Cyclonic Rift|MM3|35
+1 Dance of the Dead|ICE|118
+1 Dark Ritual|MIR|116
+1 Deadly Rollick|CMM|147
+1 Demonic Tutor|CMM|150
+1 Diabolic Intent|BRO|89
+1 Dictate of Erebos
+1 Diregraf Captain|SLD|858
+1 Diregraf Colossus|MIC|112
+1 Entomb|DMR|304
+1 Fabled Passage
+1 Fell Stinger|VOW|112
+1 Fellwar Stone|MOC|356
+1 Field of the Dead|SLD|1356
+1 Fierce Guardianship|C20|35
+1 Fleshbag Marauder|DRC|92
+1 Grave Pact|CMM|639
+1 Graveborn Muse
+1 Gravecrawler|DDQ|59
+1 Gray Merchant of Asphodel|THB|99
+1 Grim Tutor|M21|315
+1 Havengul Lich|SCD|231
+1 Headless Rider|VOW|118
+1 Island|MID|381
+1 Lazotep Reaver|WAR|96
+1 Liliana, Dreadhorde General|SLD|510
+1 Lotus Petal|MB2|226
+1 Malakir Rebirth|ZNR|111
+1 Mana Confluence|JOU|163
+1 Mana Drain|CMR|80
+1 Midnight Reaper|MIC|125
+1 Mikaeus, the Unhallowed|CMM|675
+1 Morphic Pool
+1 Mystic Remora|DMR|288
+1 Necroduality
+1 Necromancy|VIS|64
+1 Necropotence|WOT|31
+1 Nested Shambler|MH2|95
+1 Noxious Ghoul
+1 Nykthos, Shrine to Nyx
+1 Phyrexian Altar
+1 Phyrexian Tower|UMA|248
+1 Plague Belcher|AKH|104
+1 Polluted Delta|KTK|239
+1 Poppet Stitcher|MID|339
+1 Prismatic Vista|H1R|40
+1 Putrid Goblin|MH1|101
+1 Reanimate|CC2|5
+1 Relentless Dead|SOI|131
+1 Rhystic Study|JMP|169
+1 Roaming Throne|LCI|344
+1 Rooftop Storm|INR|306
+1 Rot Hulk|GNT|3
+1 Sacrifice|3ED|126
+1 Shambling Ghast|AFR|119
+1 Shipwreck Marsh
+1 Sidisi, Undead Vizier
+1 Sink into Stupor|MH3|241
+1 Skullclamp|C17|222
+1 Snow-Covered Island|MH1|251
+3 Snow-Covered Swamp|KHM|281
+1 Sol Ring|CC2|7
+1 Strip Mine|4ED|363
+1 Sunken Ruins|SHM|280
+3 Swamp|MH3|306
+1 Swan Song|LTC|197
+1 Sword of Feast and Famine|ACR|124
+1 Takenuma, Abandoned Mire|NEO|416
+1 Talisman of Dominance|MIC|164
+1 The Meathook Massacre|MID|348
+1 The One Ring|LTR|451
+1 The Scarab God|2XM|216
+1 The Soul Stone|SPM|66
+1 Toxic Deluge|2XM|345
+1 Undead Augur|MIC|130
+1 Undercity Sewers|MKM|270
+1 Underground River|DKM|41
+1 Unholy Grotto|ONS|327
+1 Unmarked Grave|MH2|453
+1 Unstoppable Slasher|DSK|312
+1 Urborg, Tomb of Yawgmoth|TSR|287
+1 Vampiric Tutor|CMR|156
+1 Vile Entomber|FDN|616
+1 Warren Soultrader|MH3|110
+1 Watery Grave|RAV|286
+1 Zul Ashur, Lich Lord|FDN|326
+
+
+[Sideboard]
+
+

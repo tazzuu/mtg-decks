@@ -1,0 +1,103 @@
+[metadata]
+Name=Malfegor's Mudpit Melee
+Description={"ops":[{"insert":"Deck tech: https://www.youtube.com/watch?v=ktU-_awFchQ\n"}]}
+Format=commander
+Bracket=3
+Author=SalubriousSnail
+Tags=
+Version=0
+URL=https://archidekt.com/decks/9115716
+Date=2025-10-24
+Created=2024-09-07
+Updated=2025-10-24
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Malfegor|IMA|205
+
+
+[Main]
+1 Accursed Marauder|MH3|80
+1 Anger|AFC|113
+1 Anje's Ravager|VOC|141
+1 Arcane Signet|BLC|127
+1 Arterial Flow|RIX|62
+1 Asylum Visitor|C19|103
+1 Azra Oddsmaker
+1 Bandit's Talent|BLB|83
+1 Bedevil|BRC|121
+1 Blackcleave Cliffs|OTC|272
+1 Boggart Trawler|MH3|243
+1 Bojuka Bog|DSC|265
+1 Bottomless Pit|STH|51
+1 Burglar Rat|J22|384
+1 Byway Barterer|BLB|129
+1 Call to the Netherworld|C19|108
+1 Case of the Crimson Pulse|MKM|114
+1 Caustic Bronco|OTJ|82
+1 Chainer, Nightmare Adept|MH2|289
+1 Command Tower|BLC|130
+1 Cunning Lethemancer|ALA|69
+1 Cut
+1 Darkstar Augur|BLB|90
+1 Delirium Skeins|MM3|65
+1 Detective's Phoenix|MH3|116
+1 Dragonskull Summit|OTC|289
+1 Emperor of Bones|MH3|90
+1 Fell the Profane|MH3|244
+1 Fiery Confluence|LCC|226
+1 Fireglass Mentor|BLB|213
+1 Florian, Voldaren Scion|DSC|217
+1 Ghost Vacuum|DSK|248
+1 Immersturm Predator|KHM|214
+1 Inti, Seneschal of the Sun|LCI|156
+1 Ivora, Insatiable Heir|J25|50
+1 Kardur, Doomscourge|DSC|223
+1 Kroxa, Titan of Death's Hunger|THB|221
+1 Laelia, the Blade Reforged|MH3|281
+1 Let's Play a Game|DSK|105
+1 Malboro|FIN|106
+1 Mind Rake
+1 Mizzium Mortars|CLB|803
+7 Mountain|WOE|273
+1 Necrogoyf|MH2|93
+1 Ox of Agonas|NEC|108
+1 Pain Magnification|DIS|121
+1 Painful Quandary|BRO|111
+1 Qarsi Revenant|TDM|86
+1 Rakdos Carnarium|BRC|194
+1 Rakdos Charm|SCD|239
+1 Rankle, Master of Pranks|OTC|148
+1 Restless Vents|LCI|284
+1 Ripples of Undeath|MH3|107
+1 Rix Maadi, Dungeon Palace
+1 Sangromancer|SCD|103
+1 Shadowblood Ridge|OTC|317
+1 Skull Rend|RTR|195
+1 Smoldering Marsh|OTC|321
+1 Sol Ring|BLC|129
+1 Soul Shatter|SCD|108
+1 Spinerock Knoll|DSC|300
+1 Spymaster's Vault|MH3|230
+1 Stromkirk Occultist|VOC|151
+1 Stronghold Rats|TSR|142
+1 Sulfurous Springs|DMU|256
+15 Swamp|WOE|272
+1 Syphon Mind|SCD|111
+1 Syr Konrad, the Grim|MOC|269
+1 Tainted Peak|OTC|327
+1 Tasigur's Cruelty|FRF|88
+1 Temple of Malice|OTC|331
+1 Terminate|SCD|249
+1 Tersa Lightshatter|TDM|127
+1 Tinybones, Bauble Burglar|FDN|72
+1 Unlicensed Hearse|SNC|246
+1 Unnerve|CM2|81
+1 Urborg Scavengers|MAT|65
+1 Victimize|MH3|278
+1 Withering Torment|DSK|124
+
+
+[Sideboard]
+
+

@@ -1,0 +1,107 @@
+[metadata]
+Name=Upping the Average - Shorikai, Genesis Engine
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/rQG68G5bLdU"},"insert":"https://youtu.be/rQG68G5bLdU"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nManifold Key\nDeadeye Quartermaster\n\nDermotaxi\nMobile Garrison\n\nSlaughter the Strong\nDusk // Dawn\nWonder\nRebbec, Architect of Ascension\nBrilliant Restoration\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2498709
+Date=2022-03-23
+Created=2022-03-18
+Updated=2022-03-23
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Shorikai, Genesis Engine|NEC|4
+
+
+[Main]
+1 Academy Ruins|2XM|309
+1 Aerial Surveyor|NEC|5
+1 Anchor to Reality|NEO|45
+1 Ancient Den|C21|276
+1 Arcane Signet|VOC|159
+1 Azorius Signet|NEC|145
+1 Brilliant Restoration|NEO|7
+1 Command Tower
+1 Cosima, God of the Voyage|KHM|50
+1 Counterspell
+1 Cultivator's Caravan|NEC|149
+1 Cyberdrive Awakener|NEC|12
+1 Cyclonic Rift|2XM|47
+1 Dance of the Manse|NEC|136
+1 Deadeye Quartermaster|XLN|50
+1 Dermotaxi|MH2|224
+1 Deserted Beach|MID|260
+1 Dispatch|NEC|83
+1 Dovin's Veto|WAR|193
+1 Dramatic Reversal|KLD|44
+1 Drumbellower|NEC|6
+1 Dusk|C19|63
+1 Emry, Lurker of the Loch|NEC|91
+1 Esper Sentinel|MH2|12
+1 Etherium Sculptor|NEC|92
+1 Exotic Orchard
+1 Farewell|NEO|13
+1 Fellwar Stone|NEC|150
+1 Foundry Inspector|NEC|152
+1 Generous Gift|NEC|84
+1 Glacial Fortress|XLN|255
+1 Gold Myr|NEC|153
+1 Hallowed Fountain|RNA|251
+1 Imposter Mech|NEC|13
+1 Intruder Alarm|8ED|86
+1 Inventors' Fair
+1 Ironsoul Enforcer|NEC|7
+10 Island|M20|267
+1 Katsumasa, the Animator|NEC|15
+1 Kotori, Pilot Prodigy|NEC|2
+1 Manifold Key|M20|230
+1 Mech Hangar|NEO|270
+1 Mechtitan Core|NEO|249
+1 Mirage Mirror|NEC|154
+1 Mobile Garrison|AER|165
+1 Mobilizer Mech|NEO|65
+1 Padeem, Consul of Innovation|KLD|59
+1 Parhelion II|NEC|87
+1 Path to Exile|2XM|25
+1 Peacewalker Colossus|NEC|155
+8 Plains|M21|261
+1 Port Town|NEC|174
+1 Prairie Stream|NEC|175
+1 Prodigy's Prototype|NEO|231
+1 Reality Shift|NEC|95
+1 Rebbec, Architect of Ascension|CMR|42
+1 Reckoner Bankbuster|NEO|255
+1 Rhystic Study|JMP|169
+1 Sai, Master Thopterist|NEC|97
+1 Seat of the Synod|C18|278
+1 Shimmer Myr|NEC|157
+1 Silver Myr|NEC|158
+1 Skycloud Expanse|NEC|177
+1 Skysovereign, Consul Flagship|NEC|159
+1 Slaughter the Strong|CMR|48
+1 Smothering Tithe|RNA|22
+1 Smuggler's Copter|NEC|160
+1 Sol Ring|MIC|162
+1 Solemn Simulacrum|NEC|162
+1 Spire of Industry|NEC|178
+1 Supreme Verdict
+1 Surgehacker Mech|NEO|260
+1 Swift Reconfiguration|NEC|10
+1 Swords to Plowshares|NEC|89
+1 Talisman of Progress|MRD|256
+1 Temple of Enlightenment|NEC|180
+1 Tezzeret, Betrayer of Flesh|NEO|84
+1 Thopter Spy Network|NEC|98
+1 Thoughtcast|NEC|99
+1 Unwinding Clock|C18|228
+1 Vedalken Engineer|NEC|100
+1 Weatherlight|NEC|165
+1 Wonder|MH2|271
+
+
+[Sideboard]
+
+

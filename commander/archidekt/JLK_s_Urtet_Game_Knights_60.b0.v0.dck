@@ -1,0 +1,31 @@
+[metadata]
+Name=JLK's Urtet | Game Knights #60
+Description={"ops": [{"insert": "JLK's deck from Game Knights #60"}]}
+Format=commander
+Bracket=0
+Author=GameKnights
+Tags=
+Version=0
+URL=https://archidekt.com/decks/4664186
+Date=2025-08-17
+Created=2023-06-05
+Updated=2025-08-17
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Urtet, Remnant of Memnarch|ONC|28
+
+
+[Main]
+1 Canoptek Spyder|40K|151
+1 Drafna, Founder of Lat-Nam|BRO|47
+2 Forest
+1 Guardian Project
+1 Jetmir, Nexus of Revels|SNC|193
+1 Relic of Legends|DMU|236
+1 Toxic Deluge|2XM|110
+
+
+[Sideboard]
+
+

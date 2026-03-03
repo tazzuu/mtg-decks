@@ -1,0 +1,139 @@
+[metadata]
+Name=Reki, the History of Kamigawa: Legendfall
+Description={"ops":[{"insert":"Date of creation:\n2015"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nTheme: \nLegends matter"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nPower:\nVery resilient and hard to stop once started. Could win on turn 8, often by 10"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nWin conditions\nWins with creature beats, usually on a big storm-like turn or off a "},{"insert":{"card-link":"Genesis Wave"}},{"insert":" or "},{"insert":{"card-link":"Kamahl's Druidic Vow"}},{"insert":"-type spell "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRules and notes:\nOnly legendary creatures"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nChangelog:\n2020 01-11 add "},{"insert":{"card-link":"Shadowspear"}},{"insert":" rmv "},{"insert":{"card-link":"Umezawa's Jitte"}},{"insert":" (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 01-11 add "},{"insert":{"card-link":"Nylea, Keen-Eyed"}},{"insert":" rmv "},{"insert":{"card-link":"Omnath, Locus of Mana"}},{"insert":" (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 01-11 add "},{"insert":{"card-link":"Arasta of the Endless Web"}},{"insert":" rmv "},{"insert":{"card-link":"Polukranos, World Eater"}},{"insert":" (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 01-11 add "},{"insert":{"card-link":"Nyx Lotus"}},{"insert":" rmv "},{"insert":{"card-link":"Alhammarret's Archive"}},{"insert":" (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 01-11 add "},{"insert":{"card-link":"Renata, Called to the Hunt"}},{"insert":" rmv "},{"insert":{"card-link":"Rishkar, Peema Renegade"}},{"insert":" (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-23 add "},{"insert":{"card-link":"Mana Crypt"}},{"insert":" rmv "},{"insert":{"card-link":"Search for Tomorrow"}},{"insert":" Trying to diversify power of my decks. This will be my one Crypt deck (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 03-19 add "},{"insert":{"card-link":"Glimpse of Nature"}},{"insert":" rmv "},{"insert":{"card-link":"Nyx Lotus"}},{"insert":" Not happy with Lotus, Glimpse just generally seems more consistent (-3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 04-14 add "},{"insert":{"card-link":"Kogla, the Titan Ape"}},{"insert":" rmv "},{"insert":{"card-link":"Yorvo, Lord of Garenbrig"}},{"insert":" Yorv is probably the most expendable body in the deck (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 04-14 add "},{"insert":{"card-link":"Vivien, Monsters' Advocate"}},{"insert":" rmv "},{"insert":{"card-link":"Lightning Greaves"}},{"insert":" Vivien is a perfect fit, though I'll miss Greaves (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 06-18 add "},{"insert":{"card-link":"Jolrael, Mwonvuli Recluse"}},{"insert":" rmv "},{"insert":{"card-link":"Syr Faren, the Hengehammer"}},{"insert":" Jolrael is just better (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 08-25 add "},{"insert":{"card-link":"Veil of Summer"}},{"insert":" rmv "},{"insert":{"card-link":"Vivien, Monsters' Advocate"}},{"insert":" Vivien was surprisingly mediocre (-4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 10-01 add "},{"insert":{"card-link":"Ashaya, Soul of the Wild"}},{"insert":" rmv "},{"insert":{"card-link":"Surrak, the Hunt Caller"}},{"insert":" Haste isn't that good here (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-16 add "},{"insert":{"card-link":"War Room"}},{"insert":" rmv "},{"insert":{"card-link":"Homeward Path"}},{"insert":" Nothing I care too much if they steal but Reki (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-16 add "},{"insert":{"card-link":"Kodama of the East Tree"}},{"insert":" rmv "},{"insert":{"card-link":"Finale of Devastation"}},{"insert":" Tutors aren't much fun (+4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-16 add "},{"insert":{"card-link":"Utopia Sprawl"}},{"insert":" rmv "},{"insert":{"card-link":"Rhonas's Monument"}},{"insert":" Monument just did too little (-2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-16 add "},{"insert":{"card-link":"Castle Garenbrig"}},{"insert":" rmv "},{"insert":{"card-link":"Reliquary Tower"}},{"insert":"  Not sure I need Tower, Castle is fun w Mana Reflection and Garruk (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Kolvori, God of Kinship // The Ringhart Crest"}},{"insert":" rmv "},{"insert":{"card-link":"Ashaya, Soul of the Wild"}},{"insert":" Ashaya gets my creatures killed (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Toski, Bearer of Secrets"}},{"insert":" rmv "},{"insert":{"card-link":"Thrun, the Last Troll"}},{"insert":" Need space for Toski (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 02-20 add "},{"insert":{"card-link":"Esika's Chariot"}},{"insert":" rmv "},{"insert":{"card-link":"Mana Crypt"}},{"insert":" Honestly? Mana Crypt is a boring fucking card (+4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 03-20 add "},{"insert":{"card-link":"Gauntlet of Power"}},{"insert":" rmv "},{"insert":{"card-link":"Caged Sun"}},{"insert":" Want to see if the lower casting cost is worth opponents using it (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-01 add "},{"insert":{"card-link":"Aeve, Progenitor Ooze"}},{"insert":" rmv "},{"insert":{"card-link":"Arasta of the Endless Web"}},{"insert":" Aeve has more upside (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-01 add "},{"insert":{"card-link":"Yavimaya, Cradle of Growth"}},{"insert":" rmv "},{"insert":{"card-link":"Dust Bowl"}},{"insert":" Just not a slow enough deck to care about land removal much (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-23 add "},{"insert":{"card-link":"Eye of Vecna"}},{"insert":" rmv "},{"insert":{"card-link":"Harmonize"}},{"insert":" Draw 2 for 2 better than a draw 3 for 4 plus it works off Gen Wave (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-23 add "},{"insert":{"card-link":"Old Gnawbone"}},{"insert":" rmv "},{"insert":{"card-link":"Esika's Chariot"}},{"insert":" Something had to go, and this felt the weakest (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 08-30 add "},{"insert":{"card-link":"Autumn's Veil"}},{"insert":" rmv "},{"insert":{"card-link":"Shadowspear"}},{"insert":" Shadowspear was a glorified cantrip (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-10 add "},{"insert":{"card-link":"Ashaya, Soul of the Wild"}},{"insert":" rmv "},{"insert":{"card-link":"Aeve, Progenitor Ooze"}},{"insert":" Aeve didn't work off Gen Wave or KDV (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Saryth, the Viper's Fang"}},{"insert":" rmv "},{"insert":{"card-link":"Marwyn, the Nurturer"}},{"insert":" More upside on Saryth (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Unnatural Growth"}},{"insert":" rmv "},{"insert":{"card-link":"Return of the Wildspeaker"}},{"insert":" UG hits off Gen Wave and is just generally good(0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-28 add "},{"insert":{"card-link":"Homeward Path"}},{"insert":" rmv "},{"insert":{"card-link":"Untaidake, the Cloud Keeper"}},{"insert":" Untaidake is just frustrating, want Path back (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 11-21 add "},{"insert":{"card-link":"Wrap in Vigor"}},{"insert":" rmv "},{"insert":{"card-link":"Glimpse of Nature"}},{"insert":" Want more protection (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 12-24 add "},{"insert":{"card-link":"Carpet of Flowers"}},{"insert":" rmv "},{"insert":{"card-link":"Wrap in Vigor"}},{"insert":" Wrap has failed me both times I've had it in hand (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Boseiju, Who Endures"}},{"insert":" rmv "},{"insert":{"card-link":"Castle Garenbrig"}},{"insert":" Really only worked with Mana Reflection (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Kura, the Boundless Sky"}},{"insert":" rmv "},{"insert":{"card-link":"Ashaya, Soul of the Wild"}},{"insert":" Too much downside on Ashaya (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 09-13 add "},{"insert":{"card-link":"Gwenna, Eyes of Gaea"}},{"insert":" rmv "},{"insert":{"card-link":"Cream of the Crop"}},{"insert":" Cream was mostly just annoying (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 01-22 add "},{"insert":{"card-link":"Nissa, Ascended Animist"}},{"insert":" rmv "},{"insert":{"card-link":"Kogla, the Titan Ape"}},{"insert":" Nissa is a straight up win con (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 01-22 add "},{"insert":{"card-link":"Zopandrel, Hunger Dominus"}},{"insert":" rmv "},{"insert":{"card-link":"Kamahl, Fist of Krosa"}},{"insert":" Zopandrel is also a win con (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 04-04 add "},{"insert":{"card-link":"Doric, Nature's Warden // Doric, Owlbear Avenger"}},{"insert":" rmv "},{"insert":{"card-link":"Dragon Throne of Tarkir"}},{"insert":" Easier overrun (-1) "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 05-28 add "},{"insert":{"card-link":"Bitterthorn, Nissa's Animus"}},{"insert":" rmv "},{"insert":{"card-link":"Jolrael, Mwonvuli Recluse"}},{"insert":" Cat tokens didn't add much (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-02 add "},{"insert":{"card-link":"Nissa, Resurgent Animist"}},{"insert":" rmv "},{"insert":{"card-link":"Multani, Yavimaya's Avatar"}},{"insert":" Multani just a beatstick (-3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-30 add "},{"insert":{"card-link":"Mirror of Galadriel"}},{"insert":" rmv "},{"insert":{"card-link":"Oath of Nissa"}},{"insert":" Mirror just draws more consistently (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 10-06 add "},{"insert":{"card-link":"Jamie McCrimmon"}},{"insert":" rmv "},{"insert":{"card-link":"Old Gnawbone"}},{"insert":" Never hard cast him, and ability is pointless on an alpha strike (-4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-24 add "},{"insert":{"card-link":"Pit of Offerings"}},{"insert":" rmv "},{"insert":{"card-link":"Dryad Arbor"}},{"insert":" Invasion of Ikoria was too cute (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-24 add "},{"insert":{"card-link":"Glimpse the Core"}},{"insert":" rmv "},{"insert":{"card-link":"Invasion of Ikoria // Zilortha, Apex of Ikoria"}},{"insert":" Invasion was too cute (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-24 add "},{"insert":{"card-link":"Ojer Kaslem, Deepest Growth // Temple of Cultivation"}},{"insert":" rmv "},{"insert":{"card-link":"Traxos, Scourge of Kroog"}},{"insert":" Ojer just better (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 12-20 add "},{"insert":{"card-link":"Surrak and Goreclaw"}},{"insert":" rmv "},{"insert":{"card-link":"Kolvori, God of Kinship // The Ringhart Crest"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"\n\n"}]}
+Format=commander
+Bracket=4
+Author=danaroach
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3887
+Date=2026-03-01
+Created=2019-02-04
+Updated=2026-03-01
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Reki, the History of Kamigawa|SOK|142
+
+
+[Main]
+1 Akroma's Memorial|M13|200
+1 Alhammarret's Archive|ORI|221
+1 Ancient Tomb|V12|1
+1 Azusa, Lost but Seeking
+1 Beast Within|TSR|357
+1 Beastmaster Ascension|ZEN|159
+1 Boseiju, Who Endures|NEO|412
+1 Braulios of Pheres Band|J25|51
+1 Bugenhagen, Wise Elder|FIC|159
+1 Campsite Cuisine|FIC|464
+1 Carpet of Flowers|SLD|279
+1 Casal, Lurkwood Pathfinder|SLD|1241
+1 Collective Resistance|MH3|147
+1 Concordant Crossroads|2X2|459
+1 Deglamer|MOR|118
+1 Dosan the Falling Leaf|CHK|205
+1 Dragon Throne of Tarkir
+1 Eladamri, Korvecdal|MH3|149
+1 Emerald Medallion|CMM|603
+1 Emissary Green|CLU|5
+1 Extraplanar Lens|MPS|38
+1 Eye of Vecna|AFR|393
+1 Garruk Wildspeaker
+1 Gauntlet of Power|MPS|12
+1 Genesis Wave|SOM|122
+1 Gerrard's Hourglass Pendant|DMC|93
+1 Ghalta, Primal Hunger
+1 Glimpse of Nature|CHK|210
+1 Glimpse the Core|LCI|186
+1 God-Eternal Rhonas
+1 Groundchuck & Dirtbag|TMT|115
+1 Growing Rites of Itlimoc
+1 Guardian Project|RNA|130
+1 Gwenna, Eyes of Gaea|BRO|347
+1 Heroes' Podium|BNG|159
+1 Heroic Intervention|M21|375
+1 Homeward Path
+1 Hope of Ghirapur
+1 Into the North|CSP|111
+1 Invasion of Ikoria|MOM|190
+1 Jamie McCrimmon|WHO|397
+1 Jolrael, Mwonvuli Recluse|M21|376
+1 Kamahl's Druidic Vow
+1 Kamahl, Fist of Krosa|ONS|268
+1 Kenrith's Transformation|ELD|395
+1 Kodama of the East Tree|CMR|582
+1 Kogla, the Titan Ape|IKO|328
+1 Kolvori, God of Kinship|KHM|318
+1 Kona, Rescue Beastie|DSK|358
+1 Kura, the Boundless Sky|NEO|411
+1 Lifestream's Blessing|FIC|122
+1 Lizard, Connors's Curse|SPM|265
+1 Loot, Exuberant Explorer|FDN|336
+1 Mana Reflection|SHM|122
+1 Mirror of Galadriel|LTR|244
+1 Mona Lisa, Science Geek|TMT|123
+1 Mox Amber
+1 Mox Opal
+1 Multani, Yavimaya's Avatar
+1 Nature's Lore|CLB|244
+1 Nissa, Ascended Animist|ONE|175
+1 Nissa, Resurgent Animist|MAT|72
+1 Nissa, Vastwood Seer
+1 Nissa, Who Shakes the World
+1 Nykthos, Shrine to Nyx|THS|223
+1 Nylea, God of the Hunt|SLD|80
+1 Nylea, Keen-Eyed|THB|266
+1 Oath of Nissa
+1 Ojer Kaslem, Deepest Growth|LCI|318
+1 Old Gnawbone|AFR|296
+1 Oviya Pashiri, Sage Lifecrafter
+1 Pit of Offerings|LCI|278
+1 Questing Beast|ELD|372
+1 Rampant Growth|MM2|157
+1 Relic of Legends|DMU|236
+1 Reliquary Tower
+1 Renata, Called to the Hunt|THB|267
+1 Rhonas the Indomitable|MP2|28
+1 Rhonas's Monument|AKH|236
+1 Rishkar's Expertise
+1 Sachi, Daughter of Seshiro|CHK|238
+1 Sandman, Shifting Scoundrel|SPM|266
+1 Saryth, the Viper's Fang|MID|304
+1 Scavenger Grounds
+1 Search for Tomorrow|TSP|216
+1 Selvala, Heart of the Wilds|CN2|70
+1 Shared Roots|TLA|196
+1 Six|MH3|169
+26 Snow-Covered Forest|CSP|155
+1 Sol Ring
+1 Strip Mine|EXP|43
+1 Surrak and Goreclaw|MOM|337
+1 Sutina, Speaker of the Tajuru|J25|56
+1 Sylvan Library|CC1|5
+1 Talon Gates of Madara|M3C|134
+1 Tamiyo's Safekeeping|NEO|211
+1 The Earth Crystal|FIN|342
+1 The Great Henge|ELD|370
+1 The One Ring|LTR|451
+1 Three Visits|CMR|686
+1 Torgal, A Fine Hound|FIN|345
+1 Toski, Bearer of Secrets|KHM|319
+1 Traxos, Scourge of Kroog
+1 Tribute to the World Tree|MOM|373
+1 Tyvar, the Pummeler|DSK|353
+1 Unnatural Growth|MID|365
+1 Unravel the Aether|BNG|143
+1 Urza's Cave|MH3|234
+1 Utopia Sprawl|DIS|99
+1 Vernal Bloom|8ED|286
+1 War Room|CMR|716
+1 Wild Growth|DMR|184
+1 Yavimaya, Cradle of Growth|MH2|441
+1 Yeva, Nature's Herald|M13|197
+1 Zopandrel, Hunger Dominus|ONE|315
+
+
+[Sideboard]
+
+

@@ -1,0 +1,113 @@
+[metadata]
+Name=Upping the Average - Queen Marchesa
+Description={"ops":[{"attributes":{"underline":true,"bold":true,"link":"https://youtu.be/7utjVbaLFDs"},"insert":"https://youtu.be/7utjVbaLFDs"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nProtector of the Crown\nGeode Rager\nMirage Mirror\nRighteous Aura\n\nGenerous Gift\nChaos Warp\n\nDeadly Tempest\nIncite Rebellion\nBrash Taunter\nBacklash\nDelirium\nMob Rule\nFury Storm\n\nOrzhov Basilica\nRakdos Carnarium\nBoros Garrison\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/829253
+Date=2020-10-14
+Created=2020-10-02
+Updated=2020-10-14
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Queen Marchesa
+
+
+[Main]
+1 Anguished Unmaking|SOI|242
+1 Arcane Signet|ZNC|106
+1 Assemble the Legion
+1 Authority of the Consuls|KLD|5
+1 Backlash|INV|234
+1 Battlefield Forge|C20|257
+1 Blasphemous Act|2XM|117
+1 Blind Obedience|C17|57
+1 Blood Crypt|RNA|245
+1 Bloodstained Mire|KTK|230
+1 Bojuka Bog
+1 Boros Charm|GK1|84
+1 Boros Garrison|ZNC|122
+1 Boros Signet|C20|239
+1 Brash Taunter|M21|133
+1 Caves of Koilos|C20|262
+1 Chaos Warp|C20|146
+1 Chromatic Lantern
+1 Clifftop Retreat|DOM|239
+1 Command Tower|C20|264
+1 Commander's Sphere|CMR|306
+1 Crackling Doom|C20|205
+1 Curse of Opulence
+1 Custodi Lich|CN2|41
+1 Deadly Tempest|C20|131
+1 Deflecting Palm|KTK|173
+1 Delirium|MIR|260
+1 Demonic Tutor
+1 Despark|C20|209
+1 Disrupt Decorum|C17|25
+1 Dockside Extortionist|C19|24
+1 Dragonskull Summit|XLN|252
+1 Elesh Norn, Grand Cenobite
+1 Elspeth, Sun's Champion|THS|9
+1 Evolving Wilds|ZNC|129
+1 Exotic Orchard|C20|273
+1 Fury Storm|C18|22
+1 Generous Gift|MH1|11
+1 Geode Rager|ZNC|6
+1 Ghostly Prison|C19|64
+1 Gisela, Blade of Goldnight|A25|204
+1 Godless Shrine|RNA|248
+1 Grand Abolisher|E01|12
+1 Incite Rebellion|CM2|108
+1 Isolated Chapel|DOM|241
+1 Kambal, Consul of Allocation|KLD|183
+1 Land Tax|2XM|20
+1 Luminarch Ascension|A25|23
+1 Mangara, the Diplomat|M21|27
+1 Marchesa's Decree|CN2|44
+1 Merciless Eviction|2XM|211
+1 Mirage Mirror|HOU|165
+1 Mob Rule|FRF|109
+1 Mortify
+3 Mountain|M21|270
+1 Nomad Outpost|C20|294
+1 Orzhov Basilica|C20|297
+1 Orzhov Signet|C20|247
+1 Palace Jailer
+1 Path to Exile|2XM|25
+1 Phyrexian Arena
+7 Plains|M21|262
+1 Protector of the Crown|CN2|21
+1 Rakdos Carnarium|C20|300
+1 Rakdos Charm|C17|190
+1 Rakdos Signet|C20|249
+1 Righteous Aura|MMQ|45
+1 Royal Assassin|M12|105
+1 Ruinous Ultimatum|IKO|204
+1 Sacred Foundry|GRN|254
+1 Savai Triome|IKO|253
+1 Skullclamp
+1 Skyline Despot|CN2|57
+1 Smothering Tithe|RNA|22
+1 Sol Ring|C20|252
+1 Solemn Simulacrum|M21|239
+1 Sphere of Safety|C16|77
+3 Swamp|ZNR|382
+1 Swords to Plowshares
+1 Talisman of Conviction|MH1|230
+1 Talisman of Hierarchy|MH1|233
+1 Talisman of Indulgence|E01|91
+1 Temple of Malice|THB|247
+1 Temple of Silence|M21|255
+1 Temple of Triumph|M21|256
+1 Terramorphic Expanse|ZNC|142
+1 Vandalblast|C15|170
+1 Windborn Muse|C16|80
+1 Xantcha, Sleeper Agent|C18|50
+
+
+[Sideboard]
+
+

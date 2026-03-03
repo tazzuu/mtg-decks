@@ -1,0 +1,157 @@
+[metadata]
+Name=Glissa, the Traitor: The Engine of Betrayal
+Description={"ops":[{"insert":"Date of creation:\nOctober 2023"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nTheme: \nArtifact creature beats enabled by artifact recursion  value"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nPower:\nSlow not threatening before turn 8"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nWin conditions\nGo-wide beats with artifact creatures"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRules and notes:\nCreatures must all be artifacts"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nChangelog:\n2023 12-06 add "},{"insert":{"card-link":"Pit of Offerings"}},{"insert":" rmv "},{"insert":{"card-link":"Darkbore Pathway // Slitherbore Pathway"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 12-06 add "},{"insert":{"card-link":"Roaming Throne"}},{"insert":" rmv "},{"insert":{"card-link":"Pit Trap"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2024 03-03 add "},{"insert":{"card-link":"Conduit of Worlds"}},{"insert":" rmv "},{"insert":{"card-link":"Sylvan Library"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2024 03-03 add "},{"insert":{"card-link":"Liquimetal Torque"}},{"insert":" rmv "},{"insert":{"card-link":"Golgari Cluestone"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"\n"}]}
+Format=commander
+Bracket=2
+Author=danaroach
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3948
+Date=2026-02-24
+Created=2019-02-04
+Updated=2026-02-24
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Glissa, the Traitor
+
+
+[Main]
+1 Abstergo Entertainment|ACR|171
+1 All Is Dust|CMM|800
+1 Arcbound Condor|MH3|81
+1 Armix, Filigree Thrasher|CMR|108
+1 Assassin's Trophy|GRN|152
+1 Bala Ged Recovery|ZNR|180
+1 Barbed Servitor|MKM|77
+1 Beast Within|TSR|357
+1 Biotransference|40K|30
+1 Birthing Pod|NPH|104
+1 Bojuka Bog|WOC|152
+1 Boseiju, Who Endures|NEO|412
+1 Canoptek Spyder|40K|151
+1 Cloud Key|TSR|265
+1 Codex Shredder|CMR|304
+1 Collective Resistance|MH3|147
+1 Command Tower|WOC|156
+1 Crashing Drawbridge|CMM|944
+1 Cryptothrall|40K|155
+1 Culling Ritual|STX|337
+1 Cybermen Squadron|WHO|176
+1 Dalek Drone|WHO|371
+1 Darkbore Pathway|KHM|292
+1 Darkmoss Bridge|MH2|245
+1 Darksteel Citadel|BRC|180
+1 Deathcap Glade|VOW|281
+1 Deathreap Ritual|CNS|44
+1 Demolition Field|BRO|260
+1 Engineered Explosives|2XM|252
+1 Executioner's Capsule|ALA|75
+1 Expedition Map
+1 Fae Offering|MH2|158
+1 Fell the Profane|MH3|244
+1 Festering Gulch|OTJ|257
+1 Flare of Malice|MH3|95
+1 Fomori Vault|BIG|29
+4 Forest|ONE|266
+1 Foundry Inspector|CMM|385
+1 Giggling Skitterspike|DSC|39
+1 Gix's Command|BRO|97
+1 Glaring Spotlight|GTC|229
+1 Haywire Mite|BRO|199
+1 Herd Heirloom|TDM|144
+1 Heroic Intervention|LTC|249
+1 High Market|AFC|246
+1 Horizon Spellbomb|SOM|165
+1 Hylda's Crown of Winter|WOE|367
+1 Imotekh the Stormlord|40K|5
+1 Inventors' Fair
+1 Journey to Eternity
+1 Karn, Legacy Reforged|MAT|49
+1 Krang, Utrom Warlord|TMT|175
+1 Liberator, Urza's Battlethopter|BRO|237
+1 Lightning Greaves
+1 Liquimetal Torque|BRC|145
+1 Llanowar Wastes|APC|141
+1 Lokhust Heavy Destroyer|40K|38
+1 Make an Example|NCC|37
+1 Metalwork Colossus|CMM|960
+1 Mimic Vat|NCC|372
+1 Mind Stone|WOC|148
+1 Mirrorworks|BRC|149
+1 Mishra's Bauble|BRR|97
+1 Monoist Circuit-Feeder|EOE|110
+1 Moriok Replica|SOM|178
+1 Mystic Forge|CMM|964
+1 Necron Deathmark|40K|42
+1 Nettlecyst|MOC|367
+1 Noxious Gearhulk|MOC|260
+1 Nurturing Peatland|MH1|243
+1 Overgrown Tomb|EXP|13
+1 Phyrexian Arena|ONE|384
+1 Phyrexian Scriptures|MOC|266
+1 Phyrexian Tower
+1 Power Depot|MH2|251
+1 Prototype Portal
+1 Reliquary Tower
+1 Requiem Monolith|EOE|113
+1 Revitalizing Repast|MH3|256
+1 Rishkar's Expertise|WOC|130
+1 Saw in Half|BLC|113
+1 Scavenger Grounds
+1 Scene of the Crime|MKM|267
+1 Scuttling Doom Engine|C18|219
+1 Sheoldred's Edict|ONE|108
+1 Shifting Woodland|MH3|228
+1 Shimmer Myr|CMM|409
+1 Smuggler's Surprise|OTJ|180
+1 Sol Ring|WOC|149
+1 Solar Array|EOC|18
+1 Solemn Simulacrum|CMM|973
+1 Soul Shatter|SCD|108
+1 Soul of New Phyrexia|CMM|974
+1 Spymaster's Vault|MH3|230
+1 Strip Mine|EXP|43
+1 Sudden Spoiling|TSP|135
+4 Swamp|ONE|264
+1 Sylvan Library|DMR|179
+1 Sylvok Replica|SOM|210
+1 Talon Gates of Madara|M3C|134
+1 Tear Asunder|DMU|183
+1 Tectonic Edge
+1 Teval's Judgment|TDC|28
+1 The Mycosynth Gardens|ONE|256
+1 The Soul Stone|SPM|66
+1 Their Name Is Death|40K|62
+1 Thundering Broodwagon|DFT|225
+1 Tithing Blade|LCI|128
+1 Traxos, Scourge of Kroog|BRC|170
+1 Treasure Vault|AFR|261
+1 Tree of Tales
+1 Triangle of War|VIS|158
+1 Twilight Mire|NCC|443
+1 Undergrowth Stadium|CMR|714
+1 Unravel the Aether|BNG|143
+1 Unwinding Clock
+1 Urborg, Tomb of Yawgmoth|UMA|254
+1 Urza's Bauble|ICE|343
+1 Urza's Cave|MH3|234
+1 Vault of Whispers|BRC|211
+1 Vedalken Orrery|2X2|317
+1 Verdant Catacombs|EXP|23
+1 Vexing Bauble|MH3|212
+1 Voidforged Titan|EOE|125
+1 Vona's Hunger|RIX|90
+1 War Room|CMR|361
+1 Wastewood Verge|DFT|268
+1 Wayfarer's Bauble|5DN|165
+1 Welding Jar|2XM|307
+1 Whip of Erebos|CP2|5
+1 Will of the Abzan|TDC|31
+1 Wurmcoil Engine|2XM|308
+1 Yavimaya, Cradle of Growth|MH2|441
+
+
+[Sideboard]
+
+

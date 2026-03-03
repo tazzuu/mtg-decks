@@ -1,0 +1,109 @@
+[metadata]
+Name=$100  Sauron, The Dark Lord Spellslinger B2/B3
+Description={"ops":[]}
+Format=commander
+Bracket=3
+Author=BasedDeckDepartment
+Tags=
+Version=0
+URL=https://archidekt.com/decks/7817483
+Date=2025-10-29
+Created=2024-05-26
+Updated=2025-10-29
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Sauron, the Dark Lord|LTR|329
+
+
+[Main]
+1 Arcane Denial|DRC|70
+1 Arcane Infusion|DBL|210
+1 Arcane Signet|PIP|224
+1 Artful Dodge|DKA|27
+1 Big Score|TDC|206
+1 Birthday Escape|LTR|43
+1 Breaking of the Fellowship|LTR|117
+1 Call of the Ring|LTR|766
+1 Cascade Bluffs|TDC|345
+1 Chandra's Ignition|M3C|209
+1 Claim the Precious|LTR|81
+1 Command Tower|DSC|96
+1 Countersquall
+1 Crumbling Necropolis|LCC|326
+1 Dark Ritual|USG|127
+1 Darkwater Catacombs|OTC|282
+1 Deep Analysis|OTC|94
+1 Deranged Assistant|CMM|87
+1 Dihada's Ploy|MH2|193
+1 Dimir Aqueduct|DSC|270
+1 Dimir Signet|DRC|129
+1 Dragonskull Summit|TDC|357
+1 Drowned Catacomb|OTC|290
+1 Electric Revelation|OTC|163
+1 Evolving Wilds|LCC|328
+1 Fact or Fiction|CMM|91
+1 Faithless Looting|M3C|211
+1 Fellwar Stone|TDC|318
+1 Ferrous Lake|BLC|303
+1 Foray of Orcs|LTR|579
+1 Forbidden Alchemy|TDC|152
+1 Galvanic Iteration|OTC|227
+1 Goblin Electromancer|TDC|99
+1 Gollum's Bite|LTR|85
+1 Gravitic Punch|GRN|105
+1 Immolating Gyre|JMP|20
+1 Increasing Vengeance|C19|147
+1 Inherited Envelope|LTR|242
+1 Island|TDM|279
+7 Island|DSK|279
+1 Izzet Boilerworks|OTC|302
+1 Izzet Signet|CLB|863
+1 Kess, Dissident Mage|NCC|344
+1 Lazotep Chancellor|MH2|369
+1 Maestros Theater|SNC|251
+1 Mauhúr, Uruk-hai Captain|LTR|214
+1 Memory Deluge|MID|62
+1 Millikin|DMR|231
+1 Mindsplice Apparatus
+1 Mission Briefing|MKC|110
+1 Molten Collapse|LCI|234
+6 Mountain|CLU|266
+1 Mystic Retrieval|C19|90
+1 Mystical Teachings|TSR|76
+1 Negate|SCD|58
+1 Nightscape Familiar|C13|83
+1 Pirate's Pillage|2X2|120
+1 Price of Fame|MKC|135
+1 Rakdos Carnarium|VOC|180
+1 Rakdos Signet|DSC|250
+1 Ranger's Firebrand|LTR|143
+1 Relic of Sauron|LTC|79
+1 Ringsight|LTR|220
+1 Rogue's Passage|PIP|283
+1 Saruman, the White Hand|LTC|8
+1 Scroll of Isildur|LTR|69
+1 Seize the Spoils|J25|141
+1 Shadowblood Ridge|OTC|317
+1 Shivan Reef|BLC|331
+1 Sol Ring|DSC|94
+1 Soothing of Sméagol|LTR|70
+1 Soul's Fire|CMR|200
+1 Sulfur Falls|LCC|354
+1 Sulfurous Springs|DSC|301
+1 Summons of Saruman|LTC|70
+4 Swamp|DSK|282
+1 Talisman of Creativity|PIP|244
+1 Talisman of Dominance|DRC|141
+1 Talisman of Indulgence|PIP|248
+1 Terminate|SCD|249
+1 Terramorphic Expanse|PIP|313
+1 The Black Gate|LTC|80
+1 Underground River|DSC|321
+1 Unexpected Windfall|PIP|193
+1 Widespread Brutality|WAR|226
+
+
+[Sideboard]
+
+

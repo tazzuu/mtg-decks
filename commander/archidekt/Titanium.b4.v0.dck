@@ -1,0 +1,128 @@
+[metadata]
+Name=Titanium
+Description={"ops":[]}
+Format=commander
+Bracket=4
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/346983
+Date=2025-09-03
+Created=2020-01-08
+Updated=2025-09-03
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Titania, Protector of Argoth|C14|50
+
+
+[Main]
+1 Akroma's Memorial|M13|200
+1 Ancient Greenwarden
+1 Ancient Tomb
+1 Arid Archway|OTJ|252
+1 Avenger of Zendikar|C18|129
+1 Awaken the Woods|BRO|170
+1 Azusa, Lost but Seeking|CMM|274
+1 Bala Ged Recovery
+1 Baloth Prime|EOC|13
+1 Bane of Progress|C13|137
+1 Beast Within|C21|186
+1 Boseiju, Who Endures|NEO|266
+1 Command Beacon
+1 Concordant Crossroads|CHR|60
+1 Conduit of Worlds
+1 Constant Mists|STH|104
+1 Crop Rotation
+1 Crucible of Worlds|M19|229
+1 Crystal Vein|PD3|24
+1 Cultivate|SLD|246
+1 Drownyard Temple|C19|240
+1 Dust Bowl|MMQ|316
+1 Edge of Autumn|FUT|144
+1 Eldrazi Monument
+1 Elemental Bond|C17|148
+1 Emerald Medallion|CMA|217
+1 Emergent Sequence|STX|129
+1 Entish Restoration|LTR|163
+1 Eternal Witness|MIC|138
+1 Evolving Wilds|M20|246
+1 Exploration|CNS|164
+1 Ezuri's Predation|CLB|824
+1 Fabled Passage|ELD|244
+1 Field of the Dead|M20|247
+1 Finale of Devastation|CMM|289
+1 Force of Vigor|MH1|164
+8 Forest|BFZ|271
+1 Garruk's Packleader|M13|175
+1 Garruk's Uprising|M21|308
+1 Ghost Quarter
+1 Glacial Chasm|V12|7
+1 Glimpse the Core|LCI|186
+1 Greater Good|9ED|245
+1 Green Sun's Zenith|2X2|150
+1 Guildless Commons|CMR|351
+1 Harmonize|PLC|149
+1 Harrow|ZEN|165
+1 Heroic Intervention|AER|109
+1 Into the North|CSP|111
+1 Kavu Lair|INV|193
+1 Kenrith's Transformation|AFC|162
+1 Kodama's Reach|LCC|245
+1 Life from the Loam|TDC|96
+1 Lignify|DDD|16
+1 Lotus Cobra|ZEN|168
+1 Lotus Field|M20|249
+1 Lotus Vale|WTH|165
+1 Misty Rainforest|MH2|250
+1 Mosswort Bridge|LCC|342
+1 Myriad Landscape|C19|261
+1 Nature's Lore|CLB|244
+1 Nissa's Pilgrimage|ORI|190
+1 Oracle of Mul Daya|2X2|154
+1 Outcaster Trailblazer|OTJ|173
+1 Petrified Field
+1 Prismatic Vista|MH1|244
+1 Rampaging Baloths|J22|715
+1 Rampant Growth|CMM|908
+1 Ramunap Excavator
+1 Realms Uncharted|ROE|206
+1 Reclamation Sage|CMR|248
+1 Reshape the Earth|CMR|249
+1 Return of the Wildspeaker|ELD|172
+1 Rishkar's Expertise|AFC|170
+1 Roiling Regrowth|ZNR|201
+1 Sakura-Tribe Elder|CHK|239
+1 Scapeshift|MOR|136
+1 Scute Swarm|ZNR|308
+7 Snow-Covered Forest|CSP|155
+1 Sol Ring|MIC|162
+1 Song of the Dryads|CMM|324
+1 Splendid Reclamation|EMN|171
+1 Springbloom Druid|MH1|181
+1 Stone-Seeder Hierophant|RAV|184
+1 Strip Mine|ATH|77
+1 Sylvan Library|EMA|187
+1 Sylvan Safekeeper|C14|217
+1 Terramorphic Expanse|CMR|357
+1 Three Visits|CMR|261
+1 Timeless Witness|MH2|179
+1 Tireless Provisioner|MOC|313
+1 Tireless Tracker|MOC|314
+1 Titania, Nature's Force|BRC|45
+1 Tribute to the World Tree|MOM|211
+1 Triumph of the Hordes|NPH|123
+1 Verdant Catacombs|MH2|260
+1 Wayward Swordtooth|CMM|331
+1 Will of the Sultai|TDC|49
+1 Windswept Heath|KTK|248
+1 Wooded Foothills|KTK|249
+1 World Shaper
+1 Worldly Tutor|DMR|185
+1 Yavimaya Hollow|UDS|143
+1 Zuran Orb|MH2|300
+
+
+[Sideboard]
+
+

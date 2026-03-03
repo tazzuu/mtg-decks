@@ -1,0 +1,120 @@
+[metadata]
+Name=Upping the Average - Sidar Jabari of Zhalfir
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/0LZrthgEWLE"},"insert":"https://youtu.be/0LZrthgEWLE"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nAzorius Signet\nDimir Talisman\nCaves of Koilos\nAsh Barrens\nUnclaimed Territory\nBelle of the Brawl\nMoorland Rescuer\nCouncil of Four\nPatriarch’s Bidding \nWonder\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/4471573
+Date=2023-05-03
+Created=2023-05-03
+Updated=2023-05-03
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Sidar Jabari of Zhalfir|MOC|5
+
+
+[Main]
+1 Acclaimed Contender|MOC|166
+1 Adeline, Resplendent Cathar|MOC|167
+1 Anguished Unmaking|2X2|170
+1 Arcane Sanctum|MOC|390
+1 Arcane Signet|MOC|348
+1 Aryel, Knight of Windgrace|MOC|318
+1 Ash Barrens|J22|809
+1 Azorius Signet|SCD|259
+1 Battle Angels of Tyr|CLB|9
+1 Belle of the Brawl|ELD|78
+1 Bojuka Bog|MOC|391
+1 Cavalier of Dawn|M20|10
+1 Cavalier of Night
+1 Caves of Koilos|DMU|244
+1 Chivalric Alliance|MOC|11
+1 Choked Estuary|MOC|394
+1 Command Tower|MOC|396
+1 Commander's Sphere|MOC|352
+1 Conjurer's Mantle|MOC|12
+1 Corpse Knight|MOC|321
+1 Despark|MOC|322
+1 Distant Melody|MOC|220
+1 Elenda and Azor|MOC|6
+1 Ethersworn Adjudicator|MOC|222
+1 Evolving Wilds|MOC|397
+1 Exotic Orchard|MOC|398
+1 Exsanguinator Cavalry|MOC|26
+1 Fellwar Stone|MOC|356
+1 Foulmire Knight|MOC|249
+1 Godless Shrine|RNA|248
+1 Guardian of Faith|AFR|18
+1 Haakon, Stromgald Scourge|MOC|252
+1 Hallowed Fountain|RNA|251
+1 Herald of Hoofbeats|MOC|22
+1 Herald's Horn|MOC|360
+1 Hero of Bladehold|MOC|188
+1 History of Benalia
+2 Island|MOM|278
+1 Kindred Discovery|CLB|81
+1 Kinsbaile Cavalier|DDG|17
+1 Knight Exemplar|MOC|192
+1 Knight of the White Orchid|MOC|193
+1 Knights' Charge|MOC|333
+1 Locthwain Lancer|MOC|27
+1 Marshal of Zhalfir|MOM|246
+1 Midnight Reaper|MOC|257
+1 Mind Stone|MOC|364
+1 Moorland Rescuer|MIC|7
+1 Murderous Rider|MOC|258
+1 Myriad Landscape|MOC|416
+1 Orzhov Signet|MOC|369
+1 Painful Truths|MOC|262
+1 Path of Ancestry|MOC|418
+1 Path to Exile|MOC|198
+1 Patriarch's Bidding|MH2|275
+7 Plains|MOM|277
+1 Port Town|MOC|419
+1 Prairie Stream|MOC|420
+1 Promise of Loyalty|MOC|200
+1 Raffine's Tower|SNC|254
+1 Read the Bones|MOC|267
+1 Return to Dust|MOC|202
+1 Sea of Clouds|CLB|360
+1 Shineshadow Snarl|MOC|422
+1 Sigiled Sword of Valeron|MOC|377
+1 Silverwing Squadron|MOC|207
+1 Skyhunter Strike Force|ONC|21
+1 Smitten Swordmaster|MOC|268
+1 Sol Ring|MOC|381
+1 Sunken Hollow|MOC|428
+5 Swamp|MOM|279
+1 Swords to Plowshares|MOC|211
+1 Syr Konrad, the Grim|MOC|269
+1 Talisman of Dominance|SCD|280
+1 Talisman of Hierarchy|MOC|385
+1 Teferi's Ageless Insight|M21|76
+1 Temple of Deceit|MOC|431
+1 Temple of Enlightenment|MOC|432
+1 Temple of Silence|MOC|436
+1 Terramorphic Expanse|MOC|439
+1 The Circle of Loyalty|J22|166
+1 The Council of Four|CLB|271
+1 Time Wipe|MOC|340
+1 Unbreakable Formation|MOC|213
+1 Unclaimed Territory|VOC|188
+1 Valiant Knight|MOC|214
+1 Vanquisher's Banner|MOC|388
+1 Vault of Champions|CMR|360
+1 Vodalian Wave-Knight|MOC|43
+1 Void Rend|SNC|230
+1 Vona, Butcher of Magan|MOC|342
+1 Watery Grave|GRN|259
+1 Wintermoor Commander|MOC|345
+1 Wonder|MH2|271
+1 Worthy Knight|MOC|217
+1 Xerex Strobe-Knight|MOM|85
+
+
+[Sideboard]
+
+

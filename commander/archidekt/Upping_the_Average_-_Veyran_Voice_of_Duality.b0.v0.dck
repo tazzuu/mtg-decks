@@ -1,0 +1,105 @@
+[metadata]
+Name=Upping the Average - Veyran, Voice of Duality
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/Vcx_IpMza7k"},"insert":"https://youtu.be/Vcx_IpMza7k"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nRunaway Steam-Kin\n\nRapid Hybridization\nStubborn Denial \n\nCrimson Wisps\nShadow Rift\nSlip Through Space\nGround Rift\n\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1395319
+Date=2021-06-04
+Created=2021-05-02
+Updated=2021-06-04
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Veyran, Voice of Duality|C21|3
+
+
+[Main]
+1 Aetherflux Reservoir
+1 Arcane Signet|C21|234
+1 Archmage Emeritus|STX|37
+1 Aria of Flame|MH1|118
+1 Birgi, God of Storytelling|KHM|123
+1 Blasphemous Act|C21|159
+1 Brainstorm|C21|115
+1 Chaos Warp|C20|146
+1 Command Tower|C21|284
+1 Crash Through|M21|140
+1 Crimson Wisps|SHM|88
+1 Cyclonic Rift|2XM|47
+1 Dig Through Time|C21|119
+1 Docent of Perfection|EMN|56
+1 Double Vision|M21|142
+1 Electrostatic Field|GRN|97
+1 Exotic Orchard|C21|288
+1 Expansion|GRN|224
+1 Expedite|CMR|413
+1 Expressive Iteration|STX|186
+1 Faithless Looting|C21|168
+1 Firebrand Archer
+1 Frantic Search|C20|111
+1 Frostboil Snarl|STX|265
+1 Gitaxian Probe|NPH|35
+1 Grapeshot
+1 Ground Rift|TSP|162
+1 Guttersnipe
+10 Island|KHM|395
+1 Izzet Boilerworks|C21|294
+1 Izzet Signet|C21|247
+1 Jeska's Will|CMR|187
+1 Jori En, Ruin Diver|DDS|23
+1 Krark, the Thumbless|CMR|189
+1 Mana Geyser|C21|176
+1 Metallurgic Summonings|C21|122
+1 Mind Stone|C21|251
+1 Mizzix's Mastery
+10 Mountain|KHM|397
+1 Myriad Landscape|C21|304
+1 Mystic Sanctuary|ELD|247
+1 Narset's Reversal|WAR|62
+1 Negate|ZNR|71
+1 Niv-Mizzet, Parun|GRN|192
+1 Opt|M21|59
+1 Past in Flames|ISD|155
+1 Ponder|C21|125
+1 Pongify|TSR|79
+1 Preordain|CMR|84
+1 Primal Amulet|XLN|243
+1 Prismari Command|STX|214
+1 Pyromancer's Goggles|C21|259
+1 Ral, Storm Conduit|WAR|211
+1 Rapid Hybridization|C21|126
+1 Reiterate|TSR|182
+1 Reliquary Tower|C21|311
+1 Reverberate|M13|145
+1 Riverglide Pathway|ZNR|264
+1 Runaway Steam-Kin|GRN|115
+1 Seething Song|C21|179
+1 Serum Visions|C21|129
+1 Shadow Rift|TMP|86
+1 Shivan Reef|C21|316
+1 Slip Through Space|OGW|47
+1 Sol Ring|C21|263
+1 Steam Vents|SLD|129
+1 Storm-Kiln Artist|STX|115
+1 Stubborn Denial|KTK|56
+1 Sulfur Falls|DOM|247
+1 Swarm Intelligence|C21|130
+1 Talisman of Creativity|C21|269
+1 Talrand, Sky Summoner|C21|131
+1 Temple of Epiphany|C21|322
+1 Thermo-Alchemist|JMP|365
+1 Thought Vessel|CMR|346
+1 Thousand-Year Storm|GRN|207
+1 Training Center|CMR|358
+1 Treasure Cruise|C21|133
+1 Valakut Awakening|ZNR|174
+1 Windfall|KHC|46
+1 Young Pyromancer
+
+
+[Sideboard]
+
+

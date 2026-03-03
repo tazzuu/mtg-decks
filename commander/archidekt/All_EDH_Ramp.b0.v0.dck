@@ -1,0 +1,1112 @@
+[metadata]
+Name=All EDH Ramp
+Description={"ops":[{"insert":"All ramp, by the definition that it averages at least one additional mana per turn indefinitely, either to spend or save, in the right deck without too many hoops to jump through. This includes cards tutors that will primarily be used to grab ramp spells, like Weathered Wayfarer getting Ancient Tomb, or Urza's Saga getting Sol Ring. This also includes getting lands from graveyard directly to the battlefield, such as with Sevinne's Reclamation. Colored categories are by color identity. Multicolor, Any Color, and Colorless are distinct categories to make searching easier. \n\nI am deliberately excluding, as they are more akin to card draw: \n-Things that tutor lands into hand, which exclude lands that tap for 2 (such as Yavimaya Elder)\n-Cards that let you cast spells without paying mana cost from anywhere other than hand (such as Etali, Primal Storm)\n-Unreliable effects (such as Coiling Oracle)\n-Playing lands off the top of your library or from your graveyard (such as Courser of Kruphix or Crucible of Worlds)\n\nUpdated 10/16/22 with Warhammer 40k Commander Decks/Unfinity\n\nI've become less invested in MtG since the last update. If anyone wants to maintain this list, send me a message and I will put a link to yours! \n"}]}
+Format=commander
+Bracket=0
+Author=heyzeus_
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1781428
+Date=2024-04-14
+Created=2021-08-30
+Updated=2024-04-14
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Esika, God of the Tree|KHM|168
+
+
+[Main]
+1 Abzan Banner|KTK|215
+1 Accomplished Alchemist|STX|119
+1 Accursed Witch|SOI|97
+1 Acolyte of Bahamut|CLB|212
+1 Acquire|5DN|21
+1 Adarkar Unicorn|ICE|1
+1 Aerial Surveyor|NEC|5
+1 Aesi, Tyrant of Gyre Strait|CMR|365
+1 Aether Vial
+1 Agent of Treachery|M20|43
+1 Alena, Kessig Trapper|CMR|160
+1 Alloy Myr|JMP|457
+1 Alpine Guide|MH1|117
+1 Altar of Shadows|MRD|143
+1 Altar of the Lost|DKA|144
+1 Altar of the Pantheon|THB|231
+1 Aluren|TMP|213
+1 Aminatou's Augury
+1 Aminatou, the Fateshifter|C18|37
+1 Ancient Copper Dragon|CLB|161
+1 Ancient Tomb|UMA|236
+1 Animar, Soul of Elements
+1 Animist's Awakening|C20|166
+1 Annex|9ED|59
+1 Anrakyr the Traveller|40K|28
+1 Apprentice Wizard|2XM|40
+1 Arbiter of the Ideal|BNG|31
+1 Arbor Elf
+1 Arboreal Grazer|WAR|149
+1 Arcane Melee|C13|29
+1 Arcane Signet|AFC|197
+1 Archaeomancer's Map|C21|12
+1 Argothian Elder|USG|233
+1 Arguel's Blood Fast|XLN|90
+1 Arixmethes, Slumbering Isle|2XM|189
+1 Arlinn, the Pack's Hope|MID|307
+1 As Foretold|AKH|42
+1 Ashaya, Soul of the Wild|ZNR|179
+1 Astor, Bearer of Blades|DMU|194
+1 Astral Cornucopia|CM2|172
+1 Atalan Jackal|40K|105
+1 Atarka Monument|DTK|235
+1 Atarka's Command|DTK|213
+1 Atzocan Seer|RIX|153
+1 Auriok Steelshaper|MRD|4
+1 Automated Artificer|NEO|239
+1 Avacyn's Pilgrim
+1 Avatar of Growth|GNT|5
+1 Avenging Druid|EXO|105
+1 Avid Reclaimer|HOU|201
+1 Awakening
+1 Axebane Guardian|RTR|115
+1 Azor's Gateway|RIX|176
+1 Azorius Cluestone|DGM|136
+1 Azorius Keyrune|CMA|209
+1 Azorius Locket|C19|210
+1 Azorius Signet|KHC|97
+1 Azusa's Many Journeys|NEO|172
+1 Azusa, Lost but Seeking|M21|173
+1 Ballyrush Banneret|MOR|1
+1 Baral, Chief of Compliance|TSR|306
+1 Bard Class|AFR|217
+1 Battlefield Thaumaturge|JOU|31
+1 Beanstalk Giant
+1 Bear Umbra|C18|131
+1 Beastcaller Savant|BFZ|170
+1 Belbe's Portal
+1 Belbe, Corrupted Observer|CMR|270
+1 Beledros Witherbloom|STX|163
+1 Beneath the Sands
+1 Benthic Explorers|ALL|24b
+1 Binding the Old Gods|KHM|206
+1 Biomancer's Familiar|RNA|158
+1 Biophagus|40K|87
+1 Birds of Paradise
+1 Birgi, God of Storytelling|KHM|123
+1 Black Market|JMP|204
+1 Black Market Tycoon|SNC|167
+1 Blighted Woodland|C21|280
+1 Blinkmoth Urn|C18|197
+1 Blood Funnel|RAV|77
+1 Bloodstone Cameo|INV|298
+1 Bloom Tender
+1 Blossom Dryad
+1 Bog Witch|ARC|11
+1 Bonder's Ornament|C20|67
+1 Bontu's Monument|AKH|225
+1 Boreal Druid|CSP|105
+1 Boreas Charger|C21|84
+1 Boros Cluestone|CM2|175
+1 Boros Keyrune|GTC|227
+1 Boros Locket|C21|236
+1 Boros Signet|CMR|459
+1 Bosk Banneret|MOR|114
+1 Boundless Realms|M13|162
+1 Bounty of Skemfar|KHC|12
+1 Bounty of the Luxa|C19|189
+1 Boxing Ring|NCC|91
+1 Braids, Conjurer Adept|2XM|43
+1 Brighthearth Banneret|MOR|88
+1 Broken Bond
+1 Bronze Walrus|CLB|302
+1 Brought Back|M20|9
+1 Budoka Gardener|C18|134
+1 Burakos, Party Leader|CLB|653
+1 Burgeoning|C16|143
+1 Burnished Hart|AFC|200
+1 Cabal Coffers|MH2|301
+1 Cabal Stronghold|DOM|238
+1 Caged Sun
+1 Canoptek Wraith|40K|153
+1 Canopy Tactician|KHM|378
+1 Caravan Vigil|ISD|173
+1 Carnelian Orb of Dragonkind|CLB|166
+1 Carnival of Souls|UDS|55
+1 Carpet of Flowers
+1 Cartographer's Hawk|C20|24
+1 Cartographer's Survey|VOW|190
+1 Catalyst Stone|ODY|297
+1 Cavalier of Thorns|M20|167
+1 Celebrate the Harvest|MIC|24
+1 Cemetery Prowler|VOW|191
+1 Centaur Nurturer|WAR|156
+1 Centaur Omenreader|FUT|143
+1 Centaur Rootcaster|JUD|109
+1 Champion of Rhonas|AKH|159
+1 Chandra's Embercat|M20|129
+1 Chandra, Torch of Defiance|SS3|1
+1 Chaos Moon|ICE|179
+1 Charcoal Diamond|CMR|303
+1 Cheering Fanatic|BBD|58
+1 Chromatic Lantern
+1 Chromatic Orrery|M21|228
+1 Chrome Mox|2XM|240
+1 Chronatog Totem|TSP|252
+1 Chulane, Teller of Tales
+1 Circle of Dreams Druid|AFR|176
+1 Circle of Elders|DTK|176
+1 Circuitous Route|ZNC|62
+1 Citanul Hierophants|USG|244
+1 Civic Gardener|SNC|140
+1 Clear the Land|MMQ|235
+1 Clever Conjurer|AFR|51
+1 Cloud Key|TSR|265
+1 Coalition Relic|TSR|266
+1 Codie, Vociferous Codex|STX|253
+1 Coldsteel Heart
+1 Collective Voyage|C16|145
+1 Colossal Plow|KHM|236
+1 Coming Attraction|UNF|135
+1 Commander's Sphere|AFC|203
+1 Component Pouch|AFC|59
+1 Conduit of Ruin|BFZ|4
+1 Conduit of Storms|EMN|124
+1 Confiscate|CMR|62
+1 Conquer|6ED|171
+1 Convergence of Dominion|40K|154
+1 Copper Myr|SOM|146
+1 Corrupted Grafstone|SOI|253
+1 Cosmic Intervention|KHC|3
+1 Cosmos Charger|KHM|51
+1 Court of Bounty|CMR|220
+1 Coveted Jewel|C21|240
+1 Crop Rotation|2XM|161
+1 Crowded Crypt|MIC|17
+1 Crypt Ghast|C14|139
+1 Crypt of Agadeem|C14|288
+1 Cryptic Gateway|ONS|306
+1 Cryptic Trilobite|C20|21
+1 Cryptolith Fragment|EMN|193
+1 Cryptolith Rite|SOI|200
+1 Crystalline Crawler|CM2|183
+1 Cultivate|AFC|155
+1 Cultivator Colossus|VOW|195
+1 Cultivator Drone|OGW|42
+1 Cultivator's Caravan|KLD|203
+1 Cunning Nightbonder|IKO|219
+1 Curious Homunculus|EMN|54
+1 Curse of Bounty|C17|30
+1 Curse of Inertia|CMA|35
+1 Curse of Opulence
+1 Cursed Mirror|C21|50
+1 Dalakos, Crafter of Wonders|THB|212
+1 Danitha Capashen, Paragon|CMR|370
+1 Darksteel Ingot|CM2|184
+1 Daru Warchief|SCG|6
+1 Dawn's Reflection
+1 Dawnhart Rejuvenator|MID|180
+1 Dawntreader Elk|JMP|387
+1 Deathbloom Gardener|DMU|159
+1 Deathcap Cultivator|SOI|202
+1 Deathrender|CNS|197
+1 Deathrite Shaman|EMA|215
+1 Deathsprout|C20|208
+1 Decanter of Endless Water|CLB|309
+1 Deep Gnome Terramancer|CLB|658
+1 Deep Reconnaissance|ODY|236
+1 Defiler of Dreams|DMU|46
+1 Defiler of Faith|DMU|16
+1 Defiler of Flesh|DMU|90
+1 Defiler of Vigor|DMU|160
+1 Derevi, Empyrial Tactician|C13|186
+1 Descent into Avernus|CLB|169
+1 Devoted Druid|UMA|162
+1 Dictate of Karametra|JOU|121
+1 Didgeridoo|HML|105
+1 Diligent Farmhand|ODY|237
+1 Dimir Cluestone|DGM|138
+1 Dimir Keyrune|ZNC|110
+1 Dimir Locket|ZNC|111
+1 Dimir Signet|ZNC|112
+1 Disciple of the Sun|MH2|11
+1 Doubling Cube
+1 Dowsing Dagger|XLN|235
+1 Draconic Disciple
+1 Dragon Arch|APC|135
+1 Dragon's Hoard|AFC|204
+1 Dragonkin Berserker|KHM|131
+1 Dragonlord's Servant|AFC|123
+1 Dragonspeaker Shaman|AFC|330
+1 Drake-Skull Cameo|INV|302
+1 Dream Chisel|ONS|308
+1 Dream Leash|RAV|45
+1 Dreamscape Artist|TSR|64
+1 Dreamstone Hedron|CMR|307
+1 Dromoka Monument|DTK|238
+1 Drover of the Mighty|JMP|388
+1 Drownyard Temple|C19|240
+1 Druid Class|AFR|180
+1 Druid of the Anima|ALA|128
+1 Druid of the Cowl|M19|177
+1 Druid of the Emerald Grove|CLB|226
+1 Druids' Repository|AVR|176
+1 Drumbellower|NEC|6
+1 Drumhunter|C13|142
+1 Dryad of the Ilysian Grove|THB|169
+1 Dungeon Map|AFR|242
+1 Duskwatch Recruiter|SOI|203
+1 Earthcraft|TMP|222
+1 Ebony Fly|AFC|60
+1 Edge of Autumn|TSR|201
+1 Edgewalker|SCG|137
+1 Eerie Ultimatum|IKO|184
+1 Eladamri's Vineyard|TMP|223
+1 Elderwood Scion|C18|177
+1 Elemental Resonance|DIS|83
+1 Elementalist's Palette|C21|76
+1 Elfhame Druid|DOM|159
+1 Elves of Deep Shadow
+1 Elvish Aberration|2XM|165
+1 Elvish Archdruid|KHC|57
+1 Elvish Guidance|ONS|255
+1 Elvish Harbinger|EVG|4
+1 Elvish Mystic|TSR|360
+1 Elvish Pioneer|8ED|243
+1 Elvish Piper|A25|168
+1 Elvish Reclaimer|M20|169
+1 Elvish Rejuvenator|KHC|60
+1 Embalmer's Tools|AKH|227
+1 Embodiment of Spring
+1 Emerald Medallion|CMA|217
+1 Emergent Sequence|STX|129
+1 Empowered Autogenerator|C19|54
+1 Enter the Unknown|RIX|128
+1 Escape to the Wilds|ELD|189
+1 Estrid, the Masked|C18|40
+1 Etherium Sculptor|C18|90
+1 Eureka Moment|STX|184
+1 Everbark Shaman|MOR|121
+1 Everflowing Chalice|TSR|394
+1 Expedition Map
+1 Exploding Borders|CON|106
+1 Exploration|2XM|167
+1 Explore|AFC|157
+1 Explore the Underdark|CLB|232
+1 Explosive Vegetation
+1 Extraplanar Lens|MRD|169
+1 Exuberant Firestoker|ALA|99
+1 Eye of Ramos|MMQ|294
+1 Eye of Ugin|MM2|242
+1 Ezzaroot Channeler|C21|60
+1 Fae Offering|MH2|158
+1 Faeburrow Elder|ELD|190
+1 Faith's Reward|CN2|84
+1 Far Wanderings|ZNC|66
+1 Farhaven Elf|KHC|62
+1 Farseek|TSR|363
+1 Fatestitcher|ALA|43
+1 Fellwar Stone|AFC|206
+1 Fertile Ground|AFC|158
+1 Fertilid|CMR|226
+1 Fervent Champion|ELD|124
+1 Field Trip|STX|131
+1 Fieldmist Borderpost|ARC|85
+1 Fighter Class|AFR|222
+1 Find the Path|AFR|183
+1 Fire Diamond|CMR|309
+1 Firebrand Ranger|INV|143
+1 Firemind Vessel|WAR|237
+1 Fires of Invention|ELD|125
+1 Firewild Borderpost|ARB|54
+1 Fist of Suns|C17|211
+1 Fluctuator|C20|241
+1 Font of Fertility|JOU|123
+1 Foreboding Statue|VOW|256
+1 Foriysian Totem|TSP|254
+1 Forsaken Monument|ZNR|244
+1 Fountain of Ichor|MH1|223
+1 Fractured Powerstone
+1 Frenzied Tilling|GTC|166
+1 Freyalise, Llanowar's Fury|CC1|1
+1 Frogtosser Banneret|ZNC|43
+1 Frontier Guide|DDP|12
+1 Frontier Siege|C17|150
+1 Fyndhorn Elder|8ED|251
+1 Fyndhorn Elves|CMR|228
+1 Gadrak, the Crown-Scourge|M21|146
+1 Gaea's Cradle|OLGC|2014
+1 Gaea's Touch|DRK|77†
+1 Gala Greeters|SNC|148
+1 Galazeth Prismari|STX|189
+1 Ganax, Astral Hunter|CLB|176
+1 Gargos, Vicious Watcher|M20|172
+1 Garruk Wildspeaker|CMD|157
+1 Garruk, Caller of Beasts|M14|172
+1 Gauntlet of Might|CED|245
+1 Gauntlet of Power|TSR|267
+1 Gemhide Sliver|TSR|205
+1 Genesis Hydra|NEC|118
+1 Genesis Ultimatum|IKO|189
+1 Ghirapur Orrery|KLD|216
+1 Ghostly Touch|AVR|58
+1 Giada, Font of Hope|SNC|14
+1 Gift of Paradise|C21|191
+1 Gilanra, Caller of Wirewood|CMR|230
+1 Gilded Lotus|DOM|215
+1 Gilt-Leaf Archdruid|MOR|124
+1 Glittering Frost|KHM|171
+1 Glittering Stockpile|SNC|107
+1 Glittermonger|SNC|149
+1 Glorious Sunrise|VOW|200
+1 Gluntch, the Bestower|CLB|275
+1 Gnarlroot Trapper|ORI|100
+1 Goblin Airbrusher|UNF|108
+1 Goblin Anarchomancer|MH2|200
+1 Goblin Electromancer|GRN|174
+1 Goblin Lackey|USG|190
+1 Goblin Warchief
+1 Goblin Wizard|DRK|69
+1 Gold Myr|SOM|157
+1 Golden Guardian|RIX|179
+1 Golden Hind|JOU|124
+1 Goldvein Pick|KHM|239
+1 Golgari Cluestone|DGM|139
+1 Golgari Keyrune|RTR|229
+1 Golgari Locket|GRN|237
+1 Golgari Signet|CM2|192
+1 Goreclaw, Terror of Qal Sisma|M19|186
+1 Grafted Growth|NEO|188
+1 Grand Arbiter Augustin IV
+1 Grand Architect|2XM|53
+1 Grand Warlord Radha|DOM|195
+1 Gravebreaker Lamia|THB|98
+1 Greater Tanuki|NEO|189
+1 Greenweaver Druid|ZEN|164
+1 Gretchen Titchwillow|AFR|223
+1 Grim Hireling|AFC|25
+1 Grow from the Ashes|DOM|164
+1 Growing Rites of Itlimoc|XLN|191
+1 Growth Spasm|ROE|186
+1 Growth Spiral|CMR|446
+1 Gruul Cluestone|DGM|140
+1 Gruul Keyrune|GTC|230
+1 Gruul Locket|RNA|234
+1 Gruul Signet|AFC|207
+1 Guardian Idol|JMP|467
+1 Guild Artisan|CLB|179
+1 Gyre Engineer|RNA|180
+1 Gyre Sage|GTC|123
+1 Hadana's Climb|RIX|158
+1 Hans Eriksson|CMR|279
+1 Harabaz Druid|WWK|105
+1 Hardened Berserker
+1 Harrow|ZNC|69
+1 Harvest Season|KHC|63
+1 Harvester Druid|JUD|120
+1 Haughty Djinn|DMU|52
+1 Hazoret's Monument|AKH|229
+1 Heart Warden|UDS|108
+1 Heart of Ramos|MMQ|296
+1 Heartbeat of Spring|2XM|171
+1 Heartless Summoning|ISD|104
+1 Heartstone|STH|134
+1 Hedron Archive|C21|244
+1 Hedron Crawler|OGW|164
+1 Herald of Kozilek|BFZ|205
+1 Herald of Leshrac|CSP|62
+1 Herald of Slaanesh|40K|77
+1 Herald of War|AVR|24
+1 Herald of the Forgotten|C20|27
+1 Herald of the Pantheon|C18|151
+1 Herald's Horn
+1 Heraldic Banner|ELD|222
+1 Hero of Iroas|UMA|20
+1 Heronblade Elite|MIC|26
+1 Hidden Strings|DGM|12
+1 Hierophant's Chalice|XLN|240
+1 Hinata, Dawn-Crowned|NEO|222
+1 Hiveheart Shaman|VOW|202
+1 Hoard Hauler|SNC|109
+1 Hoarding Ogre|AFR|146
+1 Holy Avenger|AFC|6
+1 Honor-Worn Shaku|CHK|254
+1 Honored Heirloom|VOW|257
+1 Honored Hierarch|ORI|182
+1 Hope Tender|HOU|119
+1 Horn of Ramos|MMQ|299
+1 Hour of Promise|HOU|120
+1 Howlpack Piper|VOW|205
+1 Humble Naturalist|IKO|160
+1 Hunting Grounds|JUD|138
+1 Hunting Wilds|C18|152
+1 Ignoble Hierarch|MH2|166
+1 Illuminor Szeras|40K|37
+1 Ilysian Caryatid|THB|174
+1 Imprisoned in the Moon|AFC|85
+1 In Search of Greatness|KHM|177
+1 Incubation Druid|C21|195
+1 Indatha Crystal|IKO|235
+1 Initiate's Companion|JMP|403
+1 Into the North
+1 Iron Myr|SOM|168
+1 Izzet Cluestone|DGM|141
+1 Izzet Keyrune|RTR|230
+1 Izzet Locket|C19|215
+1 Izzet Signet|C21|247
+1 Jace's Sanctum|C19|88
+1 Jade Orb of Dragonkind|CLB|236
+1 Jadzi, Oracle of Arcavios|STX|151
+1 Jaheira's Respite|CLB|238
+1 Jaheira, Friend of the Forest|CLB|237
+1 Jegantha, the Wellspring|IKO|222
+1 Jeskai Banner|KTK|222
+1 Jet Medallion|C14|243
+1 Jhoira's Familiar|2XM|265
+1 Jhoira, Ageless Innovator|DMU|202
+1 Jiang Yanggu, Wildcrafter|WAR|164
+1 Jodah, Archmage Eternal|DOM|198
+1 Joint Exploration|DMU|56
+1 Jolene, the Plunder Queen|NCC|73
+1 Joraga Treespeaker|ROE|190
+1 Jorn, God of Winter|KHM|179
+1 Journey of Discovery|MRD|123
+1 Journey to Eternity|RIX|160
+1 Jugan Defends the Temple|NEO|194
+1 Jukai Naturalist|NEO|225
+1 Juniper Order Druid|ICE|251
+1 Kaalia of the Vast|2XM|204
+1 Kadena, Slinking Sorcerer|C19|45
+1 Karametra's Acolyte|THS|160
+1 Karametra's Favor|BBD|203
+1 Karametra, God of Harvests|C20|218
+1 Karfell Harbinger|KHM|65
+1 Karn, Living Legacy|DMU|1
+1 Kaza, Roil Chaser|ZNR|225
+1 Keeper of Progenitus|ALA|135
+1 Keeper of the Accord|CMR|27
+1 Kefnet's Monument|AKH|231
+1 Kelpie Guide|STX|45
+1 Kessig Naturalist|MID|231
+1 Kethis, the Hidden Hand|M20|211
+1 Ketria Crystal|IKO|236
+1 Khalni Gem|ZEN|205
+1 Khalni Heart Expedition|CMR|428
+1 Killian, Ink Duelist|STX|197
+1 Kinjalli's Caller|XLN|18
+1 Kinnan, Bonder Prodigy|IKO|192
+1 Kiora's Follower
+1 Kiora, Behemoth Beckoner|WAR|232
+1 Kiora, Master of the Depths|BFZ|213
+1 Kiora, the Crashing Wave|BNG|149
+1 Klauth, Unrivaled Ancient|AFC|50
+1 Klothys, God of Destiny|THB|220
+1 Knight of the Reliquary|TSR|379
+1 Knight of the Stampede|RIX|138
+1 Knight of the White Orchid|C21|95
+1 Knotvine Mystic|CON|114
+1 Kodama of the East Tree|CMR|239
+1 Kodama of the West Tree|NEO|199
+1 Kodama's Reach|C21|197
+1 Kolaghan Monument|IMA|217
+1 Kolvori, God of Kinship|KHM|181
+1 Kor Cartographer|KHC|28
+1 Koth of the Hammer|SOM|94
+1 Kozilek's Channeler|BFZ|10
+1 Krosan Drover|SCG|122
+1 Krosan Restorer|TOR|130
+1 Krosan Verge|ZNC|134
+1 Krosan Warchief|C13|155
+1 Krosan Wayfarer|JUD|123
+1 Kydele, Chosen of Kruphix|C16|35
+1 Kynaios and Tiro of Meletis|C16|36
+1 Kyren Toy|MMQ|303
+1 Lantern of Revealing|CLB|318
+1 Lapis Orb of Dragonkind|CLB|82
+1 Lavabrink Floodgates|C20|53
+1 Leaden Myr|SOM|170
+1 Leaf Gilder|JMP|408
+1 Leafkin Avenger|M21|220
+1 Leafkin Druid|M20|178
+1 Legion's Landing|XLN|22
+1 Letter of Acceptance|STX|256
+1 Ley Druid|9ED|251
+1 Ley Weaver|BBD|21
+1 Leyline Prowler|C21|222
+1 Leyline of Abundance|M20|179
+1 Life Insurance|NCC|74
+1 Life and Limb|TSR|215
+1 Life of Toshiro Umezawa|NEO|108
+1 Lifespring Druid
+1 Liliana of the Dark Realms|M14|102
+1 Liquimetal Torque|MH2|228
+1 Llanowar Dead|APC|109
+1 Llanowar Elves
+1 Llanowar Loamspeaker|DMU|170
+1 Llanowar Mentor|TSR|216
+1 Llanowar Scout|DOM|170
+1 Llanowar Tribe|KHC|66
+1 Llanowar Visionary|M21|193
+1 Loam Dweller|BOK|134
+1 Long-Forgotten Gohei|MM2|221
+1 Lord Windgrace|C18|43
+1 Lord of the Forsaken|MID|110
+1 Lotus Cobra|ZNR|193
+1 Lotus Guardian|INV|305
+1 Loyal Warhound|AFR|23
+1 Lullmage's Familiar|ZNR|227
+1 Maelstrom Archangel|JMP|454
+1 Maelstrom Muse|STX|202
+1 Magda, Brazen Outlaw|KHM|142
+1 Magnifying Glass|2XM|269
+1 Magnus the Red|40K|131
+1 Magus Lucea Kane|40K|174
+1 Magus of the Coffers|C14|148
+1 Magus of the Library|PLC|134
+1 Magus of the Vineyard|CMD|166
+1 Mahadi, Emporium Master|CLB|282
+1 Malcolm, Keen-Eyed Navigator|CMR|79
+1 Malik, Grim Manipulator|SLD|147
+1 Mana Crypt|2XM|270
+1 Mana Echoes|2XM|136
+1 Mana Flare|5ED|249
+1 Mana Geode|JMP|472
+1 Mana Matrix|LEG|285
+1 Mana Prism|6ED|297
+1 Mana Reflection|2XM|175
+1 Manabond|EXO|113
+1 Manakin|IMA|218
+1 Manalith|M19|239
+1 Manascape Refractor|C20|68
+1 Manaweft Sliver|M14|184
+1 Map the Wastes
+1 Maraleaf Pixie|ELD|196
+1 Marauding Raptor
+1 Marble Diamond|KHC|100
+1 Marching Duodrone|CLB|321
+1 Mardu Banner|KTK|224
+1 Mari, the Killing Quill|NCC|89
+1 Mark of Sakiko|BOK|135
+1 Market Festival|JOU|130
+1 Marwyn, the Nurturer|KHC|68
+1 Master of Ceremonies|NCC|18
+1 Memory Crystal|EXO|134
+1 Merfolk Skyscout|CN2|115
+1 Meria, Scholar of Antiquity|DMU|206
+1 Merrow Reejerey|DDT|13
+1 Metalworker|UDS|135
+1 Meteorite|M21|233
+1 Midnight Clock|ELD|54
+1 Migration Path|IKO|164
+1 Migratory Greathorn|IKO|165
+1 Millikin|MH2|297
+1 Mina and Denn, Wildborn|ZNC|94
+1 Mind Stone|AFC|211
+1 Mindwrack Liege|EVE|104
+1 Minion of the Mighty|AFR|156
+1 Minn, Wily Illusionist|AFC|16
+1 Mirari's Wake|MH2|291
+1 Misfortune Teller|NCC|38
+1 Mistform Warchief|SCG|43
+1 Mistvein Borderpost|ARC|90
+1 Mizzix of the Izmagnus
+1 Monk Class|AFR|228
+1 Monologue Tax|C21|19
+1 Monster Manual|CLB|242
+1 Moonsilver Key|MID|255
+1 Moonsnare Prototype|NEO|69
+1 Morophon, the Boundless
+1 Moss Diamond|CMR|327
+1 Mox Amber|DOM|224
+1 Mox Diamond|STH|138
+1 Mox Opal|2XM|275
+1 Mox Tantalite|MH1|226
+1 Mul Daya Channelers|ROE|198
+1 Multani's Harmony|PLS|84
+1 Murasa Rootgrazer|ZNR|229
+1 Mwonvuli Acid-Moss|TSP|207
+1 Myr Reservoir|SOM|183
+1 Myriad Landscape|C21|304
+1 Myth Unbound|C18|32
+1 Mythos of Illuna|IKO|58
+1 Naga Vitalist|AKH|176
+1 Nahiri, Storm of Stone|WAR|233
+1 Nahiri, the Lithomancer
+1 Naiad of Hidden Coves|THB|56
+1 Nantuko Elder|ODY|254
+1 Narset of the Ancient Way|IKO|195
+1 Nature's Embrace|VOW|211
+1 Nature's Lore|AFC|164
+1 Nature's Will|CHK|230
+1 Navigation Orb|CLB|329
+1 Neheb, Dreadhorde Champion|WAR|140
+1 Neheb, the Eternal|HOU|104
+1 Network Terminal|NEO|251
+1 Neverwinter Dryad|AFR|195
+1 New Frontiers|ODY|257
+1 New Horizons|JMP|414
+1 Nexos|40K|95
+1 Nightscape Familiar|E01|35
+1 Nikya of the Old Ways|RNA|193
+1 Nimbleclaw Adept|CLB|86
+1 Nirkana Revenant|BBD|150
+1 Nissa of Shadowed Boughs|ZNR|231
+1 Nissa's Expedition|C21|200
+1 Nissa's Pilgrimage|C17|155
+1 Nissa's Renewal|C21|201
+1 Nissa, Genesis Mage|HOU|200
+1 Nissa, Nature's Artisan|KLD|270
+1 Nissa, Vital Force|KLD|163
+1 Nissa, Who Shakes the World|WAR|169
+1 Nissa, Worldwaker|E01|68
+1 Noble Hierarch|2XM|177
+1 Norwood Priestess|P02|137
+1 Nykthos, Shrine to Nyx
+1 Nylea, Keen-Eyed|THB|185
+1 Nyx Lotus|THB|235
+1 Nyxbloom Ancient|THB|190
+1 Oashra Cultivator|AKH|177
+1 Oasis Ritualist|HOU|124
+1 Oath of Ajani|AER|131
+1 Oath of Lieges|EXO|11
+1 Obelisk of Bant|ALA|212
+1 Obelisk of Esper|C13|250
+1 Obelisk of Grixis|E01|88
+1 Obelisk of Jund|C13|252
+1 Obelisk of Naya|ALA|216
+1 Oblivion Sower|BFZ|11
+1 Obscuring Aether|DTK|194
+1 Obzedat's Aid|DGM|89
+1 Ognis, the Dragon's Lash|SNC|210
+1 Ojutai Monument|DTK|242
+1 Oketra's Monument|AKH|233
+1 Old Gnawbone|AFR|197
+1 Old-Growth Troll|KHM|185
+1 Omen of the Hunt|THB|192
+1 Omnath, Locus of Creation|ZNR|232
+1 Omniscience|M19|65
+1 Omnispell Adept|GRN|49
+1 Ondu Giant
+1 One with Nature|SCG|125
+1 Opaline Unicorn|CN2|213
+1 Oracle of Mul Daya|JMP|415
+1 Orazca Relic|AFC|213
+1 Orb of Dragonkind|AFR|157
+1 Ordeal of Nylea|CMR|247
+1 Ornithopter of Paradise|MH2|232
+1 Orochi Merge-Keeper|NEO|203
+1 Orochi Sustainer|CHK|236
+1 Orzhov Cluestone|C15|261
+1 Orzhov Keyrune|GTC|233
+1 Orzhov Locket|RNA|236
+1 Orzhov Signet|C21|254
+1 Otepec Huntmaster|XLN|153
+1 Overabundance|INV|259
+1 Overgrown Battlement|JMP|417
+1 Overgrowth|C18|157
+1 Overlaid Terrain|NEM|108
+1 Palladium Myr|M21|234
+1 Paradise Druid|AFC|165
+1 Paradise Mantle|MMA|211
+1 Paradise Plume|C21|255
+1 Path of Mettle|RIX|165
+1 Path to Exile|TSR|299
+1 Path to the Festival|MID|191
+1 Patriar's Seal|CLB|332
+1 Patrician Geist|MID|69
+1 Pawn of Ulamog|C17|120
+1 Pearl Medallion|C14|260
+1 Peerless Samurai|NEO|156
+1 Peregrination|BNG|132
+1 Perilous Forays|RAV|176
+1 Phyrexian Totem|DDE|20
+1 Pillar of Origins|XLN|241
+1 Pir's Whim|BBD|73
+1 Pitiless Plunderer|RIX|81
+1 Plague Myr|MBS|125
+1 Planar Birth|USG|31
+1 Planar Gate|LEG|290
+1 Pollywog Symbiote|IKO|63
+1 Powerstone Shard|DOM|227
+1 Praetor's Grasp|NPH|71
+1 Preeminent Captain|M15|25
+1 Priest of Titania
+1 Primal Amulet|XLN|243
+1 Primal Druid|EMN|167
+1 Primal Growth|CMA|137
+1 Princess Lucrezia|LEG|249
+1 Prismatic Geoscope
+1 Prismatic Lens|TSR|272
+1 Pristine Talisman|C21|258
+1 Profane Procession|RIX|166
+1 Professional Face-Breaker|SNC|116
+1 Profound Journey|DTK|30
+1 Prosper, Tome-Bound|AFC|2
+1 Prosperous Thief|NEO|73
+1 Prying Blade|XLN|244
+1 Pyramid of the Pantheon|AKH|235
+1 Pyromancer's Goggles|C21|259
+1 Qarsi Deceiver|DTK|71
+1 Quandrix Cultivator|STX|218
+1 Quarry Beetle|HOU|127
+1 Quest for Ula's Temple|WWK|35
+1 Quicksilver Amulet|M12|214
+1 Quirion Elves|DDE|39
+1 Quirion Explorer|C16|160
+1 Quirion Trailblazer|INV|205
+1 Radha, Heir to Keld|TSR|259
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Ragemonger|BNG|153
+1 Rakdos Cluestone|DGM|143
+1 Rakdos Keyrune|RTR|232
+1 Rakdos Locket|C19|220
+1 Rakdos Signet|AFC|214
+1 Rakdos, Lord of Riots|RTR|187
+1 Ral Zarek|C19|198
+1 Ramos, Dragon Engine|C17|55
+1 Rampant Growth|AFC|166
+1 Rampant Rejuvenator|NEC|28
+1 Ranger's Path|M13|186
+1 Ranging Raptors|XLN|201
+1 Rapacious One|CMD|133
+1 Rattleclaw Mystic|KTK|144
+1 Raugrin Crystal|IKO|238
+1 Realms Uncharted|ROE|206
+1 Reap and Sow|DST|81
+1 Reclusive Taxidermist|VOW|214
+1 Recross the Paths|MOR|133
+1 Regal Behemoth|CN2|69
+1 Relic of Legends|DMU|236
+1 Renegade Rallier|AER|133
+1 Renowned Weaponsmith|M20|72
+1 Replicating Ring|KHM|244
+1 Reshape the Earth|CMR|249
+1 Restore|CMA|141
+1 Retraced Image|TOR|46
+1 Revel in Riches
+1 Revival Experiment|C21|74
+1 Rift Sower|MH2|170
+1 Rime Tender|MH1|176
+1 Rishkar, Peema Renegade|JMP|425
+1 Rites of Flourishing|ZNC|80
+1 Rivaz of the Claw|DMU|215
+1 Riven Turnbull|LEG|254
+1 Road|MH2|212
+1 Roiling Regrowth|ZNR|201
+1 Rooftop Storm|ISD|71
+1 Rootcoil Creeper|MID|238
+1 Rootweaver Druid|CMR|250
+1 Rose Room Treasurer|NCC|51
+1 Rosethorn Acolyte|ELD|174
+1 Rosheen Meanderer
+1 Ruby Medallion|CM2|212
+1 Ruin in Their Wake|OGW|122
+1 Rulik Mons, Warren Chief|DMU|217
+1 Runaway Steam-Kin|GRN|115
+1 Sacellum Godspeaker|ALA|146
+1 Sachi, Daughter of Seshiro|CHK|238
+1 Safana, Calimport Cutthroat|CLB|143
+1 Sage of the Beyond|KHC|6
+1 Saheeli, the Gifted|C18|44
+1 Sakiko, Mother of Summer|BOK|141
+1 Sakura-Tribe Elder|C20|187
+1 Sakura-Tribe Scout|SOK|144
+1 Sanctum Weaver|MH2|171
+1 Sanctum of Fruitful Harvest|M21|203
+1 Sapphire Medallion|C14|266
+1 Sarevok's Tome|CLB|685
+1 Sasaya, Orochi Ascendant|SOK|145
+1 Savage Ventmaw|AFC|191
+1 Savai Crystal|IKO|239
+1 Scale the Heights|ZNR|202
+1 Scaled Herbalist|AFR|204
+1 Scapeshift|M19|201
+1 Scaretiller|ZNC|117
+1 Sceptre of Eternal Glory|40K|166
+1 Scholarship Sponsor|C21|22
+1 Scorched Ruins|WTH|166
+1 Scorned Villager|DKA|125
+1 Scout the Wilderness|DMU|176
+1 Scouting Hawk|CLB|41
+1 Sculptor of Winter|KHM|193
+1 Scuttlemutt|JMP|484
+1 Sea Scryer|MIR|90
+1 Seal of the Guildpact|C15|54
+1 Search for Azcanta|XLN|74
+1 Search for Tomorrow|TSR|229
+1 Seashell Cameo|INV|311
+1 Second Sunrise|MRD|20
+1 Seedborn Muse|CC1|4
+1 Seedguide Ash|LRW|235
+1 Seer's Lantern|CMR|338
+1 Selesnya Cluestone|DGM|144
+1 Selesnya Keyrune|RTR|233
+1 Selesnya Locket|GRN|240
+1 Selesnya Signet|CMA|228
+1 Selvala, Explorer Returned|C16|220
+1 Selvala, Heart of the Wilds|JMP|429
+1 Serra's Sanctum|USG|325
+1 Serum Powder|IMA|228
+1 Settle the Wreckage|XLN|34
+1 Sevinne's Reclamation|C19|5
+1 Shadow in the Warp|40K|140
+1 Shaman of Forgotten Ways|DTK|204
+1 Shefet Monitor|AKH|186
+1 Sheltered Aerie|DTK|206
+1 Shepherd of the Cosmos|KHM|28
+1 Shigeki, Jukai Visionary|NEO|206
+1 Shiny Impetus|AFC|138
+1 Sifter of Skulls|OGW|77
+1 Silhana Starfletcher|GPT|95
+1 Silkwing Scout|DIS|31
+1 Silumgar Monument|DTK|243
+1 Silver Myr|SOM|202
+1 Silverglade Elemental|HOP|78
+1 Silverglade Pathfinder|MMQ|270
+1 Simic Cluestone|DGM|145
+1 Simic Keyrune|C15|265
+1 Simic Locket
+1 Simic Signet|C21|262
+1 Sisay's Ring|CMR|340
+1 Sisters of the Flame|4ED|221
+1 Skull Prophet|IKO|206
+1 Skull of Ramos|MMQ|312
+1 Sky Diamond|KHC|103
+1 Skyclave Relic|ZNR|252
+1 Skyshroud Claim|BBD|213
+1 Skyshroud Elf|TMP|255
+1 Skyshroud Ranger|10E|297
+1 Skyshroud Troopers|STH|115
+1 Smokebraider|MM2|125
+1 Smothering Tithe|RNA|22
+1 Smuggler's Share|NCC|21
+1 Snowfall|ICE|101
+1 Sol Grail|ALL|130
+1 Sol Ring|CC2|7
+1 Sol Talisman|MH2|236
+1 Soldevi Machinist|ICE|102
+1 Solemn Simulacrum|AFC|216
+1 Somberwald Sage|AVR|194
+1 Song of Creation|IKO|210
+1 Song of Freyalise|DOM|179
+1 Song of the Dryads
+1 Sorcerer Class|AFR|233
+1 Sorin, Imperious Bloodlord|M20|115
+1 Soul of Windgrace|DMU|220
+1 Spectacle Mage|STX|235
+1 Spectral Searchlight|C21|265
+1 Spell Satchel|STX|258
+1 Spellbinding Soprano|NCC|53
+1 Spellwild Ouphe|FUT|151
+1 Sphinx of the Second Sun|CMR|99
+1 Spinning Wheel|ELD|234
+1 Spirit of the Aldergard|KHM|195
+1 Splendid Reclamation|EMN|171
+1 Spoils of Victory|C13|172
+1 Spring|AKH|219
+1 Springbloom Druid|KHC|74
+1 Star Compass|IMA|229
+1 Starfield Mystic|M20|39
+1 Starnheim Aspirant|KHM|380
+1 Starnheim Courser|KHM|32
+1 Stenn, Paranoid Partisan|DMU|221
+1 Steward of Valeron|DDG|11
+1 Stinkdrinker Daredevil|CM2|119
+1 Stoic Farmer|KHC|5
+1 Stone Calendar|DRK|111
+1 Stone-Seeder Hierophant|RAV|184
+1 Stoneforge Mystic|2XM|31
+1 Stonespeaker Crystal|CLB|338
+1 Stonybrook Banneret
+1 Storm Skreelix|MID|243
+1 Storm the Vault|RIX|173
+1 Storm-Kiln Artist|STX|115
+1 Stormscape Familiar|TSB|32
+1 Strixhaven Stadium|STX|259
+1 Sultai Banner|KTK|225
+1 Summer Bloom|9ED|273
+1 Sun Titan|AFC|73
+1 Sunastian Falconer|LEG|261
+1 Sunscape Familiar|PLS|17
+1 Sunseed Nurturer|ALA|29
+1 Surveyor's Scope|CMA|232
+1 Svella, Ice Shaper|KHM|230
+1 Swell of Growth|BFZ|191
+1 Sword of Feast and Famine|2XM|296
+1 Sword of Hearth and Home|MH2|238
+1 Sword of the Animist|AFC|218
+1 Sylvan Caryatid|THS|180
+1 Sylvan Scrying|TSR|367
+1 Sylvok Explorer|C16|169
+1 Take Possession|MMA|66
+1 Talisman of Conviction|MH1|230
+1 Talisman of Creativity|C21|269
+1 Talisman of Curiosity|MH1|232
+1 Talisman of Dominance|E01|90
+1 Talisman of Hierarchy|MH1|233
+1 Talisman of Impulse|MRD|254
+1 Talisman of Indulgence|AFC|219
+1 Talisman of Progress|MRD|256
+1 Talisman of Resilience|C21|270
+1 Talisman of Unity|MRD|257
+1 Tangleroot|MRD|259
+1 Tanuki Transplanter|NEC|30
+1 Tayam, Luminous Enigma|C20|16
+1 Teferi, Hero of Dominaria|DOM|207
+1 Teferi, Temporal Archmage
+1 Teferi, Who Slows the Sunset|MID|245
+1 Temple of the False God|C21|326
+1 Tempt with Discovery
+1 Temur Banner|KTK|226
+1 Terrain Generator|JVC|29
+1 Terramorph|MH2|177
+1 Thada Adel, Acquisitor|WWK|40
+1 Thaumatic Compass|XLN|249
+1 The Celestus|MID|252
+1 The Golden Throne|40K|157
+1 The Great Henge|ELD|161
+1 The Immortal Sun|RIX|180
+1 The Mending of Dominaria|ZNC|74
+1 The Restoration of Eiganjo|NEO|34
+1 The Ur-Dragon|C17|48
+1 The Weatherseed Treaty|DMU|188
+1 Thornscape Familiar|PLS|95
+1 Thought Vessel|CMR|346
+1 Thran Dynamo
+1 Thran Temporal Gateway|DOM|233
+1 Three Visits|CMR|261
+1 Thryx, the Sudden Storm|THB|76
+1 Thunder Totem|TSP|265
+1 Thunderherd Migration|RIX|149
+1 Thunderscape Familiar|PLS|76
+1 Ticket Turbotubes|UNF|194
+1 Tidal Force|C13|62
+1 Tidewater Minion|RAV|71
+1 Tigereye Cameo|INV|314
+1 Timeless Lotus|DMU|239
+1 Tireless Provisioner|MH2|180
+1 Titania, Protector of Argoth|MH2|287
+1 Tivit, Seller of Secrets|NCC|10
+1 Tlincalli Hunter|CLB|682
+1 Tome of the Guildpact|RNA|242
+1 Tooth of Ramos|MMQ|313
+1 Topiary Stomper|SNC|160
+1 Trace of Abundance|ARB|142
+1 Training Grounds
+1 Transcendent Envoy|THB|40
+1 Traverse the Outlands
+1 Treasure Map|XLN|250
+1 Trinket Mage|TSR|320
+1 Troll-Horn Cameo|INV|316
+1 Trove of Temptation|XLN|171
+1 Turf War|NCC|54
+1 Tyvar Kell|KHM|198
+1 Ugin, the Ineffable|WAR|2
+1 Ulvenwald Captive|EMN|175
+1 Ulvenwald Hydra|JMP|439
+1 Umori, the Collector|IKO|231
+1 Unbender Tine|ARC|97
+1 Unblinking Observer|MID|82
+1 Undead Warchief|HOP|44
+1 Undercellar Myconid|CLB|259
+1 Undercity Scrounger|NEO|126
+1 Undermountain Adventurer|CLB|260
+1 Unesh, Criosphinx Sovereign|HOU|52
+1 Unstable Obelisk|AFC|220
+1 Ur-Golem's Eye|C14|280
+1 Urban Burgeoning|RTR|138
+1 Urban Evolution|CMR|455
+1 Urborg Elf|APC|90
+1 Uro, Titan of Nature's Wrath
+1 Urza's Filter|INV|318
+1 Urza's Incubator|CM2|228
+1 Urza's Mine|2XM|329
+1 Urza's Power Plant|2XM|330
+1 Urza's Saga|MH2|259
+1 Urza's Tower|2XM|331
+1 Urza, Lord High Artificer|MH1|75
+1 Utopia Sprawl|AFC|172
+1 Utopia Tree|9ED|277
+1 Utopia Vow|TSR|245
+1 Uvilda, Dean of Perfection|STX|160
+1 Vadrik, Astral Archmage|MID|248
+1 Vance's Blasting Cannons|XLN|173
+1 Vastwood Surge|NEC|133
+1 Vedalken Engineer|C16|103
+1 Veinfire Borderpost|ARB|48
+1 Venture Forth|CLB|683
+1 Verdant Confluence|C15|40
+1 Verdant Crescendo|KLD|273
+1 Verdant Haven|M15|206
+1 Verdant Mastery|STX|146
+1 Vernal Bloom|8ED|286
+1 Vessel of Endless Rest|UMA|235
+1 Veteran Explorer|2XM|186
+1 Vexing Puzzlebox|CLB|343
+1 Vhal, Candlekeep Researcher|CLB|102
+1 Victory Chimes|C21|274
+1 Vine Gecko|ZNR|219
+1 Vine Trellis|GVL|4
+1 Viridian Emissary|CMA|162
+1 Viridian Joiner|MRD|138
+1 Visage of Bolas|HOU|208
+1 Vizier of Tumbling Sands|C20|126
+1 Vodalian Arcanist|M21|83
+1 Volition Reins|SOM|53
+1 Volshe Tideturner|DMU|77
+1 Vorinclex, Voice of Hunger
+1 Voyaging Satyr|CN2|195
+1 Walking Atlas|WWK|131
+1 Warbringer|DTK|168
+1 Warden of Evos Isle|CMR|106
+1 Warden of Geometries|OGW|11
+1 Warden of the Wall|DKA|153
+1 Warren Instigator|ZEN|154
+1 Watcher of the Spheres|M21|227
+1 Wayfarer's Bauble|AFC|222
+1 Wayward Swordtooth|RIX|150
+1 Weathered Wayfarer
+1 Weatherseed Totem|TSP|268
+1 Weaver of Blossoms|VOW|226
+1 Weaver of Currents|AKH|209
+1 Weirding Wood|SOI|240
+1 Wellspring|MIR|288
+1 Werebear|EMA|191
+1 Whisperer of the Wilds|2XM|187
+1 Widespread Thieving|SNC|130
+1 Wild Endeavor|AFC|43
+1 Wild Growth|AFC|174
+1 Wild Wanderer|KLD|173
+1 Wilderness Reclamation|C20|196
+1 Wildfield Borderpost|ARB|80
+1 Wildfire Eternal|HOU|109
+1 Will Kenrith
+1 Willow Priestess|HML|100
+1 Wirewood Channeler|KHC|79
+1 Wirewood Elf|ONS|301
+1 Witch Engine|USG|169
+1 Wizards of Thay|CLB|105
+1 Wolfwillow Haven|THB|205
+1 Wood Elves|KHC|80
+1 Woodland Mystic|M20|344
+1 World Shaper|RIX|151
+1 Worn Powerstone
+1 Wrenn and Seven|MID|208
+1 Xenagos, the Reveler|THS|209
+1 Yavimaya Dryad|TSR|247
+1 Yavimaya Granger|ULG|118
+1 Yurlok of Scorch Thrash|CMR|293
+1 Zagoth Crystal|IKO|242
+1 Zaxara, the Exemplary|C20|20
+1 Zendikar Resurgent
+1 Zhentarim Bandit|CLB|158
+1 Zhur-Taa Ancient|DGM|119
+1 Zhur-Taa Druid
+1 Ziatora, the Incinerator|SNC|231
+1 Zimone, Quandrix Prodigy|STX|250
+1 Zirda, the Dawnwaker|IKO|233
+1 Zoetic Cavern|A25|249
+
+
+[Sideboard]
+
+

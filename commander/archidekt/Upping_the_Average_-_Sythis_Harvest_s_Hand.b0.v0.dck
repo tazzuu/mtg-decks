@@ -1,0 +1,106 @@
+[metadata]
+Name=Upping the Average - Sythis, Harvest's Hand
+Description={"ops":[{"attributes":{"link":"https://www.youtube.com/watch?v=j48da53YPmI"},"insert":"https://www.youtube.com/watch?v=j48da53YPmI"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\n1x Forest\nWolfwillow Haven\nGift of Paradise\nVerdant Haven\nSheltered Aerie\n\nWinds of Rath\nRighteous Aura\nWhip Silk\nHeliod's Pilgrim\n\nAncestral Mask\nShalai, Voice of Plenty\nJolrael, Mwonvuli Recluse\nApproach of the Second Sun\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1586927
+Date=2021-07-07
+Created=2021-07-03
+Updated=2021-07-07
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Sythis, Harvest's Hand|MH2|214
+
+
+[Main]
+1 Abundant Growth|EMA|156
+1 Aetherflux Reservoir|KLD|192
+1 Ajani's Chosen|JMP|82
+1 Alseid of Life's Bounty|THB|1
+1 Ancestral Mask
+1 Approach of the Second Sun|AKH|4
+1 Archon of Sun's Grace|THB|3
+1 Argothian Enchantress|EMA|158
+1 Aura Shards
+1 Aura of Silence|C15|60
+1 Austere Command|CMR|12
+1 Authority of the Consuls|KLD|5
+1 Beast Within|C21|186
+1 Blind Obedience|C17|57
+1 Bountiful Promenade|BBD|81
+1 Branchloft Pathway|ZNR|258
+1 Brushland|10E|349
+1 Burgeoning|C16|143
+1 Canopy Vista|C20|261
+1 Command Tower|C21|284
+1 Courser of Kruphix|A25|164
+1 Darksteel Mutation|C21|87
+1 Destiny Spinner|THB|168
+1 Dryad of the Ilysian Grove|THB|169
+1 Eidolon of Blossoms|C18|140
+1 Eladamri's Call|MH1|197
+1 Enchantress's Presence|MH2|283
+1 Enlightened Tutor
+1 Exploration|2XM|167
+1 Fertile Ground|C18|147
+1 Flickering Ward|TMP|19
+10 Forest|STX|374
+1 Ghostly Prison|C21|92
+1 Gift of Paradise|C21|191
+1 Grasp of Fate|C15|3
+1 Hall of Heliod's Generosity|MH1|241
+1 Heliod's Pilgrim|THB|20
+1 Heliod, Sun-Crowned|THB|18
+1 Heroic Intervention|M21|188
+1 Horizon Canopy|IMA|240
+1 Idyllic Tutor|THB|24
+1 Jolrael, Mwonvuli Recluse|M21|191
+1 Kenrith's Transformation|ELD|164
+1 Luminarch Ascension|A25|23
+1 Mesa Enchantress|EMA|19
+1 Mirari's Wake|MH2|291
+1 Overgrowth|C18|157
+1 Path to Exile|2XM|25
+9 Plains|STX|366
+1 Reliquary Tower|C21|311
+1 Resurgent Belief|MH2|26
+1 Righteous Aura|MMQ|45
+1 Sanctum Weaver|MH2|171
+1 Satyr Enchanter|M19|223
+1 Seal of Cleansing|MH2|264
+1 Seal of Primordium|TSR|228
+1 Setessan Champion|THB|198
+1 Shalai, Voice of Plenty|DOM|35
+1 Sheltered Aerie|DTK|206
+1 Sigil of the Empty Throne|C18|74
+1 Smothering Tithe|RNA|22
+1 Sol Ring|C21|263
+1 Solitary Confinement|MH2|265
+1 Song of the Dryads|C14|47
+1 Sphere of Safety|C16|77
+1 Starfield of Nyx|ORI|33
+1 Sterling Grove|MH2|293
+1 Sunpetal Grove|XLN|257
+1 Swords to Plowshares|CMR|387
+1 Sylvan Library|CC1|5
+1 Temple Garden|GRN|258
+1 Temple of Plenty|THB|248
+1 Utopia Sprawl|A25|192
+1 Verdant Haven|M15|206
+1 Verduran Enchantress|9ED|279
+1 Whip Silk|INV|225
+1 Wild Growth|C18|165
+1 Winds of Rath|CMR|392
+1 Windswept Heath|KTK|248
+1 Wolfwillow Haven|THB|205
+1 Wooded Bastion|2XM|332
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+
+

@@ -1,0 +1,113 @@
+[metadata]
+Name=Upping the Average - Alela, Artful Provocateur
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/b1fOucLFQyw"},"insert":"https://youtu.be/b1fOucLFQyw"},{"insert":"\n\n"},{"attributes":{"underline":true},"insert":"Cards Added:"},{"insert":"\n\nImprison in the Moon\nOubliette\nAura of Silence\nSoul-Guide Lantern\nRelic of Progenitus\n\nFumigate\nMagus of the Moat\n\nPath of Ancestry\n\nThunderclap Wyvern\nCathars' Crusade\nGravitational Shift\nCourt of Ambition\n\nGossamer Chains\nFlickering Ward\nBlinkmoth Nexus\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1041571
+Date=2021-01-06
+Created=2021-01-02
+Updated=2021-01-06
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Alela, Artful Provocateur|ELD|324
+
+
+[Main]
+1 All That Glitters|ELD|2
+1 Anguished Unmaking|SOI|242
+1 Anointed Procession|AKH|2
+1 Arcane Sanctum
+1 Arcane Signet|CMR|297
+1 Aura of Silence
+1 Azorius Signet|C20|238
+1 Baleful Strix|2XM|191
+1 Bident of Thassa|A25|42
+1 Bitterblossom|UMA|85
+1 Blind Obedience|C17|57
+1 Blinkmoth Nexus|2XM|311
+1 Bolas's Citadel|WAR|79
+1 Cathars' Crusade|JMP|95
+1 Caves of Koilos|C20|262
+1 Chromatic Lantern
+1 Coastal Piracy|JMP|144
+1 Command Tower|CMR|350
+1 Commander's Sphere|CMR|306
+1 Counterspell|CMR|395
+1 Court of Ambition|CMR|114
+1 Court of Grace|CMR|16
+1 Cyclonic Rift|2XM|47
+1 Dance of the Manse|ELD|186
+1 Darksteel Mutation
+1 Demonic Tutor
+1 Dimir Signet|ZNC|112
+1 Dovin's Veto|WAR|193
+1 Drowned Catacomb|XLN|253
+1 Empyrean Eagle|M20|208
+1 Etchings of the Chosen|MH1|198
+1 Evolving Wilds|CMR|482
+1 Exotic Orchard|C20|273
+1 Favorable Winds|GNT|21
+1 Fellwar Stone
+1 Flickering Ward|TMP|19
+1 Flooded Strand|KTK|233
+1 Fumigate|KLD|15
+1 Ghostly Prison|C19|64
+1 Glacial Fortress|XLN|255
+1 Godless Shrine|RNA|248
+1 Gossamer Chains|VIS|6
+1 Gravitational Shift|ROE|69
+1 Hall of Heliod's Generosity|MH1|241
+1 Hallowed Fountain|RNA|251
+1 Heraldic Banner|ELD|222
+1 Imprisoned in the Moon|EMN|65
+1 Intangible Virtue|CMR|24
+5 Island|CMR|507
+1 Isolated Chapel|DOM|241
+1 Lightning Greaves|2XM|267
+1 Magus of the Moat
+1 Merciless Eviction|2XM|211
+1 Mirrormade|ELD|55
+1 Mystic Remora|ICE|87
+1 Orzhov Signet|C20|247
+1 Oubliette
+1 Path of Ancestry|CMR|353
+1 Path to Exile|2XM|25
+6 Plains|CMR|504
+1 Polluted Delta|KTK|239
+1 Prairie Stream|C20|299
+1 Propaganda|C20|123
+1 Reconnaissance Mission|IKO|65
+1 Relic of Progenitus|EMA|231
+1 Reliquary Tower|CMR|488
+1 Rhystic Study|JMP|169
+1 Scion of Oona|MMA|63
+1 Sephara, Sky's Blade|M20|36
+1 Skullclamp
+1 Smothering Tithe|RNA|22
+1 Sol Ring|CMR|472
+1 Solemn Simulacrum|M21|239
+1 Soul-Guide Lantern|THB|237
+1 Sunken Hollow|C20|318
+2 Swamp|ZNR|382
+1 Swiftfoot Boots|CMR|474
+1 Swords to Plowshares|CMR|387
+1 Talisman of Dominance|E01|90
+1 Talisman of Hierarchy|MH1|233
+1 Talisman of Progress|MRD|256
+1 Temple of Silence|M21|255
+1 Terramorphic Expanse|CMR|497
+1 Thalisse, Reverent Medium|CMR|291
+1 Thunderclap Wyvern|EMA|208
+1 Time Wipe|WAR|223
+1 Vault of Champions|CMR|360
+1 Watery Grave|GRN|259
+1 Winged Words|JMP|196
+
+
+[Sideboard]
+
+

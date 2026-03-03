@@ -1,0 +1,103 @@
+[metadata]
+Name=Upping the Average - Feather the Redeemed
+Description={"ops":[{"attributes":{"underline":true,"bold":true,"link":"https://youtu.be/y6aEgjOhqfI"},"insert":"https://youtu.be/y6aEgjOhqfI"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nBlasphemous Act\nChain Reaction\nValorous Stance\nPyroblast\n\nFaith's Shield\nDawn Charm\nGideon's Sacrifice\nVeilstone Amulet\n\nInfuriate\nInvigorated Rampage\nScroll of the Masters\nLeering Emblem\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/872380
+Date=2020-11-11
+Created=2020-10-23
+Updated=2020-11-11
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Feather, the Redeemed|WAR|197
+
+
+[Main]
+1 Adamant Will|DOM|2
+1 Aetherflux Reservoir|KLD|192
+1 Ajani's Presence|JOU|2
+1 Akroan Crusader|UMA|121
+1 Anax and Cymede|THS|186
+1 Apostle's Blessing
+1 Arcane Signet|CMR|297
+1 Aria of Flame|MH1|118
+1 Bandage|TPR|7
+1 Battlefield Forge|C20|257
+1 Blasphemous Act|CMR|162
+1 Boros Charm|CMR|442
+1 Boros Garrison|CMR|477
+1 Boros Guildgate|CMR|478
+1 Boros Signet|CMR|459
+1 Brute Force|MM2|108
+1 Chain Reaction|C18|121
+1 Chandra's Ignition|ORI|137
+1 Chaos Warp|C20|146
+1 Clifftop Retreat|DOM|239
+1 Cloudshift|JMP|97
+1 Command Tower|CMR|350
+1 Commander's Sphere|CMR|306
+1 Crimson Wisps|SHM|88
+1 Dawn Charm|CMR|371
+1 Defiant Strike|M21|15
+1 Eerie Interlude|SOI|16
+1 Evolving Wilds|CMR|482
+1 Expedite|CMR|413
+1 Faith's Shield|DKA|7
+1 Fight as One|IKO|12
+1 Fists of Flame|CMR|414
+1 Gideon's Sacrifice|WAR|14
+1 Gods Willing
+1 Guided Strike
+1 Guttersnipe
+1 Infuriate|THB|141
+1 Invigorated Rampage|AER|86
+1 Leering Emblem|EVE|171
+1 Mirrorwing Dragon|EMN|136
+1 Monastery Mentor|FRF|20
+13 Mountain|CMR|509
+1 Needleverge Pathway|ZNR|263
+1 Path to Exile|2XM|25
+1 Phalanx Leader|UMA|27
+9 Plains|CMR|504
+1 Psychotic Fury|DIS|68
+1 Pyroblast|ME1|107
+1 Reckless Charge|MH1|144
+1 Reckless Rage|RIX|110
+1 Reliquary Tower|CMR|488
+1 Renegade Tactics|CMR|195
+1 Rile|XLN|158
+1 Rugged Prairie|2XM|325
+1 Sacred Foundry|GRN|254
+1 Scroll of the Masters|FRF|163
+1 Seize the Day|UMA|147
+1 Sejiri Shelter|ZNR|37
+1 Shelter|MH1|28
+1 Sheltering Light|XLN|35
+1 Smothering Tithe|RNA|22
+1 Sol Ring|CMR|472
+1 Soul's Fire|CMR|200
+1 Sunforger|CMR|473
+1 Swiftfoot Boots|CMR|474
+1 Swords to Plowshares|CMR|387
+1 Talisman of Conviction|MH1|230
+1 Temple of Triumph|M21|256
+1 Temur Battle Rage|CMR|417
+1 Thought Vessel|CMR|346
+1 Titan's Strength|ORI|166
+1 Unleash Fury|M21|170
+1 Valorous Stance|2XM|38
+1 Vanguard of Brimaz
+1 Veilstone Amulet|FUT|166
+1 Wayfarer's Bauble
+1 Wind-Scarred Crag|CMR|502
+1 Young Pyromancer|JMP|372
+1 Zada, Hedron Grinder|A25|156
+
+
+[Sideboard]
+
+

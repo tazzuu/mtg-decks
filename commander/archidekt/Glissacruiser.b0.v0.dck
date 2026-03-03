@@ -1,0 +1,98 @@
+[metadata]
+Name=Glissacruiser
+Description=
+Format=commander
+Bracket=0
+Author=SalubriousSnail
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5035210
+Date=2024-04-26
+Created=2023-07-30
+Updated=2024-04-26
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Glissa Sunslayer|ONE|202
+
+
+[Main]
+1 Abrupt Decay
+1 Apex Devastator|CMR|217
+1 Assassin's Trophy|2X2|175
+1 Bane of Progress
+1 Bear Umbra|NEC|113
+1 Beast Whisperer
+1 Beast Within
+1 Beledros Witherbloom|STX|163
+1 Binding the Old Gods|CMM|917
+1 Birds of Paradise|DMR|151
+1 Blessed Respite|MH2|150
+1 Blooming Marsh|KLD|243
+1 Boundless Realms
+1 Casualties of War|KHC|83
+1 Circuitous Route|ZNC|62
+1 Command Tower|CMM|420
+1 Deathcap Glade|VOW|261
+1 Decree of Pain|CMM|148
+1 Demonlord Belzenlok|CMM|151
+1 Dread Cacodemon|CMA|55
+1 Elves of Deep Shadow
+1 Elvish Mystic|CMM|284
+18 Forest|WOE|266
+1 Fyndhorn Elves|CMR|228
+1 Garruk, Primal Hunter|C21|190
+1 Gix's Command|BRO|97
+1 Golgari Charm|UMA|201
+1 Golgari Rot Farm|CMM|1001
+1 Grow from the Ashes|DOM|164
+1 Growth Spasm|MIC|139
+1 Harvester of Souls|JMP|243
+1 Heroic Intervention|CMM|295
+1 Hissing Quagmire|OGW|171
+1 Infernal Grasp|MID|107
+1 Kogla, the Titan Ape|IKO|162
+1 Llanowar Elves
+1 Llanowar Wastes|BRO|264
+1 Maelstrom Pulse|2XM|207
+1 Migration Path|DMC|135
+1 Necroblossom Snarl|CMM|1015
+1 Night's Whisper|MOC|259
+1 Nissa's Renewal|C21|201
+1 Nurturing Peatland|MH1|243
+1 Old Gnawbone|AFR|197
+1 Overgrown Tomb|RVR|283
+1 Overseer of the Damned|SCD|98
+1 Phyrexian Arena|ONE|104
+1 Plague Wind|A25|102
+1 Portal to Phyrexia|BRO|240
+1 Putrefy
+1 Reiver Demon|CMA|64
+1 Reliquary Tower|CMM|425
+1 Rise of the Dark Realms|JMP|271
+1 Rishkar's Expertise|NCC|306
+1 Skyshroud Claim|CMM|321
+1 Sol Ring|CMM|410
+1 Soul of New Phyrexia|CMM|974
+1 Sporocyst|40K|98
+9 Swamp|WOE|264
+1 Sword of the Animist|CMM|413
+1 Temple of Malady|CMM|1043
+1 Terastodon|C21|207
+1 Titan of Industry|SNC|159
+1 Underground Mortuary|MKM|271
+1 Up the Beanstalk|WOE|195
+1 Vilis, Broker of Blood|M20|122
+1 Virtue of Strength|WOE|197
+1 Vorinclex, Voice of Hunger
+1 Wild Growth|DMR|184
+1 Windgrace's Judgment|NCC|358
+1 Wooded Foothills|KTK|249
+1 Woodland Cemetery|DMR|261
+1 Wurmcoil Engine|2XM|308
+1 Zendikar Resurgent
+
+
+[Sideboard]
+
+

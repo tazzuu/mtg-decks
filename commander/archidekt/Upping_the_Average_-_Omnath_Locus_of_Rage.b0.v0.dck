@@ -1,0 +1,100 @@
+[metadata]
+Name=Upping the Average - Omnath, Locus of Rage
+Description={"ops":[{"attributes":{"underline":true,"bold":true,"link":"https://youtu.be/SN-y2upbc2c"},"insert":"https://youtu.be/SN-y2upbc2c"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nPhylath, World Sculptor\nScute Swarm\nValakut Exploration\nStone-Seeder Hierophant\n\nChaos Warp\nBala Ged Recovery\n\nReturn of the Wildspeaker\nNahiri's Lithoforming\nKavu Lair\n\nMountain\nForest\nGhost Quarter\nKessig Wolf Run\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/796226
+Date=2020-10-02
+Created=2020-09-16
+Updated=2020-10-02
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Omnath, Locus of Rage|BFZ|217
+
+
+[Main]
+1 Ancient Greenwarden|ZNR|178
+1 Ashnod's Altar
+1 Avenger of Zendikar|2XM|152
+1 Azusa, Lost but Seeking|M21|173
+1 Bala Ged Recovery|ZNR|180
+1 Beast Within|C20|168
+1 Blasphemous Act|2XM|117
+1 Blighted Woodland|C20|258
+1 Boundless Realms|M13|162
+1 Chaos Warp|C20|146
+1 Cinder Glade|C20|263
+1 Command Tower|C20|264
+1 Courser of Kruphix
+1 Crop Rotation|2XM|161
+1 Crucible of Worlds|M19|229
+1 Cultivate|M21|177
+1 Decimate|C18|175
+1 Dryad of the Ilysian Grove|THB|169
+1 Elemental Bond|C19|163
+1 Eternal Witness
+1 Evolving Wilds|IKO|247
+1 Fabled Passage|M21|246
+1 Farseek
+21 Forest|IKO|272
+1 Garruk's Uprising|M21|186
+1 Ghost Quarter
+1 Ghost Town|TMP|318
+1 Greater Good|2XM|170
+1 Gruul Turf|C20|279
+1 Harrow|C20|174
+1 Kavu Lair|INV|193
+1 Kessig Wolf Run|C20|284
+1 Khalni Heart Expedition
+1 Kodama's Reach|C20|180
+1 Lightning Greaves|2XM|267
+1 Lotus Cobra|ZNR|193
+1 Migration Path|IKO|164
+1 Mina and Denn, Wildborn|OGW|156
+4 Mountain|IKO|271
+1 Myriad Landscape|C20|292
+1 Nahiri's Lithoforming|ZNR|151
+1 Nissa's Pilgrimage|C17|155
+1 Nissa, Vital Force|KLD|163
+1 Oracle of Mul Daya|JMP|415
+1 Parallel Lives|ISD|199
+1 Perilous Forays|RAV|176
+1 Phylath, World Sculptor|ZNR|234
+1 Rampaging Baloths|C19|176
+1 Rampant Growth
+1 Ramunap Excavator|HOU|129
+1 Reliquary Tower|C20|301
+1 Return of the Wildspeaker|ELD|172
+1 Rishkar's Expertise|AER|123
+1 Roiling Regrowth|ZNR|201
+1 Rootbound Crag|XLN|256
+1 Sakura-Tribe Elder|C20|187
+1 Scapeshift|M19|201
+1 Scute Swarm|ZNR|203
+1 Shamanic Revelation|2XM|179
+1 Sheltered Thicket|AKH|248
+1 Skyshroud Claim|BBD|213
+1 Sol Ring|C20|252
+1 Splendid Reclamation|EMN|171
+1 Springbloom Druid|MH1|181
+1 Stomping Ground|RNA|259
+1 Stone-Seeder Hierophant|RAV|184
+1 Swiftfoot Boots|C20|254
+1 Terramorphic Expanse|C19|281
+1 Terror of the Peaks|M21|164
+1 Tireless Tracker
+1 Titania, Protector of Argoth|CMA|157
+1 Valakut Exploration|ZNR|175
+1 Warstorm Surge|C19|155
+1 Wayward Swordtooth|RIX|150
+1 Where Ancients Tread|C13|130
+1 Wooded Foothills|KTK|249
+
+
+[Sideboard]
+
+

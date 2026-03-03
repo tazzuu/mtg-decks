@@ -1,0 +1,169 @@
+[metadata]
+Name=porcupines (dmg redirection deck)
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=Fromageetcrapauds
+Tags=
+Version=0
+URL=https://archidekt.com/decks/4688727
+Date=2024-07-27
+Created=2023-06-09
+Updated=2024-07-27
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Isshin, Two Heavens as One|NEO|224
+1 Mathas, Fiend Seeker|2X2|252
+1 Queen Marchesa
+
+
+[Main]
+1 Ancient Stone Idol|MOC|347
+1 Angel's Trumpet|ULG|121
+1 Arcane Signet|MOC|348
+1 Arcbond|FRF|91
+1 Arena|TSB|117
+1 Ascent of the Worthy|KHM|202
+1 Athreos, Shroud-Veiled
+1 Aurification|ONS|6
+1 Backlash|INV|234
+1 Baird, Steward of Argive|DOM|4
+1 Barbed Servitor|MKM|77
+1 Battlefield Forge|BRO|257
+1 Batwing Brume|ARC|80
+1 Beacon of Destiny|LGN|5
+1 Binding Agony|MIR|106
+1 Bitterthorn, Nissa's Animus|MOC|45
+1 Blasphemous Act|SCD|124
+1 Blazing Sunsteel|CMR|364
+1 Blood Cultist|ALA|157
+1 Blood Reckoning|M13|81
+1 Bloodfell Caves|MOM|267
+1 Bojuka Bog|MOC|391
+1 Boros Charm|ONC|116
+1 Boros Garrison|ONC|146
+1 Boros Reckoner
+1 Boros Signet|ONC|126
+1 Brash Taunter|SCD|125
+1 Breena, the Demagogue
+1 Calculating Lich|CLB|742
+1 Cathedral Membrane|NPH|5
+1 Caves of Koilos|DMU|244
+1 Chain Reaction|ONC|97
+1 Chandra's Incinerator|M21|136
+1 Circle of Flame|M15|135
+1 Clifftop Retreat|DMR|241
+1 Coalhauler Swine|J22|516
+1 Comeuppance|C14|4
+1 Command Tower
+1 Contaminated Bond|10E|132★
+1 Court of Grace|ONC|62
+1 Cunning Rhetoric|C21|38
+1 Darien, King of Kjeldor|A25|9
+1 Darksteel Mutation|VOC|84
+1 Darksteel Plate|2X2|304
+1 Deflecting Palm|CMR|444
+1 Delirium|MIR|260
+1 Deserted Temple|LTC|363
+1 Dragonskull Summit|DMC|207
+1 Earthquake|CM2|95
+1 Emberwilde Captain|CMR|175
+1 Exotic Orchard
+1 Explorer's Scope|J22|766
+1 Fellwar Stone
+1 Fey Steed|AFC|5
+1 Fiendlash|AFC|31
+1 Fiery Emancipation|M21|143
+1 Firemane Commando|MOC|73
+1 Foreboding Ruins|SCD|300
+1 Furycalm Snarl|MOC|404
+1 General's Regalia|MMQ|295
+1 Ghen, Arcanum Weaver|CMR|275
+1 Gideon's Sacrifice|WAR|14
+1 Go for Blood|J22|540
+1 Guilty Conscience|SCG|17
+1 Hellish Rebuke|AFC|26
+1 High Priest of Penance|CLB|848
+1 Hissing Miasma|GPT|51
+1 Ill-Tempered Loner|VOW|162
+1 Impulsive Maneuvers
+1 Isolated Chapel|DMR|249
+1 Kami of the Honored Dead|BOK|12
+1 Karazikar, the Eye Tyrant|AFC|49
+1 Kazuul, Tyrant of the Cliffs|SCD|148
+1 Keeper of the Accord|MOC|191
+1 Kjeldoran Royal Guard|10E|25
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Luminous Wake|ROE|35
+1 Luxury Suite|CLB|355
+1 Magmaquake|SCD|149
+1 Malakir Rebirth|ZNR|111
+1 Mangara, the Diplomat|M21|27
+1 Mardu Banner|KTK|224
+1 Martyrdom|ALL|10b
+1 Michiko Konda, Truth Seeker|J22|215
+1 Mirror Strike|PCY|17
+1 Mob Rule|VOC|147
+1 Mogg Maniac|STH|94
+5 Mountain
+1 Myriad Landscape|MOC|416
+1 Nomad Outpost|DMC|222
+1 Norn's Annex|ONC|83
+1 Norn's Decree|ONC|9
+1 Opal Palace|NEC|172
+1 Orzhov Basilica|BRC|191
+1 Orzhov Signet|MOC|369
+1 Otharri, Suns' Glory|ONC|3
+1 Parasitic Impetus|CLB|140
+1 Pariah|CN2|95
+1 Phyrexian Vindicator|ONE|27
+1 Pious Warrior|MMQ|34
+8 Plains
+1 Ragged Veins|CHK|139
+1 Rakdos Carnarium|BRC|194
+1 Rakdos Signet|SCD|272
+1 Righteous Aura|MMQ|45
+1 Righteous Cause
+1 Rolling Earthquake|2XM|142
+1 Royal Assassin|DMR|310
+1 Sanguine Bond|C21|153
+1 Sarkhan the Masterless|WAR|143
+1 Scythe of the Wretched|MRD|239
+1 Search the Premises|MH2|29
+1 Selfless Spirit|J22|239
+1 Selfless Squire|C21|103
+1 Shadowblood Ridge|BRC|199
+1 Shielded by Faith|C15|8
+1 Silverclad Ferocidons|RIX|115
+1 Silverwing Squadron|MOC|207
+1 Slumbering Dragon|M13|148
+1 Smoldering Marsh|SCD|319
+1 Soul Link|APC|120
+1 Souls of the Faultless|GPT|131
+1 Sower of Discord|C18|19
+1 Spiteful Banditry|LTR|149
+1 Spiteful Shadows|DKA|75
+1 Spitemare|DDH|16
+1 Star of Extinction
+1 Stuffy Doll|CLB|875
+2 Swamp
+1 Sword of the Animist|AFC|218
+1 Termination Facilitator|J22|28
+1 Teysa, Envoy of Ghosts|C21|230
+1 Tree of Perdition|J22|75
+1 Truefire Captain|GRN|209
+1 Unbreakable Formation|LTC|179
+1 Vault of the Archangel|MOC|443
+1 Vengeful Pharaoh|M12|116
+1 Viridian Longbow|AFC|221
+1 Volcano Hellion|PLC|111
+1 Voodoo Doll|CHR|111
+1 Wall of Hope|LGN|24
+1 Wall of Souls|STH|75
+1 Wrathful Red Dragon|CLB|207
+
+
+[Sideboard]
+
+

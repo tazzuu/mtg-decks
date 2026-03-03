@@ -1,0 +1,105 @@
+[metadata]
+Name=Upping the Average - Volo, Guide to Monsters
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/jj3sQBmy9NQ"},"insert":"https://youtu.be/jj3sQBmy9NQ"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n \nJunk Winder\nMyr Battlesphere\nEidolon of Blossoms\nManaweft Sliver\n\nReturn of the Wildspeaker\nReality Shift\nAugmenter Pugilist\n\nEvolving Wilds\nTerramorphic Expanse\nLittjara Mirrorlake\nScavenger Grounds\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Honorable Mentions: "},{"insert":"\nPhyrexian Metamorph --> Spike Weaver\nDiluvian Primordial --> Pathbreaker Ibex\nProsperous Innkeeper --> Kalonian Hydra\n\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1711213
+Date=2021-08-11
+Created=2021-08-09
+Updated=2021-08-11
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Volo, Guide to Monsters|AFR|238
+
+
+[Main]
+1 Acidic Slime|AFC|151
+1 Alchemist's Refuge|AVR|225
+1 Amphin Mutineer|CMR|55
+1 Arcane Signet|AFC|197
+1 Augmenter Pugilist|STX|147
+1 Avenger of Zendikar|CMR|422
+1 Bala Ged Recovery|ZNR|180
+1 Barkchannel Pathway|KHM|251
+1 Beast Whisperer|C20|167
+1 Beast Within|AFC|152
+1 Birds of Paradise
+1 Breeding Pool|RNA|246
+1 Castle Garenbrig|ELD|240
+1 Clever Impersonator|C19|82
+1 Command Tower|AFC|230
+1 Consecrated Sphinx|IMA|47
+1 Counterspell|MH2|267
+1 Craterhoof Behemoth|JMP|385
+1 Cultivate|AFC|155
+1 Cyclonic Rift|2XM|47
+1 Diluvian Primordial|C21|120
+1 Eidolon of Blossoms|C18|140
+1 Elemental Bond|C19|163
+1 End-Raze Forerunners|KHC|61
+1 Evolving Wilds|AFR|256
+1 Farseek|C19|165
+1 Fierce Guardianship|C20|35
+1 Flooded Grove|2XM|318
+13 Forest|IKO|274
+1 Garruk's Uprising|AFC|159
+1 God-Eternal Rhonas|WAR|163
+1 Heroic Intervention|AFC|161
+1 Hinterland Harbor|DOM|240
+7 Island|IKO|265
+1 Junk Winder|MH2|48
+1 Keruga, the Macrosage|IKO|225
+1 Kiora's Follower
+1 Kodama's Reach|C21|197
+1 Lightning Greaves|AFC|331
+1 Littjara Mirrorlake|KHM|264
+1 Lotus Cobra|ZNR|193
+1 Manaweft Sliver|M14|184
+1 Maraleaf Pixie|ELD|196
+1 Misty Rainforest|MH2|250
+1 Murkfiend Liege|CMR|448
+1 Myr Battlesphere|C21|253
+1 Nature's Lore|AFC|164
+1 Ornithopter of Paradise|MH2|232
+1 Panharmonicon|KLD|226
+1 Peregrine Drake|BBD|128
+1 Phyrexian Metamorph|2XM|61
+1 Pongify|TSR|79
+1 Prosperous Innkeeper|AFR|200
+1 Rampant Growth|AFC|166
+1 Reality Shift
+1 Rejuvenating Springs|CMR|354
+1 Reliquary Tower|C21|311
+1 Return of the Wildspeaker|AFC|168
+1 Rhystic Study|JMP|169
+1 Scavenger Grounds|C21|314
+1 Scute Swarm|ZNR|203
+1 Second Harvest|C19|178
+1 Simic Signet|C21|262
+1 Sol Ring|AFC|215
+1 Solemn Simulacrum|AFC|216
+1 Spark Double|WAR|68
+1 Swan Song|C16|98
+1 Swiftfoot Boots|CMR|474
+1 Sylvan Caryatid|THS|180
+1 Temple of Mystery|C21|324
+1 Temur Sabertooth|C17|159
+1 Tendershoot Dryad|RIX|147
+1 Terastodon|C21|207
+1 Terramorphic Expanse|AFC|267
+1 Three Visits|CMR|261
+1 Twinning Staff|C20|70
+1 Uro, Titan of Nature's Wrath
+1 Vivien, Champion of the Wilds|WAR|180
+1 Vizier of the Menagerie|AKH|192
+1 Wurmcoil Engine|2XM|308
+1 Yavimaya Coast|C21|409
+
+
+[Sideboard]
+
+

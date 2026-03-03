@@ -1,0 +1,106 @@
+[metadata]
+Name=Vivi Ornitier, semi-budget EDH
+Description={"ops":[{"attributes":{"bold":true},"insert":"Core Concept"},{"attributes":{"header":1},"insert":"\n"},{"insert":" The deck functions as a linear Izzit spellslinger–storm shell. Your plan is to "},{"attributes":{"underline":true,"bold":true},"insert":"ramp and reduce spell costs early"},{"insert":", ensure that "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":"  can safely enter the battlefield and survive one turn, and then "},{"attributes":{"underline":true,"bold":true},"insert":"untap and combo off"},{"insert":". You run a very high density of "},{"attributes":{"underline":true,"bold":true},"insert":"replacement spells, cantrips, and pseudo-draw"},{"insert":", which continuously grow "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":" while keeping your hand full. Once your engines are online, every spell you cast essentially replaces itself or generates additional value.\n"},{"attributes":{"bold":true},"insert":"1. Early Game: Ramp, Setup, Cost Reduction"},{"attributes":{"header":2},"insert":"\n"},{"attributes":{"bold":true},"insert":"Goal:"},{"insert":" Assemble mana engines and cost reducers. Do "},{"attributes":{"underline":true,"bold":true},"insert":"not"},{"insert":" cast "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":" yet.\nKey pieces:\n\n"},{"attributes":{"bold":true},"insert":"Cost Reduction:"},{"insert":" "},{"insert":{"card-link":"Ruby Medallion"}},{"insert":", "},{"insert":{"card-link":"Helm of Awakening"}},{"insert":", "},{"insert":{"card-link":"Stormcatch Mentor"}},{"insert":", "},{"insert":{"card-link":"Artist's Talent"}},{"insert":", "},{"insert":{"card-link":"Case of the Ransacked Lab"}},{"insert":", "},{"insert":{"card-link":"Ral, Monsoon Mage // Ral, Leyline Prodigy"}},{"insert":"."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Mana Engines:"},{"insert":" "},{"insert":{"card-link":"Runaway Steam-Kin"}},{"insert":", "},{"insert":{"card-link":"Storm-Kiln Artist"}},{"insert":", "},{"insert":{"card-link":"Brass's Bounty"}},{"insert":", "},{"insert":{"card-link":"Mana Geyser"}},{"insert":", "},{"insert":{"card-link":"Seething Song"}},{"insert":"."},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"Card Advantage Engines:"},{"insert":" "},{"insert":{"card-link":"Rhystic Study"}},{"insert":", "},{"insert":{"card-link":"Archmage of Runes"}},{"insert":", "},{"insert":{"card-link":"Niv-Mizzet, Visionary"}},{"insert":", "},{"insert":{"card-link":"Niv-Mizzet, Parun"}},{"insert":"."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Use counters to stop real threats, not to protect value engines. Save protection for "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":".\n"},{"attributes":{"bold":true},"insert":"2."},{"insert":" "},{"attributes":{"bold":true},"insert":{"card-link":"Vivi Ornitier"}},{"attributes":{"bold":true},"insert":" Enters: “Stick Turn”"},{"attributes":{"header":2},"insert":"\n"},{"insert":"Cast "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":" only when you can leave meaningful interaction open.\nTypical sequence:\nCost reducers + mana engines in place."},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"Cast "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":"."},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"Keep up protection: "},{"insert":{"card-link":"Fierce Guardianship"}},{"insert":", "},{"insert":{"card-link":"Deflecting Swat"}},{"insert":", "},{"insert":{"card-link":"Dispel"}},{"insert":", "},{"insert":{"card-link":"Negate"}},{"insert":", "},{"insert":{"card-link":"Counterspell"}},{"insert":", "},{"insert":{"card-link":"Shore Up"}},{"insert":", "},{"insert":{"card-link":"Magic Damper"}},{"insert":", "},{"insert":{"card-link":"Swiftfoot Boots"}},{"insert":" Fierce Guardianship, Deflecting Swat, Dispel, Negate, Counterspell, Shore Up, Magic Damper, Swiftfoot Boots."},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"If Vivi survives a full rotation, the setup is complete.\n Once Vivi untaps, "},{"attributes":{"bold":true},"insert":"you usually win"},{"insert":".\n"},{"attributes":{"bold":true},"insert":"3. Combo Turn: Draw Chain, Storm Line, Pump Line"},{"attributes":{"header":2},"insert":"\n"},{"insert":"Start chaining your massive number of cheap spells.\n\n"},{"attributes":{"bold":true},"insert":"Replacement / Draw Spells"},{"attributes":{"header":3},"insert":"\n"},{"insert":{"card-link":"Crimson Wisps"}},{"insert":", "},{"insert":{"card-link":"Expedite"}},{"insert":", "},{"insert":{"card-link":"Opt"}},{"insert":", "},{"insert":{"card-link":"Preordain"}},{"insert":", "},{"insert":{"card-link":"Gitaxian Probe"}},{"insert":", "},{"insert":{"card-link":"Brainstorm"}},{"insert":", "},{"insert":{"card-link":"Frantic Search"}},{"insert":", etc.\n → They replace themselves.\n → Vivi triggers and grows.\n → With cost reduction, many of them cost "},{"attributes":{"bold":true},"insert":"0 mana"},{"insert":" during the combo turn.\n"},{"attributes":{"bold":true},"insert":"Copy Effects"},{"attributes":{"header":3},"insert":"\n"},{"insert":{"card-link":"Reiterate"}},{"insert":", "},{"insert":{"card-link":"Bonus Round"}},{"insert":", "},{"insert":{"card-link":"Display of Power"}},{"insert":", "},{"insert":{"card-link":"Flare of Duplication"}},{"insert":", "},{"insert":{"card-link":"Harmonic Prodigy"}},{"insert":", "},{"insert":{"card-link":"Marvin, Murderous Mimic"}},{"insert":", "},{"insert":{"card-link":"Veyran, Voice of Duality"}},{"insert":"\n → Multiply value, triggers, and mana.\n\n"},{"attributes":{"bold":true},"insert":"Mana Explosion"},{"attributes":{"header":3},"insert":"\n"},{"insert":{"card-link":"Storm-Kiln Artist"}},{"insert":", "},{"insert":{"card-link":"Runaway Steam-Kin"}},{"insert":", "},{"insert":{"card-link":"Seething Song"}},{"insert":", "},{"insert":{"card-link":"Mana Geyser"}},{"insert":", \n → Practical unlimited mana during the combo turn.\n\n"},{"attributes":{"bold":true},"insert":"Convergence Points: Actual Win Paths"},{"attributes":{"header":3},"insert":"\n"},{"attributes":{"bold":true},"insert":"A. Storm Finish"},{"insert":"\n\n"},{"insert":{"card-link":"Mind's Desire"}},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Bonus Round"}},{"insert":" + "},{"insert":{"card-link":"Reiterate"}},{"insert":" loops"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Mizzix's Mastery"}},{"insert":" as pseudo-storm"},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"B. Draw Loops → Direct Damage"},{"insert":"\n\n"},{"insert":{"card-link":"Niv-Mizzet, Parun"}},{"insert":" kills the table once loops start"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":{"card-link":"Curiosity"}},{"insert":" / "},{"insert":{"card-link":"Ophidian Eye"}},{"insert":" / "},{"insert":{"card-link":"Tandem Takedown"}},{"insert":"  = infinite triggers"},{"attributes":{"list":"bullet"},"insert":"\n"},{"attributes":{"bold":true},"insert":"C. "},{"attributes":{"bold":true},"insert":{"card-link":"Vivi Ornitier"}},{"attributes":{"bold":true},"insert":"  Becomes the Wincon"},{"insert":"\n Dozens of spell triggers → Vivi grows to lethal damage output.\n"},{"attributes":{"bold":true},"insert":"D. "},{"attributes":{"bold":true},"insert":{"card-link":"Ojer Axonil, Deepest Might // Temple of Power"}},{"attributes":{"bold":true},"insert":" Shortcut"},{"insert":"\n All "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":"  damage becomes "},{"attributes":{"bold":true},"insert":"minimum 4"},{"insert":".\n 20+ "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":"  triggers = lethal for the entire table.\n"},{"attributes":{"bold":true},"insert":"E. Omniscience"},{"insert":"\n Once resolved, you simply unload your entire hand/library.\n"},{"attributes":{"bold":true},"insert":"4. Concrete Win Lines"},{"attributes":{"header":2},"insert":"\n"},{"attributes":{"bold":true},"insert":"1. "},{"attributes":{"bold":true},"insert":{"card-link":"Bonus Round"}},{"attributes":{"bold":true},"insert":"  → cantrip chain → exponential Vivi scaling."},{"insert":"\n"},{"attributes":{"bold":true},"insert":"2. "},{"attributes":{"bold":true},"insert":{"card-link":"Reiterate"}},{"attributes":{"bold":true},"insert":"  + "},{"attributes":{"bold":true},"insert":{"card-link":"Seething Song"}},{"attributes":{"bold":true},"insert":" = Infinite Mana"},{"insert":"\n → Infinite spells for "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":" \n → Infinite "},{"insert":{"card-link":"Storm-Kiln Artist"}},{"insert":"  triggers\n → Infinite "},{"insert":{"card-link":"Vivi Ornitier"}},{"insert":"  or "},{"insert":{"card-link":"Niv-Mizzet, Parun"}},{"insert":"  damage.\n"},{"attributes":{"bold":true},"insert":"3. Display of Power into a Bonus Round stack"},{"insert":"\n → Triple copies → massive storm → "},{"insert":{"card-link":"Mind's Desire"}},{"insert":"  \n"},{"attributes":{"bold":true},"insert":"4. "},{"attributes":{"bold":true},"insert":{"card-link":"Vivi Ornitier"}},{"attributes":{"bold":true},"insert":"  + "},{"attributes":{"bold":true},"insert":{"card-link":"Curiosity"}},{"attributes":{"bold":true},"insert":" / "},{"attributes":{"bold":true},"insert":{"card-link":"Ophidian Eye"}},{"attributes":{"bold":true},"insert":" / "},{"attributes":{"bold":true},"insert":{"card-link":"Tandem Lookout"}},{"insert":"\n → Damage draws cards → draws cast spells → spells deal damage\n → Fully self-sustaining loop.\n"},{"attributes":{"bold":true},"insert":"5. Playstyle"},{"attributes":{"header":2},"insert":"\n"},{"insert":"This is a "},{"attributes":{"bold":true},"insert":"control-storm hybrid"},{"insert":":\n\nYou don’t need mass removal; "},{"insert":{"card-link":"Cyclonic Rift"}},{"insert":" is your only real reset."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"You wait for the exact turn cycle where nobody can meaningfully interact."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Then you unload, generate storm/mana/card advantage, and win in one go."},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"The deck is designed to avoid “forced” storm turns; your engines make the combo turn naturally self-sustaining.\n\n\n\n"},{"attributes":{"bold":true},"insert":"You call this SEMI-BUDGET?!"},{"attributes":{"header":2},"insert":"\n"},{"insert":"I specifically addressed this in a comment below. I hope that this is reasonable.\n"}]}
+Format=commander
+Bracket=0
+Author=laustar
+Tags=
+Version=0
+URL=https://archidekt.com/decks/13765265
+Date=2026-01-14
+Created=2025-06-12
+Updated=2026-01-14
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Vivi Ornitier|FIN|248
+
+
+[Main]
+1 Arcane Signet|CMM|653
+1 Archmage of Runes|FDN|30
+1 Artist's Talent|BLB|124
+1 Bloodstained Mire|MH3|216
+1 Bonus Round
+1 Brainstorm|FCA|28
+1 Brass's Bounty|FDN|190
+1 Cascade Bluffs|BLC|297
+1 Case of the Ransacked Lab|MKM|45
+1 Combat Tutorial|FIN|48
+1 Command Tower|CMM|659
+1 Counterspell|FCA|4
+1 Crimson Wisps
+1 Curiosity|ISD|49
+1 Cyclonic Rift|CMM|84
+1 Dispel|BFZ|76
+1 Display of Power|LTR|119
+1 Evolving Wilds|LTC|306
+1 Exotic Orchard|WHO|276
+1 Expedite|BBD|177
+1 Fierce Guardianship|CMM|694
+1 Fiery Islet|WHO|278
+1 Fire Magic|FIN|136
+1 Flooded Strand|MH3|220
+1 Frantic Search|CMM|632
+1 Frostboil Snarl|WHO|282
+1 Gitaxian Probe|NPH|35
+1 Harmonic Prodigy|MH2|132
+1 Haste Magic|FIN|140
+1 Haze of Rage|TSR|169
+1 Helm of Awakening|VIS|145
+1 Into the Flood Maw|BLB|52
+6 Island|FIN|298
+1 Izzet Boilerworks|2X2|326
+1 Magic Damper|FIN|61
+1 Mana Geyser|5DN|75
+1 Mind's Desire|C21|123
+1 Mistrise Village|TDM|261
+1 Monstrous Rage|WOE|142
+5 Mountain|FIN|304
+1 Negate|MOM|68
+1 Niv-Mizzet, Parun|GRN|192
+1 Niv-Mizzet, Visionary
+1 Ojer Axonil, Deepest Might|LCI|317
+1 Omniscience|FDN|312
+1 Opera Love Song|FIN|147
+1 Ophidian Eye|TSP|70
+1 Opt|DOM|60
+1 Path of Ancestry|CMM|661
+1 Pinnacle Monk|MH3|246
+1 Polluted Delta|MH3|224
+1 Preordain|WHO|218
+1 Quicksilver Elemental|MRD|47
+1 Ral, Monsoon Mage|MH3|445
+1 Reiterate|TSP|175
+1 Reliquary Tower|CMM|425
+1 Rhystic Study|FCA|31
+1 Rite of the Dragoncaller|FDN|92
+1 Ruby Medallion|CMM|405
+1 Seething Song|9ED|216
+1 Shivan Reef|BLC|331
+1 Shore Up|BLB|69
+1 Sigil of Sleep|DDI|25
+1 Sink into Stupor|MH3|241
+1 Sleight of Hand|WOE|67
+1 Snap|DMR|66
+1 Stella Lee, Wild Card|OTC|3
+1 Stock Up|DFT|67
+1 Storm-Kiln Artist|STX|115
+1 Stormcarved Coast|WHO|308
+1 Stormcatch Mentor|BLB|234
+1 Stormsplitter|BLB|154
+1 Sulfur Falls|BLC|333
+1 Swiftfoot Boots|FDN|355
+1 Tandem Lookout
+1 Temple of Epiphany|BLC|340
+1 Terramorphic Expanse|CMM|428
+1 Treasure Cruise|KTK|59
+1 Veyran, Voice of Duality|OTC|248
+1 Wild Ride|TDM|132
+1 Windfall|USG|111
+1 Wooded Foothills|MH3|236
+
+
+[Sideboard]
+
+

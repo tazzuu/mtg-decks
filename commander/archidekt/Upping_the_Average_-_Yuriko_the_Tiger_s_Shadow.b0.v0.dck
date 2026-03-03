@@ -1,0 +1,27 @@
+[metadata]
+Name=Upping the Average - Yuriko, the Tiger's Shadow
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/1ZuSdm-OMKY"},"insert":"https://youtu.be/1ZuSdm-OMKY"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nCoastal Breach\nCurtains' Call\nSpark Double\nEvacuation\n\nConspiracy\nUnnatural Selection\n\nMausoleum Wanderer\nSiren Stormtamer\nGingerbrute\nWingcrafter\nMothdust Changeling\n\nFaerie Conclave\nBlinkmoth Nexus\n\nFar // Away\nSpite // Malice\nAzra Smokeshaper\nSubmerge\nTrickery Charm\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/639285
+Date=2020-07-02
+Created=2020-06-30
+Updated=2020-07-02
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Yuriko, the Tiger's Shadow
+
+
+[Main]
+1 Baleful Strix
+1 Gingerbrute|JMP|466
+1 Ornithopter
+
+
+[Sideboard]
+
+

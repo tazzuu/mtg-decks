@@ -1,0 +1,105 @@
+[metadata]
+Name=Runo Stormkirk - Sea Monsters
+Description={"ops":[{"insert":{"video":"https://www.youtube.com/embed/Kbfhsu6Fl3M?showinfo=0"}},{"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=tolariancommunitycollege
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2753491
+Date=2022-05-24
+Created=2022-05-23
+Updated=2022-05-24
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Runo Stromkirk|VOW|246
+
+
+[Main]
+1 Arcane Signet|CLB|298
+1 Archetype of Imagination|C18|81
+1 Bident of Thassa|C15|86
+1 Brainstorm|AFC|79
+1 Buried Alive|UMA|88
+1 Charcoal Diamond|CLB|305
+1 Choked Estuary|NCC|393
+1 Command Tower|CLB|351
+1 Commander's Sphere|NCC|363
+1 Counterspell|MH2|267
+1 Dark Depths|2XM|314
+1 Darkwater Catacombs|NCC|398
+1 Deepchannel Mentor|SHM|35
+1 Dimir Signet|NCC|365
+1 Drowned Catacomb|XLN|253
+1 Elder Deep-Fiend|CMR|368
+1 Entomb|UMA|94
+1 Exotic Orchard|NCC|400
+1 Feed the Swarm|NCC|250
+1 Fellwar Stone|NCC|367
+1 Fleet Swallower|XLN|57
+1 Flow of Ideas|SHM|38
+1 Gilded Lotus|DOM|215
+1 Halimar Depths|AFC|244
+1 Hullbreaker Horror|VOW|63
+1 Ice Tunnel|KHM|262
+1 Icebreaker Kraken|KHM|63
+1 Inundate|EVE|25
+1 Junk Winder|MH2|48
+1 Kiora Bests the Sea God|THB|52
+1 Kraken of the Straits|BNG|42
+1 Lightning Greaves|NCC|371
+1 Military Intelligence|ZNC|31
+1 Morphic Pool|CLB|357
+1 Mortuary Mire|MIC|176
+1 Mystic Remora|ICE|87
+1 Nemesis of Reason|ARB|28
+1 Night's Whisper|VOC|133
+1 Nykthos, Shrine to Nyx|THS|223
+1 Octopus Umbra|C18|11
+1 Ponder|NCC|229
+1 Pongify|2XM|62
+1 Propaganda|AFC|91
+1 Quest for Ula's Temple|WWK|35
+1 Quicksilver Amulet|M12|214
+1 Ravenform|KHM|72
+1 Reconnaissance Mission|VOC|111
+1 Rush of Knowledge|2XM|66
+1 Sea-Dasher Octopus|IKO|66
+1 Sensei's Divining Top|EMA|232
+1 Serpent of Yawning Depths|THB|291
+1 Shipbreaker Kraken|CMR|404
+1 Shipwreck Marsh|MID|267
+1 Sky Diamond|CLB|337
+1 Slinn Voda, the Rising Deep|CMR|405
+15 Snow-Covered Island|KHM|278
+5 Snow-Covered Swamp|KHM|280
+1 Sol Ring|NCC|379
+1 Sol Talisman|MH2|236
+1 Spawning Kraken|C21|33
+1 Stormtide Leviathan|CMR|407
+1 Sunken Hollow|NCC|431
+1 Sword of Hearth and Home|MH2|238
+1 Sword of the Animist|AFC|218
+1 Talisman of Dominance|MIC|164
+1 Temple of Deceit|MIC|184
+1 Temple of the False God|NCC|436
+1 Thassa, God of the Sea|THS|66
+1 Thespian's Stage|2XM|327
+1 Thran Dynamo|C19|225
+1 Thryx, the Sudden Storm|THB|76
+1 Tidal Kraken|9ED|105
+1 Underground River|C16|335
+1 Unmarked Grave|MH2|106
+1 Watery Grave|GRN|259
+1 Wayfarer's Bauble|CLB|344
+1 Whelming Wave|CMR|409
+1 Wonder|MH2|271
+1 Wormhole Serpent|STX|62
+1 Worn Powerstone|C18|230
+1 Wrexial, the Risen Deep|NCC|359
+
+
+[Sideboard]
+
+

@@ -1,0 +1,102 @@
+[metadata]
+Name=Mogis - The Joy of Agony
+Description={"ops":[{"insert":"Mogis leads a Rakdos punishment deck that slowly bleeds the table by forcing sacrifices or damage every upkeep, then stacks effects that punish spells, land taps, and discards while making it risky to attack you. You control the pace with removal and board resets, and finish by turning all the small pings into lethal damage with big drain spells and damage multipliers.\n"}]}
+Format=commander
+Bracket=3
+Author=frifty
+Tags=
+Version=0
+URL=https://archidekt.com/decks/16992339
+Date=2026-02-28
+Created=2025-10-26
+Updated=2026-02-28
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Mogis, God of Slaughter|SLD|78
+
+
+[Main]
+1 Accursed Marauder|MH3|80
+1 Angrath's Marauders|OTC|153
+1 Arcane Signet|SLD|1492★
+1 Azra Oddsmaker
+1 Black Waltz No. 3|FIN|478
+1 Blightstep Pathway|KHM|291
+1 Blood Crypt|UNF|279
+1 Bloodchief Ascension|CMM|636
+1 Bloodfell Caves|DFT|251
+1 Bojuka Bog|EOC|149
+1 Bottomless Pit|STH|51
+1 Bubble Matrix|WTH|146
+1 Burglar Rat|FDN|170
+1 Charcoal Diamond|MIR|296
+1 Command Tower|M3C|331
+1 Crypt Ghast|RVR|423
+1 Cunning Lethemancer|ALA|69
+1 Cut|SLD|367
+1 Dark Ritual|STA|26
+1 Deadly Rollick|CMM|695
+1 Demonic Tutor
+1 Diabolic Tutor|SLD|1592
+1 Disentomb|M12|93
+1 Dragonmaster Outcast|TDC|211
+1 Dragonskull Summit|TDC|357
+1 Entomb|DMR|82
+1 Fate Unraveler|DSC|141
+1 Fellwar Stone|CMM|657
+1 Fiery Emancipation|M21|143
+1 Goblin Sharpshooter|SPG|136
+1 Hypnotic Specter
+1 Kederekt Parasite|DSC|144
+1 Koh, the Face Stealer|TLA|322
+1 Leyline of the Void|DSK|106
+1 Lightning Bolt|SLD|1871
+1 Liliana Vess|M15|103
+1 Liliana's Caress
+1 Luxury Suite|CLB|602
+1 Magus of the Wheel|CMM|241
+1 Mai, Scornful Striker|TLA|109
+1 Manabarbs|M12|150
+1 Massacre Wurm|DSC|147
+1 Mayhem Devil|EOC|121
+1 Megrim|STH|62
+10 Mountain|FIN|304
+1 No Mercy|DMR|95
+1 Oppression|WOT|32
+1 Painful Quandary|BRO|331
+1 Parker Luck|SPM|258
+1 Polluted Bonds|WOT|75
+1 Pyroblast|SS3|5
+1 Qarsi Revenant|TDM|86
+1 Rakdos Charm|EOC|125
+1 Razorkin Needlehead|DSK|347
+1 Reforge the Soul
+1 Repay in Kind
+1 Restless Vents|LCI|284
+1 Sangromancer|SCD|103
+1 Screaming Nemesis|DSK|348
+1 Scytheclaw Raptor|LCI|323
+1 Sheoldred, the Apocalypse|DMU|435
+1 Sign in Blood|M13|110
+1 Sire of Insanity|SLD|275
+1 Skull Rend|RTR|195
+1 Smoke|5ED|268
+1 Smoldering Marsh|TDC|395
+1 Sol Ring|SLC|19
+1 Spellshock
+13 Swamp|FIN|300
+1 Tainted Peak|PIP|300
+1 Temple of Malice|THB|247
+1 Tergrid, God of Fright|KHM|112
+1 The Darkness Crystal|FIN|335
+1 Thran Dynamo|CMM|658
+1 Tor Wauki the Younger|DMC|46
+1 Valgavoth, Harrower of Souls|DSC|6
+1 Vampiric Tutor|DMR|108
+1 Waste Not|WOT|38
+
+
+[Sideboard]
+
+

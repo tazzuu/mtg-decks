@@ -1,0 +1,106 @@
+[metadata]
+Name=Zur the Enchanter
+Description={"ops":[{"insert":{"video":"https://www.youtube.com/embed/YRwDlkwmhmc?showinfo=0"}},{"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=tolariancommunitycollege
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2743173
+Date=2022-05-24
+Created=2022-05-21
+Updated=2022-05-24
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Zur the Enchanter|MM3|204
+
+
+[Main]
+1 Angelic Renewal|UMA|10
+1 Aqueous Form|CMR|56
+1 Arcane Laboratory|7ED|60
+1 Arrest
+1 Aven Mindcensor|TSR|5
+1 Azorius Guildgate|KHC|107
+1 Azorius Locket|VOC|160
+1 Azorius Signet|NCC|361
+1 Banishing Light|KHC|19
+1 Battle Mastery
+1 Blessing of Leeches|BOK|62
+1 Crab Umbra|ROE|58
+1 Curator's Ward|DOM|49
+1 Dark Tutelage|M11|90
+1 Desolation|VIS|58
+1 Dimir Guildgate|ZNC|127
+1 Dimir Locket|ZNC|111
+1 Dimir Signet|NCC|365
+1 Diplomatic Immunity|MMQ|75
+1 Dismal Backwater|NEO|267
+1 Dispel
+1 Dovin, Hand of Control|WAR|229
+1 Eel Umbra|AFC|83
+1 Empyrial Armor
+1 Energy Flux|MMQ|78
+1 Enhanced Surveillance|GRN|40
+1 Ethereal Armor|RTR|9
+1 Evolving Wilds|VOW|263
+1 Fade Away|EXO|34
+1 Forsaken Sanctuary|C18|247
+1 God-Pharaoh's Statue|WAR|238
+1 Helm of the Gods|ORI|230
+1 Hesitation|STH|33
+1 Hindering Light|ALA|173
+1 Hyena Umbra
+9 Island|CLB|457
+1 Island Sanctuary|5ED|39
+1 Jwar Isle Refuge|ZNC|133
+1 Kaya's Ghostform|WAR|94
+1 Kismet|6ED|27
+1 Lavinia, Azorius Renegade|RNA|189
+1 Lawmage's Binding|JMP|453
+1 Lunar Force|EMN|68
+1 Mana Breach|7ED|85
+1 Mana Leak
+1 Marble Diamond|CLB|320
+1 Meandering River|KHC|114
+1 Miscalculation|ULG|36
+1 Monastery Siege|C17|88
+1 Negate|ZNR|71
+1 Oath of Liliana|EMN|99
+1 Oblivion Ring|MM2|29
+1 Orzhov Guildgate|RNA|253
+1 Orzhov Locket|RNA|236
+1 Orzhov Signet|NCC|375
+8 Plains|CLB|453
+1 Prismatic Lens|TSR|272
+1 Prison Realm|WAR|26
+1 Recall|6ED|92
+1 Robe of Mirrors|10E|101
+1 Rule of Law|M20|35
+1 Scoured Barrens|NEO|274
+1 Seal of Cleansing|MH2|264
+1 Seal of Removal|MH2|269
+1 Sejiri Refuge|KHC|118
+1 Shielded by Faith|SS2|5
+1 Spell Pierce|NEO|80
+1 Sphere of the Suns|MM2|231
+1 Spirit Link|10E|45
+1 Spirit of the Labyrinth
+1 Stasis Snare|BFZ|50
+1 Submerged Boneyard|ZNC|141
+3 Swamp|CLB|459
+1 Talisman of Hierarchy|MH1|233
+1 Terramorphic Expanse|AFC|267
+1 Thopter Arrest|AER|25
+1 Tranquil Cove|NEO|280
+1 Turn Aside
+1 Unsubstantiate|M21|82
+1 Vivid Creek|NCC|444
+1 Vivid Marsh|C17|292
+1 Vivid Meadow|NCC|446
+
+
+[Sideboard]
+
+

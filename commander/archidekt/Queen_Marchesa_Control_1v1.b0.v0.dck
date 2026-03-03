@@ -1,0 +1,25 @@
+[metadata]
+Name=Queen Marchesa Control 1v1
+Description=
+Format=commander
+Bracket=0
+Author=JarJam
+Tags=
+Version=0
+URL=https://archidekt.com/decks/53783
+Date=2019-03-17
+Created=2019-03-01
+Updated=2019-03-17
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Queen Marchesa|CN2|78
+
+
+[Main]
+1 Bitterblossom|PUMA|U7
+
+
+[Sideboard]
+
+

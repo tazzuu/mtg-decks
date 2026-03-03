@@ -1,0 +1,119 @@
+[metadata]
+Name=Upping the Average - Urtet, Remnant of Memnarch
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/NjI6DBr-we4"},"insert":"https://youtu.be/NjI6DBr-we4"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nMirror Entity\nMechanized Production\nCrib Swap\nShimmer Dragon\nTeshar, Ancestor's Apostle\nDance of the Manse\nOpposition\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3983904
+Date=2023-02-15
+Created=2023-02-11
+Updated=2023-02-15
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Urtet, Remnant of Memnarch|ONC|42
+
+
+[Main]
+1 Academy Ruins|2XM|309
+1 Alibou, Ancient Witness|C21|7
+1 All Is Dust|UMA|1
+1 Alloy Myr|MM2|201
+1 Ancient Den
+1 Arcane Signet|ONC|125
+1 Brudiclad, Telchor Engineer|2XM|193
+1 Buried Ruin|ONC|147
+1 Chromatic Lantern|ONC|127
+1 Clock of Omens|M13|202
+1 Command Tower|ONC|151
+1 Copper Myr|MRD|158
+1 Counterspell|CMR|395
+1 Crib Swap|CLB|690
+1 Cryptolith Rite|SOI|200
+1 Dance of the Manse|NEC|136
+1 Darkmoss Bridge|MH2|245
+1 Darksteel Citadel|C16|288
+1 Darksteel Forge|2XM|248
+1 Darksteel Myr|SOM|151
+1 Dispatch|C21|88
+1 Distant Melody|SCD|48
+1 Drossforge Bridge|MH2|246
+1 Enlightened Tutor|EMA|9
+1 Etherium Sculptor|NEC|92
+1 Exotic Orchard|ONC|152
+1 Forest|SCD|350
+1 Foundry Inspector|NEC|152
+1 Genesis Chamber|BBD|235
+1 Gold Myr|NEC|153
+1 Goldmire Bridge|MH2|247
+1 Great Furnace|DDU|67
+1 Hovermyr|NPH|138
+1 Ichorclaw Myr|ONC|133
+1 Inventors' Fair|KLD|247
+1 Iron Myr|SOM|168
+3 Island|SCD|339
+1 Jhoira, Weatherlight Captain|2XM|203
+1 Kindred Discovery|CLB|81
+1 Knighted Myr|MH2|17
+1 Leaden Myr|MRD|191
+1 Lodestone Myr|MM2|220
+1 Lux Artillery|ONC|27
+1 Mechanized Production|J22|320
+1 Mirrodin Besieged|MH1|57
+1 Mirror Entity|CLB|701
+1 Mistvault Bridge|MH2|249
+1 Mountain|SCD|345
+1 Myr Battlesphere|ONC|138
+1 Myr Convert|ONE|234
+1 Myr Enforcer|MM2|224
+1 Myr Galvanizer|SOM|181
+1 Myr Kinsmith|ONE|236
+1 Myr Matrix|DST|132
+1 Myr Propagator|SOM|182
+1 Myr Reservoir|SOM|183
+1 Myr Retriever|2XM|277
+1 Myr Sire|DDU|58
+1 Myr Turbine|MBS|117
+1 Myr Welder|MBS|118
+1 Myrsmith|NEC|86
+1 Mystic Forge|M20|233
+1 Opposition|DMR|62
+1 Organic Extinction|NEC|8
+1 Palladium Myr|M21|234
+1 Path of Ancestry|ONC|161
+1 Path to Exile|ONC|84
+1 Plague Myr|ONC|139
+3 Plains|SCD|335
+1 Razortide Bridge|MH2|252
+1 Reflections of Littjara|CLB|733
+1 Reliquary Tower|C21|311
+1 Rustvale Bridge|MH2|253
+1 Seat of the Synod|J22|820
+1 Shimmer Dragon|J22|347
+1 Shimmer Myr|NEC|157
+1 Silver Myr|NEC|158
+1 Silverbluff Bridge|MH2|255
+1 Skullclamp|CLB|870
+1 Slagwoods Bridge|MH2|256
+1 Sol Ring|ONC|140
+1 Spire of Industry|AER|184
+1 Steel Overseer|J22|798
+1 Swords to Plowshares|ONC|89
+1 Tanglepool Bridge|MH2|257
+1 Teshar, Ancestor's Apostle|NEC|90
+1 Tezzeret, Master of the Bridge|WAR|275
+1 The Mycosynth Gardens|ONE|256
+1 Thornglint Bridge|MH2|258
+1 Thoughtcast|NEC|99
+1 Tree of Tales|MRD|285
+1 Unwinding Clock
+1 Vanquisher's Banner|XLN|251
+1 Vault of Whispers|MRD|286
+1 Wake the Past|C21|75
+
+
+[Sideboard]
+
+

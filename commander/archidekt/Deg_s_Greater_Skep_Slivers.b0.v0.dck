@@ -1,0 +1,128 @@
+[metadata]
+Name=Deg's Greater Skep Slivers
+Description={"ops":[{"insert":"The deck has plenty of lines for going infinite;\n\n"},{"insert":{"card-link":"Aetherflux Reservoir"}},{"insert":"  + "},{"insert":{"card-link":"Aluren"}},{"insert":"  + "},{"insert":{"card-link":"Hibernation Sliver"}},{"insert":" \nAluren allows you to cast Hibernation Sliver for free, and Hibernation Sliver allows you to return it to hand for a constant cost of 2 life. However each time it's cast, Aetherflux Reservoir's ability increases your lifegain \"storm count\" and you can, without anyone interacting with you, gain any number of ever increasing life. Feel free to choose a very large number as a shortcut.\n\nThis combo can be replicated with "},{"insert":{"card-link":"Morophon, the Boundless"}},{"insert":" instead of Aluren.\n\n--\n\n "},{"insert":{"card-link":"Acererak the Archlich"}},{"insert":" + "},{"insert":{"card-link":"Aluren"}},{"insert":" \n\nAluren allows you to cast Acererak for free at instant speed, and Acererak will always return to hand so long as Tomb of Annihilation is not completed. The Dungeon \"Lost Mine of Phandelver\" has a room named \"Dark Pool\" where you drain each opponent for 1 and gain 1 life, and the final room has you draw a card. You can repeat this Dungeon for however many cards are in your deck, which is usually enough to kill each opponent. \n\n--\n\nSliver Queen + Mana Echoes\n\nWhenever you play or create a Sliver or Sliver Token, Mana Echoes will generate you colourless mana, of which you can use to make additional Sliver Creature Tokens with Sliver Queen's ability, and it makes mana exponentially, netting you infinite colourless mana and infinite sliver creature tokens.\n\n--\n\nSliver Overlord + Intruder Alarm + Gemhide (or Manaweft) Sliver + Heart (or Blur or Cloudshredder) Sliver\n\nWhenever you search for any cast a Sliver creature spell, it entering causes Intruder Alarm to trigger, untapping all your creatures. With enough Slivers in play, this eventually create an exponential net gain of mana in any combination you want, allowing you to search and play every single sliver from your deck (or any preferred combination). Great for setting up other combos.\n\n--\n\nSliver Queen + Intruder Alarm + Gemhide (or Manaweft) Sliver + Heart (or Blur or Cloudshredder) Sliver + Lavabelly Sliver\n\nSliver Queen's ability cost is reduced down to just 1 mana with Intruder Alarm, and then the tokens having haste and the ability to produce mana means they can instantly replenish/replace themselves. Having Lavabelly Sliver out means you can ping opponents and planeswalkers for infinite damage.\n\n--\n\nBlasphemous Act + Spiteful Sliver + Any number of other slivers\n\nB-Act's damage causes Spiteful Sliver to reflect the damage dealt to opponents, usually for lethal damage if you had enough slivers out.\n\n--\n\n\n\n"}]}
+Format=commander
+Bracket=0
+Author=Deg_Unkarr
+Tags=
+Version=0
+URL=https://archidekt.com/decks/168188
+Date=2026-01-01
+Created=2019-08-11
+Updated=2026-01-01
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Sliver Overlord|SLD|10
+
+
+[Main]
+1 Acererak the Archlich|SLD|1784
+1 Aetherflux Reservoir|KLD|192
+1 Aluren|TMP|213
+1 Amoeboid Changeling|J22|269
+1 Arcane Signet|CMM|653
+1 Assassin's Trophy|2X2|372
+1 Basal Sliver|SLD|629
+1 Blasphemous Act|WHO|1063
+1 Blood Crypt|UNF|279
+1 Bloodstained Mire|ZNE|3
+1 Blur Sliver|CMM|873
+1 Blur Sliver|SLD|637
+1 Bountiful Promenade|ZNE|20
+1 Breeding Pool|UNF|286
+1 Cavern of Souls|LCI|410b
+1 Chromatic Lantern|MPS|8
+1 Cloudshredder Sliver|SLD|660
+1 Command Tower
+1 Concordant Crossroads|2X2|367
+1 Crystalline Sliver|SLD|661
+1 Cyclonic Rift|2XM|339
+1 Darkheart Sliver|TSR|249
+1 Defense of the Heart
+1 Demonic Tutor|STA|27
+1 Dormant Sliver|TSR|250
+1 Eerie Ultimatum|SPG|104
+1 Enlightened Tutor|DMR|412
+1 Flooded Strand|ZNE|1
+1 Forbidden Orchard|EXP|39
+1 Forest|DFT|516
+1 Galerider Sliver|CMM|849
+1 Galerider Sliver|SLD|619
+1 Gemhide Sliver|SLD|648
+1 Gemhide Sliver|CMM|896
+1 Godless Shrine|UNF|282
+1 Grim Tutor|SLD|365
+1 Hallowed Fountain|UNF|277
+1 Harmonic Sliver|SLD|663
+1 Heart Sliver|H09|7
+1 Hibernation Sliver|SLD|664
+1 Intruder Alarm|SLD|229
+1 Island|DFT|513
+1 Lavabelly Sliver|SLD|665
+1 Leyline of the Guildpact|MKM|217
+1 Lotus Petal
+1 Luxury Suite|ZNE|18
+1 Mana Echoes|2XM|136
+1 Manaweft Sliver|SLD|650
+1 Marsh Flats|ZNE|6
+1 Mirari's Wake|MH2|320
+1 Mistrise Village|TDM|397
+1 Misty Rainforest|ZNE|10
+1 Morophon, the Boundless|CMM|1058
+1 Morphic Pool|ZNE|17
+1 Mountain|DFT|515
+1 Mystical Tutor|SS1|6
+1 Necrotic Sliver|SLD|666
+1 Overgrown Tomb|UNF|284
+1 Plains|DFT|512
+1 Polluted Delta|ZNE|2
+1 Powerbalance|MH3|495
+1 Prismatic Vista|ZNE|27
+1 Profane Tutor|MH2|452
+1 Quick Sliver|CMM|907
+1 Quick Sliver|SLD|655
+1 Rejuvenating Springs|CMR|709
+1 Rhystic Study|WOT|25
+1 Sacred Foundry|UNF|285
+1 Scheming Symmetry|SLD|1520★
+1 Sea of Clouds|ZNE|16
+1 Shifting Sliver|CMM|855
+1 Sliver Hive|SLD|668
+1 Sliver Hivelord|SLD|276
+1 Sliver Legion
+1 Sliver Queen|STH|129
+1 Smothering Tithe
+1 Sol Ring|SLD|249
+1 Spire Garden|ZNE|19
+1 Spiteful Sliver|SLD|643
+1 Steam Vents|UNF|283
+1 Stomping Ground|UNF|280
+1 Striking Sliver|CMM|882
+1 Striking Sliver|SLD|644
+1 Swamp|DFT|514
+1 Syphon Sliver|SLD|634
+1 Teferi's Protection|STA|11
+1 Temple Garden|UNF|281
+1 Tempt with Discovery|LTC|532
+1 The First Sliver|SLD|1371
+1 Thrumming Hivepool|EOE|356
+1 Training Center|CMR|713
+1 Training Grounds
+1 Undergrowth Stadium|CMR|714
+1 Vampiric Tutor|DMR|430
+1 Vault of Champions|CMR|715
+1 Virulent Sliver|SLD|659Φ
+1 Vivien, Monsters' Advocate|IKO|277
+1 Ward Sliver|SLD|617
+1 Watery Grave|UNF|278
+1 Winds of Abandon|MH1|37
+1 Windswept Heath|ZNE|5
+1 Wooded Foothills|ZNE|4
+1 Wrenn and Realmbreaker|MOM|322
+1 Yavimaya, Cradle of Growth|MH2|480
+
+
+[Sideboard]
+
+

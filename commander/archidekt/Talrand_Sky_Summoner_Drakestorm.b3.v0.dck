@@ -1,0 +1,138 @@
+[metadata]
+Name=Talrand, Sky Summoner: Drakestorm
+Description={"ops":[{"insert":"Date of Creation:\n2013"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nTheme:\nCantripping into drakes"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nPower: \nNot super fast but can get inevitable around turn 8"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nWin conditions:\nGenerally drake tokens made via casting a ton of cheap cantrips, often buffed with things like "},{"insert":{"card-link":"Gravitational Shift"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRules and notes:\nNo infinites"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nChangelog:\n2020 02-11 add "},{"insert":{"card-link":"Reset"}},{"insert":" rmv "},{"insert":{"card-link":"Merchant Scroll"}},{"insert":"  (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-11 add "},{"insert":{"card-link":"Dig Through Time"}},{"insert":" rmv "},{"insert":{"card-link":"The Magic Mirror"}},{"insert":" (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-27 add "},{"insert":{"card-link":"Castle Vantress"}},{"insert":" rmv "},{"insert":{"card-link":"Snow-Covered Island"}},{"insert":" I think I can go down 1 island for Castle (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-27 add "},{"insert":{"card-link":"Coat of Arms"}},{"insert":" rmv "},{"insert":{"card-link":"Snow-Covered Island"}},{"insert":" 2.4 avc CMC, ton of filtering, let's see if 34 lands is ok (+5)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-27 add "},{"insert":{"card-link":"Wasteland"}},{"insert":" rmv "},{"insert":{"card-link":"Tectonic Edge"}},{"insert":" Found a Wasteland I wasn't using (CMC 0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 03-13 add "},{"insert":{"card-link":"Throne of the God-Pharaoh"}},{"insert":" rmv "},{"insert":{"card-link":"Future Sight"}},{"insert":" Looking for non-combat options to deal damage/win (-3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 04-14 add "},{"insert":{"card-link":"Veilstone Amulet"}},{"insert":" rmv "},{"insert":{"card-link":"Midnight Clock"}},{"insert":" The unpredictability of Clock was frustrating, want some protection (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 04-14 add "},{"insert":{"card-link":"Reconnaissance Mission"}},{"insert":" rmv "},{"insert":{"card-link":"Reset"}},{"insert":" Reset was just fine, Bident and Coastal Piracy are almost always good (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 04-14 add "},{"insert":{"card-link":"Fierce Guardianship"}},{"insert":" rmv "},{"insert":{"card-link":"Ponder"}},{"insert":" Need more protection for Talrand (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 06-18 add "},{"insert":{"card-link":"Teferi's Ageless Insight"}},{"insert":" rmv "},{"insert":{"card-link":"Throne of the God-Pharaoh"}},{"insert":" Throne was win-more (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 08-04 add "},{"insert":{"card-link":"Fumble"}},{"insert":" rmv "},{"insert":{"card-link":"Quicken"}},{"insert":" Not many sorceries and wanna test Fumble (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 09-12 add "},{"insert":{"card-link":"Blink of an Eye"}},{"insert":" rmv "},{"insert":{"card-link":"Boomerang"}},{"insert":" Rarely used Boomerang to hit lands, this is easier to cast (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 10-13 add "},{"insert":{"card-link":"Sea Gate Restoration // Sea Gate, Reborn"}},{"insert":" rmv "},{"insert":{"card-link":"Terrain Generator"}},{"insert":" Generator just felt a little slow (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-07 add "},{"insert":{"card-link":"War Room"}},{"insert":" rmv "},{"insert":{"card-link":"Castle Vantress"}},{"insert":" War Room is just a better Castle (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 12-03 add "},{"insert":{"card-link":"Secrets of the Golden City"}},{"insert":" rmv "},{"insert":{"card-link":"Mystical Tutor"}},{"insert":" Tutors are so boring (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Mystic Reflection"}},{"insert":" rmv "},{"insert":{"card-link":"Portent"}},{"insert":" Portent is slow, etc (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Midnight Clock"}},{"insert":" rmv "},{"insert":{"card-link":"Teferi's Ageless Insight"}},{"insert":" TAI just too inconsistent (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-22 add "},{"insert":{"card-link":"Archmage Emeritus"}},{"insert":" rmv "},{"insert":{"card-link":"Primal Amulet // Primal Wellspring"}},{"insert":" Copying cantrips is mediocre (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-22 add "},{"insert":{"card-link":"Curiosity Crafter"}},{"insert":" rmv "},{"insert":{"card-link":"Blink of an Eye"}},{"insert":" Blink always felt meh (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-22 add "},{"insert":{"card-link":"Perplexing Test"}},{"insert":" rmv "},{"insert":{"card-link":"Into the Roil"}},{"insert":" Rift dodging tokens feels good (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-22 add "},{"insert":{"card-link":"Resculpt"}},{"insert":" rmv "},{"insert":{"card-link":"Serum Visions"}},{"insert":" Visions felt bad as a sorcery, Resculpt is legit (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 05-23 add "},{"insert":{"card-link":"As Foretold"}},{"insert":" rmv "},{"insert":{"card-link":"Talrand's Invocation"}},{"insert":" AF is just so much value (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 06-25 add "},{"insert":{"card-link":"Spectral Deluge"}},{"insert":" rmv "},{"insert":{"card-link":"Teferi's Veil"}},{"insert":" Love TV but not really a defensive deck (+4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-12 add "},{"insert":{"card-link":"Plagiarize"}},{"insert":" rmv "},{"insert":{"card-link":"Perplexing Test"}},{"insert":" Have enough mass bounce (-2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 08-16 add "},{"insert":{"card-link":"Rod of Absorption"}},{"insert":" rmv "},{"insert":{"card-link":"Mystic Reflection"}},{"insert":" Want to test Rod, and MR has been meh (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Consider"}},{"insert":" rmv "},{"insert":{"card-link":"Preordain"}},{"insert":" Instant is just better in this deck (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 11-13 add "},{"insert":{"card-link":"Whispering Wizard"}},{"insert":" rmv "},{"insert":{"card-link":"Cyclonic Rift"}},{"insert":" Rift feels bad to use on someone (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Access Denied"}},{"insert":" rmv"},{"insert":{"card-link":"Distant Melody"}},{"insert":" Too many different creature types (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Discover the Impossible"}},{"insert":" rmv "},{"insert":{"card-link":"Opt"}},{"insert":" Want to test this, lot of value (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 02-10 add "},{"insert":{"card-link":"Shark Typhoon"}},{"insert":" rmv "},{"insert":{"card-link":"Mind Stone"}},{"insert":" Basically another Talrand (+4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 07-15 add "},{"insert":{"card-link":"Press the Enemy"}},{"insert":" rmv "},{"insert":{"card-link":"Shark Typhoon"}},{"insert":" Never felt like a good time to spend 5U (-2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 07-15 add "},{"insert":{"card-link":"Rivendell"}},{"insert":" rmv "},{"insert":{"card-link":"Snow-Covered Island"}},{"insert":" Mana sink and draw setup (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 08-28 add "},{"insert":{"card-link":"Quick Study"}},{"insert":" rmv "},{"insert":{"card-link":"Discover the Impossible"}},{"insert":" QS more consistent (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 08-28 add "},{"insert":{"card-link":"Throne of Eldraine"}},{"insert":" rmv "},{"insert":{"card-link":"Strixhaven Stadium"}},{"insert":" More upside on Throne I guess (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"}]}
+Format=commander
+Bracket=3
+Author=danaroach
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3995
+Date=2025-06-29
+Created=2019-02-05
+Updated=2025-06-29
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Talrand, Sky Summoner|M13|72
+
+
+[Main]
+1 A Little Chat|SNC|47
+1 Abjure|WTH|31
+1 Abstergo Entertainment|ACR|171
+1 Access Denied|NEC|11
+1 Alandra, Sky Dreamer|J22|9
+1 An Offer You Can't Refuse|SNC|51
+1 Arcane Heist|OTC|13
+1 Arcane Signet|ELD|331
+1 Archmage Emeritus|STX|37
+1 Archmage of Runes|FDN|30
+1 Archmage's Charm|MH1|40
+1 As Foretold|AKH|42
+1 Bident of Thassa|THS|42
+1 Bottomless Pool|DSK|43
+1 Brainstorm|MMQ|61
+1 Caged Sun|NPH|132
+1 Candlekeep Inspiration|CLB|59
+1 Chart a Course|XLN|48
+1 Coastal Piracy|8ED|67
+1 Complete the Circuit|MOM|52
+1 Consider|MID|44
+1 Counterspell
+1 Curiosity Crafter|C21|24
+1 Cyber Conversion|WHO|355
+1 Dig Through Time|UMA|50
+1 Discover the Impossible|NEO|50
+1 Docent of Perfection|EMN|56
+1 Drake Hatcher|FDN|35
+1 Echoing Truth|DDF|66
+1 Enduring Curiosity|DSK|51
+1 Extraplanar Lens|MRD|169
+1 Faebloom Trick|FDN|38
+1 Favorable Winds|XLN|56
+1 Fellwar Stone|C16|254
+1 Flawless Forgery|NCC|26
+1 Forger's Foundry|OTC|14
+1 Gauntlet of Power|TSP|255
+1 Gitaxian Probe|NPH|35
+1 Gravitational Shift|ROE|69
+1 Hands of Binding|GTC|37
+1 Heraldic Banner|ELD|222
+1 Hermes, Overseer of Elpis|FIC|36
+1 Hidden Strings|DGM|12
+1 High Tide|FEM|18a
+1 Impulse|V13|5
+1 Irenicus's Vile Duplication|CLB|78
+1 Keep Watch|HOP|10
+1 Kindred Discovery|C17|11
+1 Lunar Insight|FDN|46
+1 Meeting of Minds|MOM|66
+1 Mind Games|STH|38
+1 Mirror Room|DSK|67
+1 Mission Briefing|GRN|44
+1 Mitotic Manipulation|MBS|27
+1 Murmuring Mystic|GRN|45
+1 Mystic Sanctuary|ELD|247
+1 Narset's Reversal|WAR|62
+1 Ojer Pakpatiq, Deepest Epoch|LCI|67
+1 Opt|INV|64
+1 Patchwork Banner|BLB|247
+1 Perilous Research|CSP|41
+1 Pit of Offerings|LCI|278
+1 Polymorph
+1 Polymorphist's Jest|M15|75
+1 Pongify|PLC|44
+1 Press the Enemy|LTR|65
+1 Quantum Misalignment|WHO|368
+1 Quick Study|WOE|65
+1 Rapid Hybridization|GTC|44
+1 Reality Shift
+1 Reconnaissance Mission|IKO|65
+1 Reenact the Crime|MKM|70
+1 Relic of Legends|DMU|236
+1 Reliquary Tower|C16|316
+1 Resculpt|STX|51
+1 Retraced Image|TOR|46
+1 Rivendell|LTR|344
+1 River Song's Diary|WHO|460
+1 Rod of Absorption|AFC|19
+1 Sapphire Medallion|C14|266
+1 Scavenger Grounds
+1 Sea Gate Restoration|ZNR|76
+1 Season of Weaving|BLB|68
+1 Shark Typhoon|IKO|67
+1 Sink into Stupor|MH3|241
+25 Snow-Covered Island|CSP|152
+1 Sol Ring
+1 Stock Up|DFT|67
+1 Strip Mine|4ED|363
+1 Strixhaven Stadium|STX|259
+1 Sunken Palace|M3C|81
+1 Swan Song|THS|65
+1 Sword of the Paruns|CMA|234
+1 Symmetry Matrix|BRO|252
+1 Talrand's Invocation|M13|73
+1 Teferi's Veil|WTH|53
+1 Telling Time|MM2|61
+1 Terrain Generator|NEM|143
+1 The Indomitable|LCC|75
+1 Thopter Fabricator|DFT|68
+1 Thought Vessel|C15|55
+1 Three Tree City|BLB|260
+1 Throne of Eldraine|WOC|28
+1 Throne of the God-Pharaoh|AKH|237
+1 Titan of Littjara|CMM|728
+1 Treasure Cruise|C16|101
+1 Ultimecia, Temporal Threat|FIN|441
+1 Unstoppable Plan|DFT|72
+1 Veilstone Amulet|FUT|166
+1 War Room|CMR|361
+1 Wasteland|TMP|330
+1 Whispering Wizard|VOW|88
+1 Wingblade Disciple|TDM|65
+1 Winged Words|M20|80
+
+
+[Sideboard]
+
+

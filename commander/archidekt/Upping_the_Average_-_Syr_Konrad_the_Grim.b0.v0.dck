@@ -1,0 +1,94 @@
+[metadata]
+Name=Upping the Average - Syr Konrad, the Grim
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/acCBoAkRsx0"},"insert":"https://youtu.be/acCBoAkRsx0"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nArcane Signet\nCharcoal Diamond\nStar Compass\nEverflowing Chalice\nManascape Refractor\n2 Swamp\n\nDeadly Tempest\nOblivion Stone\nMurderous Rider\n\nGrim Haruspex\nMidnight Reaper\nCorpse Augur\n\nWoe Strider\nAbhorrent Overlord\nExquisite Huntmaster\n\nHaunted Crossroads\nMimic Vat\nWake the Dead\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1135603
+Date=2021-02-10
+Created=2021-02-06
+Updated=2021-02-10
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Syr Konrad, the Grim|ZNC|56
+
+
+[Main]
+1 Abhorrent Overlord|THS|75
+1 Altar of Dementia|MH1|218
+1 Arcane Signet|KHC|96
+1 Ayara, First of Locthwain|ELD|75
+1 Blood Artist|JMP|206
+1 Bloodchief Ascension|ZEN|82
+1 Bojuka Bog
+1 Buried Alive|UMA|88
+1 Burnished Hart|KHC|98
+1 Cabal Stronghold|DOM|238
+1 Charcoal Diamond|CMR|303
+1 Corpse Augur|C17|106
+1 Crypt Ghast|C14|139
+1 Crypt of Agadeem|C14|288
+1 Deadly Tempest|C20|131
+1 Demon's Disciple|ZNR|97
+1 Doom Whisperer|GRN|69
+1 Everflowing Chalice
+1 Exquisite Huntmaster|CMR|122
+1 Feed the Swarm|ZNR|102
+1 Final Parting|DOM|93
+1 Fleshbag Marauder|CMR|128
+1 Footbottom Feast|CMD|84
+1 Forever Young|ELD|89
+1 Funeral Rites|JMP|235
+1 Gravepurge
+1 Gray Merchant of Asphodel|THB|99
+1 Grim Haruspex|C19|118
+1 Haunted Crossroads|MMQ|138
+1 Lightning Greaves|2XM|267
+1 Living Death
+1 Malakir Rebirth|ZNR|111
+1 Manascape Refractor|C20|68
+1 Massacre Girl|WAR|99
+1 Merciless Executioner|FRF|76
+1 Mesmeric Orb|2XM|272
+1 Midnight Reaper|GRN|77
+1 Mimic Vat|C20|246
+1 Mind Stone|KHC|102
+1 Mindcrank|IMA|220
+1 Morality Shift|JUD|70
+1 Mortuary Mire|C20|289
+1 Murderous Rider|ELD|97
+1 Myriad Landscape|KHC|115
+1 Necropotence|IMA|98
+1 Oblivion Stone|2XM|279
+1 Pawn of Ulamog|C17|120
+1 Perpetual Timepiece|KLD|227
+1 Phyresis|MBS|49
+1 Plaguecrafter
+1 Ravenous Chupacabra|JMP|269
+1 Read the Bones
+1 Reassembling Skeleton
+1 Sign in Blood|CM2|77
+1 Skullclamp
+1 Sol Ring|KHC|104
+1 Solemn Simulacrum|M21|239
+1 Star Compass|IMA|229
+1 Stinkweed Imp
+30 Swamp|M21|266
+1 Swiftfoot Boots|KHC|105
+1 Syphon Mind|CM2|80
+1 Tormod, the Desecrator|CMR|155
+1 Tortured Existence
+1 Viscera Seer|CMR|158
+1 Wake the Dead|C14|31
+1 Wayfarer's Bauble
+1 Witch's Cottage|ELD|249
+1 Woe Strider|THB|123
+1 Zulaport Cutthroat|ZNC|57
+
+
+[Sideboard]
+
+

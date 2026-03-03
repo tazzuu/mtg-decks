@@ -1,0 +1,25 @@
+[metadata]
+Name=Upping the Average - Niv-Mizzet Parun
+Description={"ops":[{"attributes":{"link":"https://youtu.be/227iG61kC-o"},"insert":"https://youtu.be/227iG61kC-o"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nMolten Psyche\nTime Reversal\nKhorvath's Fury\nCollective Defiance\nMidnight Clock\nCommit // Memory\n\nFirebrand Archer\nElixir of Immortality\nMizzix's Mastery\n\nWandering Fumarole\nIsland x1\n\nPolymorphist's Jest\nRapid Hybridization\nReality Shift\nStubborn Denial\nBolt Bend\n\nTorbran, Thane of Red Fell\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/582352
+Date=2021-02-14
+Created=2020-05-28
+Updated=2021-02-14
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Niv-Mizzet, Parun|GRN|192
+
+
+[Main]
+1 Psychosis Crawler|C20|248
+
+
+[Sideboard]
+
+

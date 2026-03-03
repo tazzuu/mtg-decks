@@ -1,0 +1,104 @@
+[metadata]
+Name=Niv-Mizzet Parun (You'll still lose friends but with less power)
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=aflyingradish
+Tags=
+Version=0
+URL=https://archidekt.com/decks/6184992
+Date=2023-12-23
+Created=2023-12-20
+Updated=2023-12-23
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Niv-Mizzet, Parun|RVR|207
+
+
+[Main]
+1 Abrade|LCI|131
+1 An Offer You Can't Refuse|SNC|51
+1 Arcane Denial|WOC|84
+1 Arcane Signet|LCC|299
+1 Archmage Emeritus|STX|37
+1 Baral, Chief of Compliance|MUL|8
+1 Blasphemous Act|LCC|216
+1 Bolt Bend|WAR|115
+1 Brainstorm|AFC|79
+1 Cascade Bluffs|CMM|990
+1 Cathartic Reunion|2XM|121
+1 Clear the Mind
+1 Coalition Relic|DMC|180
+1 Command Tower|LCC|325
+1 Commander's Sphere|LCC|301
+1 Compulsive Research|RVR|38
+1 Consider|WOC|87
+1 Counterspell|CMM|81
+1 Curiosity|JMP|147
+1 Decanter of Endless Water|CLB|309
+1 Delay|TSR|61
+1 Dig Through Time|WOC|88
+1 Dispel
+1 Evolving Wilds|LCC|328
+1 Expressive Iteration|BRC|125
+1 Fact or Fiction|WOC|90
+1 Faithless Looting|LCC|225
+1 Fellwar Stone|WOC|147
+1 Fiery Islet|MH1|238
+1 Firemind Vessel|CMM|383
+1 Flame of Anor|LTR|203
+1 Frantic Search|WOC|93
+1 Gilded Lotus|CMM|387
+1 Gitaxian Probe
+1 Glint-Horn Buccaneer|J22|539
+1 Goblin Electromancer|RVR|186
+1 Halimar Depths|AFC|244
+1 Harmonic Prodigy|MH2|132
+13 Island|LCI|396
+1 Izzet Signet|RVR|261
+1 Jace's Sanctum|C19|88
+1 Kessig Flamebreather|VOW|164
+1 Magus of the Wheel|CMM|241
+1 Midnight Clock|WOC|99
+1 Mizzix's Mastery|RVR|118
+8 Mountain|LCI|399
+1 Mystic Remora|DMR|59
+1 Mystic Sanctuary|ELD|247
+1 Mystical Tutor|DMR|60
+1 Ophidian Eye|TSP|70
+1 Opt|WOC|101
+1 Ponder|NCC|229
+1 Preordain|J22|63
+1 Prismari Command|LCC|279
+1 Psychosis Crawler|MOC|371
+1 Rapid Hybridization|LCC|166
+1 Reality Shift|WOC|104
+1 Reflecting Pool|CLB|358
+1 Reverberate|M13|145
+1 Riverglide Pathway
+1 Serum Visions|J22|345
+1 Shivan Reef|DMU|255
+1 Sleight of Hand|WOE|67
+1 Solemn Simulacrum|CMM|973
+1 Solve the Equation|STX|54
+1 Steam Vents|RVR|288
+1 Storm-Kiln Artist|CMM|260
+1 Stormcarved Coast|VOW|265
+1 Sulfur Falls|LCC|354
+1 Talisman of Creativity|CMM|979
+1 Tandem Lookout
+1 Temple of Epiphany|CMM|1042
+1 Terramorphic Expanse|LCC|360
+1 The Locust God|MOC|335
+1 Thrill of Possibility|ONE|151
+1 Training Center|CMM|434
+1 Treasure Cruise|NCC|237
+1 Vandalblast|CMM|267
+1 Wheel of Misfortune|CMR|211
+1 Windfall|LCC|180
+
+
+[Sideboard]
+
+

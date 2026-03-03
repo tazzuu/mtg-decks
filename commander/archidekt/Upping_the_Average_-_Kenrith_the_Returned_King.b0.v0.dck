@@ -1,0 +1,26 @@
+[metadata]
+Name=Upping the Average - Kenrith, the Returned King
+Description={"ops":[{"attributes":{"link":"https://youtu.be/TkJmUo3K2Lo"},"insert":"https://youtu.be/TkJmUo3K2Lo"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nSkyshroud Claim\n\nSpore Frog\nKami of False Hope\nMother of Runes\nGiver of Runes\n\nMerciless Eviction\nRout\nUnwind\nCauldron of Souls\n\nWillbreaker\nCowardice\nDismiss into Dream\nHorobi of Death's Wail\n\nGenerous Patron\n\n\nSanguine Bond\nTainted Remedy\nAngelic Accord\n\nAwakening\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/664751
+Date=2020-07-22
+Created=2020-07-15
+Updated=2020-07-22
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Kenrith, the Returned King|ELD|303
+
+
+[Main]
+1 Dryad of the Ilysian Grove|THB|169
+1 Nyxbloom Ancient|THB|190
+
+
+[Sideboard]
+
+

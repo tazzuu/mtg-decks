@@ -1,0 +1,127 @@
+[metadata]
+Name=Ognis, the Dragon's Lash: Speed Kills
+Description={"ops":[{"insert":"Date of creation:\n2023 January"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nTheme: \nAggro beats via hasty red creatures with evasion if possible"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Subtheme of temp theft and Splinter Twin-esque until end of turn tokens that have haste as well"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nPower:\nMoves fast, but can flame out. Could god-hand win maybe on turn 8-ish"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nWin conditions\nCreature beats often with theft"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRules and notes:\nCreatures must have haste, or make creatures that have haste"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nChangelog:\n04-27-23 add "},{"insert":{"card-link":"Holga, Relentless Rager"}},{"insert":" rmv "},{"insert":{"card-link":"Aggravated Assault"}},{"insert":" Assault was just too much mana and easy to stop (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"04-27-23 add "},{"insert":{"card-link":"Dolmen Gate"}},{"insert":" rmv "},{"insert":{"card-link":"Goblinslide"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"04-27-23 add "},{"insert":{"card-link":"Wild Magic Surge"}},{"insert":" rmv "},{"insert":{"card-link":"Invasion of Kaldheim // Pyre of the World Tree"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"07-15-23 add "},{"insert":{"card-link":"Call for Aid"}},{"insert":" rmv "},{"insert":{"card-link":"Wild Magic Surge"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"07-15-23 add "},{"insert":{"card-link":"Cavern-Hoard Dragon"}},{"insert":" rmv "},{"insert":{"card-link":"Inferno of the Star Mounts"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"07-15-23 add "},{"insert":{"card-link":"The One Ring"}},{"insert":" rmv "},{"insert":{"card-link":"Roar of Resistance"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"07-15-23 add "},{"insert":{"card-link":"There and Back Again"}},{"insert":" rmv "},{"insert":{"card-link":"Eldrazi Obligator"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"07-15-23 add "},{"insert":{"card-link":"Éomer, Marshal of Rohan"}},{"insert":" rmv "},{"insert":{"card-link":"Gauntlet of Might"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"08-28-23 add "},{"insert":{"card-link":"Goddric, Cloaked Reveler"}},{"insert":" rmv "},{"insert":{"card-link":"Impetuous Sunchaser"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"08-28-23 add "},{"insert":{"card-link":"Realm-Scorcher Hellkite"}},{"insert":" rmv "},{"insert":{"card-link":"Loyal Apprentice"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"08-28-23 add "},{"insert":{"card-link":"Throne of Eldraine"}},{"insert":" rmv "},{"insert":{"card-link":"Heat Shimmer"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"10-04-23 add "},{"insert":{"card-link":"Sontaran General"}},{"insert":" rmv "},{"insert":{"card-link":"There and Back Again"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"10-04-23 add "},{"insert":{"card-link":"The Flux"}},{"insert":" rmv "},{"insert":{"card-link":"Glittering Stockpile"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"11-20-23 add "},{"insert":{"card-link":"Bedlam"}},{"insert":" rmv "},{"insert":{"card-link":"Brazen Blademaster"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"11-20-23 add "},{"insert":{"card-link":"Pit of Offerings"}},{"insert":" rmv "},{"insert":{"card-link":"Sokenzan, Crucible of Defiance"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"06-24-24 add "},{"insert":{"card-link":"Detective's Phoenix"}},{"insert":" rmv "},{"insert":{"card-link":"Tavern Brawler"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"06-24-24 add "},{"insert":{"card-link":"Hideous Taskmaster"}},{"insert":" rmv "},{"insert":{"card-link":"Sontaran General"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"\n"}]}
+Format=commander
+Bracket=2
+Author=danaroach
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3065762
+Date=2026-02-28
+Created=2022-08-04
+Updated=2026-02-28
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Ognis, the Dragon's Lash|SNC|210
+
+
+[Main]
+1 Abrade|VOW|139
+1 Abstergo Entertainment|ACR|171
+1 Amulet of Vigor|WWK|121
+1 Angel's Trumpet|ULG|121
+1 Arcane Signet|NCC|360
+1 Ardoz, Cobbler of War|J22|29
+1 Bedlam
+1 Berserkers' Onslaught|DTK|130
+1 Bolt Bend|WAR|115
+1 By Force|AKH|123
+1 Call Forth the Tempest|LTC|509
+1 Call for Aid|LTC|113
+1 Captain Lannery Storm|J22|509
+1 Chaos Warp|2X2|105
+1 Coin of Mastery|TMC|38
+1 Connecting the Dots|MKM|118
+1 Cori Mountain Monastery|TDM|252
+1 Cursed Mirror|C21|50
+1 Deflecting Swat|CMM|214
+1 Delayed Blast Fireball|CLB|676
+1 Demand Answers|MKM|122
+1 Demolition Field|BRO|260
+1 Depthshaker Titan|EOC|9
+1 Devastating Onslaught|EOE|132
+1 Dolmen Gate
+1 Double Trouble|SPE|13
+1 Dowsing Device|LCI|146
+1 Dragonspark Reactor|NEO|137
+1 Eldrazi Obligator|OGW|96
+1 Embrace the Unknown|OTC|28
+1 Fomori Vault|BIG|29
+1 Ghitu War Cry
+1 Glittering Stockpile|SNC|107
+1 Goblin War Drums|A25|133
+1 Goddric, Cloaked Reveler|WOE|132
+1 Goldspan Dragon|J22|550
+1 Gornog, the Red Reaper|J25|49
+1 Hate Mirage|ONC|99
+1 Headliner Scarlett|CLU|4
+1 Heat Shimmer|2XM|130
+1 Hellkite Charger|C17|138
+1 Hero of Oxid Ridge|MBS|66
+1 Hideous Taskmaster|M3C|57
+1 Hobgoblin, Mantled Marauder|SPM|80
+1 Hylda's Crown of Winter|WOE|247
+1 Idol of Oblivion|ONC|134
+1 Impetuous Sunchaser|BNG|99
+1 Insurrection|CMD|126
+1 Jurin, Leading the Charge|SLD|1240
+1 Keeper of Secrets|40K|78
+1 Knuckles the Echidna|SLD|2082
+1 Krenko, Baron of Tin Street|MKM|135
+1 Laelia, the Blade Reforged|CLB|801
+1 Life of the Party|NCC|48
+1 Light Up the Stage|CLB|802
+1 Lightning Phoenix|JMP|21
+1 Liquimetal Torque|MH2|228
+1 Loyal Apprentice|ONC|102
+1 Mana Geyser|C21|176
+1 Mana Geyser|TDC|223
+1 Mass Mutiny|PCA|48
+1 Mob Rule|VOC|147
+1 Molten Primordial|GTC|101
+1 Nykthos, Shrine to Nyx
+1 Onslaught
+1 Opera Love Song|FIN|147
+1 Phoenix Chick|DMU|140
+1 Pyreswipe Hawk|BLC|26
+1 Raging River|2ED|169
+1 Raph & Mikey, Troublemakers|TMT|167
+1 Reckless Impulse|VOW|174
+1 Redirect Lightning|TLA|151
+1 Ruby Medallion|CM2|212
+1 Scavenger Grounds|C21|314
+1 Screaming Nemesis|DSK|157
+1 Secluded Starforge|EOE|257
+1 Seize the Spotlight|NCC|52
+1 Shattering Spree
+1 Shivan Devastator|DMU|143
+1 Slickshot Show-Off|OTJ|146
+23 Snow-Covered Mountain|KHM|282
+1 Sol Ring|NCC|379
+1 Sontaran General|WHO|96
+1 Spider-Punk|SPM|92
+1 Stampede Surfer|CLU|44
+1 Strip Mine|4ED|363
+1 Summon: Esper Valigarmanda|FIC|60
+1 Talon Gates of Madara|M3C|134
+1 Tempt with Vengeance|C13|125
+1 Territorial Hellkite|CLB|809
+1 The Fire Crystal|FIN|135
+1 Throne of Eldraine|WOC|28
+1 Untimely Malfunction|DSK|161
+1 Urabrask the Hidden|CLB|811
+1 Urabrask's Forge|ONE|153
+1 Urabrask, Heretic Praetor|SNC|129
+1 Urza's Cave|MH3|234
+1 Valakut, the Molten Pinnacle|ZEN|228
+1 Vandalblast
+1 War Room|MKC|310
+1 Wild Magic Surge|CLB|206
+1 Wrenn's Resolve|MOM|173
+1 Zealous Conscripts|MM3|116
+
+
+[Sideboard]
+
+

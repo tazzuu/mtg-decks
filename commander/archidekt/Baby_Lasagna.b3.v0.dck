@@ -1,0 +1,131 @@
+[metadata]
+Name=Baby Lasagna
+Description={"ops":[]}
+Format=commander
+Bracket=3
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1585124
+Date=2026-01-13
+Created=2021-07-03
+Updated=2026-01-13
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Baba Lysaga, Night Witch|CLB|525
+
+
+[Main]
+1 Animate Dead|PD3|16
+1 Arachnogenesis|C15|32
+1 Aspect of Mongoose|TSP|191
+1 Assassin's Trophy|GRN|152
+1 Azusa, Lost but Seeking|CHK|201
+1 Baloth Prime|EOC|13
+1 Beifong's Bounty Hunters|TLA|209
+1 Blinkmoth Nexus|2XM|311
+1 Blossoming Bogbeast|C21|386
+1 Blossoming Tortoise|WOE|163
+1 Bojuka Bog|CLB|882
+1 Boseiju, Who Endures|NEO|266
+1 Braids, Arisen Nightmare|EOC|82
+1 Command Tower|SLD|1697
+1 Crashing Drawbridge|ELD|217
+1 Crucible of Worlds|M19|229
+1 Darkmoss Bridge|MH2|245
+1 Darksteel Citadel|C21|285
+1 Deadly Tempest|C15|19
+1 Drag to the Roots|DSK|213
+1 Dryad Arbor|FUT|174
+1 Dryad of the Ilysian Grove|THB|169
+1 Dunes of the Dead|HOU|175
+1 Earthbender Ascension|TLA|175
+1 Erinis, Gloom Stalker|CLB|230
+1 Eumidian Hatchery|EOC|20
+1 Exploration|2XM|167
+1 Exploration Broodship|EOC|34
+1 Fabled Passage|M21|246
+1 Fang of Shigeki|NEO|183
+1 Field of the Dead|M20|247
+2 Forest|HOU|189
+1 Galadhrim Ambush|LTC|38
+1 Gift of Compleation|MOM|106
+1 Gilded Goose|ELD|160
+1 Glimmerlight|DSK|249
+1 Gods' Eye, Gate to the Reikai|BOK|164
+1 Icetill Explorer|EOE|192
+1 Inkmoth Nexus|MBS|145
+1 Instill Energy|5ED|304
+1 Invasion of Ikoria|MOM|190
+1 Jolrael, Mwonvuli Recluse|DMR|165
+1 Journey to Eternity|RIX|160
+1 Kaya's Ghostform|WAR|94
+1 Khalni Garden|PC2|122
+1 Lightning Greaves|C19|217
+1 Liquimetal Coating|SOM|171
+1 Liquimetal Torque|MH2|228
+1 Living Death|CMD|88
+1 Marionette Master|KLD|90
+1 Marvin, Murderous Mimic|DSK|253
+1 Mazirek, Kraul Death Priest|C15|48
+1 Memnite|SOM|174
+1 Mindless Conscription|MH3|101
+1 Mishra's Factory|AFC|248
+1 Mishra's Foundry|BRO|265
+1 Mortality Spear|STX|207
+1 Nature's Chosen|ALL|97
+1 Necrogen Communion|ONE|99
+1 Necromancy|VIS|64
+1 Nowhere to Run|DSK|111
+1 Obsessive Pursuit|TLA|112
+1 Ordeal of Nylea|NEC|123
+1 Ornithopter|AER|167
+1 Ornithopter of Paradise|MH2|232
+1 Overgrown Tomb|RTR|243
+1 Patriar's Seal|CLB|332
+1 Prismatic Vista|MH1|244
+1 Rancor|2X2|156
+1 Reclamation Sage|C14|213
+1 Sanctum Weaver|MH2|171
+2 Snow-Covered Forest|MH1|254
+2 Snow-Covered Swamp|MH1|252
+1 Sol Ring|SLD|1696
+1 Soul Shatter|SCD|108
+1 Splendid Reclamation|EMN|171
+1 Starscream, Power Hungry|BOT|5
+2 Swamp|AKH|252
+1 Swiftfoot Boots|M12|219
+1 Sylvan Safekeeper|C14|217
+1 Tear Asunder|DMU|183
+1 Thousand-Year Elixir|C21|271
+1 Tireless Provisioner|MH2|180
+1 Titania, Protector of Argoth|C14|50
+1 Toxic Deluge|CC2|6
+1 Tragic Slip|C14|167
+1 Trail of Crumbs|ELD|179
+1 Treasure Vault|AFR|261
+1 Tree of Tales
+1 Twilight Mire|A25|248
+1 Tyvar, Jubilant Brawler|ONE|218
+1 Ugin's Nexus|KTK|227
+1 Undergrowth Stadium|CMR|359
+1 Urborg, Tomb of Yawgmoth|TSR|287
+1 Urza's Saga|MH2|259
+1 Utopia Sprawl|AFC|172
+1 Valgavoth's Lair|DSK|271
+1 Vault of Whispers|MRD|286
+1 Verdant Catacombs|ZEN|229
+1 Villainous Wrath|SPM|74
+1 Viridescent Bog|OTC|340
+1 Welcome to Sweettooth|WOE|198
+1 Wild Growth|DMR|184
+1 Will of the Sultai|TDC|49
+1 World Shaper|RIX|151
+1 Yavimaya, Cradle of Growth|MH2|261
+1 Zuran Orb|MH2|300
+
+
+[Sideboard]
+
+

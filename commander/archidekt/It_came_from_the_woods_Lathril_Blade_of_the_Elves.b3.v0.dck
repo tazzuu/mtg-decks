@@ -1,0 +1,116 @@
+[metadata]
+Name=🧝‍♀️ It came from the woods | Lathril, Blade of the Elves
+Description={"ops":[{"insert":{"image":"https://cards.scryfall.io/art_crop/front/6/1/61f766b8-a92e-4353-b457-ac62fc470713.jpg?1730489907"}},{"insert":"\n\nGameplan"},{"attributes":{"header":2},"insert":"\n"},{"insert":"Play lots of elves and then swing Craterhoof Behemoth or Finale of Devastation.\n\nGameplay videos"},{"attributes":{"header":2},"insert":"\n"},{"insert":"Here's a list of videos featuring Lathril: "},{"attributes":{"link":"https://watchedh.com/commanders/lathril-blade-of-the-elves/"},"insert":"Watch Lathril, Blade of the Elves gameplay videos"},{"insert":"\n\nCombos"},{"attributes":{"header":2},"insert":"\n"},{"insert":"List all combos of the deck with "},{"attributes":{"link":"https://combo-finder.com/"},"insert":"EDH Decklist Combo Finder"},{"insert":" or find new commander combos with "},{"attributes":{"link":"https://edh-combos.com/"},"insert":"EDH Combo Search Engine"},{"insert":".\n\nCard recommendations & similar Commanders"},{"attributes":{"header":2},"insert":"\n"},{"insert":"Have a look at "},{"attributes":{"link":"https://edh.wiki/commanders/lathril-blade-of-the-elves/"},"insert":"Lathril on EDH.Wiki"},{"insert":" to get some great card recommendations or find similar commanders.\n\nTools"},{"attributes":{"header":2},"insert":"\n"},{"insert":"Lotus, a web-based life counter app supporting Commander damage, up to 10 players, customizable player backgrounds via Scryfall, and Monarch tracking:  "},{"attributes":{"link":"https://lifecounter.app"},"insert":"Lotus: MTG Life Counter"},{"insert":"\n\n"}]}
+Format=commander
+Bracket=3
+Author=dani
+Tags=
+Version=0
+URL=https://archidekt.com/decks/15073736
+Date=2025-08-06
+Created=2025-08-06
+Updated=2025-08-06
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Lathril, Blade of the Elves|FDN|349
+
+
+[Main]
+1 Allosaurus Shepherd|2X2|132
+1 Assassin's Trophy|ACR|95
+1 Beast Whisperer|CLU|158
+1 Boseiju, Who Endures|NEO|266
+1 Bounty of Skemfar|J25|638
+1 Bow of Nylea
+1 Canopy Tactician|KHM|378
+1 Castle Garenbrig
+1 Casualties of War|TDC|98
+1 Cavern of Souls|LCI|269
+1 Circle of Dreams Druid|AFR|176
+1 City of Brass|MB2|240
+1 Coat of Arms|SLD|1712
+1 Command Tower|EOC|59
+1 Concordant Crossroads|2X2|141
+1 Craterhoof Behemoth|TDM|138
+1 Cultivate|EOC|95
+1 Darkbore Pathway|KHM|254
+1 Deathcap Glade|INR|275
+1 Doubling Season|FDN|216
+1 Eladamri, Lord of Leaves|TMP|224
+1 Elven Ambush|GN3|92
+1 Elves of Deep Shadow
+1 Elvish Archdruid|J25|655
+1 Elvish Champion
+1 Elvish Guidance|ONS|255
+1 Elvish Harbinger
+1 Elvish Mystic|CMM|284
+1 Elvish Promenade|KHC|59
+1 Elvish Warmaster|LTC|241
+1 Emerald Medallion|MH3|345
+1 Ezuri, Renegade Leader
+1 Fauna Shaman|BRO|179
+1 Finale of Devastation|CMM|289
+8 Forest|SPM|193
+1 Freyalise, Llanowar's Fury|SLD|1598
+1 Fyndhorn Elves|CMR|228
+1 Gilt-Leaf Palace
+1 Golgari Rot Farm|TDC|368
+1 Green Sun's Zenith|2X2|150
+1 Growing Rites of Itlimoc|LCI|188
+1 Harald Unites the Elves|KHM|213
+1 Harvest Season|SCD|188
+1 Heritage Druid|EMA|171
+1 Immaculate Magistrate|CMR|234
+1 Imperious Perfect|J22|677
+1 Jagged-Scar Archers|KHC|65
+1 Joraga Treespeaker
+1 Joraga Warcaller|CMA|120
+1 Leaf-Crowned Visionary|J25|683
+1 Llanowar Elves|J25|149
+1 Llanowar Tribe|KHC|66
+1 Llanowar Wastes|EOC|165
+1 Marwyn, the Nurturer|J25|687
+1 Metallic Mimic|INR|268
+1 Necroblossom Snarl|DSC|290
+1 Nurturing Peatland|MH1|243
+1 Okina, Temple to the Grandfathers
+1 Oran-Rief, the Vastwood|BLC|320
+1 Overgrown Tomb|RVR|283
+1 Parallel Lives|ISD|199
+1 Poison-Tip Archer|BLC|256
+1 Priest of Titania|MH3|286
+1 Primal Vigor
+1 Prismatic Vista|MH1|244
+1 Quest for Renewal|WWK|110
+1 Realmwalker|LCC|250
+1 Reclamation Sage|FDN|231
+1 Rogue's Passage|OTC|313
+1 Ruthless Winnower|KHC|10
+1 Secluded Courtyard|FDN|267
+1 Seedborn Muse|TDC|268
+1 Skemfar Avenger|KHM|109
+1 Skemfar Shadowsage|J25|489
+1 Sol Ring|CMM|703
+1 Swamp|SPM|196
+1 Sylvan Library|CC1|5
+1 Talisman of Resilience|DSC|255
+1 Twilight Mire|EOC|189
+1 Tyvar Kell|KHM|287
+1 Unclaimed Territory|LCC|366
+1 Underground Mortuary|MKM|271
+1 Undergrowth Stadium|CMM|435
+1 Verdant Catacombs|MH2|260
+1 Wirewood Channeler|KHC|79
+1 Wirewood Lodge
+1 Wolverine Riders|J22|743
+1 Wood Elves|LTC|263
+1 Woodland Cemetery|TDC|412
+1 Worldly Tutor|DMR|185
+1 Yavimaya, Cradle of Growth|MH2|261
+1 Yeva, Nature's Herald|RVR|162
+
+
+[Sideboard]
+
+

@@ -1,0 +1,105 @@
+[metadata]
+Name=Upping the Average - Wilhelt, the Rotcleaver
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/IvZBorbn7O0"},"insert":"https://youtu.be/IvZBorbn7O0"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nBladestitched Skaab\nNoosegraf Mob\nBastion of Remembrance\nReflections of Littjara\n\nReality Shift\nNecrotic Hex\nLazotep Plating\n\nHeraldic Banner\nPact of the Serpent\nPyre of Heroes\nVengeful Dead\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1904544
+Date=2021-10-06
+Created=2021-10-03
+Updated=2021-10-06
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Wilhelt, the Rotcleaver|MIC|2
+
+
+[Main]
+1 Acererak the Archlich|AFR|87
+1 Arcane Signet|MIC|157
+1 Army of the Damned|MIC|106
+1 Ashnod's Altar
+1 Bastion of Remembrance|IKO|73
+1 Bladestitched Skaab|MID|212
+1 Bojuka Bog|MIC|167
+1 Carrion Feeder|EMA|84
+1 Cemetery Reaper|MIC|108
+1 Choked Estuary|MIC|169
+1 Cleaver Skaab|MIC|11
+1 Command Tower|C13|281
+1 Commander's Sphere|MIC|159
+1 Corpse Augur|MIC|109
+1 Counterspell|MH2|267
+1 Crowded Crypt|MIC|17
+1 Cryptbreaker|EMN|86
+1 Cyclonic Rift|2XM|47
+1 Dark Salvation|MIC|110
+1 Darkwater Catacombs|MIC|171
+1 Death Baron|MIC|111
+1 Dimir Aqueduct|MIC|172
+1 Dimir Signet|ZNC|112
+1 Diregraf Captain|MIC|148
+1 Diregraf Colossus|MIC|112
+1 Distant Melody|MIC|98
+1 Dreadhorde Invasion|MIC|114
+1 Drowned Catacomb|XLN|253
+1 Empty the Laboratory|MIC|14
+1 Eternal Skylord|MIC|99
+1 Exotic Orchard|MIC|173
+1 Feed the Swarm|MIC|117
+1 Fleshbag Marauder|MIC|118
+1 Ghoulcaller Gisa|C14|23
+1 Ghouls' Night Out|MIC|19
+1 Gisa and Geralf|MIC|150
+1 Gleaming Overseer|MIC|151
+1 Gravecrawler
+1 Gray Merchant of Asphodel|THB|99
+1 Heraldic Banner|ELD|222
+1 Hordewing Skaab|MIC|15
+5 Island|MID|381
+1 Lazotep Plating|WAR|59
+1 Liliana's Mastery|MIC|123
+1 Liliana, Death's Majesty|MIC|121
+1 Lord of the Accursed|MIC|124
+1 Lord of the Undead
+1 Midnight Reaper|MIC|125
+1 Myriad Landscape|MIC|177
+1 Necrotic Hex|CMR|137
+1 Noosegraf Mob|BBD|151
+1 Noxious Ghoul|HOP|35
+1 Pact of the Serpent|KHC|9
+1 Path of Ancestry|MIC|178
+1 Plague Belcher|AKH|104
+1 Poppet Stitcher|MID|71
+1 Pyre of Heroes|KHM|241
+1 Ravenous Rotbelly|MIC|22
+1 Reality Shift
+1 Reflections of Littjara|KHM|73
+1 Relentless Dead|SOI|131
+1 Rhystic Study|JMP|169
+1 Rise of the Dread Marn|KHM|107
+1 Rooftop Storm|MIC|103
+1 Sol Ring|CMR|472
+1 Sunken Hollow|MIC|182
+15 Swamp|MID|382
+1 Tainted Isle|MIC|183
+1 Talisman of Dominance|MIC|164
+1 Temple of Deceit|MIC|184
+1 The Scarab God|2XM|216
+1 Tomb Tyrant|MIC|23
+1 Unclaimed Territory|MIC|187
+1 Undead Alchemist|MIC|105
+1 Undead Augur|MIC|130
+1 Undead Warchief|HOP|44
+1 Urborg, Tomb of Yawgmoth|TSR|287
+1 Vengeful Dead|SCG|80
+1 Wand of Orcus|AFC|28
+1 Watery Grave|GRN|259
+1 Zombie Apocalypse|MIC|131
+
+
+[Sideboard]
+
+

@@ -1,0 +1,119 @@
+[metadata]
+Name=Upping the Average - The Ur-Dragon
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/dPDLYZYPsz0"},"insert":"https://youtu.be/dPDLYZYPsz0"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nVaevictus Asmadi the Dire\nTerror of Mount Velus\nSylvia Brightspear\n\nLurking Predators\nReturn of the Wildspeaker\n\nChaos Warp\nMerciless Eviction\n\nHeroic Intervention\nBoros Charm\n\nEvolving Wilds\nTerramorphic Expanse\nAsh Barrens\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/854121
+Date=2020-10-21
+Created=2020-10-14
+Updated=2020-10-21
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 The Ur-Dragon|C17|48
+
+
+[Main]
+1 Arcane Sanctum
+1 Arcane Signet|ZNC|106
+1 Ash Barrens|2XM|310
+1 Atarka, World Render|C17|161
+1 Balefire Dragon|UMA|124
+1 Bladewing the Risen
+1 Blood Crypt|RNA|245
+1 Boros Charm|GTC|148
+1 Broodmate Dragon|C17|165
+1 Chaos Warp|C20|146
+1 Chromatic Lantern
+1 Command Tower|C20|264
+1 Commander's Sphere|CMR|306
+1 Crucible of Fire|IMA|122
+1 Crucible of the Spirit Dragon|C17|243
+1 Crumbling Necropolis
+1 Crux of Fate|C17|107
+1 Cultivate|M21|177
+1 Cyclonic Rift|2XM|47
+1 Dragon Tempest|IMA|125
+1 Dragon's Hoard|M19|232
+1 Dragonlord Dromoka|DTK|217
+1 Dragonlord's Servant|JMP|311
+1 Dragonspeaker Shaman|JMP|312
+1 Drakuseth, Maw of Flames|M20|136
+1 Dromoka, the Eternal|C17|170
+1 Earthquake|CM2|95
+1 Eerie Ultimatum|IKO|184
+1 Elemental Bond|C19|163
+1 Evolving Wilds|ZNC|129
+1 Exotic Orchard|C20|273
+1 Farseek|C19|165
+2 Forest|ZNR|384
+1 Frontier Bivouac|C20|275
+1 Garruk's Uprising|M21|186
+1 Haven of the Spirit Dragon|C17|255
+1 Hellkite Charger|C17|138
+1 Herald's Horn|JMP|469
+1 Heroic Intervention|M21|188
+1 Indatha Triome|IKO|248
+1 Intet, the Dreamer|C17|174
+1 Island|ZNR|381
+1 Jungle Shrine|ZNC|132
+1 Ketria Triome|IKO|250
+1 Kindred Discovery|C17|11
+1 Kodama's Reach|ZNC|73
+1 Kolaghan, the Storm's Fury|C17|176
+1 Lathliss, Dragon Queen|JMP|340
+1 Lurking Predators|JMP|410
+1 Merciless Eviction|2XM|211
+1 Morophon, the Boundless|MH1|1
+3 Mountain|IKO|271
+1 Mystic Monastery|C20|293
+1 Nomad Outpost|C20|294
+1 Ojutai, Soul of Winter|C17|187
+1 Opulent Palace|C20|295
+1 Overgrown Tomb|GRN|253
+1 Path of Ancestry|C20|298
+1 Plains|IKO|260
+1 Ramos, Dragon Engine|C17|55
+1 Rampant Growth|M12|190
+1 Raugrin Triome|IKO|251
+1 Return of the Wildspeaker|ZNC|79
+1 Rhythm of the Wild|RNA|201
+1 Sacred Foundry|GRN|254
+1 Sandsteppe Citadel|C20|305
+1 Sarkhan Unbroken|DTK|230
+1 Sarkhan's Triumph|DTK|154
+1 Savage Lands|C18|275
+1 Savage Ventmaw|BBD|229
+1 Savai Triome|IKO|253
+1 Scalelord Reckoner|C17|6
+1 Scion of the Ur-Dragon|C17|192
+1 Scourge of Valkas|IMA|145
+1 Seaside Citadel|C18|277
+1 Silumgar, the Drifting Death|C17|194
+1 Skyshroud Claim|BBD|213
+1 Sol Ring|C20|252
+1 Steam Vents|GRN|257
+1 Steel Hellkite|C18|224
+1 Stomping Ground|RNA|259
+1 Sunscorch Regent|C17|74
+2 Swamp|ZNR|382
+1 Swords to Plowshares
+1 Sylvia Brightspear|BBD|10
+1 Temur Ascendancy|KTK|207
+1 Teneb, the Harvester|C17|198
+1 Terramorphic Expanse|ZNC|142
+1 Terror of Mount Velus|THB|295
+1 Terror of the Peaks|M21|164
+1 Unclaimed Territory|C20|320
+1 Utvara Hellkite|GK2|59
+1 Vaevictis Asmadi, the Dire|M19|225
+1 Wasitora, Nekoru Queen|C17|49
+1 Zagoth Triome|IKO|259
+
+
+[Sideboard]
+
+

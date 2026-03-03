@@ -1,0 +1,118 @@
+[metadata]
+Name=Upping the Average - Go-Shintai of Life's Origin
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/m8NUjkRp36I"},"insert":"https://youtu.be/m8NUjkRp36I"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nPath of Ancestry\n+1 Mountain\nExtinguish All Hope\nSearch for Glory\nZur, the Enchanter\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2491562
+Date=2022-03-16
+Created=2022-03-15
+Updated=2022-03-16
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Go-Shintai of Life's Origin|NEC|37
+
+
+[Main]
+1 Arcane Signet
+1 Arid Mesa|MH2|244
+1 Beast Within|NEC|114
+1 Blood Crypt|RNA|245
+1 Breeding Pool|RNA|246
+1 Chromatic Lantern
+1 Command Tower
+1 Cultivate|AFC|155
+1 Dance of the Manse|NEC|136
+1 Darksteel Mutation|VOC|84
+1 Destiny Spinner|THB|168
+1 Doomwake Giant
+1 Dryad of the Ilysian Grove|THB|169
+1 Eidolon of Blossoms
+1 Enchantress's Presence|MH2|283
+1 Enlightened Tutor
+1 Exotic Orchard
+1 Extinguish All Hope|JOU|68
+1 Faeburrow Elder|ELD|190
+1 Farseek|C19|165
+1 Fellwar Stone|NEC|150
+1 Fertile Ground|AFC|158
+4 Forest|M20|279
+1 Ghostly Prison|VOC|87
+1 Go-Shintai of Ancient Wars|NEO|144
+1 Go-Shintai of Boundless Vigor|NEO|187
+1 Go-Shintai of Hidden Cruelty|NEO|97
+1 Go-Shintai of Lost Wisdom|NEO|55
+1 Go-Shintai of Shared Purpose|NEO|14
+1 Godless Shrine|RNA|248
+1 Hall of Heliod's Generosity|MH1|241
+1 Hallowed Fountain|RNA|251
+1 Hallowed Haunting|VOW|17
+1 Heroic Intervention|AFC|161
+1 Honden of Cleansing Fire|EMA|13
+1 Honden of Infinite Rage
+1 Honden of Life's Web|EMA|172
+1 Honden of Night's Reach|EMA|91
+1 Honden of Seeing Winds
+1 Idyllic Tutor|THB|24
+1 Indatha Triome|IKO|248
+1 Island|M21|264
+1 Jukai Naturalist|NEO|225
+1 Kenrith's Transformation|AFC|162
+1 Ketria Triome|IKO|250
+1 Kodama's Reach|NEC|120
+1 Marsh Flats|MH2|248
+1 Mesa Enchantress|EMA|19
+1 Misty Rainforest|MH2|250
+1 Mountain|M20|275
+1 Overgrown Tomb|GRN|253
+1 Paradox Haze|TSP|71
+1 Path of Ancestry|VOC|177
+3 Plains|M20|263
+1 Propaganda|AFC|91
+1 Raugrin Triome|IKO|251
+1 Reliquary Tower
+1 Resurgent Belief|MH2|26
+1 Rhystic Study|JMP|169
+1 Sacred Foundry|GRN|254
+1 Sanctum Weaver|MH2|171
+1 Sanctum of All|M21|225
+1 Sanctum of Calm Waters|M21|68
+1 Sanctum of Fruitful Harvest|M21|203
+1 Sanctum of Shattered Heights|M21|157
+1 Sanctum of Stone Fangs|M21|120
+1 Sanctum of Tranquil Light|M21|33
+1 Satyr Enchanter
+1 Savai Triome|IKO|253
+1 Search for Glory|KHM|27
+1 Setessan Champion|THB|198
+1 Sigil of the Empty Throne|C18|74
+1 Sisay, Weatherlight Captain|MH1|29
+1 Smothering Tithe|RNA|22
+1 Sol Ring
+1 Sphere of Safety|C16|77
+1 Steam Vents|GRN|257
+1 Sterling Grove|MH2|293
+1 Stomping Ground|RNA|259
+1 Swamp|M20|271
+1 Swords to Plowshares|NEC|89
+1 Sythis, Harvest's Hand|MH2|214
+1 Teferi's Protection
+1 Temple Garden|GRN|258
+1 The World Tree|KHM|275
+1 Three Visits|CMR|261
+1 Verdant Catacombs|MH2|260
+1 Verduran Enchantress|9ED|279
+1 Watery Grave|GRN|259
+1 Weaver of Harmony|NEO|213
+1 Wild Growth|AFC|174
+1 Windswept Heath|KTK|248
+1 Zagoth Triome|IKO|259
+1 Zur the Enchanter|MM3|204
+
+
+[Sideboard]
+
+

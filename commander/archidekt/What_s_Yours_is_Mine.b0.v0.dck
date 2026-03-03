@@ -1,0 +1,25 @@
+[metadata]
+Name=What's Yours is Mine
+Description=
+Format=commander
+Bracket=0
+Author=zdrouse
+Tags=
+Version=0
+URL=https://archidekt.com/decks/114994
+Date=2019-07-11
+Created=2019-06-21
+Updated=2019-07-11
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Lazav, Dimir Mastermind|GTC|174
+
+
+[Main]
+1 Baleful Strix|VMA|243
+
+
+[Sideboard]
+
+

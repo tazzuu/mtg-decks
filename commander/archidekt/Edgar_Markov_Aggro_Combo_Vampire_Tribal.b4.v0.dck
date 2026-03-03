@@ -1,0 +1,113 @@
+[metadata]
+Name=Edgar Markov (Aggro/Combo) Vampire Tribal
+Description={"ops":[{"insert":"Goal: Optimized build for relatively competitive meta environment. Keep on theme of vampire tribal and life gain/drain. Selected bracket 4, but I think this would be around the low end of that bracket. \n\nSuper aggro vampire tribal.  Assemble overwhelming creature army, pump them through anthems/Edgar, swing for lethal.  Lots of helpful enchantments to grant evasion/protection.  Plenty of card draw and tutors to keep your hand full.  I run this very light on land due to the low average CMC, but plenty of ramp is included. Dark Ritual and Culling the Weak can lead to explosive turns early game.\n\nSensei's Divining Top and Necropotence to help filter and boost Vampire Nocturnus, Bolas's Citadel and/or Twilight Prophet.\n\nAthreos, God of Passage is included for extra pain and some recursion.\n\n\"Combo\" with Bolas's Citadel and Aetherflux Reservoir to dump out a lot of the deck and hopefully gain enough life to wipe the table with Aetherflux's second ability.  Also aided with top deck manipulation from Necropotence and Sensei's Divining Top\n"}]}
+Format=commander
+Bracket=4
+Author=Pellanarion
+Tags=
+Version=0
+URL=https://archidekt.com/decks/59349
+Date=2025-04-18
+Created=2019-04-09
+Updated=2025-04-18
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Edgar Markov|C17|36
+
+
+[Main]
+1 Aetherflux Reservoir|KLD|192
+1 Anguished Unmaking|SOI|242
+1 Arcane Signet|ZNC|106
+1 Athreos, God of Passage|JOU|146
+1 Blasphemous Act|C18|120
+1 Blood Artist|C17|99
+1 Blood Seeker|M12|81
+1 Bloodline Keeper|ISD|90
+1 Bojuka Bog|C18|238
+1 Bolas's Citadel|WAR|79
+1 Boros Charm|C16|185
+1 Captivating Vampire|C17|104
+1 Cavern of Souls|UMA|237
+1 Caves of Koilos|C16|285
+1 Command Tower|C18|240
+1 Cordial Vampire|MH1|83
+1 Cover of Darkness|ONS|133
+1 Cruel Celebrant|WAR|188
+1 Dark Petition|ORI|90
+1 Dark Ritual|MMQ|129
+1 Demonic Tutor|3ED|105
+1 Despark|WAR|190
+1 Diabolic Intent|BBD|141
+1 Dragonskull Summit|M13|222
+1 Drana, Liberator of Malakir|BFZ|109
+1 Dusk Legion Zealot|A25|89
+1 Enlightened Tutor|6ED|19
+1 Exotic Orchard|C17|249
+1 Exsanguinate|SOM|61
+1 Fetid Heath|A25|238
+1 Fire Covenant|ICE|289
+1 Forerunner of the Legion|RIX|9
+1 Godless Shrine|RNA|248
+1 Graven Cairns|IMA|237
+1 Hall of Heliod's Generosity|MH1|241
+1 Haunted Ridge|MID|263
+1 Idol of Oblivion|C19|55
+1 Impact Tremors|DTK|140
+1 Indulgent Aristocrat|SOI|118
+1 Isolated Chapel|DOM|241
+1 Jet Medallion|C14|243
+1 Kalastria Highborn|WWK|59
+1 Land Tax|BBD|94
+1 Legion Lieutenant|RIX|163
+1 Malakir Bloodwitch|C17|116
+1 Metallic Mimic|AER|164
+1 Mirror Entity|CMA|16
+1 Mountain|MID|274
+1 Necropotence|DKM|7
+1 Night's Whisper|EMA|100
+1 Nomad Outpost|C17|265
+1 Obelisk of Urd|M15|222
+1 Path of Ancestry|C17|56
+1 Patriarch's Bidding|MH2|275
+4 Plains|MID|268
+1 Prismatic Vista|MH1|244
+1 Read the Bones|C17|122
+1 Reconnaissance|EXO|17
+1 Return to Dust|C18|71
+1 Ruinous Ultimatum|IKO|204
+1 Sanctum Seeker|XLN|120
+1 Sensei's Divining Top|CHK|268
+1 Shadow Alley Denizen|DDM|44
+1 Shared Animosity|E02|29
+1 Skullclamp|C17|222
+1 Smoldering Marsh
+1 Sol Ring|C18|222
+1 Stromkirk Captain|C17|197
+1 Sulfurous Springs|10E|359
+8 Swamp|MID|272
+1 Sword of the Animist|C17|227
+1 Swords to Plowshares|A25|35
+1 Tainted Field|E02|47
+1 Talisman of Conviction|MH1|230
+1 Talisman of Hierarchy|MH1|233
+1 Talisman of Indulgence|E01|91
+1 Teferi's Protection|C17|8
+1 Terminate|PLS|128
+1 Twilight Prophet|RIX|88
+1 Vampire Cutthroat|EMN|110
+1 Vampire Hexmage|C14|168
+1 Vampire Nocturnus|M13|113
+1 Vampire Socialite|MID|249
+1 Vanquisher's Banner|XLN|251
+1 Village Rites|M21|126
+1 Viscera Seer|M11|120
+1 Vona's Hunger
+1 Windbrisk Heights|C16|336
+1 Yahenni, Undying Partisan|AER|74
+
+
+[Sideboard]
+
+

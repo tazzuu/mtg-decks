@@ -1,0 +1,123 @@
+[metadata]
+Name=Rog/Reyhan Landless Turbo Suicide Engine [cEDH]
+Description={"ops":[{"insert":"*ATTENTION: Primer is currently fucked up. Short answer, hazel combo has been switched with Warren soultrader + breach, and dread is in instead of slitherhead+mosspit. I'll fix the primer and explain soon\n\n"},{"attributes":{"bold":true},"insert":"Introduction"},{"insert":" \n\nWelcome to the MH3 new hotness. Na-who? Absolutely not. It's the Rog/Reyan Landless Turbo Suicide Engine.\n\nIn this deck we attempt to slam our one card combos [[balustrade spy]], [[undercity informer]], [[avenging druid]], or [[hermit druid]] to mill our entire deck (because we have no lands) and win by casting [[Dread return]] for its alternate cost and grabbing [[Necrotic Ooze]].\n\nWere running rograkh because he's completely broken and enables our Dread return, and reyhan, because he has pretty colors and we need green to fix our atrocious mana base and creature tutors to grab our good shit.\n\nThis deck is stupid fast. Likely the fastest in the format. On my last check of 200 goldfishing attempts, we have a 34.5% chance of dropping a win attempt turn 2 or sooner, and a 90% chance of at least dropping one turn 3 or sooner. Turn 1 wins are around 5%. Bottom line is that we are going to present win every game and the table is going to have to stop us. \n\nAnd if they do stop us, we can handle basically anything with our deck in our graveyard and a bit of mana. Weve got a big bag of tricks. We are going to continue throwing out win attempts turn after turn and also just generally confuse the hell out of our opponents.  \n\n"},{"attributes":{"bold":true},"insert":"Winning the Game"},{"insert":"\n\nOur standard line is to ramp, play rograkh, then slam one of our one card combos to put our deck in our graveyard., except for blightsteel collosus, who goes back to deck. From there we need three creatures to flashback Dread Return. To get there, we flashback [[cabal therapy]] by sacrificing one of our creatures. This will return [[poxwalkers]] from our graveyard, and trigger [[bridge from below]], creating a 2/2 zombie and netting us a creature for 0 mana. If you use your brain with cabal therapy you can also snipe key interaction out of peoples hands and win tons of games. Typically we name [[mindbreak trap]] targetting the blue player with the most cards, but sometimes we get helpful hints (like people literally showing you their counterspell). From there we dread return Necrotic Ooze, which will use the abilities of [[devoted druid]], [[morselhoarder]], [[goro-goro, disciple of ryusei]], and [[deathrite shaman]] to generate infinite mana, give itself haste, and drain the table by exiling instants and sorceries from our graveyard with deathrite shamans second ability. All at instant speed. \n\nAlso, if bridge, poxwalkers, or cabal therapy, or any of our other combo pieces are in our hand we can discard them with [[phantasmagorian]], and if we need a spare creature we can pay one black to unearth [[direscape zombie]], or we can play a land to retun [[bloodghast]] to the battlefield for free. You can also target yourself with cabal therapy to discard a card. \n\n"},{"attributes":{"bold":true},"insert":"Avoiding Suicide"},{"insert":"\n\nUnfortunately, we live in a world populated by shitty blue players and counterspells. Usually we can get off a mill effect because they are mostly creatures which are fairly safe to cast, or just because our opponents are completely ignorant of the nonsense we are pulling, but when our deck hits the graveyard and we attempt to flashback dread return the alarm bells are on full blast and it will frequently get countered. This is where our opponents look at us like we're an idiot because clearly we have zero cards in our library and will just die on our next upkeep. \n\nHell nah.\n\nFirst off, if you have 3 spare mana when dread return is countered you can flashback [[diregraf rebirth]] targetting necrotic ooze and try again ( because weve sacced 4 creatures in our combo), or even two mana if youve sacced another creature due to culling the weak, tinderwall, undercity informer, or wild cantor. You can also attack with a creature like rograkh and trick someone into blocking and killing it to reduce the count. \n\nIf you cannot win this turn and have to pass, the first thing you should do is get free creatures onto the battlefield.  You should have at least two untapped zombie tokens from bridge from below triggers on dread return. You should also still have a tapped poxwalkers (remember, if you sacrifice poxwalkers as a casting cost, it sees the dread return cast from the graveyard and comes back). Tap the two zombie tokens to convoke [[Hogaak, Arisen necropolis]]. You should usually end up with 4-6 creatures.\n\nSo, we milled out, and then we got countered. Weve got a blightsteel colossus in our deck. This is when things get fun, and pilot skill really counts.  \n\nFirstly, between shenanigans and phantasmagorian we can basically keep putting blightsteel into our library for zero mana for a very long time. \n\nWinning from this positions usually requires putting cards back into your deck with [[turn the earth]] or [[krosan reclamation]], and then drawing them with [[Ox of ajanos]]. This requires 4 mana, but with our board full of creatures we can get there with just two by casting [[indulge//excess]]. The ideal 3 cards are a black land, flare of duplication, and reanimate. Play the land, cast reanimate, and if there's a counter sac the Ox for flare of duplication. But real life is messy and depending on the situation you may want to grab LED, Warren soultrader, breach, removal, or many other things. Like I said this is where knowing the deck pays off. Also you can always just shuffle a reanimate in with blightsteel on upkeep and pray for the 50/50 draw. \n\n"},{"attributes":{"bold":true},"insert":"Dealing With Bullshit"},{"insert":"\n\nIf some asshole exiles necrotic ooze from your graveyard, we have a backup line. Dread return Warren soultrader. Use Warren soultrader to generate enough mana to put underworld breach back in your deck with turn the earth or krosan reclamation. Draw it with Ox of aganos. Proceed to use LED and sacced creatures to cast [[zof consumption]] until the table is dead. \n\nIf there is a graffdiggers cage in play, first mill your deck as usual.  On the next turn on your draw step dredge [[shenanigans]] and then use it to blow up that stupid graffdiggers then dread return and win the game. If shenanigans is countered, you can cast reyhan to put skeleton back on top of your library and try again next turn. \n\nFor drannith magistrate, mill your deck and then on your next turn pay 4 mana to activate [[carrionette]]. Note that if they pay it's cost it stays in your graveyard and can be reattempted. \n\nProtip: For both drannith and graffdiggers, pretend to be an an idiot with the memory of a goldfish who just forgot they were in play. Then hit em with the big brain. \n\nFor many other annoying artifact stax pieces we can simply flashback [[ancient grudge]] for one green.\n\n"},{"attributes":{"bold":true},"insert":"Mulligan strategy"},{"insert":"\n\nOur mulligan strategy is simple. Mulligan until you see a hand that wins by turn 3. Literally just look at the cards and see if they say win on the stack turn 3, if not throw it away. On a mull to 5 you may keep a hand that is one ramp piece short, and on a mull to 4 just good ramp or a couple lands and a tutor is ok. In assesing mull to 4's remember that we have a roughly 20% chance of drawing a tutor or wincon on any given turn and around a 50% chance of drawing some form of ramp. Also, it is worth remembering that [[flare of duplication]] can usually be considered a tutor. In most games someone will play a tutor in the first 2 turns that you can copy. YOU MUST MULLIGAN AGGRESSIVELY TO PLAY THIS DECK. YOU WILL LOSE GAMES BEFORE THEY EVEN BEGIN, THAT IS FINE, YOU GOTTA LOSE GAMES TO WIN GAMES.  DO NOT COUNT ON DRAWING INTO ANYTHING. Believe in the deck. Fearlessly slam the fastest win attempt in the pod and if that doesn’t work catch ‘em on the rebound. There's only so much free countermagic in the game, make them play it if they’ve got it.\n\n"},{"attributes":{"bold":true},"insert":"Shameless Bragging"},{"insert":"\n\nTournament Record\n\n12-20-7\n\n30.8% winrate\n\n1st in Money Monday 16 person event\n\n2 Top 10's in local events\n\nhttps://topdeck.gg/profile/PuXui4owbORYREs27BheAn7EALc2\n\nAlso the deck was featured on Play to Win on youtube! I didnt get credited lol, and he mulliganned like a dumbass. Should have read the primer!\n\nhttps://youtu.be/oYFFwsYcuRw?si=S4C-NttrlLOCW8Ez\n\n"},{"attributes":{"bold":true},"insert":"A Note on the Current State of the Deck"},{"insert":"\n\nAs always, this deck is in an active state of testing. It's current iteration is based on pushing my design philosophy to the limit.\n\nThis deck is built to do two things, execute the gameplan quickly, and then play from the graveyard. In my opinion, options in the graveyard are better than cards in the deck. With zero draw engines, we will only see 10-11 cards in every game. Conversely, almost every game we will be milling our deck and have the option to use the tools provided there. Therefore, a bad removal option like [[briarblade adept]] is superior to a traditionally good removal option like [[deadly rollick]]. \n\nYou may have noticed a serious lack in traditional protection. In the current iteration of the deck, [[Autumns veil]], [[veil of summer]], and [[gutteral response]] have all been stripped. These have been removed in favor of more graveyard tools, and more ramp. In a sense, ramp itself is a form of protection. With enough mana, we can protect ourself from the graveyard. Ramp is also essential in executing the gameplan and creating keepable mulligans. Traditional protection is not. \n\nIs this optimal? We'll see. \n\n"}]}
+Format=commander
+Bracket=5
+Author=marsey
+Tags=
+Version=0
+URL=https://archidekt.com/decks/8216504
+Date=2026-01-30
+Created=2024-06-29
+Updated=2026-01-30
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Reyhan, Last of the Abzan|CM2|13
+1 Rograkh, Son of Rohgahh|CMR|197
+
+
+[Main]
+1 Agadeem's Awakening|ZNR|90
+1 Ancient Grudge|MB2|53
+1 Arcane Signet|OTC|252
+1 Avenging Druid|EXO|105
+1 Bala Ged Recovery
+1 Balustrade Spy|RVR|66
+1 Beseech the Mirror|WOE|82
+1 Birds of Paradise|RVR|133
+1 Blightsteel Colossus
+1 Bloodghast|DFT|77
+1 Bloodsoaked Insight|MH3|252
+1 Boggart Trawler|MH3|243
+1 Bridge from Below
+1 Bridgeworks Battle|MH3|249
+1 Cabal Ritual|TOR|51
+1 Cabal Therapy
+1 Carpet of Flowers
+1 Carrionette|TMP|111
+1 Chancellor of the Tangle|NPH|106
+1 Chrome Mox|2XM|240
+1 Culling Ritual|OTC|219
+1 Culling the Weak|EXO|55
+1 Dark Ritual
+1 Deathrite Shaman|RVR|175
+1 Deflecting Swat|CMM|214
+1 Demonic Tutor|CMM|150
+1 Desperate Ritual|UMA|127
+1 Devoted Druid|2X2|143
+1 Diabolic Intent|BRO|89
+1 Diregraf Rebirth|MID|220
+1 Disciple of Freyalise|MH3|250
+1 Dread Return|CMM|153
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide|DMR|157
+1 Entomb|DMR|304
+1 Fell the Profane|MH3|244
+1 Fellwar Stone|OTC|257
+1 Flare of Duplication|MH3|119
+1 Gamble|DMR|121
+1 Goro-Goro, Disciple of Ryusei|NEO|145
+1 Grim Monolith|ULG|126
+1 Guild Artisan|CLB|179
+1 Hagra Mauling
+1 Hermit Druid
+1 Hogaak, Arisen Necropolis|MB2|136
+1 Ignoble Hierarch|MH2|166
+1 Imperial Seal|2X2|79
+1 Indulge|NCC|46
+1 Infernal Plunge|ISD|148
+1 Jack-o'-Lantern|MID|254
+1 Jeska's Will|MKC|156
+1 Khalni Ambush|ZNR|192
+1 Lion's Eye Diamond|MIR|307
+1 Lively Dirge|OTJ|93
+1 Lotus Petal
+1 Mana Vault|2X2|308
+1 Master of Dark Rites|LCC|83
+1 Morselhoarder|SHM|212
+1 Mox Amber|DOM|224
+1 Multani's Harmony|PLS|84
+1 Necrotic Ooze|2X2|83
+1 Ox of Agonas|NEC|108
+1 Paradise Mantle|MMA|211
+1 Pentad Prism|2XM|281
+1 Phantasmagorian|PLC|77
+1 Pinnacle Monk|MH3|246
+1 Poxwalkers|40K|49
+1 Pyretic Ritual
+1 Ragavan, Nimble Pilferer|MH2|138
+1 Reanimate|MKC|137
+1 Revitalizing Repast|MH3|256
+1 Rite of Flame|CSP|96
+1 Shatterskull Smashing|ZNR|161
+1 Shenanigans
+1 Simian Spirit Guide|TSR|190
+1 Sol Ring|OTC|267
+1 Spider Manifestation|SPM|148
+1 Spikefield Hazard|ZNR|166
+1 Splinter's Technique|TMT|80
+1 Springleaf Drum|2XM|291
+1 Stump Stomp|MH3|259
+1 Summoner's Pact|MB2|74
+1 Sundering Eruption|MH3|248
+1 Sylvan Tutor|POR|188
+1 Talisman of Resilience|BLC|288
+1 Tangled Florahedron|ZNR|211
+1 Tinder Wall|ICE|270
+1 Turn the Earth|MID|205
+1 Turntimber Symbiosis|ZNR|215
+1 Undercity Informer|GTC|82
+1 Underworld Breach|MB2|200
+1 Vampiric Tutor|DMR|108
+1 Warren Soultrader|MH3|110
+1 Wild Cantor|RVR|239
+1 Wishclaw Talisman|ELD|110
+1 Worldly Tutor|DMR|185
+1 Zof Consumption|ZNR|132
+
+
+[Sideboard]
+
+

@@ -1,0 +1,103 @@
+[metadata]
+Name=Heliod, Sun-Crowned - Final Stage
+Description={"ops":[{"insert":"This Heliod Commander deck is a highly optimized blend of control, stax pressure, and a consistent Ballista-based win condition — all within a total cost of under €1,000. It is well suited for competitive play while remaining flexible enough to adapt to powerful and resilient opponents. Designed by Marsitz\n"}]}
+Format=commander
+Bracket=4
+Author=Marsitz
+Tags=
+Version=0
+URL=https://archidekt.com/decks/18520785
+Date=2026-02-13
+Created=2025-12-29
+Updated=2026-02-13
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Heliod, Sun-Crowned|THB|259
+
+
+[Main]
+1 Abeyance|WTH|1
+1 Agatha's Soul Cauldron|WOE|242
+1 Ancient Tomb|TMP|315
+1 Angel's Grace|TSR|4
+1 Arcane Signet|BRC|132
+1 Archon of Emeria|ZNR|4
+1 Authority of the Consuls|FDN|137
+1 Aven Interrupter|OTJ|4
+1 Aven Mindcensor|AKH|5
+1 Blind Obedience|RVR|303
+1 Buried Ruin|BRC|177
+1 Calamity's Wake|BRO|4
+1 Cathar Commando|INR|336
+1 Cavern of Souls|LCI|269
+1 Chrome Mox|MRD|152
+1 Containment Priest|TSR|292
+1 Crystal Vein|MIR|325
+1 Dauntless Dismantler|LCI|8
+1 Deafening Silence|ELD|10
+1 Disruptor Flute|MH3|461
+1 Drannith Magistrate|IKO|11
+1 Eidolon of Rhetoric|JOU|10
+1 Emergence Zone|WAR|245
+1 Enlightened Tutor|DMR|412
+1 Esper Sentinel|H2R|2
+1 Ethersworn Canonist|ALA|10
+1 Flawless Maneuver|CMM|24
+1 Galadriel's Dismissal|LTC|500
+1 Giver of Runes|H1R|3
+1 Grafdigger's Cage
+1 Grand Abolisher|CMM|625
+1 Grim Monolith|ULG|126
+1 Hall of Oracles|STX|267
+1 High Market|MMQ|320
+1 Inventors' Fair|KLD|247
+1 Land Tax|4ED|34
+1 Leonin Arbiter|2X2|16
+1 Liberator, Urza's Battlethopter|BRO|237
+1 Linvala, Keeper of Silence|ROE|33
+1 Lotus Petal|TMP|294
+1 Mana Vault|5ED|388
+1 Mother of Runes|ULG|14
+1 Orim's Chant|PLS|11
+1 Oswald Fiddlebender|AFR|28
+1 Path to Exile|TSR|299
+1 Pearl Medallion|TMP|300
+1 Phyrexian Revoker|BRR|40
+6 Plains|USG|333
+6 Plains|USG|334
+6 Plains|USG|331
+6 Plains|USG|332
+1 Portable Hole|AFR|33
+1 Ranger of Eos|ALA|21
+1 Ranger-Captain of Eos|MH1|21
+1 Rebuff the Wicked|TSR|35
+1 Recruiter of the Guard|MH3|395
+1 Reprieve|LTR|26
+1 Rest in Peace|ACR|83
+1 Reverent Mantra|MMQ|44
+1 Rule of Law|MRD|19
+1 Sanctum Prelate|MH2|491
+1 Scrapyard Recombiner|MH1|227
+1 Silence|TSR|302
+1 Skyclave Apparition|ZNR|39
+1 Smothering Tithe|RNA|22
+1 Sol Ring|BRC|160
+1 Solitude|MH2|32
+1 Soul Partition|BRO|26
+1 Soulless Jailer|ONE|241
+1 Surge of Salvation|MOM|41
+1 Swords to Plowshares|STA|10
+1 Talon Gates of Madara|M3C|134
+1 Teferi's Protection|C17|8
+1 The One Ring|LTR|451
+1 Triskelion|DMR|389
+1 Vexing Bauble|MH3|212
+1 Walking Ballista|J22|806
+1 Weathered Wayfarer|ONS|59
+1 Winds of Abandon|MH1|37
+
+
+[Sideboard]
+
+

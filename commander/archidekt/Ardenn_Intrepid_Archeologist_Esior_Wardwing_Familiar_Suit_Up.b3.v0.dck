@@ -1,0 +1,170 @@
+[metadata]
+Name=Ardenn, Intrepid Archeologist/Esior, Wardwing Familiar: Suit Up
+Description={"ops":[{"insert":"Date of creation:\n2021 July"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nTheme:\nVoltron equipment"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nPower:\nRank: Resilient and can be fairly aggro. Can conceivably start killing players on T7, though it's not necessarily supposed to be that fast"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nWin conditions:\nOne-shot with suited up attackers, generally "},{"insert":{"card-link":"Esior, Wardwing Familiar"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRules:\nOnly creatures that say artifact/equipment in their text box"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nChangelog:\n2021 07-15 add "},{"insert":{"card-link":"Sword of Fire and Ice"}},{"insert":" rmv "},{"insert":{"card-link":"Hammer of Nazahn"}},{"insert":" Needed more draw, indestructible wasn't a big deal (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-15 add "},{"insert":{"card-link":"Shimmer Dragon"}},{"insert":" rmv "},{"insert":{"card-link":"Heavenly Blademaster"}},{"insert":" Needed more draw (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-15 add "},{"insert":{"card-link":"Vedalken Archmage"}},{"insert":" rmv "},{"insert":{"card-link":"Taj-Nar Swordsmith"}},{"insert":" Needed draw more than a tutor (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-15 add "},{"insert":{"card-link":"Reverse Engineer"}},{"insert":" rmv "},{"insert":{"card-link":"Teferi's Veil"}},{"insert":" Needed cheap draw more (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-19 add "},{"insert":{"card-link":"Celestial Colonnade"}},{"insert":" rmv "},{"insert":{"card-link":"Kor Haven"}},{"insert":"  Wanted a couple evasive land attackers to suit up late game (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-19 add "},{"insert":{"card-link":"Inkmoth Nexus"}},{"insert":" rmv "},{"insert":{"card-link":"Ghost Quarter"}},{"insert":"  Wanted a couple evasive land attackers to suit up late game (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-19 add "},{"insert":{"card-link":"Blinkmoth Nexus"}},{"insert":" rmv "},{"insert":{"card-link":"Island"}},{"insert":"  Wanted a couple evasive land attackers to suit up late game (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-19 add "},{"insert":{"card-link":"Faerie Conclave"}},{"insert":" rmv "},{"insert":{"card-link":"Plains"}},{"insert":"  Wanted a couple evasive land attackers to suit up late game (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-19 add "},{"insert":{"card-link":"Cave of the Frost Dragon"}},{"insert":" rmv "},{"insert":{"card-link":"Buried Ruin"}},{"insert":" Wanted a couple evasive land attackers to suit up late game (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-21 add "},{"insert":{"card-link":"Leonin Abunas"}},{"insert":" rmv "},{"insert":{"card-link":"Danitha Capashen, Paragon"}},{"insert":" Need protection more than cost reduction (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-21 add "},{"insert":{"card-link":"Sword of Vengeance"}},{"insert":" rmv "},{"insert":{"card-link":"Soul-Guide Lantern"}},{"insert":" Sword just does so much. SGL will come back when I find room (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-21 add "},{"insert":{"card-link":"Conqueror's Flail"}},{"insert":" rmv "},{"insert":{"card-link":"Shadowspear"}},{"insert":" Shadowspear was just unimpactful too often (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-21 add "},{"insert":{"card-link":"Counterspell"}},{"insert":" rmv "},{"insert":{"card-link":"Arcane Denial"}},{"insert":" Not as blue starved as some decks so I can afford OG counterspell (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-23 add "},{"insert":{"card-link":"Dismantling Wave"}},{"insert":" rmv "},{"insert":{"card-link":"Crush Contraband"}},{"insert":" Wave just seems a little more efficient (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-23 add "},{"insert":{"card-link":"Masterful Replication"}},{"insert":" rmv "},{"insert":{"card-link":"Armored Skyhunter"}},{"insert":" Wincon vs slow draw that may miss (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-23 add "},{"insert":{"card-link":"Liquimetal Torque"}},{"insert":" rmv "},{"insert":{"card-link":"Everflowing Chalice"}},{"insert":" Torque lets me make cmdrs hexproof w Abunas/Padeem etc (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-28 add "},{"insert":{"card-link":"Island"}},{"insert":" rmv "},{"insert":{"card-link":"Cave of the Frost Dragon"}},{"insert":" Activation too high (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-28 add "},{"insert":{"card-link":"Plains"}},{"insert":" rmv "},{"insert":{"card-link":"Celestial Colonnade"}},{"insert":" Activation too high (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-28 add "},{"insert":{"card-link":"Vanish into Memory"}},{"insert":" rmv "},{"insert":{"card-link":"Inspiring Statuary"}},{"insert":" Too many artifact to use it consistently (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 08-22 add "},{"insert":{"card-link":"Azorius Keyrune"}},{"insert":" rmv "},{"insert":{"card-link":"Sigarda's Aid"}},{"insert":" Aid hasn't mattered  yet, and Keyrune can be equipped late game (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 08-22 add "},{"insert":{"card-link":"Patrician's Scorn"}},{"insert":" rmv "},{"insert":{"card-link":"Smothering Tithe"}},{"insert":" Gonna try no enchants in the deck (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 08-22 add "},{"insert":{"card-link":"Heliod's Intervention"}},{"insert":" rmv "},{"insert":{"card-link":"Dismantling Wave"}},{"insert":" More upside to Intervention (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-02 add "},{"insert":{"card-link":"Dowsing Dagger // Lost Vale"}},{"insert":" rmv "},{"insert":{"card-link":"Azorius Keyrune"}},{"insert":" Need to test Dagger (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Vanquish the Horde"}},{"insert":" rmv "},{"insert":{"card-link":"Supreme Verdict"}},{"insert":" Uncounterable rarely matters, but 2 mana will be nice (+4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Deserted Beach"}},{"insert":" rmv "},{"insert":{"card-link":"Island"}},{"insert":" Beach is super good (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Homeward Path"}},{"insert":" rmv "},{"insert":{"card-link":"Plains"}},{"insert":" People are stealing stuff now that we're playing in person (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 10-13 add "},{"insert":{"card-link":"Mishra's Factory"}},{"insert":" rmv "},{"insert":{"card-link":"Seat of the Synod"}},{"insert":" Want more creature lands (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 10-13 add "},{"insert":{"card-link":"Mutavault"}},{"insert":" rmv "},{"insert":{"card-link":"Ancient Den"}},{"insert":" Want more creature lands (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 10-20 add "},{"insert":{"card-link":"Bonders' Enclave"}},{"insert":" rmv "},{"insert":{"card-link":"Darksteel Citadel"}},{"insert":" More upside on Enclave (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Resculpt"}},{"insert":" rmv "},{"insert":{"card-link":"Dispatch"}},{"insert":" Adding artifacts and enchantments seems worth the token and mana (1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Austere Command"}},{"insert":" rmv "},{"insert":{"card-link":"Vanquish the Horde"}},{"insert":" Being able to dodge both commanders and wipe chants (-2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Eiganjo, Seat of the Empire"}},{"insert":" rmv "},{"insert":{"card-link":"Homeward Path"}},{"insert":" Not a ton of steal targets here (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Otawara, Soaring City"}},{"insert":" rmv "},{"insert":{"card-link":"Nimbus Maze"}},{"insert":" These lands are so busted (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Jin-Gitaxias, Progress Tyrant"}},{"insert":" rmv "},{"insert":{"card-link":"Balan, Wandering Knight"}},{"insert":" Balan redundant way too often (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Lion Sash"}},{"insert":" rmv "},{"insert":{"card-link":"Sword of the Animist"}},{"insert":" Not many basics and need grave hate and post-wipe attackers (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Reality Heist"}},{"insert":" rmv "},{"insert":{"card-link":"Leonin Abunas"}},{"insert":" Don't need three creatures to protect artifacts (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 03-19 add "},{"insert":{"card-link":"An Offer You Can't Refuse"}},{"insert":" rmv "},{"insert":{"card-link":"Dovin's Veto"}},{"insert":" Being able to just leave U up is great (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 03-19 add "},{"insert":{"card-link":"Mask of the Schemer"}},{"insert":" rmv "},{"insert":{"card-link":"Vanish into Memory"}},{"insert":" Mask is more consistent, swords messed up Vanish (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 05-01 add "},{"insert":{"card-link":"Goggles of Night"}},{"insert":" rmv "},{"insert":{"card-link":"Reality Heist"}},{"insert":" Goggles just draws more (-4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 05-01 add "},{"insert":{"card-link":"Robe of the Archmagi"}},{"insert":" rmv "},{"insert":{"card-link":"Cyberdrive Awakener"}},{"insert":" Did the thing with Awakener, I'm good (-3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 05-01 add "},{"insert":{"card-link":"Mystery Key"}},{"insert":" rmv "},{"insert":{"card-link":"Masterful Replication"}},{"insert":" Same as with Awakener (-4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 11-09 add "},{"insert":{"card-link":"Demolition Field"}},{"insert":" rmv "},{"insert":{"card-link":"Hengegate Pathway // Mistgate Pathway"}},{"insert":" One more removal land is good (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 11-09 add "},{"insert":{"card-link":"Kayla's Reconstruction"}},{"insert":" rmv "},{"insert":{"card-link":"Goggles of Night"}},{"insert":" A lot more upside in Recon (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 01-29 add "},{"insert":{"card-link":"Clever Concealment"}},{"insert":" rmv "},{"insert":{"card-link":"Vanquish the Horde"}},{"insert":" I'm fine with one less wipe (-4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 01-29 add "},{"insert":{"card-link":"Sword of Forge and Frontier"}},{"insert":" rmv "},{"insert":{"card-link":"Quietus Spike"}},{"insert":" Spike always felt like overkill (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 01-29 add "},{"insert":{"card-link":"The Mycosynth Gardens"}},{"insert":" rmv "},{"insert":{"card-link":"Treasure Vault"}},{"insert":" Rarely used Vault (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 01-29 add "},{"insert":{"card-link":"Bloodforged Battle-Axe"}},{"insert":" rmv  "},{"insert":{"card-link":"Leonin Abunas"}},{"insert":" Testing Guardian to see if I miss the equip protection (-3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 01-29 add "},{"insert":{"card-link":"Sram, Senior Edificer"}},{"insert":" rmv "},{"insert":{"card-link":"Padeem, Consul of Innovation"}},{"insert":" Testing to see if I miss the equip protection (-2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-13 add "},{"insert":{"card-link":"Hengegate Pathway // Mistgate Pathway"}},{"insert":" rmv "},{"insert":{"card-link":"Ancient Den"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-13 add "},{"insert":{"card-link":"Otawara, Soaring City"}},{"insert":" rmv "},{"insert":{"card-link":"Seat of the Synod"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-30\tadd "},{"insert":{"card-link":"Seat of the Synod"}},{"insert":" rmv "},{"insert":{"card-link":"Academy Ruins"}},{"insert":" Needed artifact lands more than I realized (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-30 add "},{"insert":{"card-link":"Ancient Den"}},{"insert":" rmv "},{"insert":{"card-link":"Bonders' Enclave"}},{"insert":" Needed artifact lands more than I realized (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-30 add "},{"insert":{"card-link":"Rivendell"}},{"insert":" rmv "},{"insert":{"card-link":"Tectonic Edge"}},{"insert":" Have two other land answers plus Gen Gift, etc (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-30 add "},{"insert":{"card-link":"The One Ring"}},{"insert":" rmv "},{"insert":{"card-link":"Unexpectedly Absent"}},{"insert":" Something had to go (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 06-30 add "},{"insert":{"card-link":"Masterwork of Ingenuity"}},{"insert":" rmv "},{"insert":{"card-link":"Echo Storm"}},{"insert":" Masterwork is more consistently good (-4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 07-13 add "},{"insert":{"card-link":"Tectonic Edge"}},{"insert":"  rmv "},{"insert":{"card-link":"Island"}},{"insert":" Is six basics really riskier than eight? (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 07-13 add "},{"insert":{"card-link":"Kor Haven"}},{"insert":"  rmv "},{"insert":{"card-link":"Plains"}},{"insert":" Is six basics really riskier than eight? (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 08-13 add "},{"insert":{"card-link":"Urza, Lord High Artificer"}},{"insert":" rmv "},{"insert":{"card-link":"Mystery Key"}},{"insert":" Urza got cheap enough (-2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 08-28 add "},{"insert":{"card-link":"Thran Power Suit"}},{"insert":" rmv "},{"insert":{"card-link":"Mask of the Schemer"}},{"insert":" Too easy to get burned by Mask (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 08-28 add "},{"insert":{"card-link":"The Irencrag"}},{"insert":" rmv "},{"insert":{"card-link":"Mind Stone"}},{"insert":" More upside on Irencrag (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-20 add "},{"insert":{"card-link":"Island"}},{"insert":" rmv "},{"insert":{"card-link":"Seat of the Synod"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-20 add "},{"insert":{"card-link":"Plains"}},{"insert":" rmv "},{"insert":{"card-link":"Ancient Den"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-20 add "},{"insert":{"card-link":"Buried Ruin"}},{"insert":" rmv "},{"insert":{"card-link":"Darksteel Citadel"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-20 add "},{"insert":{"card-link":"Fabrication Foundry"}},{"insert":" rmv "},{"insert":{"card-link":"Mask of the Schemer"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-20 add "},{"insert":{"card-link":"Pit of Offerings"}},{"insert":" rmv "},{"insert":{"card-link":"Rivendell"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-20 add "},{"insert":{"card-link":"Tarrian's Soulcleaver"}},{"insert":" rmv "},{"insert":{"card-link":"Sevinne's Reclamation"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"\n"}]}
+Format=commander
+Bracket=3
+Author=danaroach
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1605459
+Date=2026-01-02
+Created=2021-07-09
+Updated=2026-01-02
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Ardenn, Intrepid Archaeologist|CMR|10
+1 Esior, Wardwing Familiar|CMR|67
+
+
+[Main]
+1 Abstergo Entertainment|ACR|171
+1 Academy Ruins|2XM|309
+1 Adagia, Windswept Bastion|EOE|250
+1 Adaptive Omnitool|DRC|16
+1 Adarkar Wastes|10E|347
+1 All-Fates Scroll|EOE|234
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Den|C21|276
+1 Ancient Tomb|UMA|236
+1 Arcane Signet|C21|234
+1 Archway of Innovation|MH3|350
+1 Austere Command|CMR|12
+1 Azorius Signet|KHC|97
+1 Batterskull|2XM|234
+1 Battlefield Improvisation|ACR|276
+1 Blackblade Reforged|CMR|457
+1 Blinkmoth Nexus|2XM|311
+1 Bloodforged Battle-Axe|2X2|299
+1 Bronze Guardian|C21|13
+1 Buried Ruin|ONC|147
+1 Buster Sword|FIN|255
+1 Caduceus, Staff of Hermes|ACR|155
+1 Chart a Course|JMP|142
+1 Clever Concealment|ONC|5
+1 Cloud Key|EOC|54
+1 Cloud, Midgar Mercenary|FIN|375
+1 Codsworth, Handy Helper|PIP|366
+1 Colossus Hammer|M20|223
+1 Command Tower|C21|284
+1 Commander's Plate|CMR|305
+1 Conqueror's Flail|C16|53
+1 Council's Judgment
+1 Crystal Skull, Isu Spyglass|ACR|158
+1 Darksteel Citadel|C21|285
+1 Demolition Field|BRO|260
+1 Deserted Beach|MID|260
+1 Dowsing Dagger|XLN|235
+1 Eagle Vision|ACR|17
+1 Echo Storm|C18|7
+1 Empyrial Plate|C16|251
+1 Excalibur, Sword of Eden|ACR|169
+1 Fabrication Foundry|LCI|12
+1 Fierce Guardianship|C20|35
+1 Fireshrieker|NEC|151
+1 Flooded Strand|KTK|233
+1 Fomori Vault|BIG|29
+1 Forensic Gadgeteer|MKM|57
+1 Generous Gift|CMR|375
+1 Glacial Fortress|XLN|255
+1 Hallowed Fountain|RNA|251
+1 Halvar, God of Battle|KHM|15
+1 Heliod's Intervention|THB|19
+1 Hengegate Pathway|KHM|260
+1 Homeward Path|C16|301
+1 Hourglass of the Lost|M3C|92
+1 Indomitable Archangel|MM2|19
+1 Inkmoth Nexus|MBS|145
+1 Inquisitor's Flail|ISD|227
+1 Inspiring Statuary|AER|160
+4 Island|ZNR|271
+1 Kor Haven|NEM|141
+1 Leyline Axe|FDN|129
+1 Lion Sash|NEO|26
+1 Liquimetal Torque|MH2|228
+1 Loxodon Warhammer|C21|249
+1 Mana Drain|2X2|57
+1 March of Swirling Mist|NEO|61
+1 Mask of Memory|CMR|324
+1 Mask of the Schemer|NCC|28
+1 Masterwork of Ingenuity|AFC|209
+1 Mendicant Core, Guidelight|DFT|213
+1 Midnight Clock|ELD|54
+1 Minamo, School at Water's Edge
+1 Mind Stone|C21|251
+1 Mishra's Factory|AFC|248
+1 Monumental Henge|MH3|354
+1 Moonsnare Prototype|NEO|69
+1 Mutavault|M14|228
+1 Mystery Key|CLB|85
+1 Mystic Gate|2XM|324
+1 Nettlecyst|MH2|231
+1 Otawara, Soaring City|NEO|271
+1 Path to Exile|2XM|25
+1 Patrician's Scorn|FUT|29
+4 Plains|ZNR|266
+1 Puresteel Paladin|2XM|26
+1 Quietus Spike|C17|220
+1 Rammas Echor, Ancient Shield|LTC|505
+1 Razortide Bridge|MH2|252
+1 Reliquary Tower|C21|311
+1 Reverse Engineer|C18|99
+1 Robe of the Archmagi|CLB|91
+1 Scavenger Grounds|C21|314
+1 Sea of Clouds|BBD|84
+1 Secluded Starforge|EOE|257
+1 Sevinne's Reclamation|C19|5
+1 Shimmer Dragon|ELD|317
+1 Sink into Stupor|MH3|241
+1 Skycloud Expanse|MKC|294
+1 Sol Ring|C21|263
+1 Sram, Senior Edificer|AER|23
+1 Stoneforge Mystic|2XM|31
+1 Strength-Testing Hammer|UNF|193
+1 Strip Mine|4ED|363
+1 Stroke of Midnight|WOE|33
+1 Stubborn Denial|KTK|56
+1 Study|CLU|21
+1 Suppression Ray|MH3|260
+1 Sword of Feast and Famine|2XM|296
+1 Sword of Fire and Ice|2XM|297
+1 Sword of Forge and Frontier|ONE|244
+1 Sword of Hearth and Home|MH2|238
+1 Sword of Sinew and Steel|MH1|228
+1 Sword of Vengeance|CMR|475
+1 Sword of War and Peace|2XM|300
+1 Swords to Plowshares|CMR|387
+1 Talisman of Progress|MRD|256
+1 Talon Gates of Madara|M3C|134
+1 Tarrian's Soulcleaver|LCI|264
+1 Teferi's Protection
+1 The Aetherspark|DFT|231
+1 The Irencrag|WOE|248
+1 The Key to the Vault|OTJ|54
+1 The Mycosynth Gardens|ONE|256
+1 The One Ring|LTR|380
+1 The Reality Chip|NEO|74
+1 Thought Monitor|MH2|71
+1 Thoughtcast
+1 Thousand Moons Smithy|LCI|39
+1 Thran Power Suit|BRO|253
+1 Treasure Vault|AFR|261
+1 Unexpectedly Absent|C20|106
+1 Unexplained Absence|MKC|17
+1 United Battlefront|TDM|32
+1 Urza's Cave|MH3|234
+1 Urza, Lord High Artificer|CMM|130
+1 Uthros Research Craft|EOC|7
+1 Uthros, Titanic Godcore|EOE|260
+1 Vedalken Archmage|JMP|187
+1 Voyage Home|DFT|227
+1 War Room|CMR|361
+1 White Auracite|FIN|41
+1 Winged Words|JMP|196
+1 Witch's Clinic|DSC|325
+1 Wrecking Ball Arm|FIC|100
+
+
+[Sideboard]
+
+

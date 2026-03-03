@@ -1,0 +1,25 @@
+[metadata]
+Name=Upping the Average - Gishath, Sun's Avatar
+Description={"ops":[{"attributes":{"link":"https://www.youtube.com/watch?v=rNmP06FybPw"},"insert":"https://www.youtube.com/watch?v=rNmP06FybPw"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nKaheera, the Orphanguard (Companion)\n\nRampaging Brontodon\nRegal Behemoth\n\nHarmonize\nGuardian Project\nLifecrafter's Bestiary\nLurking Predators\n\nMake a Stand\nUnbreakable Formation\nNaya Charm\n\nChaos Warp\nBlasphemous Act\nChain Reaction\n\nMigration Path\nSkyshroud Claim\nTalisman of Conviction\nTalisman of Impulse\nTalisman of Unity\n\nKrosan Verge\nGhost Quarter\nSelesnya Guildgate\nBoros Guildgate\nGruul Guildgate\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/592149
+Date=2020-06-17
+Created=2020-06-03
+Updated=2020-06-17
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Gishath, Sun's Avatar|XLN|222
+1 Kaheera, the Orphanguard|IKO|353
+
+
+[Main]
+
+
+[Sideboard]
+
+

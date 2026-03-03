@@ -1,0 +1,114 @@
+[metadata]
+Name=Upping the Average - Obeka, Brute Chronologist
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/TDs07sxLXec"},"insert":"https://youtu.be/TDs07sxLXec"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nRakdos Carnarium\nDimir Aqueduct\nIzzet Boilerworks\nLotus Field\nPath of Ancestry\n\nChart a Course\nScattered Thoughts\nSepulchral Primordial\nDawn of the Dead\nHive Mind\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2320784
+Date=2022-02-02
+Created=2022-01-29
+Updated=2022-02-02
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Obeka, Brute Chronologist|CMR|289
+
+
+[Main]
+1 Alchemist's Gambit|VOW|140
+1 Amphin Mutineer|CMR|55
+1 Apprentice Necromancer|UMA|84
+1 Araumi of the Dead Tide|CMR|267
+1 Arcane Signet|VOC|159
+1 Avaricious Dragon|ORI|131
+1 Blasphemous Act|VOC|143
+1 Blood Crypt|RNA|245
+1 Bloodstained Mire|KTK|230
+1 Bojuka Bog|MIC|167
+1 Cauldron Dance
+1 Chaos Warp|AFC|117
+1 Chart a Course|JMP|142
+1 Command Tower|CC2|8
+1 Counterspell|MH2|267
+1 Crumbling Necropolis
+1 Cyclonic Rift|2XM|47
+1 Dawn of the Dead|TOR|59
+1 Demonic Tutor
+1 Dimir Aqueduct|MIC|172
+1 Dimir Signet|ZNC|112
+1 Discontinuity|M21|48
+1 Dockside Extortionist|C19|24
+1 Dragonskull Summit|XLN|252
+1 Drowned Catacomb|XLN|253
+1 Etali, Primal Storm|AFC|126
+1 Exotic Orchard|VOC|173
+1 Fact or Fiction|CMR|396
+1 Faithless Looting|C21|168
+1 Feldon of the Third Path|C21|169
+1 Fierce Guardianship|C20|35
+1 Final Fortune|7ED|182
+1 Flamerush Rider|C19|143
+1 Flameshadow Conjuring|ORI|147
+1 Frantic Search|C20|111
+1 Glorious End|AKH|133
+1 Hate Mirage|C19|26
+1 Haunted Ridge|MID|263
+1 Hellkite Courser|CMR|183
+1 Hive Mind|M10|54
+1 Ideas Unbound|SOK|40
+1 Identity Thief|EMN|64
+1 Ilharg, the Raze-Boar|WAR|133
+3 Island|M20|268
+1 Izzet Boilerworks|C21|294
+1 Izzet Signet|C21|247
+1 Kiki-Jiki, Mirror Breaker|MMA|120
+1 Last Chance|S99|110
+1 Lightning Greaves|AFC|331
+1 Lotus Field|M20|249
+1 Luxury Suite|BBD|82
+1 Mimic Vat|C20|246
+1 Mirror March|RNA|108
+1 Morphic Pool|BBD|83
+6 Mountain|M21|271
+1 Mulldrifter|AFC|87
+1 Path of Ancestry|VOC|177
+1 Polluted Delta|KTK|239
+1 Psychic Vortex|WTH|50
+1 Puppeteer Clique|C17|121
+1 Purphoros, Bronze-Blooded|THB|150
+1 Rakdos Carnarium|VOC|180
+1 Rakdos Signet|VOC|166
+1 Rhystic Study|JMP|169
+1 Rionya, Fire Dancer|C21|55
+1 Scalding Tarn|MH2|254
+1 Scattered Thoughts|VOW|74
+1 Sedris, the Traitor King
+1 Sepulchral Primordial|ZNC|54
+1 Shipwreck Marsh|MID|267
+1 Sneak Attack
+1 Sol Ring|MIC|162
+1 Solemn Simulacrum|AFC|216
+1 Steam Vents|GRN|257
+1 Sulfur Falls|DOM|247
+1 Sundial of the Infinite|M12|218
+3 Swamp|M21|268
+1 Swan Song|C16|98
+1 Swiftfoot Boots|VOC|169
+1 Talisman of Creativity|C21|269
+1 Talisman of Dominance|MIC|164
+1 Talisman of Indulgence|AFC|219
+1 Terminate|AFC|193
+1 Training Center|CMR|358
+1 Vampiric Tutor|CMR|156
+1 Voidwalk|GTC|55
+1 Watery Grave|GRN|259
+1 Whip of Erebos|THS|110
+1 Windfall|KHC|46
+1 Zara, Renegade Recruiter|CMR|294
+
+
+[Sideboard]
+
+

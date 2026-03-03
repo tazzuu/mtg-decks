@@ -1,0 +1,107 @@
+[metadata]
+Name=Upping the Average - Ardenn, Intrepid Archaeologist & Rograkh, Son of Rohgahh
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/AxHKI8pehGY "},"insert":"https://youtu.be/AxHKI8pehGY"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added"},{"insert":"\n\nMishra's Factory\nBlinkmoth Nexus\nNeedle Spires\n\nMind Stone\nInspiring Statuary\n\nReckless Impulse\nShowdown of the Skalds\nTome of Legends\n\nDispatch\n\nOgre's Cleaver\nInquisitor’s Flail\nBludgeon Brawl\nArterial Alchemy\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2262006
+Date=2022-03-15
+Created=2022-01-13
+Updated=2022-03-15
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Ardenn, Intrepid Archaeologist|CMR|10
+1 Rograkh, Son of Rohgahh|CMR|197
+
+
+[Main]
+1 Akiri, Fearless Voyager|ZNR|220
+1 All That Glitters|ELD|2
+1 Arcane Signet|VOC|159
+1 Argentum Armor|AFC|198
+1 Armored Skyhunter|CMR|11
+1 Arterial Alchemy|VOC|23
+1 Axgard Armory|KHM|250
+1 Basilisk Collar|AFC|199
+1 Battlefield Forge|C21|278
+1 Blackblade Reforged|CMR|457
+1 Blasphemous Act|VOC|143
+1 Blinkmoth Nexus|2XM|311
+1 Bludgeon Brawl|NPH|80
+1 Boros Charm|C21|210
+1 Boros Signet|CMR|459
+1 Bruenor Battlehammer|AFR|219
+1 Buried Ruin|2XM|312
+1 Chaos Warp|AFC|117
+1 Clifftop Retreat|DOM|239
+1 Colossus Hammer|AFC|202
+1 Command Tower|VOC|172
+1 Commander's Plate|CMR|305
+1 Dispatch|MM2|15
+1 Enlightened Tutor|MIR|14
+1 Esper Sentinel|MH2|12
+1 Fighter Class|AFR|222
+1 Fireshrieker|CMR|462
+1 Forging the Tyrite Sword|KHM|211
+1 Generous Gift|CMR|375
+1 Godo, Bandit Warlord|2XM|128
+1 Golem-Skin Gauntlets|2XM|259
+1 Halvar, God of Battle|KHM|15
+1 Hammer of Nazahn|2XM|260
+1 Inquisitor's Flail|ISD|227
+1 Inspiring Statuary|AER|160
+1 Jeska's Will|CMR|187
+1 Kediss, Emberclaw Familiar|CMR|188
+1 Lightning Greaves|AFC|331
+1 Loxodon Warhammer|C21|249
+1 Mask of Avacyn|CMR|466
+1 Mask of Memory|CMR|324
+1 Masterwork of Ingenuity|AFC|209
+1 Mind Stone|AFC|211
+1 Mishra's Factory|AFC|248
+5 Mountain|M21|271
+1 Nahiri, Heir of the Ancients|ZNR|230
+1 Needle Spires|ZNC|137
+1 Needleverge Pathway|ZNR|263
+1 Nettlecyst|MH2|231
+1 Ogre's Cleaver|ROE|220
+1 Open the Armory|CMR|34
+1 Path to Exile|2XM|25
+13 Plains|M21|262
+1 Puresteel Paladin|AFC|69
+1 Reckless Impulse|VOW|174
+1 Reyav, Master Smith|CMR|290
+1 Rogue's Passage|MIC|179
+1 Sacred Foundry|GRN|254
+1 Shadowspear|THB|236
+1 Showdown of the Skalds|KHM|229
+1 Slash the Ranks|CMR|47
+1 Slayers' Stronghold|C21|318
+1 Smothering Tithe|RNA|22
+1 Sol Ring|VOC|168
+1 Spectator Seating|CMR|356
+1 Sram, Senior Edificer|AFC|72
+1 Steelshaper's Gift|5DN|19
+1 Stoneforge Mystic|2XM|31
+1 Stonehewer Giant
+1 Sundown Pass|VOW|266
+1 Sunforger|CMR|473
+1 Sunhome, Fortress of the Legion|C21|319
+1 Swiftfoot Boots|VOC|169
+1 Sword of Feast and Famine|2XM|296
+1 Sword of Fire and Ice|2XM|297
+1 Sword of the Animist|AFC|218
+1 Swords to Plowshares|VOC|99
+1 Talisman of Conviction|MH1|230
+1 Tome of Legends|ELD|332
+1 Vanquish the Horde|MID|41
+1 Wear|CMR|456
+1 Wyleth, Soul of Steel|CMR|362
+
+
+[Sideboard]
+
+

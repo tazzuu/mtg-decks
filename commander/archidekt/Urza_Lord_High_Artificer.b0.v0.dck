@@ -1,0 +1,92 @@
+[metadata]
+Name=Urza, Lord High Artificer
+Description={"ops":[{"insert":{"video":"https://www.youtube.com/embed/Dtx2kUMiLwc?showinfo=0"}},{"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=tolariancommunitycollege
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2743146
+Date=2022-05-24
+Created=2022-05-21
+Updated=2022-05-24
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Urza, Lord High Artificer|MH1|75
+
+
+[Main]
+1 Academy Ruins
+1 Arcane Denial|VOC|102
+1 Arcum Dagsson|2XM|41
+1 Buried Ruin|2XM|312
+1 Chasm Skulker|NCC|214
+1 Chief Engineer|C16|86
+1 Conjurer's Closet|2XM|243
+1 Counterspell
+1 Cyclonic Rift|2XM|47
+1 Darksteel Citadel|C21|285
+1 Darksteel Forge|2XM|248
+1 Darksteel Relic|NPH|134
+1 Deadeye Navigator|MM3|36
+1 Dramatic Reversal|KLD|44
+1 Etherium Sculptor|NEC|92
+1 Extraplanar Lens|MRD|169
+1 Fabricate|40K|181
+1 Foundry Inspector|NEC|152
+1 Fountain of Youth|10E|323
+1 Grafdigger's Cage|M20|227
+1 Grand Architect|2XM|53
+1 Howling Mine
+1 Isochron Scepter
+1 Jace's Archivist|C15|95
+1 Karn, Scion of Urza|DOM|1
+1 Master Transmuter|2XM|58
+1 Memnarch|ARC|112
+1 Memnite
+1 Myr Retriever|2XM|277
+1 Myriad Landscape|NCC|416
+1 Mystical Tutor
+1 Narset, Parter of Veils|WAR|61
+1 Ornithopter
+1 Padeem, Consul of Innovation|KLD|59
+1 Paradox Engine|AER|169
+1 Phyrexian Revoker|2XM|282
+1 Pithing Needle|MID|257
+1 Rapid Hybridization|C21|126
+1 Reality Shift|NEC|95
+1 Rhystic Study|JMP|169
+1 Riddlesmith|NEC|96
+1 Sapphire Medallion
+1 Scrap Trawler|C21|260
+1 Seat of the Synod|C18|278
+32 Snow-Covered Island|KHM|279
+1 Sorcerous Spyglass|ELD|233
+1 Spellbook
+1 Spellseeker|BBD|41
+1 Static Orb|7ED|319
+1 Storage Matrix|9ED|310
+1 Swan Song|C16|98
+1 Swiftfoot Boots|CLB|339
+1 Teferi's Puzzle Box|9ED|312
+1 Teferi, Mage of Zhalfir|TSR|91
+1 Tezzeret, Artifice Master
+1 Thought Vessel|CMR|346
+1 Tolaria West
+1 Training Grounds
+1 Trinket Mage
+1 Trophy Mage|DDU|42
+1 Unwinding Clock
+1 Urza's Bauble|5ED|406
+1 Vedalken Archmage|JMP|187
+1 Verity Circle|VOC|116
+1 Welding Jar|2XM|307
+1 Windfall|KHC|46
+1 Winter Orb|EMA|234
+1 Wurmcoil Engine|2XM|308
+
+
+[Sideboard]
+
+

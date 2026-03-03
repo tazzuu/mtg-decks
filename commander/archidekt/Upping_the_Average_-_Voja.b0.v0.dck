@@ -1,0 +1,114 @@
+[metadata]
+Name=Upping the Average - Voja
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/aLBrZmurzY4"},"insert":"https://youtu.be/aLBrZmurzY4"},{"insert":" \n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/6788602
+Date=2024-02-21
+Created=2024-02-20
+Updated=2024-02-21
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Voja, Jaws of the Conclave|MKM|432
+
+
+[Main]
+1 All Will Be One|ONE|118
+1 Anara, Wolvid Familiar|CMR|214
+1 Arbor Elf
+1 Arcane Signet|MKC|223
+1 Arid Mesa|ZEN|211
+1 Arwen, Weaver of Hope|LTC|35
+1 Beast Whisperer|MKC|166
+1 Beast Within|LCC|233
+1 Blasphemous Act|LCC|216
+1 Bloom Tender
+1 Boros Charm|C16|185
+1 Bountiful Promenade|CLB|348
+1 Bramblewood Paragon|MOR|115
+1 Canopy Vista|MKC|252
+1 Cemetery Prowler|VOW|191
+1 Cinder Glade|MKC|255
+1 Command Tower|MKC|256
+1 Damning Verdict|NCC|15
+1 Devoted Druid|2X2|143
+1 Elvish Archdruid|JMP|391
+1 Elvish Mystic|CMM|284
+1 Elvish Warmaster|J22|654
+1 Exotic Orchard|WHO|276
+1 Farseek
+1 Flawless Maneuver|ONC|68
+8 Forest|MKM|286
+1 Fyndhorn Elves|CMR|228
+1 Generous Gift|MOC|187
+1 Guardian Project|RVR|146
+1 Gyre Sage|MIC|140
+1 Heroic Intervention|CMM|295
+1 Hollowhenge Overlord|VOC|36
+1 Howling Moon|VOW|204
+1 Imperious Perfect|CMR|235
+1 Incubation Druid
+1 Inspiring Call|MOC|304
+1 Jetmir's Garden|SNC|250
+1 Jungle Shrine|MKC|268
+1 Leaf-Crowned Visionary|DMU|167
+1 Lightning Greaves|2XM|267
+1 Llanowar Elves|DOM|168
+1 Marwyn, the Nurturer|KHC|68
+1 Masked Vandal
+1 Maskwood Nexus
+1 Master of the Wild Hunt|A25|181
+1 Mirror Entity|MKC|75
+1 Moon-Blessed Cleric|AFR|26
+2 Mountain|HOP|162
+1 Mutavault|CLB|903
+1 Nature's Lore
+1 Naya Charm|DMC|162
+1 Overgrown Farmland|MID|265
+1 Path of Ancestry|MKC|279
+1 Path to Exile|MKC|78
+2 Plains|J22|98
+1 Priest of Titania|C14|210
+1 Realmwalker
+1 Reclamation Sage|SCD|205
+1 Reliquary Tower|MKC|282
+1 Rhys the Redeemed|SHM|237
+1 Rhythm of the Wild|RVR|217
+1 Rising of the Day|LTR|145
+1 Roaming Throne|LCI|258
+1 Rockfall Vale|MID|266
+1 Rootbound Crag
+1 Sacred Foundry|RVR|285
+1 Selvala, Heart of the Wilds|CN2|70
+1 Shalai and Hallar|MOC|10
+1 Shields of Velis Vel|LRW|39
+1 Sol Ring|C21|263
+1 Spectator Seating|CMM|427
+1 Spire Garden|CLB|361
+1 Stomping Ground|RVR|289
+1 Sunpetal Grove
+1 Swiftfoot Boots|MIC|163
+1 Swords to Plowshares|WOC|78
+1 Taunting Elf|ONS|290
+1 Taurean Mauler
+1 Teferi's Protection|2X2|32
+1 Temple Garden|RVR|290
+1 Three Visits
+1 Tolsimir, Friend to Wolves|WAR|224
+1 Tolsimir, Midnight's Light|MKM|236
+1 Viridian Joiner|MRD|138
+1 Volatile Claws|MH1|154
+1 Windswept Heath|KTK|248
+1 Wolf-Skull Shaman|MOR|140
+1 Wolfcaller's Howl|C14|52
+1 Wren's Run Packmaster|C14|227
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+
+

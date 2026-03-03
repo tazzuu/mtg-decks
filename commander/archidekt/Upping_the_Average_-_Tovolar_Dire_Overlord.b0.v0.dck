@@ -1,0 +1,105 @@
+[metadata]
+Name=Upping the Average - Tovolar, Dire Overlord
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/PVtysjDzWiA"},"insert":"https://youtu.be/PVtysjDzWiA"},{"insert":"\n\n"},{"attributes":{"underline":true},"insert":"Cards Added:"},{"insert":"\n\nThought Vessel\nTibalt's Trickery\n\nRage Reflection\nRelentless Assault\n\nCastle Embereth\nBonders' Enclave\n\nYoung Wolf\nMasked Vandel\nFangblade Brigand\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1883985
+Date=2021-09-29
+Created=2021-09-27
+Updated=2021-09-29
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Tovolar, Dire Overlord|MID|246
+
+
+[Main]
+1 Afflicted Deserter|DKA|81
+1 Arcane Signet|MIC|157
+1 Arlinn Kord|SOI|243
+1 Arlinn, the Pack's Hope|MID|211
+1 Bala Ged Recovery|ZNR|180
+1 Beast Within|MIC|133
+1 Beastmaster Ascension
+1 Berserkers' Onslaught|DTK|130
+1 Blasphemous Act|C21|159
+1 Bonders' Enclave|IKO|245
+1 Breakneck Rider|SOI|147
+1 Castle Embereth|ELD|239
+1 Chaos Warp|AFC|117
+1 Cinder Glade|AFC|229
+1 Command Tower|C21|284
+1 Cragcrown Pathway|ZNR|261
+1 Cult of the Waxing Moon|SOI|201
+1 Cultivate|AFC|155
+1 Duskwatch Recruiter|SOI|203
+1 Fangblade Brigand|MID|139
+16 Forest|ELD|269
+1 Full Moon's Rise|ISD|180
+1 Geier Reach Bandit|SOI|159
+1 Gruul Signet|AFC|207
+1 Guardian Project|RNA|130
+1 Herald's Horn|JMP|469
+1 Hermit of the Natterknolls|SOI|209
+1 Heroic Intervention|AFC|161
+1 Hound Tamer|MID|187
+1 Howlpack Resurgence|SOI|211
+1 Huntmaster of the Fells|DKA|140
+1 Immerwolf|DKA|141
+1 Instigator Gang|ISD|149
+1 Karplusan Forest|C16|305
+1 Kessig Naturalist|MID|231
+1 Kessig Wolf Run|C20|284
+1 Kodama's Reach|C21|197
+1 Kruin Outlaw|ISD|152
+1 Lambholt Elder|DKA|122
+1 Lightning Greaves|AFC|331
+1 Masked Vandal|KHM|184
+1 Mayor of Avabruck|ISD|193
+1 Mondronen Shaman|DKA|98
+1 Moonmist
+4 Mountain|ELD|263
+1 Nightpack Ambusher|M20|185
+1 Outland Liberator|MID|190
+1 Path of Ancestry|MIC|178
+1 Pyreheart Wolf|DKA|101
+1 Rage Reflection|2XM|139
+1 Rampant Growth|AFC|166
+1 Ranger Class|AFR|202
+1 Realmwalker|KHM|188
+1 Reckless Stormseeker|MID|157
+1 Reckless Waif|ISD|159
+1 Relentless Assault|CMR|416
+1 Reliquary Tower|C21|311
+1 Return of the Wildspeaker|AFC|168
+1 Rhythm of the Wild|RNA|201
+1 Rockfall Vale|MID|266
+1 Rootbound Crag|XLN|256
+1 Sage of Ancient Lore|SOI|225
+1 Scorned Villager|DKA|125
+1 Silverfur Partisan|SOI|228
+1 Sol Ring|AFC|215
+1 Spire Garden|BBD|85
+1 Stomping Ground|RNA|259
+1 Swiftfoot Boots|MIC|163
+1 The Celestus|MID|252
+1 Thought Vessel|C15|55
+1 Three Visits|CMR|261
+1 Tibalt's Trickery|KHM|153
+1 Tovolar's Huntmaster|MID|204
+1 Triumph of the Hordes
+1 Ulrich of the Krallenhorde|EMN|191
+1 Village Messenger|SOI|190
+1 Village Watch|MID|165
+1 Werewolf Pack Leader|AFR|211
+1 Wolfbitten Captive|DKA|133
+1 Wooded Foothills|KTK|249
+1 Young Wolf|DKA|134
+
+
+[Sideboard]
+
+

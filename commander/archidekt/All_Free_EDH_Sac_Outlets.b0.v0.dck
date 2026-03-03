@@ -1,0 +1,373 @@
+[metadata]
+Name=All Free EDH Sac Outlets
+Description={"ops":[{"insert":"All repeatable sac outlets in EDH that do not cost mana. I am deliberately excluding effects that can destroy your own stuff. Additionally, I know that lands like High Market aren't technically free sac outlets but I decided to include them anyway.\n\nUpdated 10/16/22 with Warhammer 40k Commander Decks/Unfinity\n\nI've become less invested in MtG since the last update. If anyone wants to maintain this list, send me a message and I will put a link to yours! \n"}]}
+Format=commander
+Bracket=0
+Author=heyzeus_
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1794593
+Date=2023-12-21
+Created=2021-09-02
+Updated=2023-12-21
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Atogatog|ODY|286
+
+
+[Main]
+1 Abhorrent Overlord|THS|75
+1 Aether Barrier|NEM|27
+1 Aggressive Mining|M15|127
+1 Akki Avalanchers|CHK|151
+1 Altar of Dementia|MH1|218
+1 Anhelo, the Painter|NCC|1
+1 Animal Boneyard|ODY|4
+1 Anowon, the Ruin Sage|C17|96
+1 Apocalypse Demon|HOU|58
+1 Arcbound Ravager|MMA|198
+1 Archdemon of Unx|ALA|64
+1 Arcum Dagsson|2XM|41
+1 Arguel's Blood Fast|XLN|90
+1 Army Ants
+1 Ashnod's Altar
+1 Asmoranomardicadaistinaculdacar|MH2|186
+1 Atog|MRD|86
+1 Audacious Reshapers|C21|47
+1 Aura Fracture|PCY|2
+1 Auratog|TSB|2
+1 Ayara, First of Locthwain|ELD|75
+1 Baba Lysaga, Night Witch|CLB|266
+1 Barrage Ogre|DDU|44
+1 Basal Sliver|TSP|96
+1 Bellowing Mauler|NCC|33
+1 Betrothed of Fire|WTH|89
+1 Biolume Egg|VOW|49
+1 Black Carriage|HML|42
+1 Blasting Station|5DN|107
+1 Blighted Shaman|6ED|114
+1 Blood Bairn|CMA|49
+1 Blood Funnel|RAV|77
+1 Bloodcrazed Socialite|VOW|96
+1 Bloodflow Connoisseur|UMA|86
+1 Bloodshot Cyclops|8ED|179
+1 Bloodsoaked Altar|M20|90
+1 Bloodthrone Vampire|DDP|46
+1 Bog Elemental|PCY|57
+1 Bog Glider|PCY|58
+1 Bogardan Dragonheart|MH1|120
+1 Bolas's Citadel|WAR|79
+1 Bound by Moonsilver|SOI|7
+1 Braids, Arisen Nightmare|DMU|84
+1 Breya's Apprentice|MH2|117
+1 Brine Shaman|ICE|115
+1 Brutal Suppression|PCY|85
+1 Burning Sands|ODY|180
+1 Butcher of the Horde|KTK|168
+1 Cabal Therapist|MH1|80
+1 Call to the Grave|M12|85
+1 Caribou Range|5ED|14
+1 Carrion Feeder
+1 Cartel Aristocrat|GTC|150
+1 Cateran Overlord|MMQ|123
+1 Chitterspitter|MH2|153
+1 Clickslither|EVG|34
+1 Coastal Hornclaw|8ED|66
+1 Coffin Puppets|PCY|60
+1 Consecrated by Blood|ORI|87
+1 Contamination|USG|123
+1 Coral Reef|HML|24
+1 Corpse Blockade|GTC|60
+1 Cosmic Larva|5DN|63
+1 Crovax the Cursed|STH|55
+1 Cruel Reality|AKH|84
+1 Culling Dais|2XM|246
+1 Cultist of the Absolute|CLB|123
+1 Custody Battle|ONS|197
+1 Daemogoth Woe-Eater|STX|175
+1 Damping Engine|ULG|124
+1 Daretti, Ingenious Iconoclast|CN2|74
+1 Daretti, Scrap Savant|C21|164
+1 Dark Heart of the Wood|RAV|200
+1 Dark Privilege|VIS|56
+1 Dark Supplicant|LGN|64
+1 Darkheart Sliver|TSR|249
+1 Deathless Behemoth|BFZ|5
+1 Deathspore Thallid|TSR|109
+1 Defiant Salvager|CMR|117
+1 Defiler of Souls|ARB|37
+1 Demonic Taskmaster|AVR|95
+1 Demonmail Hauberk|ISD|221
+1 Desecration Elemental|5DN|45
+1 Desolation|VIS|58
+1 Despotic Scepter|ICE|316
+1 Destructive Flow|PLS|102
+1 Devouring Strossus|INV|101
+1 Devouring Swarm|M12|91
+1 Diamond Kaleidoscope|VIS|143
+1 Diamond Valley|ARN|73
+1 Dimir House Guard|RAV|83
+1 Dire Fleet Warmonger|M21|217
+1 Doom Foretold|ELD|187
+1 Doomgape
+1 Dreadfeast Demon|VOW|108
+1 Drinker of Sorrow|LGN|66
+1 Dross Hopper|SOM|60
+1 Dwarven Weaponsmith|SUM|145
+1 Ebon Praetor|FEM|37
+1 Elder Spawn|LEG|52
+1 Eldrazi Monument
+1 Elven Palisade|EXO|109
+1 Elvish Farmer|FEM|66
+1 Enchanter's Bane|C18|21
+1 Endless Wurm|USG|249
+1 Energy Flux|MMQ|78
+1 Enigmatic Incarnation|THB|215
+1 Exalted Dragon|EXO|6
+1 Excavator|TMP|287
+1 Extruder|MH2|296
+1 Fain, the Broker|C21|40
+1 Faith Healer|USG|14
+1 Falkenrath Aristocrat|2XM|195
+1 Falkenrath Torturer|DKA|60
+1 Fallen Angel
+1 Fallen Ideal|C15|125
+1 Fanatical Devotion|NEM|8
+1 Fault Riders|PCY|88
+1 Feasting Troll King|ELD|152
+1 Feed the Pack|DKA|114
+1 Fiend of the Shadows|AFC|99
+1 Fireblade Artist|RNA|172
+1 Flamewright|CNS|46
+1 Flesh-Eater Imp|MBS|42
+1 Food Chain
+1 Fortitude|USG|253
+1 Gargantuan Gorilla|ALL|91
+1 Garruk Relentless|ISD|181
+1 Gate to Phyrexia|ATQ|16
+1 Gatherer of Graces|GPT|85
+1 Gilded Goose|ELD|160
+1 Glacial Crevasses|ICE|187
+1 Glimmer Bairn|MH2|163
+1 Gnathosaur|MBS|63
+1 Goblin Bombardment|MH2|279
+1 Goblin Chirurgeon|FEM|54b
+1 Goblin Clearcutter|LGN|96
+1 Goblin Lookout|LGN|101
+1 Goblin Sledder|EVG|41
+1 Goblin Trashmaster|M19|144
+1 Goblin Turncoat|LGN|72
+1 Goblin Welder|CM2|101
+1 Grafted Wargear|CMR|312
+1 Greater Gargadon|TSR|167
+1 Greater Good|AFC|160
+1 Greven, Predator Captain|C19|43
+1 Grimgrin, Corpse-Born|ISD|214
+1 Grinding Station|5DN|127
+1 Gut, True Soul Zealot|CLB|180
+1 Hazoret's Favor|AKH|137
+1 Hearthcage Giant|LRW|174
+1 Hell's Caretaker|A25|92
+1 Heroism|FEM|6
+1 High Market|AFC|246
+1 Horror of Horrors|9ED|140
+1 Ib Halfheart, Goblin Tactician|EVG|43
+1 Illuminor Szeras|40K|37
+1 Immersturm Predator|KHM|214
+1 Industrial Advancement|NCC|47
+1 Inevitable End|THB|102
+1 Infernal Denizen|ICE|136
+1 Jerren, Corrupted Bishop|MID|109
+1 Jeweled Spirit|PCY|12
+1 Jinxed Idol|M11|208
+1 Jinxed Ring|STH|137
+1 Jungle Patrol|MIR|223
+1 Junkyo Bell|CHK|258
+1 Kataki, War's Wage|MMA|20
+1 Keldon Twilight|PLS|112
+1 Keskit, the Flesh Sculptor|CMR|131
+1 Knight of the Reliquary|TSR|379
+1 Koma, Cosmos Serpent|KHM|221
+1 Korvold, Fae-Cursed King
+1 Krark-Clan Grunt|MRD|97
+1 Krark-Clan Ironworks|5DN|134
+1 Krark-Clan Shaman|MRD|98
+1 Krark-Clan Stoker|DST|65
+1 Kuldotha Forgemaster|2XM|266
+1 Kuon, Ogre Ascendant|SOK|78
+1 Kykar, Wind's Fury|M20|212
+1 Lake of the Dead|ALL|140
+1 Lava Runner|MMQ|200
+1 Lesser Gargadon
+1 Leviathan|TSB|23
+1 Lich|CEI|114
+1 Lich's Tomb|DST|128
+1 Liege of the Pit|TSP|113
+1 Life Chisel|LEG|283
+1 Lifespinner|BOK|133
+1 Liliana of the Veil|UMA|104
+1 Liliana, Dreadhorde General|WAR|97
+1 Lithatog|ODY|289
+1 Lonis, Cryptozoologist|MH2|204
+1 Lord of the Pit|IMA|96
+1 Lowland Oaf|LRW|184
+1 Maestros Ascendancy|SNC|198
+1 Mana Vortex|DRK|31
+1 Maraleaf Rider|ELD|166
+1 Marrow-Gnawer|CHK|124
+1 Marsh Flitter|ZNC|46
+1 Marsh Lurker|TMP|144
+1 Martyr's Cause
+1 Maw of the Obzedat|DGM|83
+1 Megatog|MRD|100
+1 Metalwork Colossus|KLD|222
+1 Minion of Leshrac|ICE|150
+1 Minsc & Boo, Timeless Heroes|CLB|285
+1 Minsc, Beloved Ranger|AFR|227
+1 Mogg Raider|TMP|191
+1 Molder Slug|MRD|125
+1 Morkrut Necropod|SOI|125
+1 Mycologist|TSR|29
+1 Nantuko Husk
+1 Nature's Wrath|ALL|98
+1 Necrotic Plague|M11|107
+1 Need for Speed|ODY|209
+1 Nemata, Grove Guardian|PLS|85
+1 Nettlevine Blight|LRW|131
+1 Nim Shambler|MRD|72
+1 Oath of Lim-Dûl|ICE|156
+1 Oni-Cult Anvil|NEO|230
+1 Orc General|DRK|73
+1 Orcish Bloodpainter|CSP|94
+1 Orcish Lumberjack
+1 Orcish Mechanics|ATQ|27
+1 Orcish Vandal|2XM|137
+1 Overgrown Estate|APC|113
+1 Oxidda Daredevil|SOM|100
+1 Painwracker Oni|CHK|136
+1 Pallid Mycoderm|TSR|31
+1 Phantatog|ODY|291
+1 Phyrexian Altar|UMA|232
+1 Phyrexian Ghoul|A25|100
+1 Phyrexian Negator|UDS|65
+1 Phyrexian Plaguelord
+1 Phyrexian Soulgorger
+1 Phyrexian Tower
+1 Piston Sledge|MBS|124
+1 Plaguemaw Beast|MBS|87
+1 Polar Kraken|ICE|89
+1 Possessed Portal|5DN|144
+1 Priest of Forgotten Gods|RNA|83
+1 Priest of Yawgmoth|ATQ|19
+1 Prime Speaker Vannifar|RNA|195
+1 Professional Face-Breaker|SNC|116
+1 Prossh, Skyraider of Kher|A25|214
+1 Psychic Allergy|DRK|34
+1 Psychic Vortex|WTH|50
+1 Puppet Conjurer|ALA|82
+1 Raiding Party|FEM|64
+1 Rakdos the Defiler|DIS|129
+1 Rankle, Master of Pranks|ELD|101
+1 Ravenous Baloth|JMP|424
+1 Ravenous Demon|DKA|71
+1 Ravenous Intruder|2XM|141
+1 Ravenous Rotbelly|MIC|22
+1 Ravenous Vampire|MIR|136
+1 Razaketh, the Foulblooded|HOU|73
+1 Reaper of Flight Moonsilver|SOI|36
+1 Reclamation|ICE|300
+1 Retrofitter Foundry|C18|57
+1 Rite of Belzenlok|DOM|102
+1 Rootwater Alligator|EXO|122
+1 Scrap Welder|NEO|159
+1 Seething Pathblazer|MOR|101
+1 Sekki, Seasons' Guide|SOK|148
+1 Sepulcher Ghoul|AFR|118
+1 Serendib Djinn|ARN|19
+1 Shadowborn Demon|M14|115
+1 Shadowheart, Dark Justiciar|CLB|146
+1 Shisato, Whispering Hunter|CHK|242
+1 Silvar, Devourer of the Free|C20|15
+1 Sivriss, Nightmare Speaker|CLB|148
+1 Skirk Alarmist|LGN|111
+1 Skirk Prospector
+1 Sling-Gang Lieutenant|MH1|108
+1 Slobad, Goblin Tinkerer|C16|133
+1 Smokestack|USG|309
+1 Smothering Abomination|BFZ|99
+1 Soldevi Adnate|ALL|60a
+1 Soldevi Sage|6ED|99
+1 Sorin, Imperious Bloodlord|M20|115
+1 Spawning Pit|DST|141
+1 Spirit-Sister's Call|NEO|237
+1 Spitting Spider|8ED|280
+1 Springjack Pasture|C13|326
+1 Squandered Resources|VIS|137
+1 Stimulus Package|SNC|225
+1 Stoneshaker Shaman|RAV|145
+1 Stormwatch Eagle|PCY|50
+1 Strefan, Maurer Progenitor|VOC|2
+1 Stronghold Assassin|C13|93
+1 Surtland Flinger|KHM|377
+1 Swashbuckler Extraordinaire|CLB|198
+1 Sylvan Safekeeper|CMA|152
+1 Tainted Aether|7ED|167
+1 Tamiyo's Journal
+1 Tar Pitcher|EVG|53
+1 Tergrid, God of Fright|KHM|112
+1 Territorial Dispute|MMQ|217
+1 Tevesh Szat, Doom of Fools|CMR|153
+1 Teysa, Orzhov Scion|GPT|134
+1 Thalia's Geistcaller|C19|7
+1 Thallid Devourer|FEM|75
+1 Thallid Germinator|TSR|236
+1 Thaumatog|ODY|295
+1 The Gitrog Monster
+1 The Golden Throne|40K|157
+1 Thelonite Monk|FEM|79
+1 Thermal Navigator|5DN|162
+1 Thermopod|CSP|100
+1 Thing from the Deep|POR|73
+1 Throne of Geth|2XM|301
+1 Tiger-Tribe Hunter|AFR|163
+1 Tooth and Claw|EMA|151
+1 Torpid Moloch|RAV|147
+1 Towering Titan|JMP|31
+1 Trenching Steed|PCY|26
+1 Tribute to Horobi|NEO|124
+1 Troubled Healer|PCY|27
+1 Utopia Mycon|TSR|244
+1 Vaevictis Asmadi, the Dire|M19|225
+1 Valleymaker|SHM|221
+1 Vampire Aristocrat|MM3|86
+1 Vampire Warlord|M14|120
+1 Varolz, the Scar-Striped|DGM|112
+1 Vermin Gorger|MH2|107
+1 Vile Consumption|INV|285
+1 Viscera Seer|CMR|158
+1 Viscerid Drone|ALL|42
+1 Vish Kal, Blood Arbiter|2XM|226
+1 Vitaspore Thallid|PLC|143
+1 Vodalian Hexcatcher|DMU|75
+1 Volrath's Curse|TMP|101
+1 Vraska, Golgari Queen|GRN|213
+1 Wand of the Elements|DST|158
+1 Wayward Angel|ODY|57
+1 Wedding Security|VOW|138
+1 Whisper, Blood Liturgist|DOM|111
+1 Wicked Wolf|ELD|181
+1 Wilhelt, the Rotcleaver|MIC|2
+1 Woe Strider|THB|123
+1 World Queller|ZEN|39
+1 Xathrid Demon|C14|170
+1 Yahenni, Undying Partisan|AER|74
+1 Yawgmoth Demon|9ED|170
+1 Yawgmoth, Thran Physician|TSR|336
+1 Ziatora, the Incinerator|SNC|231
+1 Zuran Orb|MH2|300
+
+
+[Sideboard]
+
+

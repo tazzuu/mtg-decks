@@ -1,0 +1,112 @@
+[metadata]
+Name=Upping the Average - Hinata, Dawn-Crowned
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/ZC8wApuivcI"},"insert":"https://youtu.be/ZC8wApuivcI"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nApostle's Blessing\nPrismatic Boon\nErratic Cyclops\nView from Above\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2584830
+Date=2022-04-13
+Created=2022-04-10
+Updated=2022-04-13
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Hinata, Dawn-Crowned|NEO|222
+
+
+[Main]
+1 Aether Gale|C21|113
+1 Apostle's Blessing
+1 Arcane Denial|VOC|102
+1 Arcane Signet|MIC|157
+1 Archmage Emeritus|STX|37
+1 Arid Mesa|MH2|244
+1 Aurelia's Fury|GTC|144
+1 Azorius Signet|NEC|145
+1 Baral's Expertise|AER|29
+1 Battlefield Thaumaturge|JOU|31
+1 Blatant Thievery|C15|87
+1 Boros Signet|CMR|459
+1 By Force|AKH|123
+1 Call the Coppercoats|C20|23
+1 Clifftop Retreat|DOM|239
+1 Comet Storm|CMR|411
+1 Command Tower|VOC|172
+1 Crackle with Power|STX|95
+1 Crush Contraband|NEC|82
+1 Curse of the Swine|C21|118
+1 Deekah, Fractal Theorist|C21|26
+1 Deserted Beach|MID|260
+1 Disorder in the Court|VOC|29
+1 Distorting Wake|C14|107
+1 Eerie Interlude|KHC|22
+1 Erratic Cyclops|C21|166
+1 Esper Sentinel|MH2|12
+1 Exotic Orchard|VOC|173
+1 Feather, the Redeemed|WAR|197
+1 Fellwar Stone|NEC|150
+1 Flooded Strand|KTK|233
+1 Glacial Fortress|XLN|255
+1 Hallowed Fountain|RNA|251
+1 Heliod's Intervention|THB|19
+1 Icy Blast|KTK|42
+8 Island|M20|268
+1 Izzet Signet|C21|247
+1 Jeska's Will|CMR|187
+1 Kykar, Wind's Fury|M20|212
+1 Launch the Fleet|JOU|15
+1 Lightning Greaves|AFC|331
+1 Magma Opus|STX|203
+1 March of Swirling Mist|NEO|61
+1 Mass Manipulation|RNA|42
+1 Metallurgic Summonings|C21|122
+3 Mountain|M21|270
+1 Mystic Confluence|C15|14
+1 Mystic Monastery|C20|293
+1 Negate
+1 Open into Wonder|ZNC|34
+1 Paradoxical Outcome|KLD|60
+3 Plains|M21|262
+1 Prismatic Boon|MIR|274
+1 Raugrin Triome|IKO|251
+1 Reality Spasm|ROE|81
+1 Reconstruct History|STX|222
+1 Reliquary Tower|C21|311
+1 Rhystic Study|JMP|169
+1 Sacred Foundry|GRN|254
+1 Saheeli, Sublime Artificer|WAR|234
+1 Scalding Tarn|MH2|254
+1 Sea of Clouds|BBD|84
+1 Semester's End|STX|27
+1 Shark Typhoon|IKO|67
+1 Shivan Reef|C20|310
+1 Smoke Spirits' Aid|NEC|22
+1 Smothering Tithe|RNA|22
+1 Sol Ring|VOC|168
+1 Soulfire Eruption|CMR|201
+1 Soulfire Grand Master|FRF|27
+1 Spectator Seating|CMR|356
+1 Steam Vents|GRN|257
+1 Storm-Kiln Artist|STX|115
+1 Sublime Epiphany|M21|74
+1 Sulfur Falls|DOM|247
+1 Swords to Plowshares|NEC|89
+1 Talisman of Conviction|MH1|230
+1 Talisman of Creativity|C21|269
+1 Talisman of Progress|MRD|256
+1 Talrand, Sky Summoner|C21|131
+1 Training Center|CMR|358
+1 Unwind|DOM|72
+1 View from Above|CON|38
+1 Volcanic Offering|CM2|126
+1 Whirlwind of Thought|IKO|215
+1 Willbreaker|ORI|84
+1 Young Pyromancer|JMP|372
+1 Zaffai, Thunder Conductor|C21|4
+
+
+[Sideboard]
+
+

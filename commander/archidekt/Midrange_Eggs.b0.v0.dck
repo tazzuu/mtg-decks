@@ -1,0 +1,101 @@
+[metadata]
+Name=Midrange Eggs
+Description={"ops":[{"insert":"This deck is part of a group of budget decks my playgroup played with a few years back. This is a grindy artifact-based deck that is looking to stay alive through aristocrats-style midrange in the early and mid game, and eventually launch into an eggs-style storm turn to close out the game.\n\nDeck tech: https://www.youtube.com/watch?v=_1-xTvcbV4A\n"}]}
+Format=commander
+Bracket=0
+Author=SalubriousSnail
+Tags=
+Version=0
+URL=https://archidekt.com/decks/7118798
+Date=2025-01-15
+Created=2024-03-23
+Updated=2025-01-15
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Gerrard, Weatherlight Hero|C19|41
+
+
+[Main]
+1 Akroma's Vengeance|C20|74
+1 Angelic Renewal|UMA|10
+1 Atog|MRD|86
+1 Boros Cluestone|CM2|175
+1 Boros Garrison|CLU|231
+1 Boros Locket|C21|236
+1 Burnished Hart|CMM|373
+1 Cataclysmic Gearhulk|MOC|176
+1 Cathodion
+1 Chromatic Sphere|JMP|462
+1 Chromatic Star|TSR|263
+1 Commander's Sphere|LCC|301
+1 Conjurer's Bauble|5DN|112
+1 Coveted Jewel|MOC|353
+1 Darksteel Citadel|BRC|180
+1 Dreamstone Hedron|CMM|945
+1 Duergar Hedge-Mage|MOC|324
+1 Elsewhere Flask|SHM|250
+1 Evolving Wilds|LCC|328
+1 Faithless Looting|LCC|225
+1 Feldon of the Third Path|MOC|277
+1 Finale of Promise|WAR|127
+1 Flame Slash|CN2|157
+1 Ghirapur Aether Grid|MOC|281
+1 Goblin Engineer
+1 Goblin Matron|DMR|123
+1 Goblin Welder|CM2|101
+1 Golden Egg|ELD|220
+1 Guild Globe|WAR|239
+1 Hedron Archive|CMM|952
+1 Hour of Revelation|ZNC|17
+1 Ichor Wellspring|BRC|143
+1 Implement of Combustion|AER|155
+1 Inspiring Statuary|MKC|230
+1 Krark-Clan Shaman|MRD|98
+1 Magus of the Disk|C20|94
+1 Martyr's Cause
+12 Mountain|MKM|283
+1 Mycosynth Wellspring|BRC|150
+1 Myr Retriever
+1 Nevinyrral's Disk|CMM|965
+1 Ondu Inversion
+1 Orazca Relic|AFC|213
+1 Origin Spellbomb|SOM|189
+1 Outpost Siege|CLB|804
+1 Panic Spellbomb|CM2|208
+1 Pilgrim's Eye|CMM|402
+12 Plains|LCI|394
+1 Planar Cleansing|M20|33
+1 Prophetic Prism|WOE|249
+1 Pyrite Spellbomb|2XM|283
+1 Quicksmith Genius|C21|178
+1 Ravenous Intruder|2XM|141
+1 Reckless Fireweaver|J22|587
+1 Reveillark|2X2|26
+1 Scrabbling Claws|RNA|238
+1 Scrap Trawler|MOC|373
+1 Scrapyard Recombiner|MH1|227
+1 Skyscanner|SCD|274
+1 Sleeper Dart|IKO|240
+1 Slobad, Goblin Tinkerer|BRC|118
+1 Solemn Simulacrum|MKC|238
+1 Spare Supplies|ZNR|254
+1 Sun Titan|MKC|87
+1 Sunbeam Spellbomb|MRD|250
+1 Talisman of Conviction|MKC|240
+1 Terramorphic Expanse|LCC|360
+1 Teshar, Ancestor's Apostle|CMM|65
+1 Thermopod|CSP|100
+1 Thrill of Possibility|ONE|151
+1 Tooth of Ramos|MMQ|313
+1 Tormenting Voice|J22|615
+1 Treasure Keeper|CLB|341
+1 Unstable Obelisk|CMM|416
+1 Vesperlark|MH1|35
+1 Wall of Omens|MKC|90
+1 Workshop Assistant|CMR|348
+
+
+[Sideboard]
+
+

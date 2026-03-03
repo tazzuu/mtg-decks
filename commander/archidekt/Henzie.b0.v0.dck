@@ -1,0 +1,113 @@
+[metadata]
+Name=Henzie
+Description=
+Format=commander
+Bracket=0
+Author=tolariancommunitycollege
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5860172
+Date=2023-11-12
+Created=2023-11-12
+Updated=2023-11-12
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Henzie "Toolbox" Torre|NCC|2
+
+
+[Main]
+1 Ancient Brass Dragon|CLB|389
+1 Arcane Signet|40K|228
+1 Ash Barrens|LTC|295
+1 Ayara, Widow of the Realm|MOM|296
+1 Bedevil|DMC|144
+1 Birds of Paradise|DMR|439
+1 Blasphemous Act|C21|159
+1 Body Launderer|SNC|68
+1 Cauldron of Souls|C16|246
+1 Chainer, Nightmare Adept|MH2|289
+1 Champion of Rhonas|AKH|159
+1 Chromatic Lantern
+1 Command Tower|40K|270
+1 Culling Ritual|ONC|117
+1 Cultivate|C19|159
+1 Daemogoth Woe-Eater|STX|175
+1 Disciple of Bolas|C20|132
+1 Doomskar Warrior|MOM|185
+1 Doors of Durin|LTR|368
+1 Durnan of the Yawning Portal|CLB|657
+1 Etali, Primal Storm|CLB|793
+1 Evolutionary Leap|NCC|288
+1 Evolving Wilds|DMC|208
+1 Farseek
+1 First Responder|NCC|60
+6 Forest|LTR|271
+1 Gamekeeper|DMR|162
+1 Garruk's Uprising|M21|308
+1 Giant Adephage|NCC|293
+1 Golgari Signet|RAV|262
+1 Goreclaw, Terror of Qal Sisma|MUL|27
+1 Gorex, the Tombshell|MIC|20
+1 Greater Harvester|DST|44
+1 Greenwarden of Murasa|NCC|294
+1 Grim Haruspex|C19|118
+1 Gwenna, Eyes of Gaea|BRO|185
+1 Haunted Mire|DMU|248
+1 Homura, Human Ascendant|SOK|103
+1 Ignoble Hierarch|MH2|355
+1 Ilharg, the Raze-Boar|WAR|133
+1 Industrial Advancement|NCC|47
+1 Inferno Titan|LTC|223
+1 Karplusan Forest|DMU|250
+1 Kethek, Crucible Goliath|ONE|319
+1 Khalni Ambush|ZNR|192
+1 Llanowar Wastes|M15|244
+1 Luxury Suite|CLB|602
+1 Malakir Rebirth|ZNR|111
+3 Mountain|VOW|401
+1 Nasty End|LTR|416
+1 Nature's Claim|EMA|178
+1 Nature's Lore|5ED|316
+1 Ognis, the Dragon's Lash|SNC|325
+1 Path of Ancestry|40K|287
+1 Protean Hulk|GK2|83
+1 Rampant Growth|NEC|125
+1 Rise of the Witch-king|LTR|221
+1 Riveteers Ascendancy|SNC|330
+1 Riveteers Charm|SNC|331
+1 Riveteers Confluence|NCC|79
+1 Riveteers Overlook|SNC|255
+1 Rockfall Vale|MID|266
+1 Rushed Rebirth|STX|228
+1 Sakura-Tribe Elder|CNS|177
+1 Samut, Vizier of Naktamun|MAT|180
+1 Savage Lands
+1 Shadow in the Warp|40K|140
+1 Shadowblood Ridge|C20|309
+1 Skullclamp|C16|271
+1 Smoldering Marsh|NCC|428
+1 Sol Ring|C19|221
+1 Solemn Simulacrum|DDU|62
+1 Spire Garden|CLB|606
+1 Sulfurous Springs|LTC|334
+1 Sundial of the Infinite|M12|218
+4 Swamp|ITP|61
+1 Swiftfoot Boots|BRR|58
+1 Talisman of Impulse|MRD|254
+1 Talisman of Resilience|MH1|234
+1 Temple of Malady|M21|253
+1 Terramorphic Expanse|CMR|497
+1 Timeless Witness|MH2|358
+1 Treeshaker Chimera|NCC|318
+1 Undergrowth Stadium|CMR|359
+1 Undying Malice|VOW|134
+1 Victimize|MOC|270
+1 Whip of Erebos|THS|110
+1 Ziatora's Envoy|SNC|232
+1 Ziatora's Proving Ground|SNC|359
+
+
+[Sideboard]
+
+

@@ -1,0 +1,111 @@
+[metadata]
+Name=Poison Poison Everywhere
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=LostPlaneswalker
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5422181
+Date=2023-09-20
+Created=2023-09-19
+Updated=2023-09-20
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Atraxa, Praetors' Voice|2XM|353
+
+
+[Main]
+1 Ajani, Sleeper Agent|DMU|192
+1 Anguished Unmaking|2X2|170
+1 Arcane Sanctum|MOC|390
+1 Arcane Signet|WOC|145
+1 Assassin's Trophy|2X2|175
+1 Astral Cornucopia|CM2|172
+1 Birds of Paradise|DMR|151
+1 Blightbelly Rat|ONE|85
+1 Bloated Contaminator|ONE|159
+1 Breeding Pool|RNA|246
+1 Brokers Ascendancy|SNC|170
+1 Cankerbloom|ONE|161
+1 Chromatic Lantern|CMM|376
+1 Command Tower|WOC|156
+1 Commander's Sphere|CMM|377
+1 Contagion Engine
+1 Contaminant Grafter|ONC|17
+1 Counterspell|CMM|81
+1 Court of Garenbrig|WOC|25
+1 Cultivate|CMM|889
+1 Cyclonic Rift|CMM|84
+1 Delighted Halfling|LTR|158
+1 Drown in Ichor|ONE|91
+1 Everflowing Chalice
+1 Evolution Sage|ONC|108
+1 Exotic Orchard|WOC|159
+1 Experimental Augury|ONE|49
+1 Ezuri, Stalker of Spheres|ONE|201
+1 Farseek|CMM|894
+1 Fellwar Stone|WOC|147
+1 Flooded Strand|KTK|233
+1 Flux Channeler|CMM|847
+4 Forest|WOE|275
+1 Gatewatch Beacon|CMM|721
+1 Glistening Sphere|ONC|20
+1 Godless Shrine|RNA|248
+1 Hallowed Fountain|RVR|404
+1 Ichor Rats|ONC|93
+1 Indatha Triome|IKO|248
+1 Inexorable Tide|MM2|49
+1 Infectious Bite|ONE|172
+1 Infectious Inquiry|ONE|97
+4 Island|WOE|269
+1 Ixhel, Scion of Atraxa|ONC|1
+1 Karn's Bastion|CMM|1007
+1 Lightning Greaves
+1 Marsh Flats|MH2|248
+1 Misty Rainforest|MH2|250
+1 Nature's Lore|CMM|904
+1 Norn's Choirmaster|ONC|8
+1 Norn's Decree|ONC|9
+1 Opulent Palace|CMM|1017
+1 Overgrown Tomb|GRN|253
+1 Path to Exile
+1 Phyresis Outbreak|ONC|12
+4 Plains|WOE|267
+1 Polluted Delta|KTK|239
+1 Prologue to Phyresis|ONE|65
+1 Raffine's Tower|SNC|254
+1 Reliquary Tower|CMM|425
+1 Rhystic Study|J22|114
+1 Sandsteppe Citadel|CMM|1024
+1 Seaside Citadel|CMM|1029
+1 Shalai, Voice of Plenty|WOC|74
+1 Skrelv's Hive|ONE|34
+1 Skrelv, Defector Mite|ONE|33
+1 Sol Ring|WOC|149
+1 Spara's Headquarters|SNC|257
+4 Swamp|WOE|272
+1 Sword of Truth and Justice|MH1|229
+1 Swords to Plowshares|WOC|78
+1 Tainted Observer|ONE|217
+1 Tekuthal, Inquiry Dominus|ONE|71
+1 Temple Garden|GRN|258
+1 Tezzeret's Gambit|NCC|235
+1 Thrummingbird|CMM|858
+1 Unnatural Restoration|ONE|191
+1 Venerated Rotpriest|ONE|192
+1 Verdant Catacombs|MH2|260
+1 Vishgraz, the Doomhive|ONC|4
+1 Voidwing Hybrid|ONE|221
+1 Vorinclex, Monstrous Raider|KHM|199
+1 Vraska's Fall|ONE|116
+1 Vraska, Betrayal's Sting|ONE|115
+1 Watery Grave|GRN|259
+1 White Sun's Twilight|ONE|38
+1 Zagoth Triome|IKO|259
+
+
+[Sideboard]
+
+

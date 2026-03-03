@@ -1,0 +1,26 @@
+[metadata]
+Name=Upping the Average - Teysa Karlov
+Description={"ops":[{"attributes":{"link":"https://youtu.be/HtBalB_HbnE"},"insert":"https://youtu.be/HtBalB_HbnE"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added"},{"insert":"\n\nSpawning Pit\nFanatical Devotion\n\nRegna the Redeemer\nKrav the Unredeemed\nEndrek Sahr\n\nMassacre Wurm\nMartyr's Bond\nFumigate\nReliquary Monk\n\nCommander's Sphere\nOrzhov Locket\n\nDutiful Attendant\nWake the Dead\nLiving Death\n\nTombstone Stairwell\n\nVault of the Archangel\nHigh Market\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/618507
+Date=2020-06-24
+Created=2020-06-18
+Updated=2020-06-24
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Teysa Karlov|RNA|212
+
+
+[Main]
+1 Athreos, God of Passage
+1 Solemn Simulacrum|M21|239
+
+
+[Sideboard]
+
+

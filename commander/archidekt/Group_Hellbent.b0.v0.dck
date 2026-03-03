@@ -1,0 +1,102 @@
+[metadata]
+Name=Group Hellbent
+Description={"ops":[{"insert":"This deck is part of a group of budget decks my playgroup played with a few years back. This is a discard deck that is looking to disrupt its opponents, and then grind its way through the resulting scrappy game. The commander works to clear out opposing blockers for the deck to let the deck swing through, and is also useful for getting rid of extra discard spells once opponents are already hellbent. \n"}]}
+Format=commander
+Bracket=0
+Author=SalubriousSnail
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5710237
+Date=2024-09-07
+Created=2023-10-24
+Updated=2024-09-07
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Malfegor|IMA|205
+
+
+[Main]
+1 Akoum Refuge|SCD|289
+1 Anje's Ravager|VOC|141
+1 Arterial Flow|RIX|62
+1 Asylum Visitor|C19|103
+1 Azra Oddsmaker
+1 Banshee of the Dread Choir|CMA|47
+1 Blazing Specter|DDH|52
+1 Blood Scrivener|DGM|22
+1 Bloodfell Caves|MOM|267
+1 Bomat Courier|KLD|199
+1 Burglar Rat|J22|384
+1 Call to the Netherworld|C19|108
+1 Chandra, Fire Artisan|WAR|119
+1 Cinder Barrens|SCD|294
+1 Cunning Lethemancer|ALA|69
+1 Cut
+1 Davriel, Rogue Shadowmage|WAR|83
+1 Delirium Skeins|MM3|65
+1 Dreamstealer|HOU|63
+1 Elderfang Disciple|KHM|93
+1 Evolving Wilds|WOE|256
+1 Expedite|CMR|413
+1 Falkenrath Aristocrat|2XM|195
+1 Falkenrath Noble|LCC|196
+1 Fell Specter|JMP|233
+1 Goblin Smuggler|M20|144
+1 Grim Haruspex|CLB|754
+1 Hypnotic Specter
+1 Kardur's Vicious Return|KHM|217
+1 Lavaborn Muse
+1 Liliana's Specter|PCA|34
+1 Massacre Girl|RVR|328
+1 Memorial to Folly|C20|288
+1 Miasmic Mummy|JMP|256
+1 Midnight Reaper|MOC|257
+1 Mind Rake
+1 Mindblade Render|CLB|762
+1 Mizzium Mortars|CLB|803
+8 Mountain|WOE|273
+1 Murderous Cut
+1 Neheb, the Worthy|AKH|203
+1 Nihil Spellbomb|SCD|270
+1 Outpost Siege|CLB|804
+1 Pain Magnification|DIS|121
+1 Pain Seer|BNG|80
+1 Pathmaker Initiate|BBD|182
+1 Price of Fame|ZNC|52
+1 Prismatic Lens|CMM|403
+1 Prophetic Flamespeaker|JOU|106
+1 Rakdos Carnarium|BRC|194
+1 Rakdos Charm|SCD|239
+1 Rakdos Guildgate|C19|267
+1 Rakdos Signet|SCD|272
+1 Read the Bones|CMM|182
+1 Rix Maadi Reveler|RNA|109
+1 Rix Maadi, Dungeon Palace
+1 Rotting Rats|HOP|39
+1 Ruin Raider|XLN|118
+1 Sibsig Icebreakers|DTK|119
+1 Sire of Insanity|DGM|104
+1 Skull Rend|RTR|195
+1 Slavering Nulls|DDH|45
+1 Stromkirk Occultist|VOC|151
+1 Sulfurous Mire|KHM|270
+15 Swamp|WOE|272
+1 Syphon Mind|SCD|111
+1 Syr Konrad, the Grim|MOC|269
+1 Tasigur's Cruelty|FRF|88
+1 Tectonic Giant|SCD|161
+1 Terminate|SCD|249
+1 Terramorphic Expanse|CMM|428
+1 The Eldest Reborn|CMM|867
+1 Theater of Horrors|SCD|250
+1 Underworld Connections|VOC|138
+1 Unearth|2X2|96
+1 Unnerve|CM2|81
+1 Woe Strider|CLB|774
+1 Zulaport Cutthroat|CLB|775
+
+
+[Sideboard]
+
+

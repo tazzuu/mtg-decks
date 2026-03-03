@@ -1,0 +1,117 @@
+[metadata]
+Name=Upping the Average - Pantlaza, Sun-Favored
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/b_bxjvWyJ8I?si=vN3Cbr_5Xq1sM7U6"},"insert":"https://youtu.be/b_bxjvWyJ8I?si=vN3Cbr_5Xq1sM7U6"},{"attributes":{"bold":true},"insert":" "},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\nKaheera (Companion)\nFellwar Stone\nNature’s Lore\nKodama’s Reach\nLurking Predators\nSneak Attack\nTouch the Spirit Realm\nLegion’s initiative\nLaezel’s Acrobatics\nBlasphemous Act\nHulking Raptor\n\n"},{"attributes":{"color":"var(--color)","background":"var(--light-background)"},"insert":"Rockfall Vale"},{"insert":"\nSundown Pass\nOvergrown Farmland\nKrosan Verge\nScavenger Grounds\nPit of Offerings\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5984805
+Date=2023-11-29
+Created=2023-11-27
+Updated=2023-11-29
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Pantlaza, Sun-Favored|LCC|4
+
+
+[Main]
+1 Akroma's Will|LCC|125
+1 Apex Altisaur|LCC|232
+1 Arcane Signet|LCC|299
+1 Blasphemous Act|LCC|216
+1 Bronzebeak Foragers|LCC|69
+1 Canopy Vista|LCC|321
+1 Cavern of Souls|LCI|269
+1 Chandra's Ignition|LCC|220
+1 Cinder Glade|LCC|323
+1 Clifftop Retreat|LCC|324
+1 Command Tower|LCC|325
+1 Cultivate|CLB|821
+1 Curious Altisaur|LCC|90
+1 Earthshaker Dreadmaw|LCI|183
+1 Elemental Bond|C19|163
+1 Ephemerate
+1 Etali, Primal Conqueror|MOM|298
+1 Etali, Primal Storm|LCC|224
+1 Evolving Wilds|DDH|32
+1 Exotic Orchard|LCC|329
+1 Farseek|LCC|242
+1 Fellwar Stone|WOC|147
+5 Forest|M21|272
+1 Garruk's Uprising|M21|186
+1 Generous Gift|LCC|128
+1 Ghalta and Mavren|MOM|307
+1 Ghalta, Primal Hunger
+1 Ghalta, Stampede Tyrant|LCI|185
+1 Gishath, Sun's Avatar|LCI|229
+1 Herald's Horn|LCC|304
+1 Heroic Intervention|CMM|295
+1 Hulking Raptor|LCI|191
+1 Jetmir's Garden
+1 Jungle Shrine|LCC|338
+1 Kaheera, the Orphanguard|IKO|224
+1 Kessig Wolf Run|LCC|340
+1 Kinjalli's Sunwing|LCC|130
+1 Kodama's Reach|LCC|245
+1 Krosan Verge|WOC|163
+1 Lae'zel's Acrobatics|CLB|30
+1 Legion's Initiative|2X2|242
+1 Lurking Predators|JMP|410
+1 Marauding Raptor|LCC|228
+1 Monster Manual
+1 Mosswort Bridge|LCC|342
+2 Mountain|LTR|269
+1 Nature's Lore|DMR|170
+1 Overgrown Farmland|WHO|292
+1 Path of Ancestry|LCC|346
+1 Path to Exile|LCC|134
+1 Pit of Offerings|LCI|278
+3 Plains|WOE|268
+1 Progenitor's Icon|LCC|100
+1 Quartzwood Crasher|LCC|281
+1 Rampaging Brontodon|JMP|423
+1 Rampant Growth|LCC|248
+1 Ranging Raptors|LCC|249
+1 Regal Behemoth|LCC|251
+1 Regisaur Alpha|LCC|286
+1 Return of the Wildspeaker|LCC|252
+1 Rhythm of the Wild|LCC|287
+1 Ripjaw Raptor|LCC|253
+1 Rishkar's Expertise|LCC|254
+1 Rockfall Vale|WHO|298
+1 Rogue's Passage|C21|312
+1 Rootbound Crag|WHO|300
+1 Runic Armasaur|LCC|256
+1 Sacred Foundry|GTC|245
+1 Scavenger Grounds|CMM|1027
+1 Scion of Calamity|LCC|93
+1 Secluded Courtyard|LCC|350
+1 Sneak Attack|DMR|331
+1 Sol Ring|LCC|313
+1 Stomping Ground|RNA|259
+1 Sundown Pass|WHO|310
+1 Sunfrill Imitator|LCC|94
+1 Swords to Plowshares|LCC|137
+1 Temple Altisaur|LCC|138
+1 Temple Garden|SLD|127
+1 Terramorphic Expanse|CMR|357
+1 The Great Henge|CMM|294
+1 The Skullspore Nexus|LCI|212
+1 Thrashing Brontodon|LCI|216
+1 Thunderherd Migration|LCC|259
+1 Topiary Stomper|LCC|261
+1 Touch the Spirit Realm|NEO|40
+1 Trumpeting Carnosaur|LCI|171
+1 Unclaimed Territory|VOC|188
+1 Wakening Sun's Avatar|LCC|139
+1 Wayward Swordtooth|LCC|263
+1 Welcome to . . .|REX|7
+1 Wrathful Raptors|LCC|88
+1 Zacama, Primal Calamity|LCC|296
+
+
+[Sideboard]
+
+

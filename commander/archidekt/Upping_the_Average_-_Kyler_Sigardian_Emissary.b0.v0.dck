@@ -1,0 +1,108 @@
+[metadata]
+Name=Upping the Average - Kyler, Sigardian Emissary
+Description={"ops":[{"attributes":{"underline":true,"bold":true,"link":"https://youtu.be/KdgbNqyiMnY"},"insert":"https://youtu.be/KdgbNqyiMnY"},{"insert":" \n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nTimeless Witness\nCathar Commando\nSlippery Bogbonder\nRepel the Abominable\n\nHarmonize\nCamaraderie\nGreater Good\n\nMosswort Bridge\nTerramorphic Expanse\nEvolving Wilds\nGuildless Commons\nTyrite Sanctum\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2125573
+Date=2021-12-15
+Created=2021-12-05
+Updated=2021-12-15
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Kyler, Sigardian Emissary|MIC|4
+
+
+[Main]
+1 Abzan Falconer|MIC|77
+1 Adeline, Resplendent Cathar|MID|1
+1 Akroma's Will|CMR|3
+1 Angel of Glory's Rise|MIC|79
+1 Arcane Signet|MIC|157
+1 Augur of Autumn|MID|168
+1 Avacyn's Pilgrim|MIC|132
+1 Bastion Protector|MIC|80
+1 Beast Within|MIC|133
+1 Call the Coppercoats|C20|23
+1 Camaraderie|GRN|157
+1 Canopy Vista|MIC|168
+1 Castle Ardenvale|ELD|238
+1 Cathar Commando|MID|10
+1 Cathars' Crusade|JMP|95
+1 Cemetery Protector|VOW|6
+1 Champion of Lambholt|MIC|136
+1 Champion of the Parish|DDQ|4
+1 Cleansing Nova|MIC|82
+1 Command Tower|MIC|170
+1 Cultivate|AFC|155
+1 Esper Sentinel|MH2|12
+1 Eternal Witness|MIC|138
+1 Evolving Wilds|MID|261
+7 Forest|M21|272
+1 Gavony Township|C20|276
+1 Greater Good|BBD|201
+1 Guardian Project|RNA|130
+1 Guildless Commons|CMR|351
+1 Hardened Scales|CM2|138
+1 Harmonize|TSR|208
+1 Heroic Intervention|AFC|161
+1 Heron's Grace Champion|MIC|152
+1 Heronblade Elite|MIC|26
+1 Increasing Devotion|C20|91
+1 Inspiring Call|MIC|141
+1 Katilda, Dawnhart Prime|MID|230
+1 Kodama's Reach|C21|197
+1 Krosan Verge|MIC|175
+1 Laid to Rest|VOW|207
+1 Leinore, Autumn Sovereign|MIC|1
+1 Lifecrafter's Bestiary|MIC|160
+1 Maja, Bretagard Protector|KHM|222
+1 Mikaeus, the Lunarch|MIC|89
+1 Moorland Rescuer|MIC|7
+1 Mosswort Bridge|AFC|251
+1 Myriad Landscape|VOC|176
+1 Odric, Master Tactician|MIC|90
+1 Overgrown Farmland|MID|265
+1 Path of Ancestry|VOC|177
+1 Path to Exile|2XM|25
+10 Plains|M21|260
+1 Rampant Growth|AFC|166
+1 Realmwalker|KHM|188
+1 Repel the Abominable|EMN|38
+1 Riders of Gavony|MIC|93
+1 Rogue's Passage|MIC|179
+1 Ruinous Intrusion|MIC|28
+1 Saryth, the Viper's Fang|MID|197
+1 Sejiri Shelter|ZNR|37
+1 Selesnya Sanctuary|MIC|180
+1 Shamanic Revelation|MIC|143
+1 Sigarda, Heron's Grace|MIC|155
+1 Slippery Bogbonder|C20|66
+1 Sol Ring|MIC|162
+1 Somberwald Sage|MIC|144
+1 Sungrass Prairie|MIC|181
+1 Sunpetal Grove|XLN|257
+1 Swiftfoot Boots|VOC|169
+1 Swords to Plowshares|VOC|99
+1 Talisman of Unity|MIC|165
+1 Temple of Plenty|MIC|185
+1 Terramorphic Expanse|CMR|357
+1 Thalia's Lieutenant|C20|103
+1 The Ozolith|IKO|237
+1 Timeless Witness|MH2|179
+1 Torens, Fist of the Angels|VOW|249
+1 Tyrite Sanctum|KHM|272
+1 Unbreakable Formation|MIC|95
+1 Vanquish the Horde|MID|41
+1 Vastwood Fortification|ZNR|216
+1 Victory's Envoy|MIC|96
+1 Visions of Glory|MIC|32
+1 Wild Beastmaster|MIC|146
+
+
+[Sideboard]
+
+

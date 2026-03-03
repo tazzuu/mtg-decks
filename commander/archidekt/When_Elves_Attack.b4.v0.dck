@@ -1,0 +1,74 @@
+[metadata]
+Name=When Elves Attack
+Description=
+Format=commander
+Bracket=4
+Author=PauperCube
+Tags=
+Version=0
+URL=https://archidekt.com/decks/638136
+Date=2025-12-18
+Created=2020-06-30
+Updated=2025-12-18
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Tyvar the Bellicose|MAT|148
+
+
+[Main]
+1 Akroma's Memorial|SPG|81
+1 Allosaurus Shepherd|JMP|28
+1 Bayou|VMA|293
+1 Beast Whisperer
+1 Canopy Tactician|KHM|378
+1 Cavern of Souls|PUMA|U32
+1 Circle of Dreams Druid|AFR|176
+1 Dionus, Elvish Archdruid|J25|52
+1 Eladamri, Korvecdal|MH3|423
+1 Eladamri, Lord of Leaves|TMP|224
+1 Elven Chorus
+1 Elvish Dreadlord|CMR|121
+1 Elvish Harbinger|LTC|527
+1 Elvish Mystic|M14|169
+1 Elvish Warmaster|KHM|167
+1 Evolution Witness|MH3|424
+16 Forest|ONE|369
+1 Gaea's Cradle
+1 Galadhrim Ambush|LTC|440
+1 Galadhrim Brigade|LTC|502
+1 Growing Rites of Itlimoc
+1 Gyre Sage|GTC|123
+1 Heroic Intervention|AFC|161
+1 Imaryll, Elfhame Elite|GN3|5
+1 Jarad, Golgari Lich Lord|DDJ|45
+1 Lathril, Blade of the Elves|KHC|1
+1 Leaf-Crowned Visionary
+1 Marwyn, the Nurturer
+1 Nath of the Gilt-Leaf|LRW|250
+1 Nurturing Peatland|ACR|114
+1 Pact of the Serpent|LCC|206
+1 Path of Ancestry|SLD|250
+1 Poison-Tip Archer|KHC|90
+1 Quest for Renewal|WWK|110
+1 Ruthless Winnower|KHC|10
+1 Skemfar Avenger|KHM|109
+1 Staff of Domination|BRR|119
+4 Swamp|ONE|367
+1 Tajuru Preserver|ROE|211
+1 Tear Asunder|DMU|183
+1 The Great Henge|ELD|370
+1 Tyvar Kell|KHM|198
+1 Tyvar, Jubilant Brawler
+1 Undergrowth Stadium|CMR|359
+1 Urborg, Tomb of Yawgmoth|V12|13
+1 Viridian Joiner|MRD|138
+1 Wirewood Hivemaster|LGN|145
+1 Wolverine Riders|KHC|14
+1 Woodland Cemetery|ISD|249
+1 Yavimaya, Cradle of Growth|MH2|261
+
+
+[Sideboard]
+
+

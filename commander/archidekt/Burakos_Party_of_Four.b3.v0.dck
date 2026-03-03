@@ -1,0 +1,138 @@
+[metadata]
+Name=Burakos, Party of Four?
+Description={"ops":[]}
+Format=commander
+Bracket=3
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/4301639
+Date=2026-02-11
+Created=2023-04-06
+Updated=2026-02-11
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Burakos, Party Leader|CLB|653
+1 Folk Hero|CLB|650
+
+
+[Main]
+1 Academy Manufactor|MH2|219
+1 Access Tunnel|STX|262
+1 Adept Watershaper|ECL|3
+1 Akroma's Will|LCC|125
+1 Al Bhed Salvagers|FIN|88
+1 Arcane Signet|CLB|298
+1 Archivist of Oghma|CLB|4
+1 Archpriest of Iona|CLB|686
+1 Arid Archway|OTJ|252
+1 Ascend from Avernus|CLB|5
+1 Assault Intercessor|40K|104
+1 Astarion, the Decadent|CLB|265
+1 Aven Interrupter|OTJ|4
+1 Baldin, Century Herdmaster|SLX|10
+1 Batwing Brume|ARC|80
+1 Black Market Connections|CLB|669
+1 Blackbloom Rogue|ZNR|91
+1 Bojuka Bog|C17|238
+1 Brightclimb Pathway|ZNR|285
+1 Caves of Koilos|ORI|245
+1 Changeling Outcast|MH1|82
+1 Command Tower|CLB|351
+1 Crib Swap|CLB|690
+1 Deadly Alliance|ZNR|96
+1 Deadly Rollick|C20|42
+1 Deep Gnome Terramancer|CLB|658
+1 Desolate Mire|OTC|287
+1 Disciple of the Vault|2XM|86
+1 Dispatch|C21|88
+1 Evin, Waterdeep Opportunist|SLD|1239
+1 Exalted Sunborn|EOE|15
+1 Fetid Heath|MOC|399
+1 Flawless Maneuver|ONC|68
+1 Galadriel's Dismissal|LTC|500
+1 Gandalf, White Rider|LTR|290
+1 Giver of Runes|MH1|13
+1 Glasswing Grace|MH3|254
+1 Godless Shrine|GTC|242
+1 Grasp of Fate|WOT|3
+1 Grim Haruspex|KTK|73
+1 Guildless Commons|CMR|351
+1 Harper Recruiter|CLB|659
+1 Haunted One|CLB|624
+1 Heliod's Intervention|THB|19
+1 Inkshield|SLD|1694
+1 Invasion of New Capenna|MOM|238
+1 Jazal Goldmane|CLB|697
+1 Lightning Greaves|C17|215
+1 Lotho, Corrupt Shirriff|LTR|213
+1 Mage's Attendant|SNC|21
+1 Malakir Blood-Priest|ZNR|110
+1 Mastermind Plum|CLU|3
+1 Mindblade Render|CLB|762
+1 Mirror Entity|CMA|16
+1 Morbid Opportunist|MID|113
+1 Moriok Rigger|5DN|54
+1 Mother of Runes|CMA|17
+1 Multiclass Baldric|CLB|684
+1 Mutavault|M14|228
+1 Nadier's Nightblade|CMM|175
+1 Nalia de'Arnise|CLB|649
+1 Night Clubber|SNC|89
+1 Obsidian Battle-Axe|MOR|144
+1 Orzhov Basilica|CLB|906
+1 Orzhov Signet|RVR|263
+1 Path of Ancestry|ONC|161
+1 Path to Exile|2X2|23
+4 Plains|CLB|452
+1 Popular Egotist|DSK|114
+1 Ratadrabik of Urborg|DMU|213
+1 Reconnaissance|EXO|17
+1 Redemption Choir|LCC|74
+1 Requisition Raid|OTJ|26
+1 Roadside Reliquary|NEO|272
+1 Roaming Throne|LCI|258
+1 Rogue's Passage|CLB|913
+1 Rumor Gatherer|SNC|29
+1 Sandbender Scavengers|TLA|239
+1 Sejiri Shelter|ZNR|37
+1 Selfless Glyphweaver|STX|157
+1 Selfless Spirit|J22|239
+1 Shadowy Backstreet|MKM|268
+1 Shattered Sanctum|VOW|264
+1 Shizo, Death's Storehouse|DMC|233
+1 Silent Clearing|MH1|246
+1 Skullclamp|CMD|260
+1 Smogsteed Rider|GPT|63
+1 Sol Ring|MIC|162
+1 Soltari Visionary|EXO|20
+1 Squad Commander|CLB|709
+1 Starlit Sanctum|CLB|917
+1 Stick Together|CLB|661
+1 Storm of Souls|VOC|9
+1 Strionic Resonator|NCC|381
+2 Swamp|CLB|460
+1 Swiftfoot Boots|NCC|382
+1 Swords to Plowshares|LCC|137
+1 Talisman of Hierarchy|LCC|315
+1 Tarrian's Soulcleaver|LCI|264
+1 Temple of Silence|DMC|237
+1 The Black Gate|LTC|80
+1 Thwart the Grave|CLB|773
+1 Umbral Collar Zealot|EOE|123
+1 Unexplained Absence|MKC|17
+1 Vat of Rebirth|ONE|113
+1 Vault of Champions|CMR|360
+1 Vault of the Archangel|LCC|367
+1 Vexilus Praetor|40K|19
+1 War Room|CLB|929
+1 Will of the Abzan|TDC|31
+1 Windbrisk Heights|LCC|370
+1 Winds of Abandon|MH1|37
+1 Zulaport Cutthroat|A25|117
+
+
+[Sideboard]
+
+

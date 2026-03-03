@@ -1,0 +1,156 @@
+[metadata]
+Name=Isperia, Supreme Judge: A Riddle of Sphinxes
+Description={"ops":[{"insert":"Date of creation\n2014"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nTheme:\nSphinxs in a moderate control shell"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nPower\nFairly slow, won't win before turn 10, but it can usually last to that point then turn the corner"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nWin conditions:\nUsual win condition is sphinx beats, often enabled by things like "},{"insert":{"card-link":"True Conviction"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRules:\nOnly sphinx as creatures or walkers"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"No infinites"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nChangelog:\n2020 01-11 add "},{"insert":{"card-link":"Dream Trawler"}},{"insert":" rmv "},{"insert":{"card-link":"Sphinx of Lost Truths"}},{"insert":"  Come on, Dream Trawler is dope af"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 01-29 add "},{"insert":{"card-link":"Arcane Denial"}},{"insert":" rmv "},{"insert":{"card-link":"Render Silent"}},{"insert":" Deck is so mana hungry, need easier to cast counters"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 01-29 add "},{"insert":{"card-link":"Thought Vessel"}},{"insert":" rmv "},{"insert":{"card-link":"Mana Crypt"}},{"insert":" Deck isn't a Mana Crypt deck and I'm not a Mana Crypt guy"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-20 add "},{"insert":{"card-link":"Prognostic Sphinx"}},{"insert":" rmv "},{"insert":{"card-link":"Chancellor of the Spires"}},{"insert":" Chancy has just been ineffective too often"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 03-27 add "},{"insert":{"card-link":"Dust Bowl"}},{"insert":" rmv "},{"insert":{"card-link":"Temple of Enlightenment"}},{"insert":" Trying to make sure I'm at 3 land removal lands"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 09-17 add "},{"insert":{"card-link":"Sea Gate Restoration // Sea Gate, Reborn"}},{"insert":" rmv "},{"insert":{"card-link":"Irrigated Farmland"}},{"insert":" Farmland isn't great (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 09-17 add "},{"insert":{"card-link":"Master of Winds"}},{"insert":" rmv "},{"insert":{"card-link":"Conundrum Sphinx"}},{"insert":" Master of Winds might draw better (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 09-17 add "},{"insert":{"card-link":"Enigma Thief"}},{"insert":" rmv "},{"insert":{"card-link":"Argent Sphinx"}},{"insert":" Enigma just has more upside (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 09-17 add "},{"insert":{"card-link":"Worn Powerstone"}},{"insert":" rmv "},{"insert":{"card-link":"Commander's Sphere"}},{"insert":" Need the burst of mana more than draw (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-07 add "},{"insert":{"card-link":"War Room"}},{"insert":" rmv "},{"insert":{"card-link":"Prismatic Vista"}},{"insert":" Vista getting 1 of two basic types barely matters (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-07 add "},{"insert":{"card-link":"Sphinx of the Second Sun"}},{"insert":" rmv "},{"insert":{"card-link":"Master of Winds"}},{"insert":" MoW too unpredictable (+4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-07 add "},{"insert":{"card-link":"Akroma's Will"}},{"insert":" rmv "},{"insert":{"card-link":"Brainstorm"}},{"insert":" Brainstorm didn't do much (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Aetherspouts"}},{"insert":" rmv "},{"insert":{"card-link":"Sphinx's Revelation"}},{"insert":" Rev just feels bad before T10 (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Cosmic Intervention"}},{"insert":" rmv "},{"insert":{"card-link":"Return to Dust"}},{"insert":" Dust is just too slow, Intervention seems real good (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Hengegate Pathway // Mistgate Pathway"}},{"insert":" rmv "},{"insert":{"card-link":"Island"}},{"insert":" MDFC duals are great (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Thran Dynamo"}},{"insert":" rmv "},{"insert":{"card-link":"Chromatic Lantern"}},{"insert":" Think I have enough duals to need mana more than fixing (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Midnight Clock"}},{"insert":" rmv "},{"insert":{"card-link":"Wayfarer's Bauble"}},{"insert":" Clock is just good (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 03-30 add "},{"insert":{"card-link":"Aminatou's Augury"}},{"insert":" rmv "},{"insert":{"card-link":"Cleansing Nova"}},{"insert":" Testing Augury (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-08 add "},{"insert":{"card-link":"Dazzling Sphinx"}},{"insert":" rmv "},{"insert":{"card-link":"Glyph Keeper"}},{"insert":" Dazzling Sphinx has way more upside (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-08 add "},{"insert":{"card-link":"Archaeomancer's Map"}},{"insert":" rmv "},{"insert":{"card-link":"Aminatou's Augury"}},{"insert":"  Augary whiffed too much (-5)2021 "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"07-01 add "},{"insert":{"card-link":"Ethersworn Sphinx"}},{"insert":" rmv "},{"insert":{"card-link":"Sphinx of Uthuun"}},{"insert":" Testing this. We'll see how often it's cheap (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Vanquish the Horde"}},{"insert":" rmv "},{"insert":{"card-link":"Supreme Verdict"}},{"insert":" Cheaper is better than uncounterble I think (+4)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 09-16 add "},{"insert":{"card-link":"Deserted Beach"}},{"insert":" rmv "},{"insert":{"card-link":"Hengegate Pathway // Mistgate Pathway"}},{"insert":" Beach is better (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 10-20 add "},{"insert":{"card-link":"Hengegate Pathway // Mistgate Pathway"}},{"insert":" rmv "},{"insert":{"card-link":"Island"}},{"insert":" (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 10-20 add "},{"insert":{"card-link":"Bonders' Enclave"}},{"insert":" rmv "},{"insert":{"card-link":"Plains"}},{"insert":" Since "},{"insert":{"card-link":"War Room"}},{"insert":" has worked so well (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Minamo, School at Water's Edge"}},{"insert":" rmv "},{"insert":{"card-link":"Sea Gate Restoration // Sea Gate, Reborn"}},{"insert":" Dead too often (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Eiganjo, Seat of the Empire"}},{"insert":" rmv "},{"insert":{"card-link":"Hengegate Pathway // Mistgate Pathway"}},{"insert":" More upside w Eiganjo (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Otawara, Soaring City"}},{"insert":" rmv "},{"insert":{"card-link":"Nimbus Maze"}},{"insert":" Nimbus didn't work half the time (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2022 02-15 add "},{"insert":{"card-link":"Roadside Reliquary"}},{"insert":" rm "},{"insert":{"card-link":"Dust Bowl"}},{"insert":" Bowl doesn't quite work right (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 07-01 add "},{"insert":{"card-link":"Rivendell"}},{"insert":" rmv "},{"insert":{"card-link":"Island"}},{"insert":" Hall is fine but has less use cases (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 07-13 add "},{"insert":{"card-link":"Hengegate Pathway // Mistgate Pathway"}},{"insert":" rmv "},{"insert":{"card-link":"Plains"}},{"insert":" (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-30 add "},{"insert":{"card-link":"Permission Denied"}},{"insert":" rmv "},{"insert":{"card-link":"Delay"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-30 add "},{"insert":{"card-link":"Pit of Offerings"}},{"insert":" rmv "},{"insert":{"card-link":"The Mycosynth Gardens"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-30 add "},{"insert":{"card-link":"Progenitor's Icon"}},{"insert":" rmv "},{"insert":{"card-link":"Archaeomancer's Map"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 11-30 add "},{"insert":{"card-link":"Roaming Throne"}},{"insert":" rmv "},{"insert":{"card-link":"Farewell"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 12-13 add "},{"insert":{"card-link":"Vanish into Memory"}},{"insert":"  rmv "},{"insert":{"card-link":"Psychic Possession"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"}]}
+Format=commander
+Bracket=3
+Author=danaroach
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3997
+Date=2026-02-16
+Created=2019-02-05
+Updated=2026-02-16
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Isperia, Supreme Judge|RTR|171
+
+
+[Main]
+1 Abstergo Entertainment|ACR|171
+1 Adarkar Wastes|10E|347
+1 Aetherize|GTC|29
+1 Aetherspouts|M15|44
+1 Akroma's Will|CMR|615
+1 Amonkhet Raceway|DFT|248
+1 Amphibian Downpour|MH3|51
+1 An Offer You Can't Refuse|SNC|464
+1 Ancient Tomb|V12|1
+1 Arcane Denial|A25|41
+1 Arcane Signet|CMR|689
+1 Archaeomancer's Map|C21|12
+1 Atemsis, All-Seeing|M20|46
+1 Austere Command|MP2|1
+1 Azor, the Lawbringer
+1 Azorius Signet|DIS|159
+1 Bonders' Enclave|IKO|363
+1 Cavern of Souls|PUMA|U32
+1 Clever Concealment|ONC|5
+1 Command Tower
+1 Consecrated Sphinx|MBS|21
+1 Council's Judgment|CNS|16
+1 Curator of Destinies|FDN|305
+1 Dawn's Truce|BLB|295
+1 Dazzling Sphinx|C21|25
+1 Defiler of Dreams|DMU|393
+1 Delay|FUT|35
+1 Demolition Field|BRO|260
+1 Deserted Beach|MID|281
+1 Dovin's Veto
+1 Dream Eater|GRN|38
+1 Dream Trawler|THB|336
+1 Enigma Thief|ZNC|4
+1 Ethersworn Sphinx|MH2|195
+1 Everflowing Chalice
+1 Farewell|NEO|13
+1 Final Showdown|OTJ|312
+1 Flooded Strand
+1 Floodfarm Verge|DSK|330
+1 Galadriel's Dismissal|LTC|500
+1 Generous Gift|H1R|2
+1 Glacial Fortress|M12|227
+1 Glasspool Mimic|ZNR|328
+1 Hall of Heliod's Generosity|H1R|39
+1 Hallowed Fountain|EXP|6
+1 Heliod's Intervention|THB|19
+1 Hengegate Pathway|KHM|293
+1 Homeward Path
+1 Horizon of Progress|M3C|130
+1 Hourglass of the Lost|M3C|92
+1 Hylda's Crown of Winter|WOE|367
+1 Impostor Syndrome|SPM|251
+1 Imprisoned in the Moon
+4 Island|RAV|294
+1 Kor Haven|EXP|41
+1 Land Tax
+1 Leyline of Anticipation|M11|61
+1 Lightning Greaves
+1 Liquimetal Torque|MH2|428
+1 Lunar Insight|FDN|310
+1 Mana Drain
+1 Medomai the Ageless|THS|196
+1 Midnight Clock|ELD|346
+1 Minamo, School at Water's Edge
+1 Mind Stone
+1 Mirrorform|ECL|59
+1 Mystic Gate|EXP|26
+1 Mystic Remora|SLD|406
+1 Nykthos, Shrine to Nyx|THS|223
+1 Otawara, Soaring City|NEO|414
+1 Overwhelming Intellect|SOK|51
+1 Path to Exile
+1 Permission Denied|REX|17
+1 Pit of Offerings|LCI|278
+4 Plains|SLD|391
+1 Polymorphist's Jest|M15|75
+1 Prairie Stream|EXP|1
+1 Progenitor's Icon|LCC|100
+1 Psychic Possession|DIS|30
+1 Reliquary Tower
+1 Rhystic Study|CM1|15
+1 Riddleform|HOU|43
+1 Rivendell|LTR|344
+1 Roadside Reliquary|NEO|272
+1 Roaming Throne|LCI|344
+1 Scavenger Grounds
+1 Scholar of the Lost Trove|JMP|496
+1 Scroll Rack|CM1|16
+1 Sea Gate Restoration|ZNR|333
+1 Sea of Clouds|ZNE|16
+1 Serum Sovereign|ONE|410
+1 Sink into Stupor|MH3|241
+1 Skycloud Expanse|ODY|327
+1 Smothering Tithe|RNA|22
+1 Sol Ring
+1 Sphinx Ambassador|M10|73
+1 Sphinx of Clear Skies|DMU|396
+1 Sphinx of Foresight|RNA|55
+1 Sphinx of Forgotten Lore|FDN|314
+1 Sphinx of Magosi|ROE|89
+1 Sphinx of the Final Word|OGW|63
+1 Sphinx of the Revelation|M3C|75
+1 Sphinx of the Second Sun|CMR|643
+1 Stock Up|DFT|67
+1 Stoic Sphinx|OTJ|322
+1 Stonespeaker Crystal|CLB|338
+1 Strip Mine|EXP|43
+1 Stroke of Midnight|WOE|375
+1 Stubborn Denial|KTK|56
+1 Sublime Epiphany
+1 Swan Song|THS|65
+1 Swiftfoot Boots|M12|219
+1 Swords to Plowshares|V13|2
+1 Talisman of Progress|MRD|256
+1 Talon Gates of Madara|M3C|82
+1 Teferi's Protection
+1 The Mycosynth Gardens|ONE|402
+1 Thought Vessel|CMR|703
+1 Thran Dynamo|V13|7
+1 Trouble in Pairs|MKC|15
+1 True Conviction|SOM|25
+1 Unesh, Criosphinx Sovereign|HOU|52
+1 Unexpectedly Absent|EMA|33
+1 Unstoppable Plan|DFT|382
+1 Urza's Cave|MH3|234
+1 Vanish into Memory|CSP|133
+1 War Room|CMR|716
+1 Wasteland
+1 Watcher of Hours|MKC|335
+1 Will of the Temur|TDC|24
+1 Windreader Sphinx|M14|81
+1 Winged Words|M20|80
+
+
+[Sideboard]
+
+

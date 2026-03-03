@@ -1,0 +1,104 @@
+[metadata]
+Name=Upping the Average - Lathril, Blade of the Elves
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/Q4ZR2_CLy84"},"insert":"https://youtu.be/Q4ZR2_CLy84"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\nDevoted Druid\nForest\n\nRead the Bones\nHarmonize\nElvish Visionary\nHarald, King of Skemfar\nSkemfar Avenger\nSpecies Specialist\n\nOverwhelming Stampede\nDwynen's Elite\nElvish Clancaller\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1173110
+Date=2021-02-25
+Created=2021-02-19
+Updated=2021-02-25
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Lathril, Blade of the Elves|KHC|1
+
+
+[Main]
+1 Abomination of Llanowar|KHC|81
+1 Arbor Elf
+1 Assassin's Trophy|GRN|152
+1 Beast Whisperer|KHC|54
+1 Beast Within|CMR|423
+1 Bounty of Skemfar|KHC|12
+1 Canopy Tactician|KHM|378
+1 Command Tower|CMR|350
+1 Copperhorn Scout|CN2|179
+1 Devoted Druid|UMA|162
+1 Dwynen's Elite|JMP|389
+1 Dwynen, Gilt-Leaf Daen|KHC|56
+1 Elderfang Venom|KHC|15
+1 Elven Ambush|KHM|391
+1 Elves of Deep Shadow|GK1|56
+1 Elvish Archdruid|KHC|57
+1 Elvish Champion|9ED|238
+1 Elvish Clancaller|M19|179
+1 Elvish Dreadlord|CMR|121
+1 Elvish Harbinger|EVG|4
+1 Elvish Mystic|M15|173
+1 Elvish Promenade|EVG|20
+1 Elvish Visionary|CMR|223
+1 Elvish Warmaster|KHM|167
+1 Ezuri, Renegade Leader|CMA|108
+1 Finale of Devastation|WAR|160
+16 Forest|KHM|398
+1 Freyalise, Llanowar's Fury|CC1|1
+1 Fyndhorn Elves|CMR|228
+1 Gilt-Leaf Palace|LRW|268
+1 Golgari Charm|UMA|201
+1 Golgari Rot Farm|KHC|112
+1 Growing Rites of Itlimoc|XLN|191
+1 Guardian Project|RNA|130
+1 Harald, King of Skemfar|KHM|212
+1 Harmonize|CMR|427
+1 Heritage Druid|MOR|126
+1 Heroic Intervention
+1 Immaculate Magistrate|CMR|234
+1 Imperious Perfect|CMR|235
+1 Joraga Warcaller|CMA|120
+1 Llanowar Elves
+1 Llanowar Wastes|C20|286
+1 Lys Alana Huntmaster|KHC|67
+1 Marwyn, the Nurturer|DOM|172
+1 Miara, Thorn of the Glade|KHC|51
+1 Moldervine Reclamation|M20|214
+1 Overgrown Tomb|GRN|253
+1 Overwhelming Stampede|C19|175
+1 Pact of the Serpent|KHC|9
+1 Path of Ancestry|KHC|117
+1 Poison-Tip Archer|KHC|90
+1 Priest of Titania|C14|210
+1 Prowess of the Fair|LRW|136
+1 Putrefy|C20|228
+1 Quest for Renewal|WWK|110
+1 Read the Bones
+1 Realmwalker|KHM|188
+1 Reclamation Sage|CMR|248
+1 Return of the Wildspeaker|ELD|172
+1 Ruthless Winnower|KHC|10
+1 Shaman of the Pack|KHC|92
+1 Shamanic Revelation|2XM|179
+1 Skemfar Avenger|KHM|109
+1 Skemfar Elderhall|KHM|268
+1 Skemfar Shadowsage|KHM|110
+1 Skullclamp
+1 Sol Ring|CMR|472
+1 Species Specialist|C20|47
+5 Swamp|KHM|396
+1 Temple of Malady|M21|253
+1 Throne of the God-Pharaoh|AKH|237
+1 Timberwatch Elf|KHC|76
+1 Twilight Mire|2XM|328
+1 Undergrowth Stadium|CMR|359
+1 Wirewood Channeler|KHC|79
+1 Wirewood Lodge
+1 Wolverine Riders|KHC|14
+1 Wood Elves|CMA|170
+1 Woodland Cemetery|DOM|248
+
+
+[Sideboard]
+
+

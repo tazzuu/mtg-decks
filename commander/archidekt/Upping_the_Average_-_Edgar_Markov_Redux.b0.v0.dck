@@ -1,0 +1,114 @@
+[metadata]
+Name=Upping the Average - Edgar Markov Redux
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/CmNx1SpMqBU"},"insert":"https://youtu.be/CmNx1SpMqBU"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added"},{"insert":"\n\nNight's Whisper\nPainful Truths\nMinions' Murmurs\nPact of the Serpent\n\nMirror Entity\nThirsting Bloodlord\nShadow Alley Denizen\nNullpriest of Oblivion\nMercadia's Downfall\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2073351
+Date=2021-11-22
+Created=2021-11-20
+Updated=2021-11-22
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Edgar Markov|C17|36
+
+
+[Main]
+1 Anguished Unmaking|SOI|242
+1 Anointed Procession|AKH|2
+1 Anowon, the Ruin Sage|VOC|118
+1 Arcane Signet|VOC|159
+1 Blood Artist|VOC|119
+1 Blood Crypt|RNA|245
+1 Bloodline Keeper|ISD|90
+1 Bloodstained Mire|KTK|230
+1 Bojuka Bog|MIC|167
+1 Boros Charm|C21|210
+1 Boros Signet|CMR|459
+1 Captivating Vampire
+1 Caves of Koilos|C21|283
+1 Champion of Dusk|VOC|124
+1 Clifftop Retreat|DOM|239
+1 Command Tower|MIC|170
+1 Cordial Vampire|VOC|125
+1 Crackling Doom|C20|205
+1 Cruel Celebrant|WAR|188
+1 Damn|MH2|80
+1 Demonic Tutor
+1 Door of Destinies|C17|208
+1 Dragonskull Summit|XLN|252
+1 Drana, Liberator of Malakir|JMP|225
+1 Edgar, Charmed Groom|VOW|236
+1 Elenda, the Dusk Rose
+1 Evolving Wilds|VOW|263
+1 Falkenrath Pit Fighter|MID|137
+1 Florian, Voldaren Scion|MID|223
+1 Forerunner of the Legion|RIX|9
+1 Gifted Aetherborn|JMP|239
+1 Godless Shrine|RNA|248
+1 Herald's Horn|C17|53
+1 Indulgent Aristocrat|VOC|130
+1 Isolated Chapel|DOM|241
+1 Legion Lieutenant|RIX|163
+1 Legion's Landing|XLN|22
+1 Malakir Bloodwitch|VOC|131
+1 Mavren Fein, Dusk Apostle|XLN|24
+1 Mercadia's Downfall|MMQ|205
+1 Merciless Eviction|2XM|211
+1 Minions' Murmurs|TSR|124
+1 Mirror Entity|VOC|94
+2 Mountain|M21|271
+1 New Blood|C17|19
+1 Night's Whisper|VOC|133
+1 Nighthawk Scavenger|ZNR|115
+1 Nomad Outpost|C20|294
+1 Nullpriest of Oblivion|ZNR|118
+1 Olivia Voldaren|MM3|177
+1 Orzhov Basilica|AFC|253
+1 Orzhov Signet|C21|254
+1 Pact of the Serpent|KHC|9
+1 Painful Truths|C20|134
+1 Path of Ancestry|VOC|177
+1 Path to Exile|2XM|25
+1 Patron of the Vein|VOC|135
+1 Phyrexian Arena|CN2|144
+2 Plains|M21|262
+1 Rakdos Signet|VOC|166
+1 Rakish Heir|VOC|149
+1 Read the Bones|C14|158
+1 Ruinous Ultimatum|IKO|204
+1 Sacred Foundry|GRN|254
+1 Sanctum Seeker|VOC|136
+1 Savai Triome|IKO|253
+1 Shadow Alley Denizen|DDM|44
+1 Shared Animosity|C20|158
+1 Skullclamp
+1 Sol Ring|MIC|162
+1 Spectator Seating|CMR|356
+1 Stromkirk Captain|VOC|157
+8 Swamp|M21|266
+1 Swords to Plowshares|VOC|99
+1 Teferi's Protection
+1 Terramorphic Expanse|AFC|267
+1 Thirsting Bloodlord|M20|293
+1 Twilight Prophet|RIX|88
+1 Unclaimed Territory|VOC|188
+1 Urborg, Tomb of Yawgmoth|TSR|287
+1 Vampire Nighthawk|VOC|140
+1 Vampire Socialite|MID|249
+1 Vampire of the Dire Moon|M20|120
+1 Vanquisher's Banner|XLN|251
+1 Vault of Champions|CMR|360
+1 Viscera Seer|CMR|158
+1 Vito, Thorn of the Dusk Rose|M21|127
+1 Voldaren Estate|VOW|267
+1 Welcoming Vampire|VOW|46
+1 Yahenni, Undying Partisan|AER|74
+
+
+[Sideboard]
+
+

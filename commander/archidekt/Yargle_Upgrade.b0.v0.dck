@@ -1,0 +1,102 @@
+[metadata]
+Name=Yargle Upgrade
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=tolariancommunitycollege
+Tags=
+Version=0
+URL=https://archidekt.com/decks/4442570
+Date=2023-04-28
+Created=2023-04-28
+Updated=2023-04-28
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Yargle and Multani|MOM|256
+
+
+[Main]
+1 Arbor Elf|M13|160
+1 Arcane Signet|MOC|348
+1 Beast Within|ONC|104
+1 Birds of Paradise|SLD|1147
+1 Black Market Connections|CLB|669
+1 Bojuka Bog|MOC|391
+1 Command Tower|C16|286
+1 Concordant Crossroads|SLD|467
+1 Craterhoof Behemoth|SLD|375
+1 Culling Ritual|STX|172
+1 Cultivate|MOC|295
+1 Deathsprout|C20|208
+1 Demonic Tutor
+1 Disciple of Bolas|NCC|247
+1 Dying Wish|GTC|64
+1 Elvish Mystic|M14|169
+1 Essence Harvest|AVR|100
+1 Eternal Witness|C15|183
+1 Exotic Orchard|MOC|398
+1 Explore|C19|164
+1 Feign Death|AFR|103
+1 Fellwar Stone|C17|210
+1 Field of Ruin|THB|242
+1 Fiend Artisan|IKO|220
+11 Forest|ELD|266
+1 Fungal Sprouting|M13|173
+1 Gaea's Gift|BRO|182
+1 Ghalta, Primal Hunger
+1 Ghoulcaller Gisa|CC2|2
+1 Go for the Throat|MIC|119
+1 Golgari Rot Farm|C19|248
+1 Golgari Signet|MM3|220
+1 Goreclaw, Terror of Qal Sisma|MUL|27
+1 Goryo's Vengeance|UMA|99
+1 Harrow
+1 Haunted Mire|DMU|248
+1 Heroic Intervention
+1 Invasion of Ikoria|MOM|190
+1 Jarad, Golgari Lich Lord|GK1|65
+1 Jungle Hollow|C21|295
+1 Kaya's Ghostform|WAR|94
+1 Kenrith's Transformation|ELD|164
+1 Kodama's Reach|NEC|120
+1 Life's Legacy|M15|183
+1 Llanowar Elves|7ED|253
+1 Llanowar Wastes|C19|258
+1 Mind Stone|ONC|137
+1 Minion's Return|THB|104
+1 Mosswort Bridge|CLB|902
+1 Myriad Landscape|MOC|416
+1 Overgrown Tomb
+1 Parallel Lives|ISD|199
+1 Pathbreaker Ibex|CMA|132
+1 Putrefy
+1 Rampant Growth|AFC|166
+1 Reclamation Sage|M19|196
+1 Return of the Wildspeaker|C21|205
+1 Rishkar's Expertise|NEC|127
+1 Rite of Consumption|SHM|76
+1 Rogue's Passage|MOC|421
+1 Ruthless Technomancer|NEC|35
+1 Selvala, Heart of the Wilds
+1 Snakeskin Veil|KHM|194
+1 Sol Ring|MOC|381
+11 Swamp|UND|91
+1 Swiftfoot Boots|CM2|223
+1 Tainted Wood|DDM|78
+1 Talisman of Resilience|MH1|234
+1 Tear Asunder|DMU|183
+1 Temple of Malady|NCC|433
+1 Tend the Pests|STX|242
+1 Thought Vessel
+1 Torment of Hailfire
+1 Toxic Deluge|EMA|108
+1 Traverse the Outlands|CLB|258
+1 Triumph of the Hordes|NPH|123
+1 Tyvar's Stand|ONE|190
+1 Yargle, Glutton of Urborg
+
+
+[Sideboard]
+
+

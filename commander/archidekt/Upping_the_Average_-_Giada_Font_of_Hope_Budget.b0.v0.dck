@@ -1,0 +1,99 @@
+[metadata]
+Name=Upping the Average - Giada, Font of Hope (Budget)
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/iatr_2paewA"},"insert":"https://youtu.be/iatr_2paewA"},{"attributes":{"bold":true},"insert":" "},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nBonders’ Enclave\nGuildless Commons\nBrave the Elements\nEmpyrial Storm\nBreathkeeper Seraph\nAngelic Sleuth\nSigarda’s Vanguard\n\nHeraldic Banner\nCommander’s Sphere\nMarble Diamond\nSejiri Shelter\nRoadside Reliquary\n\nSunset Pyramid\nEndless Atlas\nMazemind Tome\nMask of Memory\nWell of Lost Dreams\n\nRootborn Defenses\nLapse of Certainty\nRavnica at War\n\nSegovian Angel\nAngelic Arbiter\nEntreat The Angels\nGuardian Seraph\nEnduring Angel\nTwilight Shepherd\nAngel of the Ruins\nHerald of the Host\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2685760
+Date=2022-05-11
+Created=2022-05-05
+Updated=2022-05-11
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Giada, Font of Hope|SNC|14
+
+
+[Main]
+1 Akroma's Will|CMR|3
+1 Angel of Destiny|ZNR|2
+1 Angel of Finality|AFC|63
+1 Angel of Jubilation|AVR|2
+1 Angel of Vitality|M20|4
+1 Angel of the Ruins|C21|11
+1 Angelic Accord|IMA|7
+1 Angelic Arbiter|JMP|86
+1 Angelic Skirmisher|GTC|3
+1 Angelic Sleuth|NCC|12
+1 Arcane Signet|CMR|297
+1 Austere Command|NCC|193
+1 Baneslayer Angel|M21|6
+1 Bishop of Wings|M20|8
+1 Bonders' Enclave|IKO|245
+1 Brave the Elements|C14|66
+1 Breathkeeper Seraph|VOC|31
+1 Bruna, the Fading Light|EMN|15
+1 Commander's Sphere|NCC|363
+1 Court of Grace|CMR|16
+1 Dawn of Hope|GRN|8
+1 Eiganjo, Seat of the Empire|NEO|268
+1 Emeria Shepherd|ZNC|16
+1 Emeria's Call|ZNR|12
+1 Empyrial Storm|C18|2
+1 Endless Atlas|2XM|251
+1 Enduring Angel|MID|17
+1 Entreat the Angels
+1 Farewell|NEO|417
+1 Generous Gift|NCC|201
+1 Guardian Seraph|M10|13
+1 Guildless Commons|CMR|351
+1 Heliod's Intervention|THB|19
+1 Herald of War|MIC|86
+1 Herald of the Host|CM2|29
+1 Herald's Horn|C17|53
+1 Heraldic Banner|ELD|222
+1 Inspiring Overseer|SNC|18
+1 Karmic Guide|VOC|90
+1 Lapse of Certainty|CON|9
+1 Lightning Greaves|NCC|371
+1 Marble Diamond|VOC|165
+1 Mask of Memory|CMR|324
+1 Mazemind Tome|M21|232
+1 Mind Stone|AFC|211
+1 Myriad Landscape|NCC|416
+1 Nyx Lotus|THB|235
+1 Oketra's Monument|AKH|233
+1 Path of Ancestry|NCC|419
+1 Path to Exile|NCC|208
+25 Plains|SNC|263
+1 Ravnica at War|WAR|28
+1 Righteous Valkyrie|KHM|24
+1 Roadside Reliquary|NEO|272
+1 Rootborn Defenses
+1 Sanctuary Warden|SNC|30
+1 Segovian Angel|MH1|25
+1 Sejiri Shelter|ZNR|37
+1 Sephara, Sky's Blade|M20|36
+1 Seraph Sanctuary|DDQ|33
+1 Serra's Emissary|MH2|30
+1 Sigarda's Splendor|MID|33
+1 Sigarda's Vanguard|MIC|8
+1 Sol Ring|NCC|379
+1 Speaker of the Heavens
+1 Starnheim Aspirant|KHM|380
+1 Starnheim Unleashed|KHM|33
+1 Sunset Pyramid|CMR|345
+1 Swords to Plowshares|NCC|211
+1 The Book of Exalted Deeds|AFR|4
+1 Thraben Watcher|MH2|34
+1 Twilight Shepherd|DVD|11
+1 Valkyrie Harbinger|KHM|374
+1 War Room|CMR|361
+1 Well of Lost Dreams|C21|275
+
+
+[Sideboard]
+
+

@@ -1,0 +1,113 @@
+[metadata]
+Name=Upping the Average - Muldrotha, the Gravetide Redux
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/thKaKV-2ZbY"},"insert":"https://youtu.be/thKaKV-2ZbY"},{"attributes":{"bold":true},"insert":" "},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added"},{"insert":"\n\nSwiftfoot Boots\nWayfarer's Bauble\nHigh Market\nGhost Quarter\nSanctum Weaver\n\nAether Spellbomb\nSeal of Removal\nNihil Spellbomb\nSinister Concoction\nGlacial Chasm\nDemon's Disciple\n\nMazirek, Kraul Death Priest\nSyr Konrad, the Grim\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2223923
+Date=2022-01-05
+Created=2022-01-03
+Updated=2022-01-05
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Muldrotha, the Gravetide
+
+
+[Main]
+1 Aether Spellbomb|JMP|456
+1 Altar of Dementia|MH1|218
+1 Animate Dead
+1 Arcane Signet|VOC|159
+1 Ashiok, Dream Render|WAR|228
+1 Ashnod's Altar
+1 Assassin's Trophy|GRN|152
+1 Baleful Strix|AFC|177
+1 Bojuka Bog|MIC|167
+1 Breeding Pool|RNA|246
+1 Buried Alive|UMA|88
+1 Caustic Caterpillar
+1 Command Beacon|CMR|349
+1 Command Tower|CMR|350
+1 Commander's Sphere|VOC|163
+1 Cyclonic Rift|2XM|47
+1 Dauthi Voidwalker|MH2|81
+1 Deathcap Glade|VOW|261
+1 Demon's Disciple|ZNR|97
+1 Demonic Tutor
+1 Dreamroot Cascade|VOW|262
+1 Drowned Catacomb|XLN|253
+1 Dryad of the Ilysian Grove|THB|169
+1 Entomb|UMA|94
+1 Eternal Witness|MIC|138
+1 Evolving Wilds|CMR|482
+1 Exotic Orchard|VOC|173
+5 Forest|M19|280
+1 Ghost Quarter|C14|298
+1 Glacial Chasm|ICE|353
+1 Glen Elendra Archmage|UMA|58
+1 Golgari Signet|CM2|192
+1 Gravebreaker Lamia|THB|98
+1 High Market|AFC|246
+1 Hinterland Harbor|DOM|240
+3 Island|M19|268
+1 Kaya's Ghostform|WAR|94
+1 Life from the Loam|UMA|172
+1 Lightning Greaves|AFC|331
+1 Lord of the Forsaken|MID|110
+1 Mazirek, Kraul Death Priest|2XM|209
+1 Misty Rainforest|MH2|250
+1 Mulldrifter|AFC|87
+1 Mystic Remora|ICE|87
+1 Nevinyrral's Disk|MH2|298
+1 Nihil Spellbomb|A25|226
+1 Opulent Palace|C20|295
+1 Overgrown Tomb|GRN|253
+1 Pernicious Deed|A25|212
+1 Perpetual Timepiece|KLD|227
+1 Plaguecrafter|AFC|107
+1 Polluted Delta|KTK|239
+1 Ravenous Chupacabra|JMP|269
+1 Reclamation Sage|KHC|72
+1 Rejuvenating Springs|CMR|354
+1 Rhystic Study|JMP|169
+1 River Kelpie|C19|93
+1 Sakura-Tribe Elder|C20|187
+1 Sanctum Weaver|MH2|171
+1 Satyr Wayfinder|ZNC|81
+1 Seal of Primordium|TSR|228
+1 Seal of Removal|MH2|269
+1 Secrets of the Dead|C19|95
+1 Sidisi, Undead Vizier|DTK|120
+1 Simic Signet|C21|262
+1 Sinister Concoction|SOI|135
+1 Siren Stormtamer|CMR|96
+1 Sol Ring|C21|263
+1 Solemn Simulacrum|AFC|216
+1 Spore Frog|MH1|180
+1 Springbloom Druid|KHC|74
+1 Stitcher's Supplier
+5 Swamp|M19|272
+1 Swiftfoot Boots|VOC|169
+1 Syr Konrad, the Grim|ZNC|56
+1 Tamiyo, Collector of Tales|WAR|220
+1 Tatyova, Benthic Druid
+1 Terramorphic Expanse|AFC|267
+1 The Gitrog Monster
+1 Undergrowth Stadium|CMR|359
+1 Underrealm Lich|GRN|211
+1 Verdant Catacombs|MH2|260
+1 Villainous Wealth|C20|233
+1 Watery Grave|GRN|259
+1 Wayfarer's Bauble|AFC|222
+1 Windfall|KHC|46
+1 Woodland Cemetery|DOM|248
+1 World Shaper|RIX|151
+1 Zagoth Triome|IKO|259
+
+
+[Sideboard]
+
+

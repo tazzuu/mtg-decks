@@ -1,0 +1,100 @@
+[metadata]
+Name=$75 Lyse Hext Voltron Budget Build. Bracket 3
+Description={"ops":[]}
+Format=commander
+Bracket=3
+Author=BasedDeckDepartment
+Tags=
+Version=0
+URL=https://archidekt.com/decks/13511774
+Date=2026-02-27
+Created=2025-06-01
+Updated=2026-02-27
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Lyse Hext|FIC|88
+
+
+[Main]
+1 Adarkar Wastes|DSC|258
+1 Angelic Gift|J25|165
+1 Apostle's Blessing|MM2|8
+1 Arcane Signet|M3C|283
+1 Azorius Signet|DSC|240
+1 Brainstorm|FCA|28
+1 Cartouche of Knowledge|J25|295
+1 Center Soul|DTK|8
+1 Chromatic Sphere|MRD|151
+1 Chromatic Star|BRR|11
+1 Coldsteel Heart|2X2|301
+1 Combat Tutorial|FIN|48
+1 Command Tower|TDC|107
+1 Compulsive Research|TDC|147
+1 Confound
+1 Conjurer's Bauble|5DN|112
+1 Cut a Deal|BLC|105
+1 Defiant Strike|J25|187
+1 Deliberate|ZNR|56
+1 Deserted Beach|WHO|270
+1 Distortion Strike|ROE|60
+1 Emerge Unscathed
+1 Empyrial Armor|WTH|13
+1 Enter the Enigma|DSK|52
+1 Fae Flight|MKM|56
+1 Feat of Resistance|KTK|10
+1 Feather of Flight|BLB|13
+1 Fellwar Stone|CMM|382
+1 Frantic Search
+1 Gitaxian Probe|NPH|35
+1 Glacial Fortress|TDC|367
+1 Gold Myr|SOM|157
+1 Guided Strike|JUD|13
+1 Hand of Vecna|AFR|246
+1 Hithlain Knots|LTR|54
+1 Inaction Injunction|RTR|41
+16 Island|MOM|278
+1 Keep Safe|IKO|56
+1 Lock and Load|OTC|15
+1 Marble Diamond|CLB|446
+1 Mystic Gate|M3C|359
+1 Negate|MOM|68
+1 Nerd Rage|PIP|34
+1 Omen of the Sea|J25|336
+1 Open the Armory|CMR|34
+9 Plains|TDM|277
+1 Plunge into Winter|WOE|22
+1 Ponder|WHO|217
+1 Port Town|FIC|412
+1 Prairie Stream|TDC|384
+1 Preordain|TDC|161
+1 Proft's Eidetic Memory|MKM|67
+1 Rebellious Strike|TDM|20
+1 Remand|J25|349
+1 Reprieve|LTR|26
+1 Rune of Flight|KHM|75
+1 Rune of Sustenance|KHM|25
+1 Secret Rendezvous|BLC|152
+1 See Beyond|PC2|25
+1 Sejiri Shelter|ZNR|37
+1 Shadow Rift
+1 Shelter|CMM|56
+1 Silver Myr|SOM|202
+1 Sky Diamond|SCD|273
+1 Skycloud Expanse|FIC|423
+1 Slip Through Space|OGW|47
+1 Stratus Walk|ORI|77
+1 Talisman of Progress|M3C|313
+1 Temporary Truce|MB2|22
+1 Unwind|DOM|72
+1 Veil of Secrecy|BOK|59
+1 Vision Skeins|C13|65
+1 Water Wings|WOE|77
+1 Wedding Invitation|VOW|260
+1 Words of Wisdom|ODY|114
+1 Zhalfirin Shapecraft|MOM|87
+
+
+[Sideboard]
+
+

@@ -1,0 +1,107 @@
+[metadata]
+Name=Upping the Average - Meren of Clan Nel Toth
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/CL-5lC6NkFw"},"insert":"https://youtu.be/CL-5lC6NkFw"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nFarhaven Elf\nSpringbloom Druid\nYavimaya Granger\nCommand Beacon\nGuildless Commons\n\nMidnight Reaper\nSmothering Abomination\nPattern of Rebirth\n\nOblivion Stone\nMassacre Wurm\nTwilight's Call\nMitotic Slime\n\n(Honorable mention: Tombstone Stairwell)\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/1017047
+Date=2021-01-01
+Created=2020-12-22
+Updated=2021-01-01
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Meren of Clan Nel Toth
+
+
+[Main]
+1 Acidic Slime|CMR|421
+1 Altar of Dementia|MH1|218
+1 Animate Dead
+1 Ashnod's Altar
+1 Assassin's Trophy|GRN|152
+1 Beast Within|CMR|423
+1 Birthing Pod|NPH|104
+1 Blood Artist|JMP|206
+1 Bojuka Bog
+1 Buried Alive|UMA|88
+1 Carrion Feeder
+1 Caustic Caterpillar
+1 Command Beacon|CMR|349
+1 Command Tower|ZNC|124
+1 Deathrite Shaman|GK1|59
+1 Demon's Disciple|ZNR|97
+1 Demonic Tutor
+1 Diabolic Intent|BBD|141
+1 Dictate of Erebos
+1 Eldritch Evolution
+1 Entomb|UMA|94
+1 Eternal Witness|CMR|425
+1 Farhaven Elf|CMR|225
+1 Fauna Shaman|UMA|164
+1 Fleshbag Marauder|CM2|64
+6 Forest|CMR|510
+1 Golgari Rot Farm|C20|277
+1 Grave Pact|CM2|65
+1 Gray Merchant of Asphodel|THB|99
+1 Grim Backwoods|C20|278
+1 Grim Haruspex
+1 Guildless Commons|CMR|351
+1 High Market|2XM|321
+1 Jarad's Orders|RTR|175
+1 Journey to Eternity|RIX|160
+1 Jungle Hollow|M21|247
+1 Kokusho, the Evening Star|IMA|95
+1 Lightning Greaves|2XM|267
+1 Liliana, Dreadhorde General|WAR|97
+1 Living Death|A25|96
+1 Llanowar Wastes|C20|286
+1 Massacre Wurm|M21|114
+1 Merciless Executioner|FRF|76
+1 Midnight Reaper|GRN|77
+1 Mikaeus, the Unhallowed|UMA|106
+1 Mitotic Slime|PCA|67
+1 Moldervine Reclamation|M20|214
+1 Oblivion Stone|2XM|279
+1 Overgrown Tomb|GRN|253
+1 Pattern of Rebirth|UMA|176
+1 Phyrexian Tower
+1 Plaguecrafter
+1 Protean Hulk|GK2|83
+1 Ravenous Chupacabra|JMP|269
+1 Razaketh, the Foulblooded|HOU|73
+1 Reanimate|JMP|270
+1 Reclamation Sage|CMR|434
+1 Sakura-Tribe Elder|C20|187
+1 Satyr Wayfinder|ZNC|81
+1 Sheoldred, Whispering One|JMP|278
+1 Shriekmaw|C20|136
+1 Sidisi, Undead Vizier|DTK|120
+1 Skullclamp|C20|251
+1 Smothering Abomination|BFZ|99
+1 Sol Ring|C20|252
+1 Solemn Simulacrum|M21|239
+1 Spore Frog|MH1|180
+1 Springbloom Druid|ZNC|83
+12 Swamp|ZNR|382
+1 Syr Konrad, the Grim|ZNC|56
+1 Tainted Wood|CMA|276
+1 Temple of Malady|M21|253
+1 Twilight Mire|2XM|328
+1 Twilight's Call|DDJ|76
+1 Undergrowth Stadium|CMR|359
+1 Urborg, Tomb of Yawgmoth|UMA|254
+1 Victimize|CMR|157
+1 Viscera Seer|CMR|158
+1 Woe Strider|THB|123
+1 Wood Elves|CMA|170
+1 Woodland Cemetery|DOM|248
+1 Yavimaya Granger|ULG|118
+1 Zulaport Cutthroat|ZNC|57
+
+
+[Sideboard]
+
+

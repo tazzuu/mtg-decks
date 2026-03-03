@@ -1,0 +1,147 @@
+[metadata]
+Name=Vela the Night-Clad: Intimidating Machinery
+Description={"ops":[{"insert":"Date of creation:\n2015"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nTheme:\nArtifacts matter and artifact creature beats"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nPower:\nAs with most of my decks, very midrange, but hard  to stop once the pieces are in play"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nWin conditions:\nTezzeret + artifacts = damage"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Unblockable creature beats sometimes supplemented by things like "},{"insert":{"card-link":"Karn, Silver Golem"}},{"insert":" making my rocks into bodies"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Vela exit-the-battlefield triggers"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Alt-win cons like "},{"insert":{"card-link":"Revel in Riches"}},{"insert":" and "},{"insert":{"card-link":"Mirrodin Besieged"}},{"insert":" "},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nRules and notes:\nColorless artifact creatures only"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"Only Tezzeret allowed as a planeswalker"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"This is a work-in-progress altered deck using borderless alters done by Ryan Peneff (@CadPopCast)"},{"attributes":{"list":"bullet"},"insert":"\n"},{"insert":"\nChangelog:\n2020 01-11 add "},{"insert":{"card-link":"Soul-Guide Lantern"}},{"insert":" rmv "},{"insert":{"card-link":"Nihil Spellbomb"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-05 add "},{"insert":{"card-link":"Crashing Drawbridge"}},{"insert":" rmv "},{"insert":{"card-link":"Burnished Hart"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 02-09 add "},{"insert":{"card-link":"Unwinding Clock"}},{"insert":"  rmv "},{"insert":{"card-link":"Witching Well"}},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 04-11 add "},{"insert":{"card-link":"Arcbound Crusher"}},{"insert":" rmv "},{"insert":{"card-link":"Unwinding Clock"}},{"insert":" Wasn't enough to do w Clock, Crusher could get nuts (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 04-11 add "},{"insert":{"card-link":"Thopter Spy Network"}},{"insert":" rmv "},{"insert":{"card-link":"The Elderspell"}},{"insert":" Seeing way less walkers playing online (+2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 10-01 add "},{"insert":{"card-link":"Skyclave Relic"}},{"insert":" rmv "},{"insert":{"card-link":"Tezzeret, Master of Metal"}},{"insert":" Need to test Relic, Tezz is kina meh (-3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 10-01 add "},{"insert":{"card-link":"Myriad Construct"}},{"insert":" rmv "},{"insert":{"card-link":"Soul of New Phyrexia"}},{"insert":" Hated paying 6 for Soul (-2)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 10-01 add "},{"insert":{"card-link":"Forsaken Monument"}},{"insert":" rmv "},{"insert":{"card-link":"Masterful Replication"}},{"insert":" Needed to pull something, 6 is a lot (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-07 add "},{"insert":{"card-link":"War Room"}},{"insert":" rmv "},{"insert":{"card-link":"Island"}},{"insert":" Mana sink and draw on a land is good (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2020 11-07 add "},{"insert":{"card-link":"Phyrexian Triniform"}},{"insert":" rmv "},{"insert":{"card-link":"Crashing Drawbridge"}},{"insert":" Didn't use haste much (+7)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-16 add "},{"insert":{"card-link":"Feed the Swarm"}},{"insert":" rmv "},{"insert":{"card-link":"Imprisoned in the Moon"}},{"insert":" Could use some enchant removal (-1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 01-25 add "},{"insert":{"card-link":"Port of Karfell"}},{"insert":" rmv "},{"insert":{"card-link":"Fetid Pools"}},{"insert":" Both ETB tapped, more upside on Port (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-22 add "},{"insert":{"card-link":"Resculpt"}},{"insert":" rmv "},{"insert":{"card-link":"Mishra's Self-Replicator"}},{"insert":" Needed to remove something (-3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 04-22 add "},{"insert":{"card-link":"Stinging Study"}},{"insert":" rmv "},{"insert":{"card-link":"One with the Machine"}},{"insert":" Same as above, had to remove something (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 06-13 add "},{"insert":{"card-link":"Mistvault Bridge"}},{"insert":" rmv "},{"insert":{"card-link":"Island"}},{"insert":" Guess I can go to 8 basics (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 06-13 add "},{"insert":{"card-link":"Power Depot"}},{"insert":" rmv "},{"insert":{"card-link":"Swamp"}},{"insert":" Guess I can go to 8 basics (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 06-13 add "},{"insert":{"card-link":"Nettlecyst"}},{"insert":" rmv "},{"insert":{"card-link":"Semblance Anvil"}},{"insert":" Hard to find artifact to exile (-0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 06-13 add "},{"insert":{"card-link":"Urza's Saga"}},{"insert":" rmv "},{"insert":{"card-link":"Port of Karfell"}},{"insert":" Need to make a slot (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-01 add "},{"insert":{"card-link":"One with the Machine"}},{"insert":" rmv "},{"insert":{"card-link":"Thopter Spy Network"}},{"insert":" TSN was kinda slow (+1)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-08 add "},{"insert":{"card-link":"Mycosynth Golem"}},{"insert":" rmv "},{"insert":{"card-link":"Mishra's Self-Replicator"}},{"insert":" Want to try Golem (+6)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-13 add "},{"insert":{"card-link":"Rise and Shine"}},{"insert":" rmv "},{"insert":{"card-link":"Cyclonic Rift"}},{"insert":" Getting bored of Rift even though it's a bomb (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-13 add "},{"insert":{"card-link":"Arcbound Reclaimer"}},{"insert":" rmv "},{"insert":{"card-link":"Hex Parasite"}},{"insert":" Just want to test out Reclaimer (+3)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2021 07-13 add "},{"insert":{"card-link":"Treasure Vault"}},{"insert":" rmv "},{"insert":{"card-link":"Tainted Isle"}},{"insert":" Made colorless 1/2 the time anyway due to lack of swamps (0)"},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 08-13 add "},{"insert":{"card-link":"The One Ring"}},{"insert":" rmv "},{"insert":{"card-link":"Steel Overseer"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"2023 08-13 add "},{"insert":{"card-link":"Monumental Corruption"}},{"insert":" rmv "},{"insert":{"card-link":"Terisiare's Devastation"}},{"insert":" "},{"attributes":{"list":"ordered"},"insert":"\n"},{"insert":"\n\n\n"}]}
+Format=commander
+Bracket=3
+Author=danaroach
+Tags=
+Version=0
+URL=https://archidekt.com/decks/3993
+Date=2025-11-18
+Created=2019-02-05
+Updated=2025-11-18
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Vela the Night-Clad|PC2|107
+
+
+[Main]
+1 Abstergo Entertainment|ACR|171
+1 Academy Ruins|MMA|219
+1 All Is Dust|MM2|1
+1 Ancient Tomb|TMP|315
+1 Arcane Signet|ELD|331
+1 Arcbound Crusher|DST|95
+1 Arcbound Ravager|MMA|198
+1 Arcbound Reclaimer|DST|101
+1 Archway of Innovation|MH3|214
+1 Ashnod's Altar|CHR|92
+1 Bojuka Bog|CMA|243
+1 Buried Ruin|C18|239
+1 Canoptek Spyder|40K|151
+1 Chimil, the Inner Sun|LCI|249
+1 Cloud Key|FUT|160
+1 Command Tower|C17|242
+1 Cryptothrall|40K|155
+1 Crystal Skull, Isu Spyglass|ACR|15
+1 Cybermen Squadron|WHO|457
+1 Darksteel Citadel|C18|241
+1 Demonic Tutor|3ED|105
+1 Dimir Signet|MM3|219
+1 Drowned Catacomb|XLN|253
+1 Echoes of Eternity|MH3|4
+1 Efficient Construction|AER|33
+1 Feed the Swarm|ZNR|102
+1 Fellwar Stone|C16|254
+1 Fomori Vault|BIG|59
+1 Forsaken Monument|ZNR|244
+1 Foundry Inspector|KLD|215
+1 Hangarback Walker|ORI|229
+1 Haunt the Network|DFT|207
+1 Inventors' Fair|KLD|247
+1 Iron Spider, Stark Upgrade|SPM|166
+4 Island|3ED|295
+1 Jhoira's Familiar|DOM|220
+1 Karn, Legacy Reforged|MAT|49
+1 Karn, Silver Golem|USG|298
+1 Krark-Clan Ironworks|5DN|134
+1 Liquimetal Torque|MH2|228
+1 Metalwork Colossus|KLD|222
+1 Metalworker|UDS|135
+1 Mind Stone|C18|210
+1 Mirrodin Besieged|MH1|57
+1 Mistvault Bridge|MH2|249
+1 Monumental Corruption|ONC|24
+1 Morphic Pool|BBD|83
+1 Mox Opal|SOM|179
+1 Mycosynth Golem|5DN|137
+1 Myr Battlesphere|SOM|180
+1 Myriad Construct|ZNR|376
+1 Mystic Forge|M20|233
+1 Nettlecyst|MH2|231
+1 Night's Whisper|DDM|68
+1 Notion Rain|GRN|193
+1 One with the Machine|M19|66
+1 Phyrexian Altar|INV|306
+1 Phyrexian Tower|USG|322
+1 Phyrexian Triniform|CMR|331
+1 Pit of Offerings|LCI|278
+1 Polluted Delta|KTK|239
+1 Pongify|C14|120
+1 Power Depot|MH2|251
+1 Prototype Portal|C18|216
+1 Rapid Hybridization|GK2|109
+1 Read the Bones|ORI|114
+1 Reality Shift
+1 Reliquary Tower|C16|316
+1 Resculpt|STX|51
+1 Revel in Riches|XLN|117
+1 Rise and Shine|MH2|58
+1 Scarecrone|EVE|172
+1 Scavenger Grounds|HOU|182
+1 Scene of the Crime|MKM|267
+1 Seat of the Synod|MRD|283
+1 Secluded Starforge|EOE|257
+1 Shambling Suit|ELD|230
+1 Shimmer Myr|C16|269
+1 Shrine of the Forsaken Gods|C19|273
+1 Sign in Blood|M11|117
+1 Simulacrum Synthesizer|BIG|71
+1 Skullclamp|C17|222
+1 Skyclave Relic|ZNR|377
+1 Sol Ring
+1 Solar Array|EOC|18
+1 Spawning Pit|DST|141
+1 Spellskite|NPH|159
+1 Steel Overseer|M20|239
+1 Stinging Study|C21|44
+1 Stock Up|DFT|67
+1 Strip Mine|4ED|363
+1 Sunken Hollow|BFZ|249
+4 Swamp|3ED|300
+1 Talisman of Dominance|MRD|253
+1 Terisiare's Devastation|BRC|9
+1 Tezzeret the Seeker|MM2|62
+1 Tezzeret, Agent of Bolas|MBS|97
+1 Tezzeret, Artifice Master|M19|79
+1 Tezzeret, Cruel Captain|EOE|2
+1 Tezzeret, Master of the Bridge|WAR|275
+1 The Mycosynth Gardens|ONE|256
+1 The One Ring|LTR|451
+1 The Soul Stone|SPM|66
+1 Their Name Is Death|40K|62
+1 Thought Vessel|C15|55
+1 Thoughtcast|MRD|54
+1 Threefold Thunderhulk|LCI|265
+1 Toxic Deluge|C13|96
+1 Traxos, Scourge of Kroog|DOM|234
+1 Treasure Vault|AFR|261
+1 Underground River|ICE|362
+1 Underground Sea|3ED|290
+1 Urborg, Tomb of Yawgmoth|M15|248
+1 Urza's Saga|MH2|259
+1 Uthros, Titanic Godcore|EOE|260
+1 Vault of Whispers|MRD|286
+1 Virulent Silencer|EOE|248
+1 Volrath's Stronghold|STH|143
+1 War Room|CMR|361
+1 Wasteland|TMP|330
+1 Watery Grave|GTC|249
+1 Withering Torment|DSK|124
+1 Wurmcoil Engine|C14|283
+
+
+[Sideboard]
+
+

@@ -1,0 +1,114 @@
+[metadata]
+Name=Upping the Average - Korvold, Fae-Cursed King
+Description={"ops":[{"attributes":{"underline":true,"bold":true,"background":"transparent","color":"#000000","link":"https://youtu.be/sSKPbKZgbpA"},"insert":"https://youtu.be/sSKPbKZgbpA"},{"insert":"\n\n"},{"attributes":{"background":"transparent","color":"#000000","bold":true},"insert":"Cards Added: "},{"insert":"\n\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Wood Elves"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Farhaven Elf"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Growth Spasm"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Wayfarer's Bauble"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Commander's Sphere"},{"insert":"\n\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Fleshbag Marauder"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Merciless Executioner"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Chaos Warp"},{"insert":"\n\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Seal of Primordium"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Cindervines"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Reclamation Sage"},{"insert":"\n\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Constant Mists"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Crux of Fate"},{"insert":"\n\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Ghost Quarter"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Tectonic Edge"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Khalni Garden"},{"insert":"\n\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Chandra's Ignition"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Essence Harvest"},{"insert":"\n"},{"attributes":{"background":"transparent","color":"#000000"},"insert":"Ugin's Nexus"},{"insert":"\n\n\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/725550
+Date=2020-09-02
+Created=2020-08-15
+Updated=2020-09-02
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Korvold, Fae-Cursed King|ELD|329
+
+
+[Main]
+1 Arcane Signet|C20|237
+1 Ashnod's Altar
+1 Avenger of Zendikar|2XM|152
+1 Bastion of Remembrance|IKO|73
+1 Beast Within|C20|168
+1 Blasphemous Act|2XM|117
+1 Blood Artist|JMP|206
+1 Blood Crypt|RNA|245
+1 Bojuka Bog|C20|259
+1 Brass's Bounty|RIX|94
+1 Caustic Caterpillar
+1 Chandra's Ignition|ORI|137
+1 Chaos Warp|C20|146
+1 Cinder Glade|C20|263
+1 Cindervines|RNA|161
+1 Command Tower|C20|264
+1 Commander's Sphere|C20|240
+1 Constant Mists|STH|104
+1 Crop Rotation|2XM|161
+1 Crux of Fate|C17|107
+1 Cultivate|M21|177
+1 Dictate of Erebos
+1 Dragonskull Summit|XLN|252
+1 Essence Harvest|AVR|100
+1 Eternal Witness
+1 Evolving Wilds|IKO|247
+1 Exotic Orchard|C20|273
+1 Fabled Passage|M21|246
+1 Farhaven Elf|C18|146
+1 Farseek
+1 Fleshbag Marauder|GNT|29
+5 Forest|IKO|274
+1 Gadrak, the Crown-Scourge|M21|146
+1 Ghost Quarter
+1 Goblin Bombardment
+1 Growth Spasm|ROE|186
+1 Harrow|C20|174
+1 Judith, the Scourge Diva|RNA|185
+1 Jund Panorama|C18|258
+1 Khalni Garden|C18|262
+1 Kodama's Reach|C20|180
+1 Lightning Greaves|2XM|267
+1 Lotus Field|M20|249
+1 Mayhem Devil|WAR|204
+1 Mazirek, Kraul Death Priest|2XM|209
+1 Merciless Executioner|FRF|76
+1 Moldervine Reclamation|M20|214
+2 Mountain|IKO|271
+1 Myriad Landscape|C20|292
+1 Overgrown Tomb|GRN|253
+1 Pawn of Ulamog|C17|120
+1 Phyrexian Tower|JMP|493
+1 Pitiless Plunderer|RIX|81
+1 Plaguecrafter
+1 Prossh, Skyraider of Kher|A25|214
+1 Putrefy|C20|228
+1 Rampant Growth
+1 Ramunap Excavator|HOU|129
+1 Reassembling Skeleton
+1 Reclamation Sage|2XM|178
+1 Reliquary Tower|C20|301
+1 Revel in Riches
+1 Rootbound Crag|XLN|256
+1 Sakura-Tribe Elder|C20|187
+1 Savage Lands|C18|275
+1 Seal of Primordium|MM3|135
+1 Skullclamp|C20|251
+1 Smoldering Marsh|C20|314
+1 Sol Ring|C20|252
+1 Springbloom Druid|MH1|181
+1 Stomping Ground|RNA|259
+5 Swamp|IKO|268
+1 Swiftfoot Boots|C20|254
+1 Sylvan Safekeeper|CMA|152
+1 Syr Konrad, the Grim|ELD|107
+1 Tectonic Edge
+1 Temple of Malady|M21|253
+1 Terramorphic Expanse|JMP|78
+1 The Gitrog Monster
+1 Thrashing Brontodon|M21|209
+1 Tireless Tracker
+1 Ugin's Nexus|KTK|227
+1 Victimize|CMA|72
+1 Village Rites|M21|126
+1 Viscera Seer|C13|99
+1 Wayfarer's Bauble|CM2|229
+1 Woe Strider|THB|123
+1 Wood Elves|CMA|170
+1 Woodland Cemetery|DOM|248
+1 Zulaport Cutthroat|C20|142
+
+
+[Sideboard]
+
+

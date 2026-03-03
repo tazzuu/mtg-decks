@@ -1,0 +1,150 @@
+[metadata]
+Name=Mimeoplastic
+Description={"ops":[]}
+Format=commander
+Bracket=4
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/4047
+Date=2026-02-06
+Created=2019-02-05
+Updated=2026-02-06
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 The Mimeoplasm|CMD|210
+
+
+[Main]
+1 Altar of Dementia|MH1|218
+1 An Offer You Can't Refuse|SNC|51
+1 Ancient Tomb|TMP|315
+1 Animate Dead|PD3|16
+1 Apocalypse Demon|HOU|58
+1 Arcane Signet|C20|237
+1 Assassin's Trophy|GRN|152
+1 Bala Ged Recovery|ZNR|180
+1 Bayou|3ED|283
+1 Birds of Paradise|CN2|176
+1 Bitter Triumph|LCI|91
+1 Body Double|PLC|35
+1 Breeding Pool|SLD|132
+1 Cache Grab|BLB|167
+1 Cephalid Coliseum|V12|3
+1 Champion of Wits|HOU|31
+1 Chart a Course|JMP|142
+1 City of Brass|MD1|15
+1 Command Tower|CMD|269
+1 Consecrated Sphinx|MBS|21
+1 Consuming Aberration
+1 Crystalline Crawler|C16|54
+1 Cyclonic Rift|C14|104
+1 Death's Shadow|2XM|82
+1 Devoted Druid|SHM|110
+1 Dimir Aqueduct|2X2|404
+1 Disciple of Freyalise|MH3|250
+1 Doom Whisperer|GRN|69
+1 Emrakul, the Promised End|EMN|6
+1 Essence Harvest|AVR|100
+1 Eternal Witness|2X2|368
+1 Exotic Orchard|C16|295
+1 Faerie Bladecrafter|WOC|14
+1 Fathom Mage|C16|198
+1 Fierce Guardianship|C20|35
+1 Forest|ZEN|247
+1 Frantic Search|ULG|32
+1 Ghalta, Primal Hunger|JMP|399
+1 Giggling Skitterspike|DSC|39
+1 Glasspool Mimic|ZNR|60
+1 Golgari Rot Farm|2X2|406
+1 Grisly Salvage|RTR|165
+1 Hermit Druid|STH|108
+1 High Market|C15|289
+1 Impervious Greatwurm|2X2|152
+1 Island|ZEN|236
+1 Jenova, Ancient Calamity|FIN|228
+1 Jodah's Avenger|PLC|42
+1 Kalonian Hydra|BLC|226
+1 Life from the Loam|UMA|172
+1 Lightning Greaves|MRD|199
+1 Living Death|CMD|88
+1 Llanowar Wastes|ORI|248
+1 Lord of Extinction|ARB|91
+1 Malakir Rebirth|ZNR|111
+1 Malevolent Rumble|MH3|161
+1 Mana Confluence|SLD|1012a
+1 Merfolk Looter|M10|61
+1 Mesmeric Orb|MRD|204
+1 Midnight Tilling|ECL|182
+1 Misty Rainforest|MM3|240
+1 Morphic Pool|BBD|83
+1 Mystic Remora|ICE|87
+1 Necromancy|VIS|64
+1 Nezahal, Primal Tide|RIX|45
+1 Nostalgic Dreams|TOR|135
+1 Ouroboroid|EOE|201
+1 Out of the Tombs|40K|46
+1 Overgrown Tomb|SLD|130
+1 Path of Ancestry
+1 Pathbreaker Ibex|CMA|132
+1 Phyrexian Dreadnought|MIR|315
+1 Phyrexian Tower|UMA|248
+1 Polluted Delta|KTK|239
+1 Pongify|TSR|79
+1 Prime Speaker Zegana|C15|230
+1 Rapid Hybridization|C21|126
+1 Reanimate|PD3|15
+1 Reflecting Pool|SHM|278
+1 Rejuvenating Springs|CMR|354
+1 Rhystic Study|WOT|25
+1 Ripples of Undeath|MH3|107
+1 Roiling Dragonstorm|TDM|55
+1 Satyr Wayfinder|M15|198
+1 Siege Behemoth|CMA|144
+1 Simic Growth Chamber|2X2|412
+1 Sink into Stupor|MH3|241
+1 Skull Prophet|IKO|206
+1 Sol Ring
+1 Strip Mine|4ED|363
+1 Stubborn Denial|KTK|56
+1 Swamp|ZEN|238
+1 Swiftfoot Boots|M12|219
+1 Sylvan Library|EMA|187
+1 Tainted Indulgence|SNC|227
+1 Tanazir Quandrix|STX|240
+1 Tear Asunder|DMU|183
+1 Terastodon|PD3|7
+1 Terrasymbiosis|EOE|210
+1 The Ozolith|IKO|237
+1 Thirst for Discovery|VOW|85
+1 Thirst for Identity|ECL|79
+1 Thirst for Knowledge|MRD|53
+1 Thirst for Meaning|THB|74
+1 Threefold Thunderhulk|EOC|145
+1 Titanoth Rex|IKO|174
+1 Town Greeter|FIN|209
+1 Toxic Deluge|C13|96
+1 Tropical Island|3ED|288
+1 Tyrranax Rex|ONE|189
+1 Ukkima, Stalking Shadow|C20|17
+1 Underground River|C16|335
+1 Underground Sea|3ED|290
+1 Undergrowth Stadium|CMR|359
+1 Urborg, Tomb of Yawgmoth|PLC|165
+1 Verdant Catacombs|ZEN|229
+1 Vohar, Vodalian Desecrator|DMU|226
+1 Walking Ballista|AER|181
+1 Watery Grave|SLD|124
+1 Wear Down|BLB|203
+1 Windfall|CMD|70
+1 Winternight Stories|TDM|67
+1 Yargle and Multani|MOM|256
+1 Yavimaya Coast|M15|249
+1 Yavimaya, Cradle of Growth|MH2|480
+1 Zagoth Triome|IKO|313
+
+
+[Sideboard]
+
+

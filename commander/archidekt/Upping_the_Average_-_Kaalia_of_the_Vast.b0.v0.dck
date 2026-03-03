@@ -1,0 +1,112 @@
+[metadata]
+Name=Upping the Average - Kaalia of the Vast
+Description={"ops":[{"attributes":{"link":"https://youtu.be/siZD5aOeZRo"},"insert":"https://youtu.be/siZD5aOeZRo"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added: "},{"insert":"\n\nDoom Whisperer\nDrakuseth, Maw of Flames\nSower of Discord\nTerror of Mount Velus\nYosei, the Morning Star\nUtvara Hellkite\nTwilight Shepherd\nDemonlord Belzenlok\n\nOpen the Armory\nGiver of Runes\n\nWayfarer's Bauble\nFervor\n\nNight's Whisper\nPainful Truths\n\nGenerous GIft\nChaos Warp\nCrackling Doom\n\nBlasphemous Act\nCrux of Fate\n\nAsh Barrens\nShadowblood Ridge\nMountain\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/696285
+Date=2020-08-06
+Created=2020-07-31
+Updated=2020-08-06
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Kaalia of the Vast|2XM|204
+
+
+[Main]
+1 Akroma, Angel of Wrath|C20|73
+1 Angel of Despair|GK2|37
+1 Angel of Serenity|CM2|16
+1 Angelic Arbiter|JMP|86
+1 Anguished Unmaking|SOI|242
+1 Animate Dead
+1 Arcane Signet|C20|237
+1 Archfiend of Depravity|E01|31
+1 Ash Barrens|2XM|310
+1 Aurelia, the Warleader|GTC|143
+1 Avacyn, Angel of Hope|2XM|8
+1 Battlefield Forge|C20|257
+1 Blasphemous Act|2XM|117
+1 Blood Crypt|RNA|245
+1 Bloodgift Demon|C14|137
+1 Bojuka Bog|C20|259
+1 Boros Charm|GK1|84
+1 Boros Garrison|C20|260
+1 Boros Signet|C20|239
+1 Bruna, the Fading Light|EMN|15
+1 Caves of Koilos|C20|262
+1 Chaos Warp|C20|146
+1 Chromatic Lantern
+1 Clifftop Retreat|DOM|239
+1 Command Tower|C20|264
+1 Crackling Doom|C20|205
+1 Crux of Fate|C17|107
+1 Demonlord Belzenlok|DOM|86
+1 Diabolic Tutor|CMA|54
+1 Doom Whisperer|GRN|69
+1 Dragon Tempest|IMA|125
+1 Dragonskull Summit|XLN|252
+1 Drakuseth, Maw of Flames|M20|136
+1 Evolving Wilds|IKO|247
+1 Exotic Orchard|C20|273
+1 Fervor|M13|129
+1 Generous Gift|MH1|11
+1 Gisela, Blade of Goldnight|A25|204
+1 Giver of Runes|MH1|13
+1 Godless Shrine|RNA|248
+1 Graven Cairns|2XM|320
+1 Hellkite Tyrant|C16|128
+1 Isolated Chapel|DOM|241
+1 Kaalia, Zenith Seeker|M20|210
+1 Lightning Greaves|2XM|267
+1 Lord of the Void|GTC|71
+1 Master of Cruelties|GK2|66
+1 Merciless Eviction|CM2|160
+1 Mother of Runes
+3 Mountain|M21|271
+1 Night's Whisper
+1 Nomad Outpost|C20|294
+1 Ob Nixilis, Unshackled|M15|110
+1 Open the Armory|SOI|32
+1 Orzhov Basilica|C20|297
+1 Orzhov Signet|C20|247
+1 Painful Truths|C20|134
+1 Path to Exile|2XM|25
+1 Phyrexian Arena|CN2|144
+6 Plains|M21|262
+1 Rakdos Carnarium|C20|300
+1 Rakdos Signet|C20|249
+1 Read the Bones
+1 Ruinous Ultimatum|IKO|204
+1 Rune-Scarred Demon
+1 Sacred Foundry|GRN|254
+1 Savai Triome|IKO|253
+1 Sephara, Sky's Blade|M20|36
+1 Smothering Tithe|RNA|22
+1 Sol Ring|C20|252
+1 Sower of Discord|C18|19
+1 Steel Hellkite|C18|224
+5 Swamp|IKO|268
+1 Swiftfoot Boots|C20|254
+1 Swords to Plowshares
+1 Talisman of Conviction|MH1|230
+1 Talisman of Hierarchy|MH1|233
+1 Temple of Silence|M21|255
+1 Temple of Triumph|M21|256
+1 Terminate|C20|231
+1 Terramorphic Expanse|JMP|78
+1 Terror of Mount Velus|THB|295
+1 Twilight Shepherd|DVD|11
+1 Utvara Hellkite|GK2|59
+1 Vilis, Broker of Blood|M20|122
+1 Wayfarer's Bauble|CM2|229
+1 Wrath of God|2XM|39
+1 Yosei, the Morning Star|IMA|39
+
+
+[Sideboard]
+
+

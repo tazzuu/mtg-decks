@@ -1,0 +1,111 @@
+[metadata]
+Name=Upping the Average - Isshin, Two Heavens as One
+Description={"ops":[{"attributes":{"link":"https://youtu.be/RDOWPZODeDo"},"insert":"https://youtu.be/RDOWPZODeDo"},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nCathars' Crusade\nSophina, Spearsage Deserter\nMarton Stromgald\nCalculating Lich\nSilverwing Squadron\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2468303
+Date=2022-03-09
+Created=2022-03-09
+Updated=2022-03-09
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Isshin, Two Heavens as One|NEO|224
+
+
+[Main]
+1 Adeline, Resplendent Cathar|MID|1
+1 Adriana, Captain of the Guard|C20|200
+1 Anguished Unmaking|SOI|242
+1 Arcane Signet
+1 Arid Mesa|MH2|244
+1 Audacious Thief|M20|84
+1 Battlefield Forge|C21|278
+1 Blasphemous Act|VOC|143
+1 Blood Crypt|RNA|245
+1 Boros Charm|C21|210
+1 Boros Signet|CMR|459
+1 Breena, the Demagogue|C21|1
+1 Bruse Tarl, Boorish Herder|C16|30
+1 Brutal Hordechief|C16|108
+1 Calculating Lich|GN2|3
+1 Captain Lannery Storm|XLN|136
+1 Cathars' Crusade|JMP|95
+1 Caves of Koilos|C21|283
+1 Chaos Warp
+1 Clifftop Retreat|DOM|239
+1 Command Tower
+1 Curse of Opulence
+1 Damn|MH2|80
+1 Delina, Wild Mage|AFR|138
+1 Despark|AFC|184
+1 Dragonskull Summit|XLN|252
+1 Drakuseth, Maw of Flames|M20|136
+1 Duelist's Heritage|C21|90
+1 Emberwilde Captain|CMR|175
+1 Esper Sentinel|MH2|12
+1 Etali, Primal Storm|AFC|126
+1 Exotic Orchard
+1 Fellwar Stone|NEC|150
+1 Fervent Charge|APC|98
+1 Generous Gift|NEC|84
+1 Godless Shrine|RNA|248
+1 Goldspan Dragon|KHM|139
+1 Grave Titan
+1 Hanweir Battlements|EMN|204
+1 Hanweir Garrison|EMN|130
+1 Haunted Ridge|MID|263
+1 Hellrider|JMP|334
+1 Hero of Bladehold|MBS|8
+1 Iroas, God of Victory|C16|205
+1 Isolated Chapel|DOM|241
+1 Karazikar, the Eye Tyrant|AFC|319
+1 Kazuul, Tyrant of the Cliffs|C16|130
+1 Krenko, Tin Street Kingpin|NEC|107
+1 Laelia, the Blade Reforged|C21|53
+1 Leonin Warleader|M19|23
+1 Lightning Greaves|AFC|331
+1 Marchesa's Decree|CN2|44
+1 Mardu Ascendancy|KTK|185
+1 Marsh Flats|MH2|248
+6 Mountain|M20|276
+1 Márton Stromgald|ICE|199
+1 Night's Whisper|VOC|133
+1 Nomad Outpost|C20|294
+1 Orzhov Signet|C21|254
+1 Painful Truths|C20|134
+1 Path to Exile|2XM|25
+6 Plains|M21|262
+1 Rakdos Signet|VOC|166
+1 Revenge of Ravens|ELD|104
+1 Ruinous Ultimatum|IKO|204
+1 Sacred Foundry|GRN|254
+1 Savai Triome|IKO|253
+1 Shattered Sanctum|VOW|264
+1 Silverwing Squadron|ELD|315
+1 Skyknight Vanguard|M20|218
+1 Smothering Tithe|RNA|22
+1 Sol Ring
+1 Sophina, Spearsage Deserter|SLX|7
+1 Spectator Seating|CMR|356
+1 Sun Titan|AFC|73
+1 Sundown Pass|VOW|266
+3 Swamp|M20|272
+1 Swiftfoot Boots|NEC|163
+1 Sword of the Animist|AFC|218
+1 Swords to Plowshares|NEC|89
+1 Talisman of Conviction|MH1|230
+1 Talisman of Hierarchy|MH1|233
+1 Talisman of Indulgence|AFC|219
+1 Tectonic Giant|AFC|144
+1 Teferi's Protection
+1 Vandalblast|AFC|148
+1 Vault of Champions|CMR|360
+
+
+[Sideboard]
+
+

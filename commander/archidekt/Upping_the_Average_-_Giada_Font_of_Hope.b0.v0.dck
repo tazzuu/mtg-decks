@@ -1,0 +1,99 @@
+[metadata]
+Name=Upping the Average - Giada, Font of Hope
+Description={"ops":[{"attributes":{"bold":true,"link":"https://youtu.be/iatr_2paewA"},"insert":"https://youtu.be/iatr_2paewA"},{"attributes":{"bold":true},"insert":" "},{"insert":"\n\n"},{"attributes":{"underline":true,"bold":true},"insert":"Cards Added:"},{"insert":"\n\nBonders’ Enclave\nGuildless Commons\nBrave the Elements\nEmpyrial Storm\nBreathkeeper Seraph\nAngelic Sleuth\nSigarda’s Vanguard\n"}]}
+Format=commander
+Bracket=0
+Author=Joey_EDHREC
+Tags=
+Version=0
+URL=https://archidekt.com/decks/2706304
+Date=2022-05-11
+Created=2022-05-11
+Updated=2022-05-11
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Giada, Font of Hope|SNC|14
+
+
+[Main]
+1 Akroma's Will|CMR|3
+1 Angel of Destiny|ZNR|2
+1 Angel of Finality|AFC|63
+1 Angel of Jubilation|AVR|2
+1 Angel of Vitality|M20|4
+1 Angelic Accord|IMA|7
+1 Angelic Field Marshal|C14|2
+1 Angelic Skirmisher|GTC|3
+1 Angelic Sleuth|NCC|12
+1 Arcane Signet|NCC|360
+1 Archaeomancer's Map|C21|12
+1 Archangel of Thune|2XM|5
+1 Archangel of Tithes|ORI|4
+1 Austere Command|NCC|193
+1 Avacyn, Angel of Hope|2XM|8
+1 Baneslayer Angel|M21|6
+1 Bishop of Wings|M20|8
+1 Bonders' Enclave|IKO|245
+1 Brave the Elements|C14|66
+1 Breathkeeper Seraph|VOC|31
+1 Bruna, the Fading Light|EMN|15
+1 Court of Grace|CMR|16
+1 Dawn of Hope|GRN|8
+1 Eiganjo, Seat of the Empire|NEO|268
+1 Emeria Shepherd|ZNC|16
+1 Emeria's Call|ZNR|12
+1 Emeria, the Sky Ruin
+1 Empyrial Storm|C18|2
+1 Esper Sentinel|MH2|12
+1 Farewell|NEO|417
+1 Flawless Maneuver|C20|26
+1 Generous Gift|NCC|201
+1 Gisela, the Broken Blade|EMN|28
+1 Guildless Commons|CMR|351
+1 Heliod's Intervention|THB|19
+1 Herald of War|MIC|86
+1 Herald's Horn|C17|53
+1 Inspiring Overseer|SNC|18
+1 Karmic Guide|VOC|90
+1 Land Tax
+1 Lightning Greaves|NCC|371
+1 Linvala, Keeper of Silence|JMP|119
+1 Luminarch Ascension|A25|23
+1 Lyra Dawnbringer|DOM|26
+1 Mind Stone|AFC|211
+1 Myriad Landscape|NCC|416
+1 Nykthos, Shrine to Nyx
+1 Nyx Lotus|THB|235
+1 Oketra's Monument|AKH|233
+1 Path of Ancestry|NCC|419
+1 Path to Exile|NCC|208
+1 Pearl Medallion|C14|260
+25 Plains|SNC|263
+1 Resplendent Angel|M19|34
+1 Righteous Valkyrie|KHM|24
+1 Sanctuary Warden|SNC|30
+1 Sephara, Sky's Blade|M20|36
+1 Seraph Sanctuary|DDQ|33
+1 Serra's Emissary|MH2|30
+1 Sigarda's Splendor|MID|33
+1 Sigarda's Vanguard|MIC|8
+1 Smothering Tithe|RNA|22
+1 Sol Ring|NCC|379
+1 Speaker of the Heavens
+1 Starnheim Aspirant|KHM|380
+1 Starnheim Unleashed|KHM|33
+1 Sword of the Animist|AFC|218
+1 Swords to Plowshares|NCC|211
+1 Teferi's Protection
+1 The Book of Exalted Deeds|AFR|4
+1 Thraben Watcher|MH2|34
+1 Urza's Incubator|CM2|228
+1 Valkyrie Harbinger|KHM|374
+1 Vanquisher's Banner|XLN|251
+1 War Room|CMR|361
+
+
+[Sideboard]
+
+

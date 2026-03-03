@@ -1,0 +1,106 @@
+[metadata]
+Name=Prof's Hakbal | Game Knights #66
+Description={"ops":[{"insert":"\n"}]}
+Format=commander
+Bracket=0
+Author=GameKnights
+Tags=
+Version=0
+URL=https://archidekt.com/decks/5485798
+Date=2023-11-14
+Created=2023-09-27
+Updated=2023-11-14
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Hakbal of the Surging Soul|LCC|3
+
+
+[Main]
+1 Arcane Denial|CMA|30
+1 Barkchannel Pathway|KHM|251
+1 Beast Within|BBD|190
+1 Benthic Biomancer|RNA|32
+1 Bident of Thassa|BRC|80
+1 Breeding Pool|RNA|246
+1 Burgeoning|C16|143
+1 Cavern of Souls|LCI|269
+1 Cold-Eyed Selkie|AFC|183
+1 Command Tower|WOC|156
+1 Commit|NCC|216
+1 Counterspell|CMM|81
+1 Deeproot Historian|LCC|91
+1 Deeproot Pilgrimage|LCI|52
+1 Deeproot Waters|XLN|51
+1 Demolition Field|BRO|260
+1 Distant Melody|WOC|89
+1 Dreamroot Cascade|VOW|262
+1 Echo of Eons|MH1|46
+1 Emperor Mihail II|DMC|23
+1 Exotic Orchard|C17|249
+1 Exploration|DMR|159
+1 Explore|JMP|393
+1 Fabled Passage|ELD|244
+1 Farseek|M13|170
+1 Filter Out|MAT|7
+6 Forest|LCI|291
+1 Growing Rites of Itlimoc|XLN|191
+1 Growth Spiral|DMC|153
+1 Hardened Scales|CM2|138
+1 Herald of Secret Streams|XLN|59
+1 Heroic Intervention|AER|109
+1 Hinterland Harbor|DOM|240
+13 Island|LCI|288
+1 Kindred Discovery|C17|11
+1 Kopala, Warden of Waves|XLN|61
+1 Kumena, Tyrant of Orazca|RIX|162
+1 Lord of Atlantis|TSB|24
+1 Master of the Pearl Trident|DDT|9
+1 Merfolk Cave-Diver|LCI|65
+1 Merfolk Mistbinder|RIX|164
+1 Merfolk Sovereign|J22|321
+1 Merrow Reejerey|DDT|13
+1 Mist Dancer|LCC|76
+1 Misty Rainforest|MM3|240
+1 Nicanzil, Current Conductor|LCI|236
+1 Path of Ancestry|WOC|165
+1 Pongify|C14|120
+1 Prismatic Vista|MH1|244
+1 Rapid Hybridization|GK2|109
+1 Realmwalker|KHM|188
+1 Rejuvenating Springs|CMR|354
+1 Reliquary Tower|CMM|425
+1 Rimewood Falls|KHM|266
+1 Ripples of Potential|LCC|77
+1 River's Rebuke|NCC|231
+1 Sage of Fables|MOR|47
+1 Sage of the Falls|ELD|63
+1 Seafloor Oracle|J22|343
+1 Silvergill Adept|LRW|86
+1 Sol Ring|MIC|162
+1 Stonybrook Banneret|MOR|51
+1 Svyelun of Sea and Sky|MH2|69
+1 Tatyova, Benthic Druid|DMR|203
+1 Temple of Mystery|M21|254
+1 Thada Adel, Acquisitor|WWK|40
+1 Thassa, God of the Sea|THS|66
+1 Thieving Skydiver|ZNR|85
+1 Thought Vessel|CMM|414
+1 Thrasios, Triton Hero|C16|46
+1 Tishana's Tidebinder|LCI|81
+1 Topography Tracker|LCC|95
+1 Tributary Instructor|LCC|96
+1 Twists and Turns|LCI|217
+1 Unclaimed Territory|XLN|258
+1 Vodalian Hexcatcher|DMU|75
+1 Wanderwine Prophets|LRW|95
+1 Wave Goodbye|LCC|79
+1 Whirlpool Rider|APC|35
+1 Wildgrowth Walker|XLN|216
+1 Yavimaya Coast|M15|249
+1 Zegana, Utopian Speaker|RNA|214
+
+
+[Sideboard]
+
+

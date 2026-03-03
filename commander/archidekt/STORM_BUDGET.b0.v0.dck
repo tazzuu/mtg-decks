@@ -1,0 +1,100 @@
+[metadata]
+Name=STORM BUDGET
+Description={"ops":[]}
+Format=commander
+Bracket=0
+Author=leecheng
+Tags=
+Version=0
+URL=https://archidekt.com/decks/10470726
+Date=2025-02-08
+Created=2024-12-13
+Updated=2025-02-08
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Storm, Force of Nature|SLD|1742
+
+
+[Main]
+1 An Offer You Can't Refuse|FDN|160
+1 Aqueous Form|THS|39
+1 Assault Strobe|SOM|82
+1 Birds of Paradise|GK2|82
+1 Blasphemous Act|DRC|101
+1 Bloom Tender|SPG|79
+1 Boltwave|FDN|79
+1 Brain Freeze|MB2|24
+1 Brainstorm|CST|61
+1 Bribery|SLD|1786
+1 Burning-Tree Emissary
+1 Capture of Jingzhou|CMM|79
+1 Claws of Gix|TSB|107
+1 Cloud of Faeries|DMR|43
+1 Command Tower|M3C|331
+1 Crop Rotation|DMR|154
+1 Deflecting Swat|C20|50
+1 Delighted Halfling|LTR|363
+1 Dreamroot Cascade|WHO|273
+1 Drown in Dreams|M3C|181
+1 Elvish Spirit Guide|MB2|68
+1 Enter the Enigma|DSK|52
+1 Exotic Orchard|PIP|264
+1 Farseek|BLC|119
+9 Forest|J25|93
+1 Frantic Search|DMR|285
+1 Gitaxian Probe|NPH|35
+1 Gut Shot|MM2|117
+1 Harrow|J25|668
+1 Ice Storm|SLD|1745
+9 Island|M12|237
+1 Jeska's Will|CMR|187
+1 Karplusan Forest|DRC|163
+1 Lightning Bolt|CLB|401
+1 Lightning Greaves|DRC|55
+1 Lotus Petal|TMP|294
+1 Manamorphose|2XM|208
+1 Memnite|SOM|174
+1 Mishra's Bauble|BRR|34
+8 Mountain|J25|92
+1 Mystic Remora|ICE|87
+1 Mystical Tutor|DMR|289
+1 Nature's Lore|CLB|244
+1 Noxious Revival|MB2|70
+1 Opt|J25|339
+1 Ornithopter|DMR|233
+1 Ponder|C21|125
+1 Pongify|M3C|190
+1 Preordain|CMR|84
+1 Rampant Growth|10E|288
+1 Reliquary Tower|BLC|132
+1 Rhystic Study|PCY|45
+1 Rite of Flame|MB2|59
+1 Rogue's Passage|LCC|349
+1 Serum Visions|C21|129
+1 Shivan Reef|BLC|331
+1 Simian Spirit Guide|A25|148
+1 Slip Through Space|OGW|47
+1 Snap
+1 Sol Ring|BLC|129
+1 Stitch in Time|RVR|384
+1 Stormcarved Coast|INR|285
+1 Strike It Rich|MH2|143
+1 Swiftfoot Boots|A25|234
+1 Sylvan Library|EMA|187
+1 Tasha's Hideous Laughter
+1 Temporal Manipulation|MB2|174
+1 Time Warp|S99|56
+1 Tinder Wall|ICE|270
+1 Tormod's Crypt|M21|241
+1 Underworld Breach|THB|161
+1 Urza's Bauble|5ED|406
+1 Wild Cantor|RVR|239
+1 Wooded Foothills|KTK|249
+1 Yavimaya Coast|DRC|184
+1 Zuran Orb|MH2|300
+
+
+[Sideboard]
+
+

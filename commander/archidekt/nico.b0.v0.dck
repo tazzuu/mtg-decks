@@ -1,0 +1,114 @@
+[metadata]
+Name=nico
+Description=
+Format=commander
+Bracket=0
+Author=acoreyj
+Tags=
+Version=0
+URL=https://archidekt.com/decks/17597570
+Date=2025-12-07
+Created=2025-11-21
+Updated=2025-12-07
+ExportedBy=mtgconv v1.1-24-g1328fe2
+
+[Commander]
+1 Nicol Bolas, the Ravager|M19|218
+
+
+[Main]
+1 Arcane Signet|EOC|53
+1 Ashiok, Dream Render|WAR|228
+1 Baleful Strix|OTC|215
+1 Blasphemous Act|EOC|86
+1 Blood Crypt|ECL|262
+1 Bloodstained Mire|MH3|216
+1 Bojuka Bog|EOC|149
+1 Bolas's Citadel|WAR|79
+1 Chaos Warp|EOC|49
+1 Command Tower|EOC|59
+1 Consecrated Sphinx|2X2|43
+1 Counterspell|DSC|114
+1 Crumbling Necropolis|LCC|326
+1 Crux of Fate|C17|107
+1 Cyclonic Rift|RVR|40
+1 Damnation|2X2|73
+1 Dark Intimations|AER|128
+1 Dark Ritual|A25|82
+1 Deadly Rollick|CMM|147
+1 Deepglow Skate|EOC|70
+1 Deflecting Swat|CMM|214
+1 Deliver Unto Evil|WAR|85
+1 Demonic Tutor|CMM|150
+1 Dimir Signet|CLU|221
+1 Dragonskull Summit|TDC|357
+1 Drowned Catacomb|OTC|290
+1 Exotic Orchard|EOC|159
+1 Fellwar Stone|TDC|318
+1 Fierce Guardianship|CMM|94
+1 Flux Channeler|CMM|847
+1 Force of Will|DMR|50
+1 Haunted Ridge|INR|280
+1 Ichormoon Gauntlet|ONE|56
+4 Island|TLA|283
+1 Izzet Signet|TDC|320
+1 Karn's Bastion|EOC|163
+1 Liliana, Dreadhorde General|FDN|176
+1 Luxury Suite|CLB|355
+1 Mana Drain|2X2|57
+1 Morphic Pool|CLB|357
+4 Mountain|TLA|285
+1 Mystic Remora|DMR|59
+1 Mystical Tutor|DMR|60
+1 Narset, Parter of Veils|CMM|853
+1 Nicol Bolas|A25|209
+1 Nicol Bolas, Dragon-God|RVR|205
+1 Nicol Bolas, God-Pharaoh|2X2|260
+1 Nicol Bolas, Planeswalker|E01|85
+1 Nicol Bolas, the Deceiver|HOU|205
+1 Nightscape Familiar|DMR|94
+1 Notion Thief|ZNC|96
+1 Opposition Agent|CMR|141
+1 Orcish Bowmasters|LTR|103
+1 Oscorp Industries|SPM|182
+1 Polluted Delta|MH3|224
+1 Propaganda|OTC|108
+1 Rakdos Signet|DSC|250
+1 Reanimate|DSC|155
+1 Reliquary Tower|TDC|386
+1 Rhystic Study|JMP|169
+1 Scalding Tarn|MH2|254
+1 Sheoldred, the Apocalypse|DMU|107
+1 Shipwreck Marsh|INR|284
+1 Sol Ring|EOC|57
+1 Solemn Simulacrum|TDC|325
+1 Spark Double|RVR|62
+1 Steam Vents|ECL|267
+1 Stormcarved Coast|INR|285
+1 Sulfur Falls|EOC|184
+4 Swamp|TLA|284
+1 Swan Song|EOC|46
+1 Talisman of Creativity|TDC|330
+1 Talisman of Dominance|MKC|242
+1 Talisman of Indulgence|DSC|254
+1 Tergrid, God of Fright|KHM|112
+1 The Chain Veil|CMM|943
+1 The Eldest Reborn|DSC|139
+1 The Locust God|MOC|335
+1 Torment of Hailfire|HOU|77
+1 Toxic Deluge|MH3|277
+1 Training Center|CMM|434
+1 Urborg, Tomb of Yawgmoth|TSR|287
+1 Vampiric Tutor|DMR|108
+1 Vandalblast|OTC|183
+1 Villainous Wrath|SPM|74
+1 Vraska, Betrayal's Sting|ONE|115
+1 Waste Not|C16|117
+1 Watery Grave|EOE|261
+1 Windfall|OTC|123
+1 Xander's Lounge|SNC|260
+
+
+[Sideboard]
+
+
